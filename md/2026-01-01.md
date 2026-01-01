@@ -2,21 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 2篇
-- **供应链**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,45 +60,17 @@
 
 ### Doonsec
 
-- [Patchwork APT组织最新Spyder后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3) (发布日期: 2026-01-01)
-- [攻击者操纵大语言模型实现漏洞利用自动化](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f) (发布日期: 2026-01-01)
-- [APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97) (发布日期: 2026-01-01)
-- [Shai Hulud恶意软件3.0变种引发JavaScript供应链安全担忧](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f) (发布日期: 2026-01-01)
-- [2025年人工智能安全十大事件盘点](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296097&idx=1&sn=80a4a58cfa0d987f0bac4cfb2f2bbf2a) (发布日期: 2026-01-01)
-- [DLINK路由器命令注入漏洞从1DAY到0DAY](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) (发布日期: 2026-01-01)
-- [SOC与MCU详细介绍](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247565974&idx=1&sn=159b9ab9ef26716ddfb4c2118526e05a) (发布日期: 2026-01-01)
-- [2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb) (发布日期: 2026-01-01)
-- [【红队】一款 AI 驱动的全自动红队渗透测试智能体](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487295&idx=1&sn=328c4f8ec9d3c0a2aed161d33ea85fa8) (发布日期: 2026-01-01)
+- [渊龙Sec安全团队祝您元旦快乐！](https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485866&idx=1&sn=7840f4b5bf7da365aaebf8cf88f0b93b) (发布日期: 2026-01-01)
+- [新年快乐！EDUSRC狗窝团队获年榜第一！](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3) (发布日期: 2026-01-01)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 攻击者操纵大语言模型实现漏洞利用自动化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f) |
-| 2 | DLINK路由器命令注入漏洞从1DAY到0DAY | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | DLINK路由器命令注入漏洞从1DAY到0DAY | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) |
-| 2 | 2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Patchwork APT组织最新Spyder后门样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3) |
-| 2 | APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Shai Hulud恶意软件3.0变种引发JavaScript供应链安全担忧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f) |
+| 1 | 新年快乐！EDUSRC狗窝团队获年榜第一！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3) |
 
 
 ## 📁 归档路径
@@ -119,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -129,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-01 12:43:01*
+*生成时间: 2026-01-01 16:27:39*
 *报告工具: 微信文章安全归档系统*
