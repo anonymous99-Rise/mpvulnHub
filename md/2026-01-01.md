@@ -2,22 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 2篇
 - **威胁情报**: 2篇
-- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 - **Web安全**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,16 +65,15 @@
 
 ### Doonsec
 
-- [第一章——API侦察的本质差异：为什么普通路径发现已不足以发现关键漏洞](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797631&idx=1&sn=4a9296d25d073528b5c726f3ff7a5774) (发布日期: 2026-01-01)
-- [【反序列化靶场】PHPSerialize-labs: level1-9](https://mp.weixin.qq.com/s?__biz=Mzk3NTEzMzU1MA==&mid=2247484304&idx=1&sn=586d4dee3155f7d6de280d58c034fc19) (发布日期: 2026-01-01)
-- [Lamperl 第 3 篇：文件上传、下载与 Job 控制系统](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492770&idx=2&sn=59e55added2c1a911bc6832c69b8b3c2) (发布日期: 2026-01-01)
-- [【应急响应】第二届Solar杯应急响应挑战赛](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486575&idx=1&sn=066183fe7674149b3df2e206838838b3) (发布日期: 2026-01-01)
-- [伊朗APT组织(Handala)“手撕”以色列警方！35万份文件泄天机，心理档案都被扒了](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487652&idx=1&sn=eb6c1bf3543a52bd4f3146ec7f619a4b) (发布日期: 2026-01-01)
-- [360SRC祝白帽师傅们2026新年快乐](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495704&idx=1&sn=a7ed93218fe9f27ac1df15f65acec9e9) (发布日期: 2026-01-01)
-- [安服水洞系列-某依 v4.8.1 代码生成模块 SQL 注入绕过](https://mp.weixin.qq.com/s?__biz=MzkxNTczMjcyNA==&mid=2247484232&idx=1&sn=dea8221389666f89545812af2e4edead) (发布日期: 2026-01-01)
-- [零点击漏洞肆虐的一年：2025年现代恶意软件带来的启示](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248745&idx=1&sn=50a56c4e67ff93ef24faf5999d167d8f) (发布日期: 2026-01-01)
-- [看2026｜墨云科技：为数字化流程注入AI安全，推动产业升级](https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247497144&idx=1&sn=ac88e25a973a0a37286f696f1c3faf87) (发布日期: 2026-01-01)
-- [0day | 大华智能物联综合管理平台evo-websocket接口存在SSRF漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493523&idx=1&sn=dbf5655654463b32aa499e58ef840149) (发布日期: 2026-01-01)
+- [Patchwork APT组织最新Spyder后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3) (发布日期: 2026-01-01)
+- [攻击者操纵大语言模型实现漏洞利用自动化](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f) (发布日期: 2026-01-01)
+- [APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97) (发布日期: 2026-01-01)
+- [Shai Hulud恶意软件3.0变种引发JavaScript供应链安全担忧](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f) (发布日期: 2026-01-01)
+- [2025年人工智能安全十大事件盘点](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296097&idx=1&sn=80a4a58cfa0d987f0bac4cfb2f2bbf2a) (发布日期: 2026-01-01)
+- [DLINK路由器命令注入漏洞从1DAY到0DAY](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) (发布日期: 2026-01-01)
+- [SOC与MCU详细介绍](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247565974&idx=1&sn=159b9ab9ef26716ddfb4c2118526e05a) (发布日期: 2026-01-01)
+- [2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb) (发布日期: 2026-01-01)
+- [【红队】一款 AI 驱动的全自动红队渗透测试智能体](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487295&idx=1&sn=328c4f8ec9d3c0a2aed161d33ea85fa8) (发布日期: 2026-01-01)
 
 
 ## 🎯 威胁详情分析
@@ -84,29 +82,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第一章——API侦察的本质差异：为什么普通路径发现已不足以发现关键漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797631&idx=1&sn=4a9296d25d073528b5c726f3ff7a5774](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797631&idx=1&sn=4a9296d25d073528b5c726f3ff7a5774) |
-| 2 | 零点击漏洞肆虐的一年：2025年现代恶意软件带来的启示 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248745&idx=1&sn=50a56c4e67ff93ef24faf5999d167d8f](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248745&idx=1&sn=50a56c4e67ff93ef24faf5999d167d8f) |
-| 3 | 0day | 大华智能物联综合管理平台evo-websocket接口存在SSRF漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493523&idx=1&sn=dbf5655654463b32aa499e58ef840149](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493523&idx=1&sn=dbf5655654463b32aa499e58ef840149) |
+| 1 | 攻击者操纵大语言模型实现漏洞利用自动化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=1&sn=8e69920b7ff101d37b208b8cdf0e7f4f) |
+| 2 | DLINK路由器命令注入漏洞从1DAY到0DAY | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安服水洞系列-某依 v4.8.1 代码生成模块 SQL 注入绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTczMjcyNA==&mid=2247484232&idx=1&sn=dea8221389666f89545812af2e4edead](https://mp.weixin.qq.com/s?__biz=MzkxNTczMjcyNA==&mid=2247484232&idx=1&sn=dea8221389666f89545812af2e4edead) |
-| 2 | 看2026｜墨云科技：为数字化流程注入AI安全，推动产业升级 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247497144&idx=1&sn=ac88e25a973a0a37286f696f1c3faf87](https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247497144&idx=1&sn=ac88e25a973a0a37286f696f1c3faf87) |
+| 1 | DLINK路由器命令注入漏洞从1DAY到0DAY | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979) |
+| 2 | 2026年AI+网络安全专家班培训（web安全、内网渗透、代码审计、云安全、安全开发等） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576308&idx=2&sn=9f136d82d81ee7fd630cc8a88a4878eb) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【应急响应】第二届Solar杯应急响应挑战赛 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486575&idx=1&sn=066183fe7674149b3df2e206838838b3](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486575&idx=1&sn=066183fe7674149b3df2e206838838b3) |
-| 2 | 伊朗APT组织(Handala)“手撕”以色列警方！35万份文件泄天机，心理档案都被扒了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487652&idx=1&sn=eb6c1bf3543a52bd4f3146ec7f619a4b](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487652&idx=1&sn=eb6c1bf3543a52bd4f3146ec7f619a4b) |
+| 1 | Patchwork APT组织最新Spyder后门样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3) |
+| 2 | APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=2&sn=ddb20763defbaa797ff70d686d6e5e97) |
 
-### 安全运营
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 360SRC祝白帽师傅们2026新年快乐 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495704&idx=1&sn=a7ed93218fe9f27ac1df15f65acec9e9](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495704&idx=1&sn=a7ed93218fe9f27ac1df15f65acec9e9) |
+| 1 | Shai Hulud恶意软件3.0变种引发JavaScript供应链安全担忧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333436&idx=3&sn=98cc46fb2c216f43499c9e4f6cfe383f) |
 
 
 ## 📁 归档路径
@@ -122,8 +119,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +129,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-01 08:29:32*
+*生成时间: 2026-01-01 12:43:01*
 *报告工具: 微信文章安全归档系统*
