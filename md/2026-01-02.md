@@ -2,15 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,9 +60,7 @@
 
 ### Doonsec
 
-- [威胁分子操纵大语言模型实现漏洞利用自动化](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4) (发布日期: 2026-01-02)
-- [【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9) (发布日期: 2026-01-02)
-- [企业SRC如何月入过万](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487) (发布日期: 2026-01-02)
+- [天地伟业Easy7漏洞-浅析](https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c) (发布日期: 2026-01-02)
 
 
 ## 🎯 威胁详情分析
@@ -72,14 +69,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁分子操纵大语言模型实现漏洞利用自动化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4) |
-| 2 | 【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 企业SRC如何月入过万 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487) |
+| 1 | 天地伟业Easy7漏洞-浅析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c](https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c) |
 
 
 ## 📁 归档路径
@@ -95,7 +85,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -105,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-02 16:26:43*
+*生成时间: 2026-01-02 20:23:05*
 *报告工具: 微信文章安全归档系统*
