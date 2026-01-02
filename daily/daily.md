@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 2篇
-- **安全运营**: 2篇
+- **漏洞利用**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,21 +61,9 @@
 
 ### Doonsec
 
-- [基于汽车领域 TARA 的有效漏洞优先级排序](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629865&idx=3&sn=63b742cbf82a048614766de46895f5a9) (发布日期: 2026-01-02)
-- [比赛拿排名，即可免考晋升职业技能等级（含网络安全管理员、数据安全管理员等四个赛项）](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483968&idx=1&sn=4f91e7e980921ee3208611ef4d888438) (发布日期: 2026-01-02)
-- [朝鲜Konni APT组织某核心窃密木马分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495292&idx=1&sn=dd0e52edd8b77f8d845daac99e523900) (发布日期: 2026-01-02)
-- [Hikvision综合漏洞利用工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=1&sn=9985dd75ea237ecf4b49c01e4b660f03) (发布日期: 2026-01-02)
-- [高级Shellcode加载器——高级红队渗透测试与安全研究工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=2&sn=1cf8cef62f1509ad0eb02e77b257880a) (发布日期: 2026-01-02)
-- [IBM API Connect高危漏洞可使攻击者绕过身份验证](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=1&sn=162812358e87d74218564ebdb8920488) (发布日期: 2026-01-02)
-- [Apache StreamPipes曝高危漏洞：攻击者可夺取管理员控制权限](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=2&sn=d8288b4081c04c148817c4ee8c3394e5) (发布日期: 2026-01-02)
-- [暗网兜售可绕过Windows Defender的AI增强型变形加密器](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=1&sn=398c8718422b48852a223fe97c4ff8c5) (发布日期: 2026-01-02)
-- [自传播恶意软件GlassWorm利用VS Code扩展攻击macOS用户](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=2&sn=6d0ed14004e9e8062a9d8fcfeef60536) (发布日期: 2026-01-02)
-- [RondoDox僵尸网络利用高危React2Shell漏洞劫持IoT设备与Web服务器](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=3&sn=da8e7f3c1a71e907826c62dee883b95c) (发布日期: 2026-01-02)
-- [火绒小问答——「企业版」漏洞修复类top问题解答](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529749&idx=1&sn=1f9ef5e171c56cb6aef4d8e388c34ade) (发布日期: 2026-01-02)
-- [安全威胁情报周报（2025/12/27-2026/01/02）](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247493199&idx=1&sn=819f4c032c4e33d2e4b4a1fb6e1b03f2) (发布日期: 2026-01-02)
-- [深入研究 Word 加密及加密宏绕过思路及原理](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576321&idx=1&sn=437bba0c80b47aed4f3cf1b764f73fb4) (发布日期: 2026-01-02)
-- [企业SRC如何月入过万](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488897&idx=1&sn=e83fdefb330653c85c844672bcda5c76) (发布日期: 2026-01-02)
-- [企业SRC如何月入过万](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484840&idx=1&sn=ffbabd03fc7174c045e7ba5e02e5a92b) (发布日期: 2026-01-02)
+- [威胁分子操纵大语言模型实现漏洞利用自动化](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4) (发布日期: 2026-01-02)
+- [【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9) (发布日期: 2026-01-02)
+- [企业SRC如何月入过万](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487) (发布日期: 2026-01-02)
 
 
 ## 🎯 威胁详情分析
@@ -86,26 +72,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 基于汽车领域 TARA 的有效漏洞优先级排序 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629865&idx=3&sn=63b742cbf82a048614766de46895f5a9](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629865&idx=3&sn=63b742cbf82a048614766de46895f5a9) |
-| 2 | Hikvision综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=1&sn=9985dd75ea237ecf4b49c01e4b660f03](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486207&idx=1&sn=9985dd75ea237ecf4b49c01e4b660f03) |
-| 3 | IBM API Connect高危漏洞可使攻击者绕过身份验证 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=1&sn=162812358e87d74218564ebdb8920488](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=1&sn=162812358e87d74218564ebdb8920488) |
-| 4 | Apache StreamPipes曝高危漏洞：攻击者可夺取管理员控制权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=2&sn=d8288b4081c04c148817c4ee8c3394e5](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096742&idx=2&sn=d8288b4081c04c148817c4ee8c3394e5) |
-| 5 | RondoDox僵尸网络利用高危React2Shell漏洞劫持IoT设备与Web服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=3&sn=da8e7f3c1a71e907826c62dee883b95c](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333503&idx=3&sn=da8e7f3c1a71e907826c62dee883b95c) |
-| 6 | 火绒小问答——「企业版」漏洞修复类top问题解答 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529749&idx=1&sn=1f9ef5e171c56cb6aef4d8e388c34ade](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529749&idx=1&sn=1f9ef5e171c56cb6aef4d8e388c34ade) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 朝鲜Konni APT组织某核心窃密木马分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495292&idx=1&sn=dd0e52edd8b77f8d845daac99e523900](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495292&idx=1&sn=dd0e52edd8b77f8d845daac99e523900) |
-| 2 | 安全威胁情报周报（2025/12/27-2026/01/02） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247493199&idx=1&sn=819f4c032c4e33d2e4b4a1fb6e1b03f2](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247493199&idx=1&sn=819f4c032c4e33d2e4b4a1fb6e1b03f2) |
+| 1 | 威胁分子操纵大语言模型实现漏洞利用自动化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525901&idx=1&sn=f2c4b62dd99f242ec910769ecc228ef4) |
+| 2 | 【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=1&sn=bcfcc991a959914c1bd75177abb074c9) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 企业SRC如何月入过万 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488897&idx=1&sn=e83fdefb330653c85c844672bcda5c76](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488897&idx=1&sn=e83fdefb330653c85c844672bcda5c76) |
-| 2 | 企业SRC如何月入过万 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484840&idx=1&sn=ffbabd03fc7174c045e7ba5e02e5a92b](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484840&idx=1&sn=ffbabd03fc7174c045e7ba5e02e5a92b) |
+| 1 | 企业SRC如何月入过万 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491412&idx=3&sn=ebc0f3f4f2c0546b68018c7def456487) |
 
 
 ## 📁 归档路径
@@ -121,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-02 12:42:05*
+*生成时间: 2026-01-02 16:26:43*
 *报告工具: 微信文章安全归档系统*
