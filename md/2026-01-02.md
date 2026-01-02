@@ -2,22 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 5篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,13 +61,17 @@
 
 ### Doonsec
 
-- [朝鲜APT组织组开“工具超市”了！Lazarus藏2GB攻击军火库，FRP隧道当“隐身衣”](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487656&idx=1&sn=e764b33c343ef52beb81cd05bd7b9718) (发布日期: 2026-01-02)
-- [害怕被真实？公众号一定要开启隐私保护功能！](https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507456&idx=1&sn=d276018958b4f79af087fcc40a2e9588) (发布日期: 2026-01-02)
-- [XSS 如何升级](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498882&idx=1&sn=c4e2d916df35fe3ba4bc37ae2b790153) (发布日期: 2026-01-02)
-- [LangChain存在严重漏洞，威胁AI Agent机密数据安全](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248749&idx=1&sn=0ce09c05efb1abd640c320cb9fb58c27) (发布日期: 2026-01-02)
-- [漏洞复现 | 用友NC ContactsFuzzySearchServlet反序列化代码执行RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59) (发布日期: 2026-01-02)
-- [漏洞扫描踩坑！出口 IP 被合作伙伴封禁？3 大转发原因 + 解决方案来了](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486447&idx=1&sn=b06ea1354c1880d01d19a3a252ea6d6a) (发布日期: 2026-01-02)
-- [每周高级威胁情报解读(2025.12.26~2026.01.01)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247517394&idx=1&sn=cde2eb98e5c9e73abb7927a1ff4e0f40) (发布日期: 2026-01-02)
+- [【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797637&idx=1&sn=146b87dfae227ac4b1c75cc0abd76d68) (发布日期: 2026-01-02)
+- [RondoDox僵尸网络利用React2Shell的严重漏洞挟持物联网设备和web服务器](https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247484001&idx=1&sn=864d5d0ba23110bc1fde9292d486fe85) (发布日期: 2026-01-02)
+- [EDR 在哪里？从防火墙运行的 Sliver C2 攻击分析](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492837&idx=1&sn=22423aca818f4168a07f41b4dd8cd4bb) (发布日期: 2026-01-02)
+- [试用、出错与拼写错误：为何有些恶意软件攻击并非你想象中的\'精密\'](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492837&idx=2&sn=328bd521060254dd1d2d5541fa9075ee) (发布日期: 2026-01-02)
+- [复现MongoDB（CVE-2025-14847）CVSS8.7漏洞攻击](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485259&idx=1&sn=01226ea83f0683f685b7edcbbb6abe81) (发布日期: 2026-01-02)
+- [[代码审计]蓝凌EIS存在多个后台文件上传0day](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494367&idx=1&sn=5a319d6771ebf687b220b8664de8cd47) (发布日期: 2026-01-02)
+- [行业资讯：奇安信网神中标某省财政厅云资源网络安全防护项目](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499766&idx=1&sn=9bd3e31381a0a415a38c613ad084c5cd) (发布日期: 2026-01-02)
+- [网络安全行业，隐私增强计算或许成为千亿级市场，数据安全进入“可用不可见”新时代](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499766&idx=2&sn=ff1766952fa919eb966e7eda61e03f2d) (发布日期: 2026-01-02)
+- [网络安全行业，2026年网络安全工程师如何让自己变得更优秀](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499766&idx=4&sn=ff166c287173a5dc7057aa92915e82dc) (发布日期: 2026-01-02)
+- [React2Shell（CVE-2025-55182）原理拆解](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493051&idx=1&sn=56527338940927f7d7baf815d3063ebe) (发布日期: 2026-01-02)
+- [【靶场505】文件包含+Nginx日志Getshell](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247487051&idx=1&sn=e6fdca2b99e64fb053383ef82fe44204) (发布日期: 2026-01-02)
 
 
 ## 🎯 威胁详情分析
@@ -81,23 +80,11 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LangChain存在严重漏洞，威胁AI Agent机密数据安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248749&idx=1&sn=0ce09c05efb1abd640c320cb9fb58c27](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248749&idx=1&sn=0ce09c05efb1abd640c320cb9fb58c27) |
-| 2 | 漏洞复现 | 用友NC ContactsFuzzySearchServlet反序列化代码执行RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59) |
-| 3 | 漏洞扫描踩坑！出口 IP 被合作伙伴封禁？3 大转发原因 + 解决方案来了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486447&idx=1&sn=b06ea1354c1880d01d19a3a252ea6d6a](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486447&idx=1&sn=b06ea1354c1880d01d19a3a252ea6d6a) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | XSS 如何升级 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498882&idx=1&sn=c4e2d916df35fe3ba4bc37ae2b790153](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498882&idx=1&sn=c4e2d916df35fe3ba4bc37ae2b790153) |
-| 2 | 漏洞复现 | 用友NC ContactsFuzzySearchServlet反序列化代码执行RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493574&idx=1&sn=00e2232daaf9dd343c42f9894af53a59) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 朝鲜APT组织组开“工具超市”了！Lazarus藏2GB攻击军火库，FRP隧道当“隐身衣” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487656&idx=1&sn=e764b33c343ef52beb81cd05bd7b9718](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487656&idx=1&sn=e764b33c343ef52beb81cd05bd7b9718) |
-| 2 | 每周高级威胁情报解读(2025.12.26~2026.01.01) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247517394&idx=1&sn=cde2eb98e5c9e73abb7927a1ff4e0f40](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247517394&idx=1&sn=cde2eb98e5c9e73abb7927a1ff4e0f40) |
+| 1 | 【接口漏洞第二章第一节】API漏洞狩猎第一步：如何顺藤摸瓜挖出隐藏的接口文档 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797637&idx=1&sn=146b87dfae227ac4b1c75cc0abd76d68](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797637&idx=1&sn=146b87dfae227ac4b1c75cc0abd76d68) |
+| 2 | RondoDox僵尸网络利用React2Shell的严重漏洞挟持物联网设备和web服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247484001&idx=1&sn=864d5d0ba23110bc1fde9292d486fe85](https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247484001&idx=1&sn=864d5d0ba23110bc1fde9292d486fe85) |
+| 3 | 复现MongoDB（CVE-2025-14847）CVSS8.7漏洞攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485259&idx=1&sn=01226ea83f0683f685b7edcbbb6abe81](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485259&idx=1&sn=01226ea83f0683f685b7edcbbb6abe81) |
+| 4 | [代码审计]蓝凌EIS存在多个后台文件上传0day | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494367&idx=1&sn=5a319d6771ebf687b220b8664de8cd47](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247494367&idx=1&sn=5a319d6771ebf687b220b8664de8cd47) |
+| 5 | React2Shell（CVE-2025-55182）原理拆解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493051&idx=1&sn=56527338940927f7d7baf815d3063ebe](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247493051&idx=1&sn=56527338940927f7d7baf815d3063ebe) |
 
 
 ## 📁 归档路径
@@ -113,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-02 04:41:21*
+*生成时间: 2026-01-02 08:29:54*
 *报告工具: 微信文章安全归档系统*
