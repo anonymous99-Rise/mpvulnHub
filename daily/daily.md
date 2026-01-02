@@ -1,17 +1,24 @@
-# 2026-01-01 安全威胁态势报告
+# 2026-01-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 3篇
+- **安全运营**: 2篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,22 +67,70 @@
 
 ### Doonsec
 
-- [渊龙Sec安全团队祝您元旦快乐！](https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485866&idx=1&sn=7840f4b5bf7da365aaebf8cf88f0b93b) (发布日期: 2026-01-01)
-- [新年快乐！EDUSRC狗窝团队获年榜第一！](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3) (发布日期: 2026-01-01)
+- [CVE-2025-52691｜SmarterMail 未授权文件上传漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=1&sn=b3eda104a3c7f41dca6faf1240b95f8a) (发布日期: 2026-01-02)
+- [CVE-2024-57521｜RuoYi v4.7.9认证用户SQL注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1) (发布日期: 2026-01-02)
+- [一文带你看懂从脆弱资产收集到SRC通杀案例技术分享](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487433&idx=1&sn=b5600578910820a753d2394c2d34e892) (发布日期: 2026-01-02)
+- [【攻防实战4】记一次某地市卫校内网穿透](https://mp.weixin.qq.com/s?__biz=Mzg3MDU3OTA4Ng==&mid=2247484232&idx=1&sn=763b47948961110a0cb27b01a94e2896) (发布日期: 2026-01-02)
+- [swagger接口未授权访问漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484187&idx=1&sn=3e3d7ece37b57b4989be64e13cffd09c) (发布日期: 2026-01-02)
+- [CISO展望：2026年AI SOC应具备7项能力](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613903&idx=1&sn=b8a28a2d18420d97672084de948d6ed8) (发布日期: 2026-01-02)
+- [一文带你看懂从脆弱资产收集到SRC通杀案例技术分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501420&idx=1&sn=b3bf0ea88513968b1370bd39e1d059bf) (发布日期: 2026-01-02)
+- [CyberStrikeAI 用户体验升级：批量任务+漏洞管理+对话分组，三大功能全面升级！](https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483834&idx=1&sn=435fda398fe72ce417b190ad6e17f581) (发布日期: 2026-01-02)
+- [【安全工具】一款专业的C2流量加密工具（CS_Tunnel）](https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484150&idx=1&sn=fa08e00e34639dff0951a9a736f784e5) (发布日期: 2026-01-02)
+- [终端攻防全链路解析：红队如何从一台电脑拿下整个内网？](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247485454&idx=1&sn=6fe621fb3b423279921144cf24eb73c0) (发布日期: 2026-01-02)
+- [超全！网络安全考试认证CISP全类别详细介绍](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507944&idx=1&sn=b42fa8388147ad10d646c05061661c83) (发布日期: 2026-01-02)
+- [JsRpc+Yakit热加载实现明文编辑加密发包](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247495069&idx=1&sn=fa1094598bcccd4b9cbbe27c6f8b471e) (发布日期: 2026-01-02)
+- [CISCN 2025 BabyGame 逆向题完整技术解析](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247486486&idx=1&sn=ff6ca648314ce79c3adb77a82b3c697e) (发布日期: 2026-01-02)
+- [2025年软件供应链安全大事盘点](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296099&idx=1&sn=d526390153eb4033aefaad9c2cbace1d) (发布日期: 2026-01-02)
+- [网络安全必学：Hydra弱口令检测终极手册](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458863130&idx=1&sn=4cb3b2ea4369c18c1fc4ffca854122af) (发布日期: 2026-01-02)
+- [从链上地址到现实身份：加密货币追踪的实战路径](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247521670&idx=1&sn=af6d3a1dcaf96530f130a133289f997a) (发布日期: 2026-01-02)
+- [数字取证：浏览器指纹识别 - 视觉识别技术](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488764&idx=1&sn=e3cb7c41676f97539e7c9278ee9c1851) (发布日期: 2026-01-02)
+- [银狐黑客利用所得税钓鱼诱饵攻击印度组织](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503584&idx=1&sn=c8ce8ea078e5db72be11e89a8a569417) (发布日期: 2026-01-02)
+- [容器安全防护体系构建：从组件层到集群层的全栈防护策略](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517071&idx=1&sn=53471437a4442d4651406e3da157da80) (发布日期: 2026-01-02)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2025-52691｜SmarterMail 未授权文件上传漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=1&sn=b3eda104a3c7f41dca6faf1240b95f8a](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=1&sn=b3eda104a3c7f41dca6faf1240b95f8a) |
+| 2 | CVE-2024-57521｜RuoYi v4.7.9认证用户SQL注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1) |
+| 3 | swagger接口未授权访问漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484187&idx=1&sn=3e3d7ece37b57b4989be64e13cffd09c](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484187&idx=1&sn=3e3d7ece37b57b4989be64e13cffd09c) |
+| 4 | CyberStrikeAI 用户体验升级：批量任务+漏洞管理+对话分组，三大功能全面升级！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483834&idx=1&sn=435fda398fe72ce417b190ad6e17f581](https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483834&idx=1&sn=435fda398fe72ce417b190ad6e17f581) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2024-57521｜RuoYi v4.7.9认证用户SQL注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486275&idx=2&sn=e1aff49d11c193e105b70355f82602f1) |
+| 2 | 【攻防实战4】记一次某地市卫校内网穿透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MDU3OTA4Ng==&mid=2247484232&idx=1&sn=763b47948961110a0cb27b01a94e2896](https://mp.weixin.qq.com/s?__biz=Mzg3MDU3OTA4Ng==&mid=2247484232&idx=1&sn=763b47948961110a0cb27b01a94e2896) |
+| 3 | 终端攻防全链路解析：红队如何从一台电脑拿下整个内网？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247485454&idx=1&sn=6fe621fb3b423279921144cf24eb73c0](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247485454&idx=1&sn=6fe621fb3b423279921144cf24eb73c0) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐黑客利用所得税钓鱼诱饵攻击印度组织 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503584&idx=1&sn=c8ce8ea078e5db72be11e89a8a569417](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503584&idx=1&sn=c8ce8ea078e5db72be11e89a8a569417) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新年快乐！EDUSRC狗窝团队获年榜第一！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484557&idx=1&sn=1ac2779811b3ced0dd267ec5f1e78cc3) |
+| 1 | 一文带你看懂从脆弱资产收集到SRC通杀案例技术分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487433&idx=1&sn=b5600578910820a753d2394c2d34e892](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487433&idx=1&sn=b5600578910820a753d2394c2d34e892) |
+| 2 | 一文带你看懂从脆弱资产收集到SRC通杀案例技术分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501420&idx=1&sn=b3bf0ea88513968b1370bd39e1d059bf](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501420&idx=1&sn=b3bf0ea88513968b1370bd39e1d059bf) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2025年软件供应链安全大事盘点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296099&idx=1&sn=d526390153eb4033aefaad9c2cbace1d](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296099&idx=1&sn=d526390153eb4033aefaad9c2cbace1d) |
+| 2 | 容器安全防护体系构建：从组件层到集群层的全栈防护策略 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517071&idx=1&sn=53471437a4442d4651406e3da157da80](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517071&idx=1&sn=53471437a4442d4651406e3da157da80) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W01/2026-01-01/`
+文章已归档到: `doc/2026/2026-01/2026-W01/2026-01-02/`
 
 ## 🔗 数据源说明
 
@@ -86,8 +141,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -96,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-01 16:27:39*
+*生成时间: 2026-01-02 01:46:36*
 *报告工具: 微信文章安全归档系统*
