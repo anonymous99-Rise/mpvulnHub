@@ -2,20 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 3篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,20 +66,16 @@
 
 ### Doonsec
 
-- [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=1&sn=4a3fa3d50a4d83f310f6d548a1381707) (发布日期: 2026-01-03)
-- [黑名单过滤下为何还能无限制SQL注入！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723) (发布日期: 2026-01-03)
-- [DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206) (发布日期: 2026-01-03)
-- [【渗透测试】Burp Suite Professional 2025.12.2](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247522094&idx=1&sn=998e588853452a0e2fbcf7d7d93afed8) (发布日期: 2026-01-03)
-- [业务视角下的金融SRC快速挖掘思路](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411) (发布日期: 2026-01-03)
-- [全国职业院校技能大赛“信息安全管理与评估”赛项真题+题目+解析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501597&idx=1&sn=35b1cb4157600a0bf44aa70f777cf2e1) (发布日期: 2026-01-03)
-- [EDR 在哪里？从防火墙运行的 Sliver C2 攻击分析](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487307&idx=1&sn=e68d23b16509072702cdf2648c273ba6) (发布日期: 2026-01-03)
-- [CISCN 2025 Eternum - C2恶意软件通信协议逆向分析](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247486523&idx=1&sn=b635470fa12e9a6f26db3c353f138aad) (发布日期: 2026-01-03)
-- [SQL注入实战——时间盲注](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855) (发布日期: 2026-01-03)
-- [Fastadmin框架任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582) (发布日期: 2026-01-03)
-- [网络安全行业，隐私增强计算或许成为千亿级市场，数据安全进入“可用不可见”新时代](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499825&idx=3&sn=a578bae380c5d69d18dc0223e21efaec) (发布日期: 2026-01-03)
-- [悉尼大学发生数据泄露事件，导致大量学生和教职员工信息被泄露](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad) (发布日期: 2026-01-03)
-- [记一次真实的LKM rootkit 与挖矿病毒的结合应急案例](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247495103&idx=1&sn=4ea81aabac8d205c0c9aff6069caa5ae) (发布日期: 2026-01-03)
-- [国家网络身份认证公共服务6项公共安全行业标准获批发布](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120476&idx=2&sn=630a0782747dabb71962d26f8a62c8c1) (发布日期: 2026-01-03)
+- [【AI安全】重磅！PromptLocate搞定提示注入精准定位](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651) (发布日期: 2026-01-03)
+- [网络强国翻车现场！以色列被伊朗APT组织 Handala按头“薅羊毛”，专捏医院、摄像头这些软柿子](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8) (发布日期: 2026-01-03)
+- [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) (发布日期: 2026-01-03)
+- [【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72) (发布日期: 2026-01-03)
+- [安天AVL SDK反病毒引擎升级通告（20260103）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213520&idx=1&sn=c11e2fdd14107fb53c889b58d966fcf9) (发布日期: 2026-01-03)
+- [全球首例！AI智能体自主发现满级评分RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) (发布日期: 2026-01-03)
+- [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) (发布日期: 2026-01-03)
+- [浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595) (发布日期: 2026-01-03)
+- [漏洞与补丁管理｜安全运维的基础防线](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7) (发布日期: 2026-01-03)
+- [漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) (发布日期: 2026-01-03)
 
 
 ## 🎯 威胁详情分析
@@ -86,27 +84,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206) |
-| 2 | Fastadmin框架任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582) |
+| 1 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) |
+| 2 | 【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72) |
+| 3 | 全球首例！AI智能体自主发现满级评分RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) |
+| 4 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) |
+| 5 | 浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595) |
+| 6 | 漏洞与补丁管理｜安全运维的基础防线 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7) |
+| 7 | 漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑名单过滤下为何还能无限制SQL注入！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723) |
-| 2 | SQL注入实战——时间盲注 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855) |
+| 1 | 【AI安全】重磅！PromptLocate搞定提示注入精准定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651) |
+| 2 | 全球首例！AI智能体自主发现满级评分RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) |
+| 3 | 漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络强国翻车现场！以色列被伊朗APT组织 Handala按头“薅羊毛”，专捏医院、摄像头这些软柿子 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 业务视角下的金融SRC快速挖掘思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 悉尼大学发生数据泄露事件，导致大量学生和教职员工信息被泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad) |
+| 1 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) |
+| 2 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) |
 
 
 ## 📁 归档路径
@@ -122,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-03 01:40:49*
+*生成时间: 2026-01-03 04:32:30*
 *报告工具: 微信文章安全归档系统*
