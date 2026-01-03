@@ -1,17 +1,21 @@
-# 2026-01-02 安全威胁态势报告
+# 2026-01-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +64,20 @@
 
 ### Doonsec
 
-- [天地伟业Easy7漏洞-浅析](https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c) (发布日期: 2026-01-02)
+- [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=1&sn=4a3fa3d50a4d83f310f6d548a1381707) (发布日期: 2026-01-03)
+- [黑名单过滤下为何还能无限制SQL注入！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723) (发布日期: 2026-01-03)
+- [DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206) (发布日期: 2026-01-03)
+- [【渗透测试】Burp Suite Professional 2025.12.2](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247522094&idx=1&sn=998e588853452a0e2fbcf7d7d93afed8) (发布日期: 2026-01-03)
+- [业务视角下的金融SRC快速挖掘思路](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411) (发布日期: 2026-01-03)
+- [全国职业院校技能大赛“信息安全管理与评估”赛项真题+题目+解析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501597&idx=1&sn=35b1cb4157600a0bf44aa70f777cf2e1) (发布日期: 2026-01-03)
+- [EDR 在哪里？从防火墙运行的 Sliver C2 攻击分析](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247487307&idx=1&sn=e68d23b16509072702cdf2648c273ba6) (发布日期: 2026-01-03)
+- [CISCN 2025 Eternum - C2恶意软件通信协议逆向分析](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247486523&idx=1&sn=b635470fa12e9a6f26db3c353f138aad) (发布日期: 2026-01-03)
+- [SQL注入实战——时间盲注](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855) (发布日期: 2026-01-03)
+- [Fastadmin框架任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582) (发布日期: 2026-01-03)
+- [网络安全行业，隐私增强计算或许成为千亿级市场，数据安全进入“可用不可见”新时代](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499825&idx=3&sn=a578bae380c5d69d18dc0223e21efaec) (发布日期: 2026-01-03)
+- [悉尼大学发生数据泄露事件，导致大量学生和教职员工信息被泄露](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad) (发布日期: 2026-01-03)
+- [记一次真实的LKM rootkit 与挖矿病毒的结合应急案例](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247495103&idx=1&sn=4ea81aabac8d205c0c9aff6069caa5ae) (发布日期: 2026-01-03)
+- [国家网络身份认证公共服务6项公共安全行业标准获批发布](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120476&idx=2&sn=630a0782747dabb71962d26f8a62c8c1) (发布日期: 2026-01-03)
 
 
 ## 🎯 威胁详情分析
@@ -69,12 +86,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 天地伟业Easy7漏洞-浅析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c](https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjkxMg==&mid=2247484040&idx=1&sn=d729d6bc80fad2162a5f9b3b0c36a10c) |
+| 1 | DNSLOG、HTTPLOG无回显漏洞测试辅助平台 | 辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=4&sn=c90679f058f309ee6a88387c00d3d206) |
+| 2 | Fastadmin框架任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484228&idx=1&sn=13e56b9371a95ae33dfffd5ee56ee582) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 黑名单过滤下为何还能无限制SQL注入！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613904&idx=3&sn=f9b76a70ad7c319871c3f65d4b6a0723) |
+| 2 | SQL注入实战——时间盲注 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484201&idx=1&sn=7ca67fb07888e0c9cd024c5131ea0855) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 业务视角下的金融SRC快速挖掘思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487526&idx=1&sn=587b6d7b56499573bfa542ba1f1b0411) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 悉尼大学发生数据泄露事件，导致大量学生和教职员工信息被泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494513&idx=1&sn=5cdab058327284f4985b8711718c28ad) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W01/2026-01-02/`
+文章已归档到: `doc/2026/2026-01/2026-W01/2026-01-03/`
 
 ## 🔗 数据源说明
 
@@ -85,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-02 20:23:05*
+*生成时间: 2026-01-03 01:40:49*
 *报告工具: 微信文章安全归档系统*
