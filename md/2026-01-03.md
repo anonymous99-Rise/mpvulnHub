@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 10篇
+- **威胁情报**: 3篇
 - **攻击技术**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,16 +63,27 @@
 
 ### Doonsec
 
-- [CISO展望：2026年AI SOC应具备7项能力](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247484089&idx=1&sn=2e7efda64b557d1d225977de4a7f2c01) (发布日期: 2026-01-03)
-- [【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙”](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592) (发布日期: 2026-01-03)
-- [革新恶意软件分析：BinDiff、Binary Ninja 与 AI 集成如何让二进制比较变得轻而易举](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492864&idx=2&sn=659aba3794791454a535ec025d95584c) (发布日期: 2026-01-03)
-- [一次JAVA代码审计经典的鉴权绕过审计](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487248&idx=1&sn=2b9602b2aeea317ef76feb1f413da835) (发布日期: 2026-01-03)
-- [行业资讯：微步292.8万中标某研究院网络安全运营技术支撑服务项目](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68) (发布日期: 2026-01-03)
-- [行业资讯：安恒86.48万中标某大学网络安全检测等信息化运维保障服务项目](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=3&sn=812c7afc1bf3035c526a51e5036abab7) (发布日期: 2026-01-03)
-- [常态化漏洞挖掘演习活动](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053) (发布日期: 2026-01-03)
-- [实战机会难得，在校师生均可参战——常态化漏洞挖掘演习（2026.1.4-2026.5.30）](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750) (发布日期: 2026-01-03)
-- [实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) (发布日期: 2026-01-03)
-- [CVE-2020-3331复现与分析](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c) (发布日期: 2026-01-03)
+- [TransparentTribe(透明部落) APT组织CrimsonRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495293&idx=1&sn=afaaae23a8589c096f25ffd138a5d9d0) (发布日期: 2026-01-03)
+- [安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求](https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486359&idx=1&sn=c6f8067c25b9dfbdd66d595db0642c32) (发布日期: 2026-01-03)
+- [安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求](https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490911&idx=1&sn=d7f4d8de2d9e3e38d000ff23c4b0eb8c) (发布日期: 2026-01-03)
+- [Redis 漏洞图形化利用工具](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497949&idx=1&sn=18bbfce8834956f826005559f5e050c6) (发布日期: 2026-01-03)
+- [Apache NuttX曝内存损坏漏洞（CVE-2025-48769）](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=1&sn=2cbd11760ead584d48a357a2da3c66b7) (发布日期: 2026-01-03)
+- [GNU Wget2曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=2&sn=20e99cd981c04249e98c2345fbda786f) (发布日期: 2026-01-03)
+- [广汽三菱汽车：车联网系统安全评估技术及应用](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629879&idx=3&sn=33c4b801d0119a99d623397bb528e3c9) (发布日期: 2026-01-03)
+- [重磅！PromptLocate搞定提示注入精准定位](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484770&idx=1&sn=b3aad5143e14e27cee90bdaec9d71ccf) (发布日期: 2026-01-03)
+- [第二届Solar杯应急响应挑战赛个人writeup](https://mp.weixin.qq.com/s?__biz=MzkyOTk3NDg0MA==&mid=2247484027&idx=1&sn=1c098521ab690da6de22ef88a42b0568) (发布日期: 2026-01-03)
+- [2025年十大野外利用的高危漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=1&sn=b8a97f9f74d5b26b30b187c28fae0f64) (发布日期: 2026-01-03)
+- [MongoBleed漏洞影响持续扩大，中美成受攻击最严重国家](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=2&sn=4a81e28c018333af201881fe54004648) (发布日期: 2026-01-03)
+- [全球超万台Fortinet防火墙仍受5年前MFA绕过漏洞威胁](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=3&sn=cd0732d9b6a0d6b30c68957603242555) (发布日期: 2026-01-03)
+- [About一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=1&sn=392ed0980f9981ce4d679974bbe5192a) (发布日期: 2026-01-03)
+- [P1finger - 红队行动下的重点资产指纹识别工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=2&sn=d3057bf6c008e31c833241c9aa155e01) (发布日期: 2026-01-03)
+- [2026年人工智能安全发展趋势](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655296135&idx=1&sn=e69e95711418a309b0908931eba35a0d) (发布日期: 2026-01-03)
+- [深度分析MangoBleed(CVE-2025-14847)附利用工具](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484158&idx=1&sn=ed709e898d0744a857708e1ce05c1f1b) (发布日期: 2026-01-03)
+- [Velocity 使用与安全分析](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247489189&idx=1&sn=c474f7d70c87c048d8cb1f86db60e74f) (发布日期: 2026-01-03)
+- [病毒处理 | 带毒文件分离实战](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486269&idx=3&sn=23cada7eb323286a01796b8a8ed9da12) (发布日期: 2026-01-03)
+- [【安全工具】Python内存马之FastApi内存马](https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484160&idx=1&sn=0b29b64cbb13adcd639a8aa756ce21ac) (发布日期: 2026-01-03)
+- [Transparent Tribe对印度政府和学术界发起新的远程访问木马攻击](https://mp.weixin.qq.com/s?__biz=Mzg4ODI5MzAzMw==&mid=2247484005&idx=1&sn=2ff7b59beb79d36de5de8c5a0b21db00) (发布日期: 2026-01-03)
+- [Linux 系统被入侵应急响应：黄金 1 小时处置流程与取证指南](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576375&idx=1&sn=745c419bbbf8477a27db5d85c779cf40) (发布日期: 2026-01-03)
 
 
 ## 🎯 威胁详情分析
@@ -81,23 +92,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592) |
-| 2 | 常态化漏洞挖掘演习活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053) |
-| 3 | 实战机会难得，在校师生均可参战——常态化漏洞挖掘演习（2026.1.4-2026.5.30） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750) |
-| 4 | 实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) |
-| 5 | CVE-2020-3331复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c) |
+| 1 | 安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486359&idx=1&sn=c6f8067c25b9dfbdd66d595db0642c32](https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486359&idx=1&sn=c6f8067c25b9dfbdd66d595db0642c32) |
+| 2 | 安卓安全神器ASec！一站式搞定情报、漏洞、测绘全需求 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490911&idx=1&sn=d7f4d8de2d9e3e38d000ff23c4b0eb8c](https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490911&idx=1&sn=d7f4d8de2d9e3e38d000ff23c4b0eb8c) |
+| 3 | Redis 漏洞图形化利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497949&idx=1&sn=18bbfce8834956f826005559f5e050c6](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497949&idx=1&sn=18bbfce8834956f826005559f5e050c6) |
+| 4 | Apache NuttX曝内存损坏漏洞（CVE-2025-48769） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=1&sn=2cbd11760ead584d48a357a2da3c66b7](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=1&sn=2cbd11760ead584d48a357a2da3c66b7) |
+| 5 | GNU Wget2曝高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=2&sn=20e99cd981c04249e98c2345fbda786f](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096750&idx=2&sn=20e99cd981c04249e98c2345fbda786f) |
+| 6 | 2025年十大野外利用的高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=1&sn=b8a97f9f74d5b26b30b187c28fae0f64](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=1&sn=b8a97f9f74d5b26b30b187c28fae0f64) |
+| 7 | MongoBleed漏洞影响持续扩大，中美成受攻击最严重国家 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=2&sn=4a81e28c018333af201881fe54004648](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=2&sn=4a81e28c018333af201881fe54004648) |
+| 8 | 全球超万台Fortinet防火墙仍受5年前MFA绕过漏洞威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=3&sn=cd0732d9b6a0d6b30c68957603242555](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651333534&idx=3&sn=cd0732d9b6a0d6b30c68957603242555) |
+| 9 | About一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=1&sn=392ed0980f9981ce4d679974bbe5192a](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486213&idx=1&sn=392ed0980f9981ce4d679974bbe5192a) |
+| 10 | 深度分析MangoBleed(CVE-2025-14847)附利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484158&idx=1&sn=ed709e898d0744a857708e1ce05c1f1b](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484158&idx=1&sn=ed709e898d0744a857708e1ce05c1f1b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) |
+| 1 | 重磅！PromptLocate搞定提示注入精准定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484770&idx=1&sn=b3aad5143e14e27cee90bdaec9d71ccf](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484770&idx=1&sn=b3aad5143e14e27cee90bdaec9d71ccf) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 行业资讯：微步292.8万中标某研究院网络安全运营技术支撑服务项目 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68) |
+| 1 | TransparentTribe(透明部落) APT组织CrimsonRAT远控样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495293&idx=1&sn=afaaae23a8589c096f25ffd138a5d9d0](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495293&idx=1&sn=afaaae23a8589c096f25ffd138a5d9d0) |
+| 2 | 第二届Solar杯应急响应挑战赛个人writeup | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTk3NDg0MA==&mid=2247484027&idx=1&sn=1c098521ab690da6de22ef88a42b0568](https://mp.weixin.qq.com/s?__biz=MzkyOTk3NDg0MA==&mid=2247484027&idx=1&sn=1c098521ab690da6de22ef88a42b0568) |
+| 3 | Linux 系统被入侵应急响应：黄金 1 小时处置流程与取证指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576375&idx=1&sn=745c419bbbf8477a27db5d85c779cf40](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576375&idx=1&sn=745c419bbbf8477a27db5d85c779cf40) |
 
 
 ## 📁 归档路径
@@ -113,8 +131,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +141,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-03 08:27:43*
+*生成时间: 2026-01-03 12:40:32*
 *报告工具: 微信文章安全归档系统*
