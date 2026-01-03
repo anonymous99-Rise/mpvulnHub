@@ -9,15 +9,12 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 3篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,16 +63,16 @@
 
 ### Doonsec
 
-- [【AI安全】重磅！PromptLocate搞定提示注入精准定位](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651) (发布日期: 2026-01-03)
-- [网络强国翻车现场！以色列被伊朗APT组织 Handala按头“薅羊毛”，专捏医院、摄像头这些软柿子](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8) (发布日期: 2026-01-03)
-- [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) (发布日期: 2026-01-03)
-- [【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72) (发布日期: 2026-01-03)
-- [安天AVL SDK反病毒引擎升级通告（20260103）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213520&idx=1&sn=c11e2fdd14107fb53c889b58d966fcf9) (发布日期: 2026-01-03)
-- [全球首例！AI智能体自主发现满级评分RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) (发布日期: 2026-01-03)
-- [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) (发布日期: 2026-01-03)
-- [浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595) (发布日期: 2026-01-03)
-- [漏洞与补丁管理｜安全运维的基础防线](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7) (发布日期: 2026-01-03)
-- [漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) (发布日期: 2026-01-03)
+- [CISO展望：2026年AI SOC应具备7项能力](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247484089&idx=1&sn=2e7efda64b557d1d225977de4a7f2c01) (发布日期: 2026-01-03)
+- [【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙”](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592) (发布日期: 2026-01-03)
+- [革新恶意软件分析：BinDiff、Binary Ninja 与 AI 集成如何让二进制比较变得轻而易举](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492864&idx=2&sn=659aba3794791454a535ec025d95584c) (发布日期: 2026-01-03)
+- [一次JAVA代码审计经典的鉴权绕过审计](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487248&idx=1&sn=2b9602b2aeea317ef76feb1f413da835) (发布日期: 2026-01-03)
+- [行业资讯：微步292.8万中标某研究院网络安全运营技术支撑服务项目](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68) (发布日期: 2026-01-03)
+- [行业资讯：安恒86.48万中标某大学网络安全检测等信息化运维保障服务项目](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=3&sn=812c7afc1bf3035c526a51e5036abab7) (发布日期: 2026-01-03)
+- [常态化漏洞挖掘演习活动](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053) (发布日期: 2026-01-03)
+- [实战机会难得，在校师生均可参战——常态化漏洞挖掘演习（2026.1.4-2026.5.30）](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750) (发布日期: 2026-01-03)
+- [实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) (发布日期: 2026-01-03)
+- [CVE-2020-3331复现与分析](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c) (发布日期: 2026-01-03)
 
 
 ## 🎯 威胁详情分析
@@ -84,34 +81,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) |
-| 2 | 【一周安全资讯0103】国家网络身份认证公共服务6项公共安全行业标准获批发布；NutsBot新型僵尸网络利用React2Shell漏洞传播 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508635&idx=1&sn=ede0b5e278c8af159d04fdf18e12da72) |
-| 3 | 全球首例！AI智能体自主发现满级评分RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) |
-| 4 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) |
-| 5 | 浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595) |
-| 6 | 漏洞与补丁管理｜安全运维的基础防线 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486478&idx=1&sn=f800ea86b7db028e3238a0a7e06d3ea7) |
-| 7 | 漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) |
+| 1 | 【接口漏洞第二章第二节】漏洞挖掘手记：一个修改请求，让我拿到了系统的“后门钥匙” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797648&idx=1&sn=318b394d2b6466d0ea80808539e6e592) |
+| 2 | 常态化漏洞挖掘演习活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483979&idx=1&sn=60cdbd0b25caa50d1f7a20f260b1a053) |
+| 3 | 实战机会难得，在校师生均可参战——常态化漏洞挖掘演习（2026.1.4-2026.5.30） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247483972&idx=1&sn=1f0f9157b8306416b4a1057431297750) |
+| 4 | 实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) |
+| 5 | CVE-2020-3331复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500691&idx=1&sn=4b2fec9b0a8c42708e08d0c9fecbd02c) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【AI安全】重磅！PromptLocate搞定提示注入精准定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484739&idx=1&sn=d7033f7b7c8dea5aaf7fe43bf49b9651) |
-| 2 | 全球首例！AI智能体自主发现满级评分RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535866&idx=1&sn=b4c1243a12fd2ff1a4b897ee65c719fe) |
-| 3 | 漏洞复现 | 金蝶EAS autoLogin.jsp 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493605&idx=1&sn=6e4ca462a29cbd51cacc5bddaaffbc5c) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 网络强国翻车现场！以色列被伊朗APT组织 Handala按头“薅羊毛”，专捏医院、摄像头这些软柿子 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487660&idx=1&sn=8f87b6ce7a38ba6a94daeb9f7432d4c8) |
+| 1 | 实战 XSS 漏洞靶场：50+真实场景 + 附赠万级 XSS Payload 库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32](https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247494786&idx=1&sn=38301b8f8f1202b63c9c3dc8e7c91e32) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374) |
-| 2 | 漏洞挖掘｜多个海外SRC产商2FA绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486995&idx=1&sn=f36474e990660d116dcc4b462a48e307) |
+| 1 | 行业资讯：微步292.8万中标某研究院网络安全运营技术支撑服务项目 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247499869&idx=2&sn=ddcf93eed0412d16d44d75c71b4c7f68) |
 
 
 ## 📁 归档路径
@@ -127,7 +113,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -137,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-03 04:32:30*
+*生成时间: 2026-01-03 08:27:43*
 *报告工具: 微信文章安全归档系统*
