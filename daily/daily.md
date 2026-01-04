@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 5篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,9 +60,12 @@
 
 ### Doonsec
 
-- [【已复现】n8n代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0) (发布日期: 2026-01-04)
-- [EDUSRC挖掘之如何挖到第一个漏洞](https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6) (发布日期: 2026-01-04)
-- [【已复现】Zimbra 本地文件包含漏洞(CVE-2025-68645）](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c) (发布日期: 2026-01-04)
+- [2025年Vite的一系列漏洞解读](https://mp.weixin.qq.com/s?__biz=Mzk5MDc5MDY2OA==&mid=2247483774&idx=1&sn=c8785c9db9470f541a84aab15e8394fd) (发布日期: 2026-01-04)
+- [微力同步Verysync存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489830&idx=1&sn=3ace9c5e3dd3ac3c15c35c057d369cc6) (发布日期: 2026-01-04)
+- [【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2025-68668](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491218&idx=1&sn=8f08cabab7024e9d6552a724ed9c6a6e) (发布日期: 2026-01-04)
+- [CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497966&idx=1&sn=6ad06679fe9b9effa72b3225e3dd82d2) (发布日期: 2026-01-04)
+- [速速来战 | “常态化漏洞挖掘演习活动”今日开始，活动期间仍可报名](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247484004&idx=1&sn=6219ed551411a065352fef52c83f501d) (发布日期: 2026-01-04)
+- [今日分享|GBT 42888-2023 信息安全技术 机器学习算法安全评估规范](https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487784&idx=1&sn=17193a2cba582dc8e2cfb9643903e9bd) (发布日期: 2026-01-04)
 
 
 ## 🎯 威胁详情分析
@@ -74,21 +74,11 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】n8n代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0](https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0) |
-| 2 | EDUSRC挖掘之如何挖到第一个漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6](https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6) |
-| 3 | 【已复现】Zimbra 本地文件包含漏洞(CVE-2025-68645） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247547646&idx=2&sn=33d32b82f86d260f54a69790853f315c) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【已复现】n8n代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0](https://mp.weixin.qq.com/s?__biz=MzkwMDA5OTc0Mg==&mid=2247484195&idx=1&sn=ce9c6aba5dabbc95059a83ab516c58d0) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | EDUSRC挖掘之如何挖到第一个漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6](https://mp.weixin.qq.com/s?__biz=MzYzOTE5Mjk0NQ==&mid=2247483941&idx=1&sn=1bd7ed203885335789bdc0953933bad6) |
+| 1 | 2025年Vite的一系列漏洞解读 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDc5MDY2OA==&mid=2247483774&idx=1&sn=c8785c9db9470f541a84aab15e8394fd](https://mp.weixin.qq.com/s?__biz=Mzk5MDc5MDY2OA==&mid=2247483774&idx=1&sn=c8785c9db9470f541a84aab15e8394fd) |
+| 2 | 微力同步Verysync存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489830&idx=1&sn=3ace9c5e3dd3ac3c15c35c057d369cc6](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489830&idx=1&sn=3ace9c5e3dd3ac3c15c35c057d369cc6) |
+| 3 | 【高危漏洞预警】n8n Python沙箱绕过漏洞CVE-2025-68668 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491218&idx=1&sn=8f08cabab7024e9d6552a724ed9c6a6e](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491218&idx=1&sn=8f08cabab7024e9d6552a724ed9c6a6e) |
+| 4 | CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497966&idx=1&sn=6ad06679fe9b9effa72b3225e3dd82d2](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497966&idx=1&sn=6ad06679fe9b9effa72b3225e3dd82d2) |
+| 5 | 速速来战 | “常态化漏洞挖掘演习活动”今日开始，活动期间仍可报名 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247484004&idx=1&sn=6219ed551411a065352fef52c83f501d](https://mp.weixin.qq.com/s?__biz=MzE5ODQ0ODQ3NA==&mid=2247484004&idx=1&sn=6219ed551411a065352fef52c83f501d) |
 
 
 ## 📁 归档路径
@@ -104,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-04 16:24:43*
+*生成时间: 2026-01-04 20:23:28*
 *报告工具: 微信文章安全归档系统*
