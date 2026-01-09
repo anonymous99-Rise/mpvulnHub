@@ -29,8 +29,10 @@ jobs:
     - name: update
       env: 
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+         FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       run: |
-        python run.py --skip-binary | tee /tmp/update.log
+        python run.py | tee /tmp/update.log
     - name: Commit and push if changed
       run: |
         git config --global user.email "791751568@qq.com"

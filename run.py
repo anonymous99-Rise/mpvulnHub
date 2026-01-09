@@ -13,6 +13,8 @@ import datetime
 import argparse
 import glob
 import calendar
+import random
+import yaml
 import logging
 
 # 配置日志
@@ -148,84 +150,37 @@ def parse_md_urls_with_title(md_text):
     pattern = re.compile(r'^[\-\*\d\. ]+\[(.*?)\]\((https://mp.weixin.qq.com/[^)\s]+)\)', re.MULTILINE)
     return [(m.group(2), m.group(1)) for m in pattern.finditer(md_text)]
 
+def load_config():
+    """Load configuration from config.yaml"""
+    config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.yaml')
+    try:
+        with open(config_path, 'r', encoding='utf-8') as f:
+            return yaml.safe_load(f)
+    except Exception as e:
+        logger.error(f"Failed to load config: {e}")
+        return {}
+
+CONFIG = load_config()
+
+def get_keywords_from_config():
+    """Get all keywords from config"""
+    keywords = []
+    if 'keywords' in CONFIG:
+        for category in CONFIG['keywords'].values():
+            if isinstance(category, list):
+                keywords.extend(category)
+    return keywords
+
 def filter_by_keywords(urls_info):
     """
     根据关键词过滤文章，只保留安全相关的文章
     """
-    # 通过AI分析，将所有关键词按功能领域分类
-    keywords = [
-        # ===== 漏洞利用与攻击技术 =====
-        '复现', '漏洞', '漏洞利用', '漏洞挖掘', '漏洞检测', '漏洞分析', '漏洞修复', '漏洞防护',
-        '漏洞扫描', '漏洞评估', '漏洞管理', '漏洞响应', '漏洞预警', '漏洞通报',
-        'SQL注入', 'XSS攻击', 'CSRF攻击', '文件上传', '文件包含', '命令注入',
-        '代码注入', '反序列化', '缓冲区溢出', '权限提升', '越权访问', '未授权访问',
-        '逻辑漏洞', '配置错误', '弱口令', '默认密码', '硬编码', '敏感信息泄露',
-        '注入', 'XSS', '内网', '域控', 'RCE', '代码执行', '命令执行',
-        '远程代码执行', '本地代码执行', '权限绕过', '信息泄露', '拒绝服务',
-        '内存破坏', '整数溢出', '格式化字符串', '竞争条件', '时间竞争',
-        '路径遍历', '目录遍历', '文件包含', '命令注入', '代码注入',
-        
-        # ===== 威胁情报与APT =====
-        '威胁情报', '威胁检测', '威胁狩猎', '威胁分析', '威胁建模', '威胁评估', '威胁预警',
-        '情报收集', '情报分析', '情报共享', '情报平台', '情报系统', '情报运营',
-        '恶意软件', '恶意代码', '恶意行为', '恶意活动', '恶意攻击', '恶意威胁',
-        'APT攻击', 'APT组织', 'APT活动', 'APT威胁', 'APT检测', 'APT分析',
-        '威胁情报平台', '威胁情报系统', '威胁情报分析', '威胁情报共享',
-        
-        # ===== 应急响应与溯源 =====
-        '应急响应', '安全响应', '事件响应', '应急处理', '应急管理', '应急演练',
-        '溯源分析', '攻击溯源', '威胁溯源', '恶意代码溯源', '网络溯源', '数字取证',
-        '取证分析', '证据收集', '证据保全', '证据链', '时间线分析', '攻击链分析',
-        '威胁狩猎', '威胁追踪', '威胁定位', '威胁识别', '威胁分类', '威胁评估',
-        '安全事件', '安全告警', '安全日志', '安全监控', '安全检测', '安全分析',
-        
-        # ===== 安全运营与管理 =====
-        '安全运营', '安全运维', '安全管理', '安全治理', '安全合规', '安全审计',
-        '安全监控', '安全分析', '安全评估', '安全测试', '安全培训', '安全意识',
-        '安全架构', '安全设计', '安全开发', '安全部署', '安全配置', '安全策略',
-        '安全控制', '安全防护', '安全检测', '安全响应', '安全恢复', '安全备份',
-        '安全日志', '安全事件', '安全告警', '安全报告', '安全指标', '安全度量',
-        '安全工具', '安全平台', '安全系统', '安全服务', '安全咨询', '安全外包',
-        '安全团队', '安全专家', '安全工程师', '安全分析师', '安全管理员',
-        '漏洞运营', 'SRC', '安全运营框架', '安全治理框架',
-        
-        # ===== 红队蓝队与攻防演练 =====
-        '红队', '蓝队', '紫队', '攻防演练', '渗透测试', '安全评估',
-        '漏洞扫描', '安全测试', '安全审计', '安全评估', '风险评估',
-        
-        # ===== 特定攻击技术与恶意软件 =====
-        '社会工程学', '钓鱼攻击', '水坑攻击', '供应链攻击', '零日攻击',
-        '侧信道攻击', '中间人攻击', '拒绝服务', '分布式拒绝服务', 'DDoS',
-        '勒索软件', '木马', '后门', '病毒', '蠕虫', '僵尸网络', '银狐',
-        
-        # ===== 漏洞编号与标准 =====
-        'CVE-', 'CNVD-', 'CNNVD-', 'XVE-', 'QVD-', 'POC', 'EXP', '0day', '1day', 'nday',
-        'CWE-', 'ISO27001', 'NIST', 'OWASP', 'CIS', 'SOC', 'SIEM', 'SOAR',
-        '威胁情报标准', '安全运营框架', '安全治理框架',
-        
-        # ===== 数据安全与隐私 =====
-        '信息泄漏', '数据泄露', '隐私泄露', '数据安全', '隐私保护',
-        '身份认证', '访问控制', '会话管理', '加密算法', '加密协议', '数字签名',
-        '证书管理', '密钥管理', '密码学', '密码破解', '多因子认证', '单点登录',
-        
-        # ===== 云安全与新兴技术 =====
-        '云安全', '容器安全', 'DevSecOps', '云原生安全', '微服务安全',
-        '区块链安全', '人工智能安全', '机器学习安全', '深度学习安全',
-        '量子计算威胁', 'AI安全威胁', '5G安全威胁', '边缘计算安全',
-        '零信任架构', '微分段', '微隔离', '自适应安全', '智能安全',
-        
-        # ===== 应用与系统安全 =====
-        '应用安全', 'Web安全', '移动安全', 'Web应用安全', '移动应用安全', 'API安全',
-        'Windows安全', 'Linux安全', 'macOS安全', 'Android安全', 'iOS安全',
-        
-        # ===== 行业与基础设施安全 =====
-        '物联网安全', '工业安全', '供应链安全', '金融安全', '医疗安全', '教育安全',
-        '政府安全', '企业安全', '关键基础设施安全', '工业控制系统安全', '智能电网安全',
-        
-        # ===== 安全工具与技术 =====
-        '防火墙', '入侵检测', '入侵防护', '安全网关', 'VPN', '加密',
-        '审计日志', '安全扫描', '漏洞扫描', '渗透测试', '代码审计', '安全评估'
-    ]
+    keywords = get_keywords_from_config()
+    
+    # If no keywords found in config using the new structure, fallback to empty list or hardcoded defaults if you wish.
+    # But since we just created config.yaml, we assume it works.
+    if not keywords:
+         logger.warning("No keywords found in config.yaml, skipping filter (or filtering everything out)")
     
     filtered_urls = []
     skipped_count = 0
@@ -251,7 +206,7 @@ def filter_by_keywords(urls_info):
     logger.info(f"关键词过滤: 匹配 {len(filtered_urls)} 个，跳过 {skipped_count} 个")
     return filtered_urls
 
-def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, skip_binary=False):
+def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, skip_binary=False, force=False, no_notify=False):
     # 1. 先去重，收集所有待处理信息（带标题）
     logger.info(f"=== 开始处理 {date_str} 的数据 ===")
     logger.info(f"Doonsec原始数据: {len(doonsec_list)} 个")
@@ -266,7 +221,7 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
     logger.info("开始处理Doonsec数据...")
     for url, ddate, title in doonsec_list:
         use_date = ddate if ddate else date_str
-        if url in data or url in url_set:
+        if not force and (url in data or url in url_set):
             logger.debug(f"跳过已存在的URL: {url}")
             skipped_count += 1
             continue
@@ -277,7 +232,7 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
     # ChainReactors
     logger.info("开始处理ChainReactors数据...")
     for url, title in chainreactors_urls:
-        if url in data or url in url_set:
+        if not force and (url in data or url in url_set):
             logger.debug(f"跳过已存在的URL: {url}")
             skipped_count += 1
             continue
@@ -288,7 +243,7 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
     # BruceFeIix
     logger.info("开始处理BruceFeIix数据...")
     for url, title in brucefeiix_urls:
-        if url in data or url in url_set:
+        if not force and (url in data or url in url_set):
             logger.debug(f"跳过已存在的URL: {url}")
             skipped_count += 1
             continue
@@ -336,6 +291,16 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
             data[url] = title
             added_count += 1
             logger.debug(f"更新data.json: {url} -> {title}")
+            
+            # Send notifications (Single Article Mode)
+            if not no_notify:
+                category = "安全资讯"
+                for cat, keywords in CONFIG.get('threat_analysis_categories', {}).items():
+                    for k in keywords:
+                        if k.lower() in title.lower():
+                            category = cat
+                            break
+                send_single_article_notification(title, url, source, article_date, category)
         
         # 保存data.json
         write_json(data_file, data)
@@ -343,13 +308,17 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
     else:
         # 4. 再批量抓取和归档
         for idx, (url, source, title, article_date) in enumerate(urls_info):
-            real_title = save_md_and_update_data(url, article_date, base_result_path, data, data_file, executable_path, source, article_date)
+            real_title = save_md_and_update_data(url, article_date, base_result_path, data, data_file, executable_path, source, article_date, no_notify)
             if not title:
                 urls_info[idx] = (url, source, real_title, article_date)
     
     # 5. 最后再补全md报告（带真实标题）
     if urls_info:
         create_daily_md_report(date_str, urls_info)
+        # Send Daily Report Notification
+        if not no_notify:
+            source_list = [u[1] for u in urls_info]
+            send_daily_report_notification(date_str, len(urls_info), source_list)
 
 
 
@@ -608,7 +577,7 @@ def create_daily_md_report(date_str, urls_info, md_dir="md"):
     logger.info(f"已创建每日报告: {filepath}")
     return filepath
 
-def save_md_and_update_data(url, date_str, base_result_path, data, data_file, executable_path, source="未知", article_date=None):
+def save_md_and_update_data(url, date_str, base_result_path, data, data_file, executable_path, source="未知", article_date=None, no_notify=False):
     logger.info(f"开始处理URL: {url}")
     logger.info(f"目标日期: {date_str}")
     logger.info(f"数据源: {source}")
@@ -643,6 +612,19 @@ def save_md_and_update_data(url, date_str, base_result_path, data, data_file, ex
         data[url] = title
         write_json(data_file, data)
         logger.info(f"已更新data.json: {url} -> {title}")
+
+        # Send notifications (Single Article Mode)
+        if not no_notify:
+            # Determine category for card
+            category = "安全资讯"
+            # Simple category detection based on keywords in title
+            for cat, keywords in CONFIG.get('threat_analysis_categories', {}).items():
+                for k in keywords:
+                    if k.lower() in title.lower():
+                        category = cat
+                        break
+            
+            send_single_article_notification(title, url, source, date_str, category)
         
         print(title, end='、')
     
@@ -650,6 +632,314 @@ def save_md_and_update_data(url, date_str, base_result_path, data, data_file, ex
     logger.info(f"完成处理URL: {url}")
     
     return title
+
+
+def get_footer_text():
+    """Get footer text with current time"""
+    footer_tmpl = CONFIG.get('notification', {}).get('footer', 'Power By Security Monitor•{time}')
+    current_time = datetime.datetime.now().strftime('%H:%M')
+    return footer_tmpl.replace('{time}', f'今天{current_time}')
+
+def send_single_article_notification(title, url, source, date_str, category="安全资讯"):
+    """Send single article notification (Feishu Card + Discord Embed)"""
+    # Feishu
+    if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
+        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        if webhook_url:
+            # Color based on category (Simple hash to select color)
+            colors = ["blue", "wathet", "turquoise", "green", "yellow", "orange", "red", "carmine", "violet", "purple", "indigo", "grey"]
+            template = random.choice(colors)
+            
+            card = {
+                "config": {
+                    "wide_screen_mode": True
+                },
+                "header": {
+                    "template": template,
+                    "title": {
+                        "content": f"{source}今日更新",
+                        "tag": "plain_text"
+                    }
+                },
+                "elements": [
+                    {
+                        "tag": "div",
+                        "text": {
+                            "content": f"**标题**\n{title}",
+                            "tag": "lark_md"
+                        }
+                    },
+                    {
+                         "tag": "div",
+                         "fields": [
+                             {
+                                 "is_short": True,
+                                 "text": {
+                                     "tag": "lark_md",
+                                     "content": f"**链接**\n[访问链接]({url})"
+                                 }
+                             },
+                             {
+                                 "is_short": True,
+                                 "text": {
+                                     "tag": "lark_md",
+                                     "content": f"**分类**\n{category}"
+                                 }
+                             }
+                         ]
+                    },
+                    {
+                        "tag": "div",
+                        "fields": [
+                            {
+                                "is_short": True,
+                                "text": {
+                                    "tag": "lark_md",
+                                    "content": f"**推送时间**\n{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "hr"
+                    },
+                    {
+                        "tag": "note",
+                        "elements": [
+                            {
+                                "content": get_footer_text(),
+                                "tag": "plain_text"
+                            }
+                        ]
+                    }
+                ]
+            }
+            
+            try:
+                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+            except Exception as e:
+                logger.error(f"Feishu single notification error: {e}")
+
+    # Discord
+    if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
+        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        if webhook_url:
+            embed = {
+                "title": f"{source}今日更新",  # Changed to match card style header
+                "color": random.randint(0, 0xFFFFFF),
+                "fields": [
+                    {
+                        "name": "标题",
+                        "value": title,
+                        "inline": False
+                    },
+                    {
+                        "name": "链接",
+                        "value": f"[访问链接]({url})",
+                        "inline": True
+                    },
+                    {
+                        "name": "分类",
+                        "value": category,
+                        "inline": True
+                    },
+                    {
+                        "name": "推送时间",
+                        "value": datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                        "inline": False
+                    }
+                ],
+                "footer": {
+                    "text": get_footer_text()
+                },
+                "timestamp": datetime.datetime.now().isoformat()
+            }
+            
+            try:
+                requests.post(webhook_url, json={"embeds": [embed]})
+            except Exception as e:
+                logger.error(f"Discord single notification error: {e}")
+
+def send_daily_report_notification(date_str, total_count, source_list):
+    """Send daily report notification (Feishu Card + Discord Embed)"""
+    repo_url = f"https://github.com/adminlove520/mpvulnHub/blob/main/md/{date_str}.md"
+    
+    # Analyze sources
+    sources = {}
+    for s in source_list:
+        sources[s] = sources.get(s, 0) + 1
+    source_text = ", ".join([f"{k}: {v}" for k, v in sources.items()])
+    
+    # Feishu
+    if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
+        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        if webhook_url:
+            card = {
+                "config": {
+                    "wide_screen_mode": True
+                },
+                "header": {
+                    "template": "purple", 
+                    "title": {
+                        "content": f"安全威胁态势日报 {date_str}",
+                        "tag": "plain_text"
+                    }
+                },
+                "elements": [
+                    {
+                        "tag": "div",
+                        "text": {
+                            "content": f"共收集到 {total_count} 条安全相关信息\n欢迎提交RSS源: [GitHub Issue](https://github.com/adminlove520/mpvulnHub/issues)",
+                            "tag": "lark_md"
+                        }
+                    },
+                     {
+                         "tag": "div",
+                         "fields": [
+                             {
+                                 "is_short": False,
+                                 "text": {
+                                     "tag": "lark_md",
+                                     "content": f"**日报链接**\n[{date_str}_Report]({repo_url})"
+                                 }
+                             }
+                         ]
+                    },
+                    {
+                         "tag": "div",
+                         "fields": [
+                             {
+                                 "is_short": True,
+                                 "text": {
+                                     "tag": "lark_md",
+                                     "content": f"**数据来源**\n{source_text}"
+                                 }
+                             },
+                             {
+                                 "is_short": True,
+                                 "text": {
+                                     "tag": "lark_md",
+                                     "content": "**报告类型**\n安全威胁态势日报"
+                                 }
+                             }
+                         ]
+                    },
+                    {
+                        "tag": "hr"
+                    },
+                    {
+                        "tag": "note",
+                        "elements": [
+                            {
+                                "content": get_footer_text(),
+                                "tag": "plain_text"
+                            }
+                        ]
+                    }
+                ]
+            }
+            try:
+                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+            except Exception as e:
+                logger.error(f"Feishu report notification error: {e}")
+
+    # Discord
+    if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
+        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        if webhook_url:
+            embed = {
+                "title": f"安全威胁态势日报 {date_str}",
+                "description": f"共收集到 {total_count} 条安全相关信息\n欢迎提交RSS源: [GitHub Issue](https://github.com/adminlove520/mpvulnHub/issues)",
+                "color": 0x800080, # Purple
+                "fields": [
+                    {
+                        "name": "日报链接",
+                        "value": f"[{date_str}_Report]({repo_url})",
+                        "inline": False
+                    },
+                     {
+                        "name": "数据来源",
+                        "value": source_text,
+                        "inline": True
+                    },
+                    {
+                        "name": "报告类型",
+                        "value": "安全威胁态势日报",
+                        "inline": True
+                    }
+                ],
+                "footer": {
+                    "text": get_footer_text()
+                },
+                "timestamp": datetime.datetime.now().isoformat()
+            }
+            try:
+                requests.post(webhook_url, json={"embeds": [embed]})
+            except Exception as e:
+                logger.error(f"Discord report notification error: {e}")
+
+def send_startup_card():
+    """Send startup notification to Discord and Feishu"""
+    # Feishu Startup Card
+    if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
+        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        if webhook_url:
+            card = {
+                "config": {
+                    "wide_screen_mode": True
+                },
+                "header": {
+                    "template": "green",
+                    "title": {
+                        "content": "🚀 Security Monitor Started",
+                        "tag": "plain_text"
+                    }
+                },
+                "elements": [
+                    {
+                        "tag": "div",
+                        "text": {
+                            "content": "系统已启动，正在扫描新的安全威胁和漏洞...",
+                            "tag": "plain_text"
+                        }
+                    },
+                    {
+                        "tag": "note",
+                        "elements": [
+                             {
+                                "content": f"启动时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+                                "tag": "plain_text"
+                            }
+                        ]
+                    }
+                ]
+            }
+            try:
+                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+            except Exception as e:
+                logger.error(f"Feishu startup notification error: {e}")
+
+    # Discord Startup Card
+    if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
+        if not CONFIG.get('notification', {}).get('discord', {}).get('startup_card', False):
+            return
+
+        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        if not webhook_url:
+            return
+
+        embed = {
+            "title": "🚀 Security Monitor Started",
+            "description": "Scanning for new security threats and vulnerabilities...",
+            "color": 0x00FF00, # Green
+            "timestamp": datetime.datetime.now().isoformat()
+        }
+        
+        try:
+            requests.post(webhook_url, json={"embeds": [embed]})
+        except:
+            pass
+
 
 def get_chainreactors_md_url(date_str):
     """
@@ -666,12 +956,15 @@ def get_BruceFeIix_md_url(date_str):
 def main():
     '''主函数'''
     logger.info("=== 开始执行微信文章归档工具 ===")
+    send_startup_card()
     
     parser = argparse.ArgumentParser(description='微信文章批量归档工具')
     parser.add_argument('--history', action='store_true', help='拉取历史记录')
     parser.add_argument('--date', type=str, help='指定日期，格式YYYY-MM-DD')
     parser.add_argument('--range', nargs=2, metavar=('START', 'END'), help='指定日期区间，格式YYYY-MM-DD YYYY-MM-DD')
     parser.add_argument('--skip-binary', action='store_true', help='跳过二进制文件处理流程，只更新data.json')
+    parser.add_argument('--force', action='store_true', help='强制处理，忽略重复检查')
+    parser.add_argument('--no-notify', action='store_true', help='不发送通知')
     args = parser.parse_args()
 
     data_file = 'data.json'
@@ -709,7 +1002,7 @@ def main():
                 urls = [url.rstrip(')') for url in urls]
                 chainreactors_urls = urls
             try:
-                process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary)
+                process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary, args.force, args.no_notify)
             except Exception as e:
                 logger.error(f"处理日期 {date_str} 时发生错误: {e}")
                 logger.error("跳过当前日期的处理")
@@ -753,7 +1046,7 @@ def main():
         else:
             logger.warning("BruceFeIix md文件URL为空")
         try:
-            process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary)
+            process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary, args.force, args.no_notify)
         except Exception as e:
             logger.error(f"处理日期 {date_str} 时发生错误: {e}")
             logger.error("跳过当前日期的处理")
@@ -814,7 +1107,7 @@ def main():
             
             # 处理当前日期的数据
             try:
-                process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary)
+                process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary, args.force, args.no_notify)
                 logger.info(f"=== 完成第 {processed_days}/{total_days} 天处理 ===")
             except Exception as e:
                 logger.error(f"=== 第 {processed_days}/{total_days} 天处理失败: {e} ===")
@@ -861,7 +1154,7 @@ def main():
         else:
             logger.warning("BruceFeIix md文件URL为空")
         try:
-            process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary)
+            process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls, data, data_file, base_result_path, executable_path, args.skip_binary, args.force, args.no_notify)
         except Exception as e:
             logger.error(f"处理日期 {date_str} 时发生错误: {e}")
             logger.error("跳过当前日期的处理")
