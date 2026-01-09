@@ -1,16 +1,21 @@
-# 2026-01-08 安全威胁态势报告
+# 2026-01-09 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +64,59 @@
 
 ### Doonsec
 
-- [【AI安全】揭秘AI合成数据背后的“数字病毒”传染链！](https://mp.weixin.qq.com/s/oLUaQpxqMi2YSLNLwZXKuw) (发布日期: 2026-01-08)
+- [安恒信息亮相中国互联网产业年会数据安全产业发展论坛 分享AI+数据安全新思考](https://mp.weixin.qq.com/s/piolYcw9UcGLX_e1zdaOFA) (发布日期: 2026-01-09)
+- [混合云攻防实战：当红队盯上你的云管平台](https://mp.weixin.qq.com/s/PGNk6SDEBcAjC9sMJNBo-g) (发布日期: 2026-01-09)
+- [伪装成Snipaste官网银狐最新攻击样本分析](https://mp.weixin.qq.com/s/U4Qr_G2JcgDVhmKyq9DmAQ) (发布日期: 2026-01-09)
+- [喜报！美创5款产品入选《数据安全产品目录（2025年版）》](https://mp.weixin.qq.com/s/XvB5ndD9P1FxWqRr0aAHlA) (发布日期: 2026-01-09)
+- [【内网渗透】从 NTLM 捕获到域管权限：THM Reset 靶场 Kerberos 委派攻击全流程](https://mp.weixin.qq.com/s/9_VA1zWf_JAQ-WRGN-g0GQ) (发布日期: 2026-01-09)
+- [2025年十大高风险漏洞及其在实际攻击中的应用](https://mp.weixin.qq.com/s/XjIhvLLOTEtWmVeKBMqkYg) (发布日期: 2026-01-09)
+- [MongoDB高危漏洞已被积极利用](https://mp.weixin.qq.com/s/bPbE8xXw4URxpDUIQiNE0Q) (发布日期: 2026-01-09)
+- [SQL注入实战与反思——sqli-labs class -7](https://mp.weixin.qq.com/s/CKQm3app8RlxBIL-TBd8Rw) (发布日期: 2026-01-09)
+- [本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示](https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA) (发布日期: 2026-01-09)
+- [凤凰大学数据泄露事件影响近350万人，美国国务院现悬赏 1000 万美元征集线索](https://mp.weixin.qq.com/s/7AmiMQmM7lU0C35774o1OQ) (发布日期: 2026-01-09)
+- [智能交警与交通护栏：服务网格与微隔离，究竟有何不同？](https://mp.weixin.qq.com/s/DcuhmGBYyfSMGlZvjhelpg) (发布日期: 2026-01-09)
+- [【红队】内网横向边界安全测试工具](https://mp.weixin.qq.com/s/UHo_TCiEFr1Zi1o0Y5V-NA) (发布日期: 2026-01-09)
+- [详析 n8n 超危漏洞（CVE-2026-21858）如何从文件上传一路打到服务器沦陷](https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw) (发布日期: 2026-01-09)
+- [最新Nessus2026.1.8版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg) (发布日期: 2026-01-09)
+- [红队利器 | 高精度重点资产指纹识别工具](https://mp.weixin.qq.com/s/RxPgd5Qslba_HuGT8W9-qw) (发布日期: 2026-01-09)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2025年十大高风险漏洞及其在实际攻击中的应用 | Doonsec | [https://mp.weixin.qq.com/s/XjIhvLLOTEtWmVeKBMqkYg](https://mp.weixin.qq.com/s/XjIhvLLOTEtWmVeKBMqkYg) |
+| 2 | MongoDB高危漏洞已被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/bPbE8xXw4URxpDUIQiNE0Q](https://mp.weixin.qq.com/s/bPbE8xXw4URxpDUIQiNE0Q) |
+| 3 | 本地电脑没有PIN密码也可以实现文件窃取? Windows11WinRE权限控制绕过漏洞演示 | Doonsec | [https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA](https://mp.weixin.qq.com/s/GPFRhF3sg7RbC8DrGl_uGA) |
+| 4 | 详析 n8n 超危漏洞（CVE-2026-21858）如何从文件上传一路打到服务器沦陷 | Doonsec | [https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw](https://mp.weixin.qq.com/s/BOVBEHDQRESrN7W4UWcCbw) |
+| 5 | 最新Nessus2026.1.8版本主机漏洞扫描/探测工具Windows/Linux下载 | Doonsec | [https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg](https://mp.weixin.qq.com/s/dWmRxao4XEsljlnAy9CTvg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【内网渗透】从 NTLM 捕获到域管权限：THM Reset 靶场 Kerberos 委派攻击全流程 | Doonsec | [https://mp.weixin.qq.com/s/9_VA1zWf_JAQ-WRGN-g0GQ](https://mp.weixin.qq.com/s/9_VA1zWf_JAQ-WRGN-g0GQ) |
+| 2 | SQL注入实战与反思——sqli-labs class -7 | Doonsec | [https://mp.weixin.qq.com/s/CKQm3app8RlxBIL-TBd8Rw](https://mp.weixin.qq.com/s/CKQm3app8RlxBIL-TBd8Rw) |
+| 3 | 【红队】内网横向边界安全测试工具 | Doonsec | [https://mp.weixin.qq.com/s/UHo_TCiEFr1Zi1o0Y5V-NA](https://mp.weixin.qq.com/s/UHo_TCiEFr1Zi1o0Y5V-NA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 伪装成Snipaste官网银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s/U4Qr_G2JcgDVhmKyq9DmAQ](https://mp.weixin.qq.com/s/U4Qr_G2JcgDVhmKyq9DmAQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 凤凰大学数据泄露事件影响近350万人，美国国务院现悬赏 1000 万美元征集线索 | Doonsec | [https://mp.weixin.qq.com/s/7AmiMQmM7lU0C35774o1OQ](https://mp.weixin.qq.com/s/7AmiMQmM7lU0C35774o1OQ) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W02/2026-01-08/`
+文章已归档到: `doc/2026/2026-01/2026-W02/2026-01-09/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-08 16:30:41*
+*生成时间: 2026-01-09 01:47:24*
 *报告工具: 微信文章安全归档系统*
