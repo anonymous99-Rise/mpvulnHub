@@ -15,6 +15,7 @@ import glob
 import calendar
 import random
 import yaml
+import time
 import logging
 
 # 配置日志
@@ -66,7 +67,13 @@ def get_md_path(executable_path,url):
     '''获取md文件路径'''
     temp_directory = tempfile.mkdtemp()
     command = [executable_path, url, temp_directory, '--image=url']
-    subprocess.check_output(command)
+    try:
+        # Capture output for debugging
+        result = subprocess.run(command, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        # logger.debug(f"Binary Output: {result.stdout}") # Uncomment if needed
+    except subprocess.CalledProcessError as e:
+        logger.error(f"Binary verification failed: {e.stderr}")
+
     for root, _, files in os.walk(temp_directory):
         for file in files:
             if file.endswith(".md"):
@@ -336,15 +343,30 @@ def rep_filename(result_path):
                 
 
 def extract_title_from_md(md_path):
-    # 尝试从md文件首行获取标题，否则用文件名
+    # 尝试从md文件内容的开头几行获取标题
     try:
+        if not os.path.exists(md_path):
+            return "未知标题"
+            
         with open(md_path, 'r', encoding='utf-8') as f:
-            first_line = f.readline().strip()
-            if first_line.startswith('#'):
-                return first_line.lstrip('#').strip()
-    except:
-        pass
-    return os.path.splitext(os.path.basename(md_path))[0]
+            # 读取前20行查找标题
+            for _ in range(20):
+                line = f.readline().strip()
+                # 匹配 # 标题
+                if line.startswith('# '):
+                    return line.lstrip('#').strip()
+                # 匹配 title: 标题 (YAML front matter)
+                if line.startswith('title:'):
+                    return line.split(':', 1)[1].strip().strip('"').strip("'")
+    except Exception as e:
+        logger.debug(f"提取标题失败: {e}")
+        
+    # 如果没找到，尝试从文件名获取 (排除 .md 和 article_时间戳)
+    filename = os.path.splitext(os.path.basename(md_path))[0]
+    if filename and filename != '.md' and not filename.startswith('article_'):
+        return filename
+        
+    return "未知标题"
 
 def analyze_security_threats(urls_info):
     """
@@ -597,15 +619,35 @@ def save_md_and_update_data(url, date_str, base_result_path, data, data_file, ex
         filename = os.path.basename(file_path)
         logger.info(f"处理文件: {filename}")
         
+        # 检查文件是否有效
+        if not os.path.exists(file_path) or os.path.getsize(file_path) < 50:
+             logger.warning(f"跳过无效/过小文件: {filename}")
+             continue
+
+        # 如果文件名是 .md (没有标题)，尝试读取内容获取标题
+        target_filename = filename
+        temp_title = None
         if filename == '.md':
-            logger.warning(f"跳过空文件: {filename}")
-            continue
-            
-        shutil.copy2(file_path, result_path)
-        logger.info(f"文件已复制到: {result_path}")
+             temp_title = extract_title_from_md(file_path)
+             if temp_title and temp_title != "未知标题":
+                 # 过滤非法字符
+                 safe_title = re.sub(r'[\\/:*?"<>|]', '_', temp_title)
+                 target_filename = f"{safe_title}.md"
+                 logger.info(f"从内容提取标题并重命名: {target_filename}")
+             else:
+                 # 无法提取标题，使用时间戳
+                 target_filename = f"article_{int(time.time())}.md"
+                 logger.info(f"无法提取标题，使用默认名: {target_filename}")
         
-        # 获取标题
-        title = extract_title_from_md(file_path)
+        target_path = os.path.join(result_path, target_filename)
+        shutil.copy2(file_path, target_path)
+        logger.info(f"文件已复制到: {target_path}")
+        
+        # 获取标题 (使用最终的文件路径或之前提取的)
+        if temp_title and temp_title != "未知标题":
+            title = temp_title
+        else:
+            title = extract_title_from_md(target_path)
         logger.info(f"提取标题: {title}")
         
         # 保存标题到data.json
