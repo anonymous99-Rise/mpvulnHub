@@ -1,6 +1,6 @@
 notification:
   feishu:
-    enabled: true
+    enabled: false
     webhook_env: "FEISHU_WEBHOOK"
   discord:
     enabled: true
