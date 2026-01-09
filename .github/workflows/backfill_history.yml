@@ -3,13 +3,25 @@ name: Backfill History
 on:
   workflow_dispatch:
     inputs:
-      start_date:
-        description: 'Start Date (YYYY-MM-DD)'
+      mode:
+        description: 'Backfill Mode'
         required: true
+        default: 'range'
+        type: choice
+        options:
+        - range
+        - date
+      target_date:
+        description: 'Target Date (YYYY-MM-DD) [For Date Mode]'
+        required: false
+        default: ''
+      start_date:
+        description: 'Start Date (YYYY-MM-DD) [For Range Mode]'
+        required: false
         default: '2024-01-01'
       end_date:
-        description: 'End Date (YYYY-MM-DD)'
-        required: true
+        description: 'End Date (YYYY-MM-DD) [For Range Mode]'
+        required: false
         default: '2024-01-09'
 
 jobs:
@@ -39,13 +51,34 @@ jobs:
          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       run: |
-        echo "Starting backfill from ${{ github.event.inputs.start_date }} to ${{ github.event.inputs.end_date }}"
-        python run.py --range ${{ github.event.inputs.start_date }} ${{ github.event.inputs.end_date }} --force --no-notify
+        MODE="${{ github.event.inputs.mode }}"
+        
+        if [ "$MODE" == "date" ]; then
+            TARGET="${{ github.event.inputs.target_date }}"
+            if [ -z "$TARGET" ]; then
+                echo "Error: Target Date is required for Date Mode."
+                exit 1
+            fi
+            echo "Starting backfill for specific date: $TARGET"
+            python run.py --date "$TARGET" --force --no-notify
+            
+        elif [ "$MODE" == "range" ]; then
+            START="${{ github.event.inputs.start_date }}"
+            END="${{ github.event.inputs.end_date }}"
+            if [ -z "$START" ] || [ -z "$END" ]; then
+                echo "Error: Start Date and End Date are required for Range Mode."
+                exit 1
+            fi
+            echo "Starting backfill for range: $START to $END"
+            python run.py --range "$START" "$END" --force --no-notify
+        else
+            echo "Unknown mode: $MODE"
+            exit 1
+        fi
         
     - name: Commit and push changes
       run: |
         git config --global user.email "791751568@qq.com"
         git config --global user.name "adminlove520"
-        git add .
-        git commit -m "docs: backfill history from ${{ github.event.inputs.start_date }} to ${{ github.event.inputs.end_date }}" || exit 0
-        git push origin main
+        git add doc/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "docs: backfill history (${{ github.event.inputs.mode }})" && git push origin main)
