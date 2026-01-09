@@ -342,6 +342,8 @@ def rep_filename(result_path):
                 shutil.move(os.path.join(root, file), os.path.join(root, new_file))
                 
 
+
+
 def extract_title_from_md(md_path):
     # 尝试从md文件内容的开头几行获取标题
     try:
@@ -349,15 +351,28 @@ def extract_title_from_md(md_path):
             return "未知标题"
             
         with open(md_path, 'r', encoding='utf-8') as f:
-            # 读取前20行查找标题
+            lines = []
+            # 读取前20行
             for _ in range(20):
-                line = f.readline().strip()
-                # 匹配 # 标题
-                if line.startswith('# '):
+                line = f.readline()
+                if not line: break
+                lines.append(line.strip())
+            
+            # 策略1: 匹配 # 标题
+            for line in lines:
+                if line.startswith('#'):
                     return line.lstrip('#').strip()
-                # 匹配 title: 标题 (YAML front matter)
+            
+            # 策略2: 匹配 title: 
+            for line in lines:
                 if line.startswith('title:'):
                     return line.split(':', 1)[1].strip().strip('"').strip("'")
+                    
+            # 策略3:如果有内容，取第一个非空行作为标题
+            for line in lines:
+                if line:
+                    return line
+                    
     except Exception as e:
         logger.debug(f"提取标题失败: {e}")
         
