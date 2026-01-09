@@ -315,6 +315,11 @@ def process_one_day(date_str, doonsec_list, chainreactors_urls, brucefeiix_urls,
     else:
         # 4. 再批量抓取和归档
         for idx, (url, source, title, article_date) in enumerate(urls_info):
+            # 添加随机延时，防止触发反爬 (3-8秒)
+            sleep_time = random.uniform(3, 8)
+            logger.info(f"等待 {sleep_time:.2f} 秒后处理下一篇...")
+            time.sleep(sleep_time)
+            
             real_title = save_md_and_update_data(url, article_date, base_result_path, data, data_file, executable_path, source, article_date, no_notify)
             if not title:
                 urls_info[idx] = (url, source, real_title, article_date)
