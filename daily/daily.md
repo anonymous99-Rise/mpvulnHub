@@ -1,17 +1,21 @@
-# 2026-01-10 安全威胁态势报告
+# 2026-01-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 6篇
 - **攻击技术**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 3篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -61,22 +65,63 @@
 
 ### Doonsec
 
-- [【安全工具】ClipboardStealBOF](https://mp.weixin.qq.com/s/DkGsubJec_Brr2VdVDE0bg) (发布日期: 2026-01-10)
-- [SQL注入实战——HTTP Header注入，新的注入思路](https://mp.weixin.qq.com/s/IVLi0Ze1f9ilw4XlgkR_qw) (发布日期: 2026-01-10)
+- [TikTok 账户恢复机制中的身份验证绕过漏洞分析 $12,000](https://mp.weixin.qq.com/s/sxctmnTyRF4Zix0mr7LUNg) (发布日期: 2026-01-11)
+- [一个价值7万美刀的谷歌漏洞](https://mp.weixin.qq.com/s/lpcWYaMZCRQCIoCU_D_1gw) (发布日期: 2026-01-11)
+- [GitLab 代码仓库平台中的 XSS 漏洞分析 $35,000](https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw) (发布日期: 2026-01-11)
+- [因未修改默认密码，加州多地交通信号灯被黑](https://mp.weixin.qq.com/s/XSAs66Va3RcC0_y-ihLaRA) (发布日期: 2026-01-11)
+- [Shiro漏洞利用工具，更新V0.2！](https://mp.weixin.qq.com/s/cHl07XF_Tjc-_pERgNJDsw) (发布日期: 2026-01-11)
+- [2026“工赋上海”创新大会｜“AI赋能工业安全，安全护航产业升级”主题论坛成功举办](https://mp.weixin.qq.com/s/RyQrNrarhoAQTAkw0Qliuw) (发布日期: 2026-01-11)
+- [Ruoyi单应用版本漏洞合集](https://mp.weixin.qq.com/s/2QiGOOH1Szw6YT3cl1qFcA) (发布日期: 2026-01-11)
+- [勒索软件LockBit 洋葱网站数据泄露，想研究或者解密的同学可以试一下](https://mp.weixin.qq.com/s/V5SMTOTPAQBsRc0EhX61kg) (发布日期: 2026-01-11)
+- [复现pgAdmin4 <= 9.10(CVE-2025-13780)漏洞利用](https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ) (发布日期: 2026-01-11)
+- [乌克兰安全服务局（SBU）反恐中心文件泄露](https://mp.weixin.qq.com/s/BzdtTl2pww_F3K23BCKDqw) (发布日期: 2026-01-11)
+- [谈一谈红队钓鱼中的姿势（中）](https://mp.weixin.qq.com/s/-6jyjjNCOCpMT6VrYnhGyw) (发布日期: 2026-01-11)
+- [不仅仅是RSA - CTF密码学综合题目完整解析](https://mp.weixin.qq.com/s/vHggo1t3arGjPEvFSVkpiA) (发布日期: 2026-01-11)
+- [日产汽车疑遭Everest勒索软件攻击，逾900GB数据面临泄露](https://mp.weixin.qq.com/s/TVLZVtPp54aAun4Qi9knNA) (发布日期: 2026-01-11)
+- [降低SR门槛：手把手用更熟悉的OSPF配置SR-MPLS L3VPN，并对比与IS-IS的差异](https://mp.weixin.qq.com/s/clIfw0BsW5VpWg2WqUFknw) (发布日期: 2026-01-11)
+- [数据安全产品目录（2025年版）正式发布](https://mp.weixin.qq.com/s/iVwxKM4flbqOyD1IGgaNRQ) (发布日期: 2026-01-11)
+- [OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家](https://mp.weixin.qq.com/s/AgcTtl1DO6ivamdqq3Ra_A) (发布日期: 2026-01-11)
+- [Windows安全攻防-进程创建的几种方式](https://mp.weixin.qq.com/s/hQo9MKxIBUY7EWoqC8x08g) (发布日期: 2026-01-11)
+- [行业资讯：某省数字政府网络安全管理运营服务项目，安恒1002.6万中产品、奇安信59万中服务](https://mp.weixin.qq.com/s/apOX97B3Gmo4JlOnM3sbmw) (发布日期: 2026-01-11)
+- [行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中](https://mp.weixin.qq.com/s/gBqGB5-TxxRL5PlgARJ_ZA) (发布日期: 2026-01-11)
+- [RansomHouse 通过多层数据处理升级加密技术](https://mp.weixin.qq.com/s/SodBcDCJ6dbL3zhJCoPDOQ) (发布日期: 2026-01-11)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | TikTok 账户恢复机制中的身份验证绕过漏洞分析 $12,000 | Doonsec | [https://mp.weixin.qq.com/s/sxctmnTyRF4Zix0mr7LUNg](https://mp.weixin.qq.com/s/sxctmnTyRF4Zix0mr7LUNg) |
+| 2 | 一个价值7万美刀的谷歌漏洞 | Doonsec | [https://mp.weixin.qq.com/s/lpcWYaMZCRQCIoCU_D_1gw](https://mp.weixin.qq.com/s/lpcWYaMZCRQCIoCU_D_1gw) |
+| 3 | GitLab 代码仓库平台中的 XSS 漏洞分析 $35,000 | Doonsec | [https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw](https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw) |
+| 4 | Shiro漏洞利用工具，更新V0.2！ | Doonsec | [https://mp.weixin.qq.com/s/cHl07XF_Tjc-_pERgNJDsw](https://mp.weixin.qq.com/s/cHl07XF_Tjc-_pERgNJDsw) |
+| 5 | Ruoyi单应用版本漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s/2QiGOOH1Szw6YT3cl1qFcA](https://mp.weixin.qq.com/s/2QiGOOH1Szw6YT3cl1qFcA) |
+| 6 | 复现pgAdmin4 <= 9.10(CVE-2025-13780)漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ](https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SQL注入实战——HTTP Header注入，新的注入思路 | Doonsec | [https://mp.weixin.qq.com/s/IVLi0Ze1f9ilw4XlgkR_qw](https://mp.weixin.qq.com/s/IVLi0Ze1f9ilw4XlgkR_qw) |
+| 1 | GitLab 代码仓库平台中的 XSS 漏洞分析 $35,000 | Doonsec | [https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw](https://mp.weixin.qq.com/s/YnS9HNox5fCx8O-4MPCCrw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中 | Doonsec | [https://mp.weixin.qq.com/s/gBqGB5-TxxRL5PlgARJ_ZA](https://mp.weixin.qq.com/s/gBqGB5-TxxRL5PlgARJ_ZA) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 勒索软件LockBit 洋葱网站数据泄露，想研究或者解密的同学可以试一下 | Doonsec | [https://mp.weixin.qq.com/s/V5SMTOTPAQBsRc0EhX61kg](https://mp.weixin.qq.com/s/V5SMTOTPAQBsRc0EhX61kg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W02/2026-01-10/`
+文章已归档到: `doc/2026/2026-01/2026-W02/2026-01-11/`
 
 ## 🔗 数据源说明
 
@@ -87,8 +132,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +142,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-10 16:25:39*
+*生成时间: 2026-01-11 01:55:59*
 *报告工具: 微信文章安全归档系统*
