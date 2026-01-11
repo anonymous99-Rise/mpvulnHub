@@ -2,23 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 15篇
-  - BruceFeIix: 2篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 3篇
-- **威胁情报**: 3篇
-- **信息泄露**: 2篇
-- **供应链**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,72 +61,20 @@
 
 ### Doonsec
 
-- [Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具](https://mp.weixin.qq.com/s/AWZOI3hliG5D1PV2dHqLGg) (发布日期: 2026-01-11)
-- [一款红队在信息收集时规避IP封禁的傻瓜式一键代理池，通过大量代理节点轮询的代理池工具](https://mp.weixin.qq.com/s/nR7Qfqb5kgq81c9cP0wAJw) (发布日期: 2026-01-11)
-- [BreachForums 关于数据泄露声明的分析](https://mp.weixin.qq.com/s/Z0lDQVfi7wk8KjY_GnFb_A) (发布日期: 2026-01-11)
-- [Instagram 2024 年 API 数据泄露事件](https://mp.weixin.qq.com/s/LJH0WCN6GqX-SygmlbPsuQ) (发布日期: 2026-01-11)
-- [【云安全专题-4】S3 存储桶错误配置与接管实战](https://mp.weixin.qq.com/s/zIr30-j2zVSfAebnbWKM1A) (发布日期: 2026-01-11)
-- [【接口漏洞第四章第二节】隐藏参数挖不动？可能是你的 Param Miner 没配置对](https://mp.weixin.qq.com/s/r1spDPzYcMvyE6yvUfNIbg) (发布日期: 2026-01-11)
-- [揭秘 SmarterMail 沉寂三个月后才公开的“满分”RCE 漏洞](https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw) (发布日期: 2026-01-11)
-- [CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg) (发布日期: 2026-01-11)
-- [CVE-2026-21440｜AdonisJS远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA) (发布日期: 2026-01-11)
-- [银狐远控的被控端是如何隐藏和保护自己的](https://mp.weixin.qq.com/s/1Op_Zt1uttY264QndMrXsg) (发布日期: 2026-01-11)
-- [漏洞挖掘实战系列（第 7 期）：跨场景移动端与物联网漏洞挖掘](https://mp.weixin.qq.com/s/sWeCFIPxGL-J6QutTF46dQ) (发布日期: 2026-01-11)
-- [从“悄悄话”到比特币：密码学如何守护数字世界的一切秘密？](https://mp.weixin.qq.com/s/ANjhyFkKzvW2-d7adEi9TA) (发布日期: 2026-01-11)
-- [2025年微軟Windows系統最為嚴重的十大漏洞回顧](https://mp.weixin.qq.com/s/kp7S_tLBtyWhwJTpWOnuxQ) (发布日期: 2026-01-11)
-- [【黑客】App如何抓包？玄域App漏洞靶场实操演示](https://mp.weixin.qq.com/s/ahBCyjs25I6W5KqNaLEYCw) (发布日期: 2026-01-11)
-- [漏洞复现 | 汉王e脸通综合管理平台 uploadMapFile.do 任意文件上传漏洞](https://mp.weixin.qq.com/s/4chQzbF0T_9ta9jiCnWmLQ) (发布日期: 2026-01-11)
-
-### BruceFeIix
-
-- [ ] [银狐Edge最新变种样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495321&idx=1&sn=787c65f5eb1d9f7758d4377d43eaa0d3) (发布日期: 2026-01-11)
-- [ ] [【安全圈】思科交换机DNS客户端漏洞事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=3&sn=dc42dce00e90108d55e8d5ba87118a10) (发布日期: 2026-01-11)
+- [【案例】关于某大学缴费系统Oracle注入绕过](https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg) (发布日期: 2026-01-11)
+- [突破Noob靶场：渗透测试的最佳入门场景和技巧！](https://mp.weixin.qq.com/s/4Yu14BXp4Q6o1f06XxbeSA) (发布日期: 2026-01-11)
+- [Strix,融合源码理解与运行态验证的 AI 渗透测试框架](https://mp.weixin.qq.com/s/LoWr92vfXCB3jhyaZKS4Vg) (发布日期: 2026-01-11)
+- [某商城系统最新版本SQL注入审计](https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA) (发布日期: 2026-01-11)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【接口漏洞第四章第二节】隐藏参数挖不动？可能是你的 Param Miner 没配置对 | Doonsec | [https://mp.weixin.qq.com/s/r1spDPzYcMvyE6yvUfNIbg](https://mp.weixin.qq.com/s/r1spDPzYcMvyE6yvUfNIbg) |
-| 2 | 揭秘 SmarterMail 沉寂三个月后才公开的“满分”RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw](https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw) |
-| 3 | CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg](https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg) |
-| 4 | CVE-2026-21440｜AdonisJS远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA](https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA) |
-| 5 | 漏洞挖掘实战系列（第 7 期）：跨场景移动端与物联网漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/sWeCFIPxGL-J6QutTF46dQ](https://mp.weixin.qq.com/s/sWeCFIPxGL-J6QutTF46dQ) |
-| 6 | 2025年微軟Windows系統最為嚴重的十大漏洞回顧 | Doonsec | [https://mp.weixin.qq.com/s/kp7S_tLBtyWhwJTpWOnuxQ](https://mp.weixin.qq.com/s/kp7S_tLBtyWhwJTpWOnuxQ) |
-| 7 | 【黑客】App如何抓包？玄域App漏洞靶场实操演示 | Doonsec | [https://mp.weixin.qq.com/s/ahBCyjs25I6W5KqNaLEYCw](https://mp.weixin.qq.com/s/ahBCyjs25I6W5KqNaLEYCw) |
-| 8 | 漏洞复现 | 汉王e脸通综合管理平台 uploadMapFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4chQzbF0T_9ta9jiCnWmLQ](https://mp.weixin.qq.com/s/4chQzbF0T_9ta9jiCnWmLQ) |
-| 9 |  ] [【安全圈】思科交换机DNS客户端漏洞事件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=3&sn=dc42dce00e90108d55e8d5ba87118a10](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=3&sn=dc42dce00e90108d55e8d5ba87118a10) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 揭秘 SmarterMail 沉寂三个月后才公开的“满分”RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw](https://mp.weixin.qq.com/s/8DHGJbxxLlReA4LND_7_Rw) |
-| 2 | CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg](https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg) |
-| 3 | CVE-2026-21440｜AdonisJS远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA](https://mp.weixin.qq.com/s/9D-6Lg91Mb1rx0mGGbhlPA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具 | Doonsec | [https://mp.weixin.qq.com/s/AWZOI3hliG5D1PV2dHqLGg](https://mp.weixin.qq.com/s/AWZOI3hliG5D1PV2dHqLGg) |
-| 2 | 银狐远控的被控端是如何隐藏和保护自己的 | Doonsec | [https://mp.weixin.qq.com/s/1Op_Zt1uttY264QndMrXsg](https://mp.weixin.qq.com/s/1Op_Zt1uttY264QndMrXsg) |
-| 3 |  ] [银狐Edge最新变种样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495321&idx=1&sn=787c65f5eb1d9f7758d4377d43eaa0d3](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495321&idx=1&sn=787c65f5eb1d9f7758d4377d43eaa0d3) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | BreachForums 关于数据泄露声明的分析 | Doonsec | [https://mp.weixin.qq.com/s/Z0lDQVfi7wk8KjY_GnFb_A](https://mp.weixin.qq.com/s/Z0lDQVfi7wk8KjY_GnFb_A) |
-| 2 | Instagram 2024 年 API 数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/LJH0WCN6GqX-SygmlbPsuQ](https://mp.weixin.qq.com/s/LJH0WCN6GqX-SygmlbPsuQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CVE-2025-54068｜Livewire组件远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg](https://mp.weixin.qq.com/s/hIMFJhm7vCIoAxMatILLEg) |
+| 1 | 【案例】关于某大学缴费系统Oracle注入绕过 | Doonsec | [https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg](https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg) |
+| 2 | 某商城系统最新版本SQL注入审计 | Doonsec | [https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA](https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA) |
 
 
 ## 📁 归档路径
@@ -148,7 +90,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -158,5 +100,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-11 04:48:23*
+*生成时间: 2026-01-11 08:27:28*
 *报告工具: 微信文章安全归档系统*
