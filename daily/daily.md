@@ -2,17 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
+- **漏洞利用**: 5篇
+- **安全运营**: 3篇
+- **威胁情报**: 2篇
+- **信息泄露**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,20 +67,65 @@
 
 ### Doonsec
 
-- [【案例】关于某大学缴费系统Oracle注入绕过](https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg) (发布日期: 2026-01-11)
-- [突破Noob靶场：渗透测试的最佳入门场景和技巧！](https://mp.weixin.qq.com/s/4Yu14BXp4Q6o1f06XxbeSA) (发布日期: 2026-01-11)
-- [Strix,融合源码理解与运行态验证的 AI 渗透测试框架](https://mp.weixin.qq.com/s/LoWr92vfXCB3jhyaZKS4Vg) (发布日期: 2026-01-11)
-- [某商城系统最新版本SQL注入审计](https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA) (发布日期: 2026-01-11)
+- [渗透测试登录框的实战思路](https://mp.weixin.qq.com/s/Lt5-Kmu8qhxm3iFeyvc9Fw) (发布日期: 2026-01-11)
+- [资料共享 | 《2025银行保险机构数据安全合规落地最佳实践》](https://mp.weixin.qq.com/s/jIgRc8QAkNxtHERym9LOnQ) (发布日期: 2026-01-11)
+- [高危漏洞威胁情报合集 (2026-01-11）](https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg) (发布日期: 2026-01-11)
+- [AI驱动的IoT固件安全分析：从上传到报告，全流程自动化](https://mp.weixin.qq.com/s/NN_cghz3sPzdqELowm8GTg) (发布日期: 2026-01-11)
+- [伪装成LetsVPN安装程序银狐最新攻击样本分析](https://mp.weixin.qq.com/s/mJWQczFH25H2-pv7_6lWJw) (发布日期: 2026-01-11)
+- [【安全圈】Meta澄清Instagram“密码重置风暴”非发生数据泄露](https://mp.weixin.qq.com/s/5ZNBjIyLKZOGvFFcmGfHdw) (发布日期: 2026-01-11)
+- [东胜物流 GetDataList sql注入漏洞](https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw) (发布日期: 2026-01-11)
+- [2026开年第一漏洞！赶快检查Chrome浏览器（CVE-2026-0628）](https://mp.weixin.qq.com/s/J0TGMVzeK7dN7Bi3iFAyCw) (发布日期: 2026-01-11)
+- [Instagram曝大规模数据泄露事件，1750万用户信息遭泄露](https://mp.weixin.qq.com/s/G25zuJfysxms5M5wem5K1Q) (发布日期: 2026-01-11)
+- [大型僵尸网络利用AI工具暴力破解全球Linux服务器](https://mp.weixin.qq.com/s/_kcsWUsz_Og9PfAURDasUQ) (发布日期: 2026-01-11)
+- [每周PDF资源：工业互联网渗透实战记录；12月企业必修安全漏洞；揭秘黑灰产AI的潘多拉魔盒；渗透测试行业术语扫盲](https://mp.weixin.qq.com/s/20H4sC5T2-FcfA4jPh70QA) (发布日期: 2026-01-11)
+- [全网首发FofaMapV2.0！首个支持 MCP 协议 + AI 自我反思机制的红队资产测绘智能体](https://mp.weixin.qq.com/s/xo6lIfYocREYOtEOWpo-4g) (发布日期: 2026-01-11)
+- [人工智能安全：对抗攻击与防御](https://mp.weixin.qq.com/s/fFFDZ9gKbuM76Z1yh6wm_w) (发布日期: 2026-01-11)
+- [CISSP复习题及答案解析-安全与风险管理、安全运营](https://mp.weixin.qq.com/s/dv4To5SJOloZNb7dJqmVJA) (发布日期: 2026-01-11)
+- [某企业src的弱口令案例](https://mp.weixin.qq.com/s/AjlTSZqCb7GhOlWxg2v_qA) (发布日期: 2026-01-11)
+- [Chrome WebView 漏洞（CVE-2026-0628）可绕过安全限制](https://mp.weixin.qq.com/s/QIXURLRau9_4Si4u33FSMA) (发布日期: 2026-01-11)
+- [MuddyWater通过鱼叉式网络钓鱼在中东地区推出RustyWater远程访问木马（RAT）](https://mp.weixin.qq.com/s/FdaoCRcDe3gxinoeldaqaA) (发布日期: 2026-01-11)
+- [Src寄来的礼盒都不舍得扔，家里整理一下(回忆) 有没有眼尖的src看看有没有自家的礼盒[呲牙]](https://mp.weixin.qq.com/s/4R2BiNfVYqJEB37mk75J-g) (发布日期: 2026-01-11)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 高危漏洞威胁情报合集 (2026-01-11） | Doonsec | [https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg](https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg) |
+| 2 | 东胜物流 GetDataList sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw](https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw) |
+| 3 | 2026开年第一漏洞！赶快检查Chrome浏览器（CVE-2026-0628） | Doonsec | [https://mp.weixin.qq.com/s/J0TGMVzeK7dN7Bi3iFAyCw](https://mp.weixin.qq.com/s/J0TGMVzeK7dN7Bi3iFAyCw) |
+| 4 | 每周PDF资源：工业互联网渗透实战记录；12月企业必修安全漏洞；揭秘黑灰产AI的潘多拉魔盒；渗透测试行业术语扫盲 | Doonsec | [https://mp.weixin.qq.com/s/20H4sC5T2-FcfA4jPh70QA](https://mp.weixin.qq.com/s/20H4sC5T2-FcfA4jPh70QA) |
+| 5 | Chrome WebView 漏洞（CVE-2026-0628）可绕过安全限制 | Doonsec | [https://mp.weixin.qq.com/s/QIXURLRau9_4Si4u33FSMA](https://mp.weixin.qq.com/s/QIXURLRau9_4Si4u33FSMA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【案例】关于某大学缴费系统Oracle注入绕过 | Doonsec | [https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg](https://mp.weixin.qq.com/s/2O_CcZtcRcTA9XZZfMvKwg) |
-| 2 | 某商城系统最新版本SQL注入审计 | Doonsec | [https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA](https://mp.weixin.qq.com/s/bEY92vzwLPZtm4RDRSdGQA) |
+| 1 | 东胜物流 GetDataList sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw](https://mp.weixin.qq.com/s/LkenoQ5faJgHR-rctXp4jw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 高危漏洞威胁情报合集 (2026-01-11） | Doonsec | [https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg](https://mp.weixin.qq.com/s/vz1WAaS17dhkSz6TsxaNfg) |
+| 2 | 伪装成LetsVPN安装程序银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s/mJWQczFH25H2-pv7_6lWJw](https://mp.weixin.qq.com/s/mJWQczFH25H2-pv7_6lWJw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CISSP复习题及答案解析-安全与风险管理、安全运营 | Doonsec | [https://mp.weixin.qq.com/s/dv4To5SJOloZNb7dJqmVJA](https://mp.weixin.qq.com/s/dv4To5SJOloZNb7dJqmVJA) |
+| 2 | 某企业src的弱口令案例 | Doonsec | [https://mp.weixin.qq.com/s/AjlTSZqCb7GhOlWxg2v_qA](https://mp.weixin.qq.com/s/AjlTSZqCb7GhOlWxg2v_qA) |
+| 3 | Src寄来的礼盒都不舍得扔，家里整理一下(回忆) 有没有眼尖的src看看有没有自家的礼盒[呲牙] | Doonsec | [https://mp.weixin.qq.com/s/4R2BiNfVYqJEB37mk75J-g](https://mp.weixin.qq.com/s/4R2BiNfVYqJEB37mk75J-g) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】Meta澄清Instagram“密码重置风暴”非发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/5ZNBjIyLKZOGvFFcmGfHdw](https://mp.weixin.qq.com/s/5ZNBjIyLKZOGvFFcmGfHdw) |
+| 2 | Instagram曝大规模数据泄露事件，1750万用户信息遭泄露 | Doonsec | [https://mp.weixin.qq.com/s/G25zuJfysxms5M5wem5K1Q](https://mp.weixin.qq.com/s/G25zuJfysxms5M5wem5K1Q) |
 
 
 ## 📁 归档路径
@@ -90,7 +141,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -100,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-11 08:27:28*
+*生成时间: 2026-01-11 12:41:45*
 *报告工具: 微信文章安全归档系统*
