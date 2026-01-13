@@ -1,17 +1,25 @@
-# 2026-01-12 安全威胁态势报告
+# 2026-01-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 30
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 30篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 5篇
+- **威胁情报**: 3篇
+- **安全运营**: 3篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,9 +68,36 @@
 
 ### Doonsec
 
-- [易忽视的敏感信息泄露](https://mp.weixin.qq.com/s/b9fPdO_Bbpzdpc67uzkwKg) (发布日期: 2026-01-12)
-- [CVE-2025-68428_PoC](https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw) (发布日期: 2026-01-12)
-- [HexStrike AI自动渗透测试平台搭建](https://mp.weixin.qq.com/s/4iDN2Y1V0YFmTqo-jcErjg) (发布日期: 2026-01-12)
+- [黑客利用0Day漏洞工具包在野攻击VMware ESXi实例](https://mp.weixin.qq.com/s/TDfAcmrHqRDY5aKBJLW8Cg) (发布日期: 2026-01-13)
+- [行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中](https://mp.weixin.qq.com/s/z48y-dOfzCIL3Wqh3vejDA) (发布日期: 2026-01-13)
+- [【好靶场】存在逻辑漏洞-导致评论区消失且用户无法评论](https://mp.weixin.qq.com/s/7kAJRKLVmiONrSCjVZF2vg) (发布日期: 2026-01-13)
+- [低成本玩转SDN：实测OpenDaylight资源消耗仅1.1GB，完美纳管华为设备，开源方案真香！](https://mp.weixin.qq.com/s/gI2wDmhiQCv0XJkyBVvz5g) (发布日期: 2026-01-13)
+- [网络犯罪分子利用马杜罗被捕的消息传播后门恶意软件](https://mp.weixin.qq.com/s/PtC0LGJ5B50h8MuA6ZNQIQ) (发布日期: 2026-01-13)
+- [威胁情报公司警告：大型语言模型成为攻击者的目标](https://mp.weixin.qq.com/s/UUFvs-0f8xUDUKvcroK-pQ) (发布日期: 2026-01-13)
+- [Apache Struts 2严重漏洞可能让攻击者窃取敏感数据](https://mp.weixin.qq.com/s/1qTDnP6CcY3sud0d0pGJnQ) (发布日期: 2026-01-13)
+- [n8n供应链攻击滥用社区节点窃取OAuth令牌](https://mp.weixin.qq.com/s/LVuF_tbX5bgufT6GWm-00Q) (发布日期: 2026-01-13)
+- [Burpy插件实战-某微信小程序加密算法破解](https://mp.weixin.qq.com/s/H77wP6ijabH5mQ2Yfy0XNw) (发布日期: 2026-01-13)
+- [CVE-2025-52694 (CVSS 10)：研华 SQL 注入漏洞严重，物联网设备面临风险](https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg) (发布日期: 2026-01-13)
+- [【密码学】基于ML-DSA的门限签名](https://mp.weixin.qq.com/s/njEf8wFNEvk9jt63M_uILA) (发布日期: 2026-01-13)
+- [你的数据正在被\"隐形越狱\"？访问控制如何筑起数字高墙](https://mp.weixin.qq.com/s/xLCK9x_5MIUJiDLnF3wIUw) (发布日期: 2026-01-13)
+- [伪装成火绒安装包银狐最新攻击样本分析](https://mp.weixin.qq.com/s/_flM1cG8VpMqZmPo24coBg) (发布日期: 2026-01-13)
+- [Mars 战神 - 下一代 SRC 与资产监测平台](https://mp.weixin.qq.com/s/J-0pGcKyYswVeHHHsI7b7w) (发布日期: 2026-01-13)
+- [搞定甲方就靠它！50 个应急响应技巧收藏即能用！](https://mp.weixin.qq.com/s/YN9_cIHljI7Ux5l4s2qAIQ) (发布日期: 2026-01-13)
+- [千万罚款预警！AI安全纳入法治监管，ZoomEye Pro助力企事业单位识别AI资产和漏洞！](https://mp.weixin.qq.com/s/i7fdsk7xfQz7QEqMGK6TEw) (发布日期: 2026-01-13)
+- [漏洞预警 | AdonisJS路径遍历漏洞](https://mp.weixin.qq.com/s/dR-8ycJ3Ws-b9tKgJprNnQ) (发布日期: 2026-01-13)
+- [漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞](https://mp.weixin.qq.com/s/0FDgQC5oRj_aakIGDBIsBA) (发布日期: 2026-01-13)
+- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA) (发布日期: 2026-01-13)
+- [Mars 战神 - 下一代 SRC 与资产监测平台](https://mp.weixin.qq.com/s/4I7nTfFhBx_tQ9uT8WJ8Cw) (发布日期: 2026-01-13)
+- [CTF密码学题目深度解析：Decrypt-It-easy](https://mp.weixin.qq.com/s/Aopb_pMWZxnwCk18EhpYlA) (发布日期: 2026-01-13)
+- [ComfyUI-Manager RCE链组合拳](https://mp.weixin.qq.com/s/xfUsH8kbI17P6gfzMbpPyg) (发布日期: 2026-01-13)
+- [实锤！CVSS评分仅4.9却已被公开利用？揭秘隐藏在 Cisco 授权模块里的“隐形杀手”](https://mp.weixin.qq.com/s/8Qk5vZGaAXobaRSv2icwbQ) (发布日期: 2026-01-13)
+- [美国正在采用灰色地带的网络安全策略？](https://mp.weixin.qq.com/s/U7fqNT4SJ2C3kK3V2QBXyg) (发布日期: 2026-01-13)
+- [OSCP认证高频漏洞利用技术](https://mp.weixin.qq.com/s/BHzEMxC88HocB2GHJ7zhrw) (发布日期: 2026-01-13)
+- [数据安全评估管理办法](https://mp.weixin.qq.com/s/58EUlvBM2JkRAK00yXgovg) (发布日期: 2026-01-13)
+- [数据安全管理办法](https://mp.weixin.qq.com/s/kmYBEDXUGDIo5qr9VBLX5w) (发布日期: 2026-01-13)
+- [当 SQL 注入遇上 Base64 和字符集：sqli-labs 第 21 关深度拆解](https://mp.weixin.qq.com/s/ffi5S12-beVcs8OMS_y8Ig) (发布日期: 2026-01-13)
+- [n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)](https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw) (发布日期: 2026-01-13)
+- [ApolloLnk：一键生成恶意 LNK，适配渗透测试免杀与钓鱼场景](https://mp.weixin.qq.com/s/DPkiz1Fg2KJoVmED4NRKhQ) (发布日期: 2026-01-13)
 
 
 ## 🎯 威胁详情分析
@@ -71,12 +106,53 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-68428_PoC | Doonsec | [https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw](https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw) |
+| 1 | 黑客利用0Day漏洞工具包在野攻击VMware ESXi实例 | Doonsec | [https://mp.weixin.qq.com/s/TDfAcmrHqRDY5aKBJLW8Cg](https://mp.weixin.qq.com/s/TDfAcmrHqRDY5aKBJLW8Cg) |
+| 2 | 【好靶场】存在逻辑漏洞-导致评论区消失且用户无法评论 | Doonsec | [https://mp.weixin.qq.com/s/7kAJRKLVmiONrSCjVZF2vg](https://mp.weixin.qq.com/s/7kAJRKLVmiONrSCjVZF2vg) |
+| 3 | 低成本玩转SDN：实测OpenDaylight资源消耗仅1.1GB，完美纳管华为设备，开源方案真香！ | Doonsec | [https://mp.weixin.qq.com/s/gI2wDmhiQCv0XJkyBVvz5g](https://mp.weixin.qq.com/s/gI2wDmhiQCv0XJkyBVvz5g) |
+| 4 | Apache Struts 2严重漏洞可能让攻击者窃取敏感数据 | Doonsec | [https://mp.weixin.qq.com/s/1qTDnP6CcY3sud0d0pGJnQ](https://mp.weixin.qq.com/s/1qTDnP6CcY3sud0d0pGJnQ) |
+| 5 | CVE-2025-52694 (CVSS 10)：研华 SQL 注入漏洞严重，物联网设备面临风险 | Doonsec | [https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg](https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg) |
+| 6 | 千万罚款预警！AI安全纳入法治监管，ZoomEye Pro助力企事业单位识别AI资产和漏洞！ | Doonsec | [https://mp.weixin.qq.com/s/i7fdsk7xfQz7QEqMGK6TEw](https://mp.weixin.qq.com/s/i7fdsk7xfQz7QEqMGK6TEw) |
+| 7 | 漏洞预警 | AdonisJS路径遍历漏洞 | Doonsec | [https://mp.weixin.qq.com/s/dR-8ycJ3Ws-b9tKgJprNnQ](https://mp.weixin.qq.com/s/dR-8ycJ3Ws-b9tKgJprNnQ) |
+| 8 | 漏洞预警 | 天锐绿盾审批系统fastjson反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0FDgQC5oRj_aakIGDBIsBA](https://mp.weixin.qq.com/s/0FDgQC5oRj_aakIGDBIsBA) |
+| 9 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA](https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA) |
+| 10 | OSCP认证高频漏洞利用技术 | Doonsec | [https://mp.weixin.qq.com/s/BHzEMxC88HocB2GHJ7zhrw](https://mp.weixin.qq.com/s/BHzEMxC88HocB2GHJ7zhrw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2025-52694 (CVSS 10)：研华 SQL 注入漏洞严重，物联网设备面临风险 | Doonsec | [https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg](https://mp.weixin.qq.com/s/JQ2OOqsz2jZThLgO0B--vg) |
+| 2 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA](https://mp.weixin.qq.com/s/PJzyTgExzP10ox6NTRKviA) |
+| 3 | ComfyUI-Manager RCE链组合拳 | Doonsec | [https://mp.weixin.qq.com/s/xfUsH8kbI17P6gfzMbpPyg](https://mp.weixin.qq.com/s/xfUsH8kbI17P6gfzMbpPyg) |
+| 4 | 当 SQL 注入遇上 Base64 和字符集：sqli-labs 第 21 关深度拆解 | Doonsec | [https://mp.weixin.qq.com/s/ffi5S12-beVcs8OMS_y8Ig](https://mp.weixin.qq.com/s/ffi5S12-beVcs8OMS_y8Ig) |
+| 5 | n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0) | Doonsec | [https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw](https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 威胁情报公司警告：大型语言模型成为攻击者的目标 | Doonsec | [https://mp.weixin.qq.com/s/UUFvs-0f8xUDUKvcroK-pQ](https://mp.weixin.qq.com/s/UUFvs-0f8xUDUKvcroK-pQ) |
+| 2 | 伪装成火绒安装包银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s/_flM1cG8VpMqZmPo24coBg](https://mp.weixin.qq.com/s/_flM1cG8VpMqZmPo24coBg) |
+| 3 | 搞定甲方就靠它！50 个应急响应技巧收藏即能用！ | Doonsec | [https://mp.weixin.qq.com/s/YN9_cIHljI7Ux5l4s2qAIQ](https://mp.weixin.qq.com/s/YN9_cIHljI7Ux5l4s2qAIQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中 | Doonsec | [https://mp.weixin.qq.com/s/z48y-dOfzCIL3Wqh3vejDA](https://mp.weixin.qq.com/s/z48y-dOfzCIL3Wqh3vejDA) |
+| 2 | Mars 战神 - 下一代 SRC 与资产监测平台 | Doonsec | [https://mp.weixin.qq.com/s/J-0pGcKyYswVeHHHsI7b7w](https://mp.weixin.qq.com/s/J-0pGcKyYswVeHHHsI7b7w) |
+| 3 | Mars 战神 - 下一代 SRC 与资产监测平台 | Doonsec | [https://mp.weixin.qq.com/s/4I7nTfFhBx_tQ9uT8WJ8Cw](https://mp.weixin.qq.com/s/4I7nTfFhBx_tQ9uT8WJ8Cw) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | n8n供应链攻击滥用社区节点窃取OAuth令牌 | Doonsec | [https://mp.weixin.qq.com/s/LVuF_tbX5bgufT6GWm-00Q](https://mp.weixin.qq.com/s/LVuF_tbX5bgufT6GWm-00Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-12/`
+文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-13/`
 
 ## 🔗 数据源说明
 
@@ -87,8 +163,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +173,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-12 20:26:20*
+*生成时间: 2026-01-13 01:44:15*
 *报告工具: 微信文章安全归档系统*
