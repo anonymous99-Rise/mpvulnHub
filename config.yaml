@@ -1,9 +1,9 @@
 notification:
   feishu:
-    enabled: true
+    enabled: false
     webhook_env: "FEISHU_WEBHOOK"
   discord:
-    enabled: false
+    enabled: true
     webhook_env: "DISCORD_WEBHOOK"
     startup_card: true
   footer: "Power By 东方隐侠安全团队·Anonymous@ 隐侠安全客栈•{time}"
