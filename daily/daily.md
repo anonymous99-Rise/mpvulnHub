@@ -1,21 +1,21 @@
-# 2026-01-13 安全威胁态势报告
+# 2026-01-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 6篇
+- **信息泄露**: 4篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **Web安全**: 3篇
 
 ## 🔍 匹配规则
 
@@ -64,12 +64,30 @@
 
 ### Doonsec
 
-- [恶意软件的生存之道：监视器与辅助器组件解析](https://mp.weixin.qq.com/s/Wb_8PpnlshlA9oRGTsPNZw) (发布日期: 2026-01-13)
-- [OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家](https://mp.weixin.qq.com/s/eRf037YUgMK00UGtI9PvHg) (发布日期: 2026-01-13)
-- [大华智能物联管理平台evo-apigw/evo-arsm/1.0.0/ars/list接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg) (发布日期: 2026-01-13)
-- [【安全工具】从底层突破WAF：自动化发现协议级漏洞，绕过Web防火墙](https://mp.weixin.qq.com/s/9bN76uwbuVx6Eubt0eJ4ag) (发布日期: 2026-01-13)
-- [全国网安标委发布《人工智能应用安全指引 总则（征求意见稿）》等4项网络安全标准实践指南](https://mp.weixin.qq.com/s/DwgX-axfhZDLBkO7Qjoumw) (发布日期: 2026-01-13)
-- [src专项挖掘知识库](https://mp.weixin.qq.com/s/QpDkKSwG6lp1RJvKA8OKPg) (发布日期: 2026-01-13)
+- [一款集成各大漏洞检测的burp插件](https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A) (发布日期: 2026-01-14)
+- [新型高级Linux恶意软件VoidLink攻击云和容器环境](https://mp.weixin.qq.com/s/dHfhgBBQqA-ADDwixWN6Rg) (发布日期: 2026-01-14)
+- [西班牙能源公司Endesa的完整客户数据泄露](https://mp.weixin.qq.com/s/Rthz1tu8NDNBle3vNlB4tA) (发布日期: 2026-01-14)
+- [黑客利用浏览器内嵌漏洞劫持Facebook账号](https://mp.weixin.qq.com/s/lsolNeaCSoJSBIKjj-RhlA) (发布日期: 2026-01-14)
+- [【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)](https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA) (发布日期: 2026-01-14)
+- [CVE-2026-22718：已停止维护的 Spring CLI 工具（适用于 VS Code）被发现存在命令注入漏洞](https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA) (发布日期: 2026-01-14)
+- [VoidLink：隐秘的云原生Linux恶意软件框架剖析](https://mp.weixin.qq.com/s/zWqSww1BsdDywtulhRqtqA) (发布日期: 2026-01-14)
+- [渗透测试总踩坑？工业、云、物联网安全防护逻辑梳理](https://mp.weixin.qq.com/s/_cS48QWNe7Apn1AXoFu7Yg) (发布日期: 2026-01-14)
+- [伪装成WPS银狐最新攻击样本分析](https://mp.weixin.qq.com/s/ia6P1HI-hwG2V-E5U0kM6w) (发布日期: 2026-01-14)
+- [云存储桶漏洞检测浏览器扩展](https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q) (发布日期: 2026-01-14)
+- [漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞](https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA) (发布日期: 2026-01-14)
+- [漏洞预警 | 东胜物流软件SQL注入漏洞](https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg) (发布日期: 2026-01-14)
+- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w) (发布日期: 2026-01-14)
+- [XOR加密的已知明文攻击深度解析](https://mp.weixin.qq.com/s/wlQdpfcOGzWN8fDCUlF7vA) (发布日期: 2026-01-14)
+- [从JS信息泄露到获取管理员权限](https://mp.weixin.qq.com/s/qAsWFhLHEbXcGp-6DMVQ9g) (发布日期: 2026-01-14)
+- [开源大模型成数据泄露新渠道！国家安全部警示：勿向AI投喂敏感信息](https://mp.weixin.qq.com/s/Qumvmwn4nBZ8rSbluHynPQ) (发布日期: 2026-01-14)
+- [“关基”安全警报：西班牙能源巨头Endesa千万级数据泄露事件解析](https://mp.weixin.qq.com/s/SKz8ikl2pfIj4pCzXFn9nw) (发布日期: 2026-01-14)
+- [【云安全专题-5】利用 EC2 进行攻击与横向移动](https://mp.weixin.qq.com/s/_nFL7APRPksS9UOfXVzhHg) (发布日期: 2026-01-14)
+- [暗网大规模Instagram用户数据泄露](https://mp.weixin.qq.com/s/Gd_YFXLmjh8KPckDYsMP4A) (发布日期: 2026-01-14)
+- [网络安全小知识——VPN ≠ 翻墙？这两个概念到底差在哪](https://mp.weixin.qq.com/s/3gr4ennjGesrDxXpmz2X2A) (发布日期: 2026-01-14)
+- [SpringBoot-Scan：针对Spring Boot的漏洞扫描和渗透工具](https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw) (发布日期: 2026-01-14)
+- [保护企业的四大要素：加密业务数据](https://mp.weixin.qq.com/s/_7raSuPb6SAm8gJbnzWkjA) (发布日期: 2026-01-14)
+- [工具推荐 | 开源Shiro图形化漏洞综合利用工具](https://mp.weixin.qq.com/s/T3EB0nqxrR-GjClrTOVjhQ) (发布日期: 2026-01-14)
+- [一站式Webshell管理平台 集成生成 / 连接 / 内网穿透的全功能 Webshell 利用工具](https://mp.weixin.qq.com/s/hCW3zSiquRbAOj7ifR9pAQ) (发布日期: 2026-01-14)
 
 
 ## 🎯 威胁详情分析
@@ -78,31 +96,47 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大华智能物联管理平台evo-apigw/evo-arsm/1.0.0/ars/list接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg](https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg) |
-| 2 | 【安全工具】从底层突破WAF：自动化发现协议级漏洞，绕过Web防火墙 | Doonsec | [https://mp.weixin.qq.com/s/9bN76uwbuVx6Eubt0eJ4ag](https://mp.weixin.qq.com/s/9bN76uwbuVx6Eubt0eJ4ag) |
+| 1 | 一款集成各大漏洞检测的burp插件 | Doonsec | [https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A](https://mp.weixin.qq.com/s/Qa2ZUsXdbhKPWY7Ynsfy5A) |
+| 2 | 黑客利用浏览器内嵌漏洞劫持Facebook账号 | Doonsec | [https://mp.weixin.qq.com/s/lsolNeaCSoJSBIKjj-RhlA](https://mp.weixin.qq.com/s/lsolNeaCSoJSBIKjj-RhlA) |
+| 3 | 【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493) | Doonsec | [https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA](https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA) |
+| 4 | CVE-2026-22718：已停止维护的 Spring CLI 工具（适用于 VS Code）被发现存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA](https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA) |
+| 5 | 云存储桶漏洞检测浏览器扩展 | Doonsec | [https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q](https://mp.weixin.qq.com/s/9LbweukWUB_FJ1WNRukY8Q) |
+| 6 | 漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA](https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA) |
+| 7 | 漏洞预警 | 东胜物流软件SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg](https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg) |
+| 8 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w](https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w) |
+| 9 | SpringBoot-Scan：针对Spring Boot的漏洞扫描和渗透工具 | Doonsec | [https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw](https://mp.weixin.qq.com/s/x0IfVdTtl1MR0mtui-U7Hw) |
+| 10 | 工具推荐 | 开源Shiro图形化漏洞综合利用工具 | Doonsec | [https://mp.weixin.qq.com/s/T3EB0nqxrR-GjClrTOVjhQ](https://mp.weixin.qq.com/s/T3EB0nqxrR-GjClrTOVjhQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大华智能物联管理平台evo-apigw/evo-arsm/1.0.0/ars/list接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg](https://mp.weixin.qq.com/s/GbmIyGNB3Gd16n9RCCyPCg) |
+| 1 | 【已复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493) | Doonsec | [https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA](https://mp.weixin.qq.com/s/1VV5prc9RuR50vofXJm-CA) |
+| 2 | CVE-2026-22718：已停止维护的 Spring CLI 工具（适用于 VS Code）被发现存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA](https://mp.weixin.qq.com/s/LvHrdh2Qn-oM99O6hzwjCA) |
+| 3 | 漏洞预警 | n8n沙箱绕过、请求处理不当和远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA](https://mp.weixin.qq.com/s/6BxQCqsuHm7XrmRaFGc9nA) |
+| 4 | 漏洞预警 | 东胜物流软件SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg](https://mp.weixin.qq.com/s/ILYftCZzycAe4wW0NFZbdg) |
+| 5 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w](https://mp.weixin.qq.com/s/WPqyRdw6Vt1kN9UYyFw00w) |
+| 6 | 一站式Webshell管理平台 集成生成 / 连接 / 内网穿透的全功能 Webshell 利用工具 | Doonsec | [https://mp.weixin.qq.com/s/hCW3zSiquRbAOj7ifR9pAQ](https://mp.weixin.qq.com/s/hCW3zSiquRbAOj7ifR9pAQ) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | src专项挖掘知识库 | Doonsec | [https://mp.weixin.qq.com/s/QpDkKSwG6lp1RJvKA8OKPg](https://mp.weixin.qq.com/s/QpDkKSwG6lp1RJvKA8OKPg) |
+| 1 | 伪装成WPS银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s/ia6P1HI-hwG2V-E5U0kM6w](https://mp.weixin.qq.com/s/ia6P1HI-hwG2V-E5U0kM6w) |
 
-### 供应链
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 恶意软件的生存之道：监视器与辅助器组件解析 | Doonsec | [https://mp.weixin.qq.com/s/Wb_8PpnlshlA9oRGTsPNZw](https://mp.weixin.qq.com/s/Wb_8PpnlshlA9oRGTsPNZw) |
+| 1 | 西班牙能源公司Endesa的完整客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/Rthz1tu8NDNBle3vNlB4tA](https://mp.weixin.qq.com/s/Rthz1tu8NDNBle3vNlB4tA) |
+| 2 | 开源大模型成数据泄露新渠道！国家安全部警示：勿向AI投喂敏感信息 | Doonsec | [https://mp.weixin.qq.com/s/Qumvmwn4nBZ8rSbluHynPQ](https://mp.weixin.qq.com/s/Qumvmwn4nBZ8rSbluHynPQ) |
+| 3 | “关基”安全警报：西班牙能源巨头Endesa千万级数据泄露事件解析 | Doonsec | [https://mp.weixin.qq.com/s/SKz8ikl2pfIj4pCzXFn9nw](https://mp.weixin.qq.com/s/SKz8ikl2pfIj4pCzXFn9nw) |
+| 4 | 暗网大规模Instagram用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/Gd_YFXLmjh8KPckDYsMP4A](https://mp.weixin.qq.com/s/Gd_YFXLmjh8KPckDYsMP4A) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-13/`
+文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-14/`
 
 ## 🔗 数据源说明
 
@@ -113,8 +147,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +157,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-13 16:32:51*
+*生成时间: 2026-01-14 01:51:05*
 *报告工具: 微信文章安全归档系统*
