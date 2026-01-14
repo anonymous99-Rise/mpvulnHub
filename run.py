@@ -706,8 +706,18 @@ def send_single_article_notification(title, url, source, date_str, category="安
     """Send single article notification (Feishu Card + Discord Embed)"""
     # Feishu
     if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
-        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        env_name = CONFIG['notification']['feishu'].get('webhook_env', '')
+        # 如果 env_name 本身就是 URL (以 http 开头)，直接使用
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
+        if not webhook_url:
+            webhook_url = CONFIG['notification']['feishu'].get('webhook_url')
+        
         if webhook_url:
+            logger.info(f"正在发送飞书通知: {title}")
             # Color based on category (Simple hash to select color)
             colors = ["blue", "wathet", "turquoise", "green", "yellow", "orange", "red", "carmine", "violet", "purple", "indigo", "grey"]
             template = random.choice(colors)
@@ -778,14 +788,26 @@ def send_single_article_notification(title, url, source, date_str, category="安
             }
             
             try:
-                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                resp = requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                logger.info(f"飞书通知发送结果: {resp.status_code} {resp.text[:100]}")
             except Exception as e:
                 logger.error(f"Feishu single notification error: {e}")
+        else:
+            logger.warning("飞书通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
     # Discord
     if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
-        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        env_name = CONFIG['notification']['discord'].get('webhook_env', '')
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
+        if not webhook_url:
+            webhook_url = CONFIG['notification']['discord'].get('webhook_url')
+            
         if webhook_url:
+            logger.info(f"正在发送Discord通知: {title}")
             embed = {
                 "title": f"{source}今日更新",  # Changed to match card style header
                 "color": random.randint(0, 0xFFFFFF),
@@ -818,9 +840,12 @@ def send_single_article_notification(title, url, source, date_str, category="安
             }
             
             try:
-                requests.post(webhook_url, json={"embeds": [embed]})
+                resp = requests.post(webhook_url, json={"embeds": [embed]})
+                logger.info(f"Discord通知发送结果: {resp.status_code}")
             except Exception as e:
                 logger.error(f"Discord single notification error: {e}")
+        else:
+            logger.warning("Discord通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
 def send_daily_report_notification(date_str, total_count, source_list):
     """Send daily report notification (Feishu Card + Discord Embed)"""
@@ -834,8 +859,17 @@ def send_daily_report_notification(date_str, total_count, source_list):
     
     # Feishu
     if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
-        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        env_name = CONFIG['notification']['feishu'].get('webhook_env', '')
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
+        if not webhook_url:
+            webhook_url = CONFIG['notification']['feishu'].get('webhook_url')
+
         if webhook_url:
+            logger.info(f"正在发送飞书日报通知: {date_str}")
             card = {
                 "config": {
                     "wide_screen_mode": True
@@ -901,14 +935,26 @@ def send_daily_report_notification(date_str, total_count, source_list):
                 ]
             }
             try:
-                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                resp = requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                logger.info(f"飞书日报发送结果: {resp.status_code}")
             except Exception as e:
                 logger.error(f"Feishu report notification error: {e}")
+        else:
+            logger.warning("飞书日报通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
     # Discord
     if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
-        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        env_name = CONFIG['notification']['discord'].get('webhook_env', '')
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
+        if not webhook_url:
+            webhook_url = CONFIG['notification']['discord'].get('webhook_url')
+
         if webhook_url:
+            logger.info(f"正在发送Discord日报通知: {date_str}")
             embed = {
                 "title": f"安全威胁态势日报 {date_str}",
                 "description": f"共收集到 {total_count} 条安全相关信息\n欢迎提交RSS源: [GitHub Issue](https://github.com/adminlove520/mpvulnHub/issues)",
@@ -936,16 +982,37 @@ def send_daily_report_notification(date_str, total_count, source_list):
                 "timestamp": datetime.datetime.now().isoformat()
             }
             try:
-                requests.post(webhook_url, json={"embeds": [embed]})
+                resp = requests.post(webhook_url, json={"embeds": [embed]})
+                logger.info(f"Discord日报发送结果: {resp.status_code}")
             except Exception as e:
                 logger.error(f"Discord report notification error: {e}")
+        else:
+            logger.warning("Discord日报通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
 def send_startup_card():
     """Send startup notification to Discord and Feishu"""
-    # Feishu Startup Card
+    enabled_platforms = []
     if CONFIG.get('notification', {}).get('feishu', {}).get('enabled', False):
-        webhook_url = os.environ.get(CONFIG['notification']['feishu']['webhook_env'])
+        enabled_platforms.append("Feishu")
+    if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
+        enabled_platforms.append("Discord")
+    
+    platform_str = "/".join(enabled_platforms) if enabled_platforms else "None"
+    logger.info(f"🚀 Security Monitor Starting... Platform: {platform_str}")
+
+    # Feishu Startup Card
+    if "Feishu" in enabled_platforms:
+        env_name = CONFIG['notification']['feishu'].get('webhook_env', '')
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
+        if not webhook_url:
+            webhook_url = CONFIG['notification']['feishu'].get('webhook_url')
+
         if webhook_url:
+            logger.info("正在发送飞书启动通知...")
             card = {
                 "config": {
                     "wide_screen_mode": True
@@ -953,7 +1020,7 @@ def send_startup_card():
                 "header": {
                     "template": "green",
                     "title": {
-                        "content": "🚀 Security Monitor Started",
+                        "content": f"🚀 Security Monitor Started ({platform_str})",
                         "tag": "plain_text"
                     }
                 },
@@ -961,7 +1028,7 @@ def send_startup_card():
                     {
                         "tag": "div",
                         "text": {
-                            "content": "系统已启动，正在扫描新的安全威胁和漏洞...",
+                            "content": f"系统已启动，正在扫描新的安全威胁和漏洞... [平台: {platform_str}]",
                             "tag": "plain_text"
                         }
                     },
@@ -977,30 +1044,43 @@ def send_startup_card():
                 ]
             }
             try:
-                requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                resp = requests.post(webhook_url, json={"msg_type": "interactive", "card": card})
+                logger.info(f"飞书启动通知发送结果: {resp.status_code}")
             except Exception as e:
                 logger.error(f"Feishu startup notification error: {e}")
+        else:
+            logger.warning("飞书启动通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
     # Discord Startup Card
-    if CONFIG.get('notification', {}).get('discord', {}).get('enabled', False):
+    if "Discord" in enabled_platforms:
         if not CONFIG.get('notification', {}).get('discord', {}).get('startup_card', False):
             return
 
-        webhook_url = os.environ.get(CONFIG['notification']['discord']['webhook_env'])
+        env_name = CONFIG['notification']['discord'].get('webhook_env', '')
+        if env_name.startswith('http'):
+            webhook_url = env_name
+        else:
+            webhook_url = os.environ.get(env_name)
+            
         if not webhook_url:
-            return
+            webhook_url = CONFIG['notification']['discord'].get('webhook_url')
 
-        embed = {
-            "title": "🚀 Security Monitor Started",
-            "description": "Scanning for new security threats and vulnerabilities...",
-            "color": 0x00FF00, # Green
-            "timestamp": datetime.datetime.now().isoformat()
-        }
-        
-        try:
-            requests.post(webhook_url, json={"embeds": [embed]})
-        except:
-            pass
+        if webhook_url:
+            logger.info("正在发送Discord启动通知...")
+            embed = {
+                "title": f"🚀 Security Monitor Started ({platform_str})",
+                "description": f"Scanning for new security threats and vulnerabilities... [Platform: {platform_str}]",
+                "color": 0x00FF00, # Green
+                "timestamp": datetime.datetime.now().isoformat()
+            }
+            
+            try:
+                resp = requests.post(webhook_url, json={"embeds": [embed]})
+                logger.info(f"Discord启动通知发送结果: {resp.status_code}")
+            except Exception as e:
+                logger.error(f"Discord startup notification error: {e}")
+        else:
+            logger.warning("Discord启动通知已开启，但未配置 Webhook (环境变量或 config.yaml)")
 
 
 def get_chainreactors_md_url(date_str):
