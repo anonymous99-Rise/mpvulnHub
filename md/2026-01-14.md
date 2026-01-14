@@ -2,16 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 9篇
+- **安全运营**: 2篇
+- **信息泄露**: 2篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +65,21 @@
 
 ### Doonsec
 
-- [Struts2 XXE漏洞（CVE-2025-68493）分析及复现](https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA) (发布日期: 2026-01-14)
+- [[跟着静师傅学代码审计]九垠赢商业管理系统0day-文件上传和任意文件下载](https://mp.weixin.qq.com/s/g3SgjJUU9JCvTkkfqdUeIQ) (发布日期: 2026-01-14)
+- [《全球数据泄露态势月度报告》（2025年12月）](https://mp.weixin.qq.com/s/XUzhUQz_cokGmGJd76j3vA) (发布日期: 2026-01-14)
+- [WiFiSRC全新版本正式上线！新年漏洞征集活动同步开启](https://mp.weixin.qq.com/s/esEKHdsK3auQq7EuHPxF1w) (发布日期: 2026-01-14)
+- [漏洞验证效率翻倍：从碎片化工具链到一体化工作流](https://mp.weixin.qq.com/s/7AvMuFD5SYFbiu-D3hgDgg) (发布日期: 2026-01-14)
+- [【漏洞通告】微软1月多个安全漏洞](https://mp.weixin.qq.com/s/JlNLec35e11XNh0grjYaeA) (发布日期: 2026-01-14)
+- [动态│全国网安标委对《人工智能应用安全指引 总则（征求意见稿）》等4项网络安全标准实践指南公开征求意见](https://mp.weixin.qq.com/s/qlFr-DU3dDAECcG9-Emb0A) (发布日期: 2026-01-14)
+- [智能工业网关：私有协议解析中的栈溢出漏洞深度剖析](https://mp.weixin.qq.com/s/T6-eMbMq9V19BvgNcGfHKw) (发布日期: 2026-01-14)
+- [信息安全漏洞周报（2026年第2期）](https://mp.weixin.qq.com/s/f0yAso4qbjUZCvnduP8cSQ) (发布日期: 2026-01-14)
+- [CNNVD关于Apache Struts安全漏洞的通报](https://mp.weixin.qq.com/s/yyE_wt9dhdhoEACiZ5tITQ) (发布日期: 2026-01-14)
+- [src|暴力破解漏洞](https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg) (发布日期: 2026-01-14)
+- [从银狐复制和转移客户功能的bug说起......](https://mp.weixin.qq.com/s/DXbA6AMqvYJhfqQ57pGxJg) (发布日期: 2026-01-14)
+- [情景分析法——情报分析师手中的\"水晶球\"](https://mp.weixin.qq.com/s/dEpuuLeIFk4KIR6ebmnzkg) (发布日期: 2026-01-14)
+- [BreachForums黑客论坛再遭数据泄露 用户数据库被公之于众](https://mp.weixin.qq.com/s/9iNq7DDXd6U2vD24Si9PTA) (发布日期: 2026-01-14)
+- [山石安全能力中心｜微软1月份漏洞补丁日安全通告](https://mp.weixin.qq.com/s/rzaFtbF5rfwwFrAAJYQF7g) (发布日期: 2026-01-14)
+- [利用不安全的模板格式化在 LangSmith Playground 中实现远程代码执行](https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q) (发布日期: 2026-01-14)
 
 
 ## 🎯 威胁详情分析
@@ -69,7 +88,41 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Struts2 XXE漏洞（CVE-2025-68493）分析及复现 | Doonsec | [https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA](https://mp.weixin.qq.com/s/ldpVaQBuEvmu9wqtJ79xLA) |
+| 1 | [跟着静师傅学代码审计]九垠赢商业管理系统0day-文件上传和任意文件下载 | Doonsec | [https://mp.weixin.qq.com/s/g3SgjJUU9JCvTkkfqdUeIQ](https://mp.weixin.qq.com/s/g3SgjJUU9JCvTkkfqdUeIQ) |
+| 2 | WiFiSRC全新版本正式上线！新年漏洞征集活动同步开启 | Doonsec | [https://mp.weixin.qq.com/s/esEKHdsK3auQq7EuHPxF1w](https://mp.weixin.qq.com/s/esEKHdsK3auQq7EuHPxF1w) |
+| 3 | 漏洞验证效率翻倍：从碎片化工具链到一体化工作流 | Doonsec | [https://mp.weixin.qq.com/s/7AvMuFD5SYFbiu-D3hgDgg](https://mp.weixin.qq.com/s/7AvMuFD5SYFbiu-D3hgDgg) |
+| 4 | 【漏洞通告】微软1月多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/JlNLec35e11XNh0grjYaeA](https://mp.weixin.qq.com/s/JlNLec35e11XNh0grjYaeA) |
+| 5 | 智能工业网关：私有协议解析中的栈溢出漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/T6-eMbMq9V19BvgNcGfHKw](https://mp.weixin.qq.com/s/T6-eMbMq9V19BvgNcGfHKw) |
+| 6 | 信息安全漏洞周报（2026年第2期） | Doonsec | [https://mp.weixin.qq.com/s/f0yAso4qbjUZCvnduP8cSQ](https://mp.weixin.qq.com/s/f0yAso4qbjUZCvnduP8cSQ) |
+| 7 | CNNVD关于Apache Struts安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/yyE_wt9dhdhoEACiZ5tITQ](https://mp.weixin.qq.com/s/yyE_wt9dhdhoEACiZ5tITQ) |
+| 8 | src|暴力破解漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg](https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg) |
+| 9 | 山石安全能力中心｜微软1月份漏洞补丁日安全通告 | Doonsec | [https://mp.weixin.qq.com/s/rzaFtbF5rfwwFrAAJYQF7g](https://mp.weixin.qq.com/s/rzaFtbF5rfwwFrAAJYQF7g) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 利用不安全的模板格式化在 LangSmith Playground 中实现远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q](https://mp.weixin.qq.com/s/6gsTRGJNV0Cz1JSMF_u4_Q) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 从银狐复制和转移客户功能的bug说起...... | Doonsec | [https://mp.weixin.qq.com/s/DXbA6AMqvYJhfqQ57pGxJg](https://mp.weixin.qq.com/s/DXbA6AMqvYJhfqQ57pGxJg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | WiFiSRC全新版本正式上线！新年漏洞征集活动同步开启 | Doonsec | [https://mp.weixin.qq.com/s/esEKHdsK3auQq7EuHPxF1w](https://mp.weixin.qq.com/s/esEKHdsK3auQq7EuHPxF1w) |
+| 2 | src|暴力破解漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg](https://mp.weixin.qq.com/s/RTCyP7zQZt8lHEXp1jXVMg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 《全球数据泄露态势月度报告》（2025年12月） | Doonsec | [https://mp.weixin.qq.com/s/XUzhUQz_cokGmGJd76j3vA](https://mp.weixin.qq.com/s/XUzhUQz_cokGmGJd76j3vA) |
+| 2 | BreachForums黑客论坛再遭数据泄露 用户数据库被公之于众 | Doonsec | [https://mp.weixin.qq.com/s/9iNq7DDXd6U2vD24Si9PTA](https://mp.weixin.qq.com/s/9iNq7DDXd6U2vD24Si9PTA) |
 
 
 ## 📁 归档路径
@@ -85,8 +138,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-14 05:34:26*
+*生成时间: 2026-01-14 08:31:40*
 *报告工具: 微信文章安全归档系统*

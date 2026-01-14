@@ -37750,3 +37750,72 @@
 2026-01-14 05:37:37,667 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-01-14 05:37:37,721 - INFO - 已更新data.json，添加了 0 个URL
 2026-01-14 05:37:37,721 - INFO - === 执行完成 ===
+2026-01-14 08:31:23,970 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-14 08:31:23,970 - INFO - 🚀 Security Monitor Starting... Platform: Feishu
+2026-01-14 08:31:23,970 - INFO - 正在发送飞书启动通知...
+2026-01-14 08:31:25,033 - INFO - 飞书启动通知发送结果: 200
+2026-01-14 08:31:25,035 - INFO - 数据文件: data.json
+2026-01-14 08:31:25,035 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-14 08:31:25,036 - INFO - 文档目录: doc
+2026-01-14 08:31:25,090 - INFO - 已加载 33901 条历史记录
+2026-01-14 08:31:25,090 - INFO - === 开始今日拉取 ===
+2026-01-14 08:31:25,090 - INFO - 开始获取Doonsec RSS
+2026-01-14 08:31:25,090 - INFO - 目标日期: 2026-01-14
+2026-01-14 08:31:27,364 - INFO - Doonsec RSS请求成功
+2026-01-14 08:31:27,366 - INFO - RSS中共有 200 个条目
+2026-01-14 08:31:27,366 - INFO - Doonsec获取到 200 个2026-01-14的微信文章URL
+2026-01-14 08:31:27,367 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-14.md
+2026-01-14 08:31:27,398 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-14 08:31:27,399 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-14.md 状态码: 404
+2026-01-14 08:31:27,399 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-14.md
+2026-01-14 08:31:27,430 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-14 08:31:27,431 - INFO - BruceFeIix获取到 80 个URL
+2026-01-14 08:31:27,431 - INFO - === 开始处理 2026-01-14 的数据 ===
+2026-01-14 08:31:27,431 - INFO - Doonsec原始数据: 200 个
+2026-01-14 08:31:27,431 - INFO - ChainReactors原始数据: 0 个
+2026-01-14 08:31:27,431 - INFO - BruceFeIix原始数据: 80 个
+2026-01-14 08:31:27,431 - INFO - 开始处理Doonsec数据...
+2026-01-14 08:31:27,432 - INFO - 开始处理ChainReactors数据...
+2026-01-14 08:31:27,432 - INFO - 开始处理BruceFeIix数据...
+2026-01-14 08:31:27,432 - INFO - 去重后共 218 个URL待处理，跳过 62 个重复URL
+2026-01-14 08:31:27,432 - INFO - 去重后统计 - Doonsec: 162 个, ChainReactors: 0 个, BruceFeIix: 56 个
+2026-01-14 08:31:27,432 - INFO - === 开始关键词过滤 ===
+2026-01-14 08:31:27,439 - INFO - 关键词过滤: 匹配 15 个，跳过 203 个
+2026-01-14 08:31:27,439 - INFO - 关键词过滤后统计 - Doonsec: 15 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-14 08:31:27,452 - INFO - 已创建每日报告: md/2026-01-14.md
+2026-01-14 08:31:27,452 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-14 08:31:27,452 - INFO - 正在发送飞书通知: [跟着静师傅学代码审计]九垠赢商业管理系统0day-文件上传和任意文件下载
+2026-01-14 08:31:28,084 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:28,085 - INFO - 正在发送飞书通知: 《全球数据泄露态势月度报告》（2025年12月）
+2026-01-14 08:31:29,042 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:29,043 - INFO - 正在发送飞书通知: WiFiSRC全新版本正式上线！新年漏洞征集活动同步开启
+2026-01-14 08:31:29,741 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:29,742 - INFO - 正在发送飞书通知: 漏洞验证效率翻倍：从碎片化工具链到一体化工作流
+2026-01-14 08:31:30,485 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:30,486 - INFO - 正在发送飞书通知: 【漏洞通告】微软1月多个安全漏洞
+2026-01-14 08:31:31,357 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:31,358 - INFO - 正在发送飞书通知: 动态│全国网安标委对《人工智能应用安全指引 总则（征求意见稿）》等4项网络安全标准实践指南公开征求意见
+2026-01-14 08:31:32,297 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:32,298 - INFO - 正在发送飞书通知: 智能工业网关：私有协议解析中的栈溢出漏洞深度剖析
+2026-01-14 08:31:33,211 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:33,212 - INFO - 正在发送飞书通知: 信息安全漏洞周报（2026年第2期）
+2026-01-14 08:31:33,810 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:33,811 - INFO - 正在发送飞书通知: CNNVD关于Apache Struts安全漏洞的通报
+2026-01-14 08:31:34,658 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:34,659 - INFO - 正在发送飞书通知: src|暴力破解漏洞
+2026-01-14 08:31:35,300 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:35,301 - INFO - 正在发送飞书通知: 从银狐复制和转移客户功能的bug说起......
+2026-01-14 08:31:36,611 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:36,612 - INFO - 正在发送飞书通知: 情景分析法——情报分析师手中的\"水晶球\"
+2026-01-14 08:31:37,460 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:37,461 - INFO - 正在发送飞书通知: BreachForums黑客论坛再遭数据泄露 用户数据库被公之于众
+2026-01-14 08:31:38,826 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:38,827 - INFO - 正在发送飞书通知: 山石安全能力中心｜微软1月份漏洞补丁日安全通告
+2026-01-14 08:31:39,435 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:39,436 - INFO - 正在发送飞书通知: 利用不安全的模板格式化在 LangSmith Playground 中实现远程代码执行
+2026-01-14 08:31:40,102 - INFO - 飞书通知发送结果: 200 {"StatusCode":0,"StatusMessage":"success","code":0,"data":{},"msg":"success"}
+2026-01-14 08:31:40,157 - INFO - 已更新data.json，添加了 15 个URL
+2026-01-14 08:31:40,158 - INFO - 已创建每日报告: md/2026-01-14.md
+2026-01-14 08:31:40,158 - INFO - 正在发送飞书日报通知: 2026-01-14
+2026-01-14 08:31:40,822 - INFO - 飞书日报发送结果: 200
+2026-01-14 08:31:40,823 - INFO - === 执行完成 ===
