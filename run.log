@@ -38280,3 +38280,52 @@
 2026-01-15 04:41:13,278 - INFO - 正在发送Discord日报通知: 2026-01-15
 2026-01-15 04:41:13,601 - INFO - Discord日报发送结果: 204
 2026-01-15 04:41:13,602 - INFO - === 执行完成 ===
+2026-01-15 08:32:11,720 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-15 08:32:11,720 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-15 08:32:11,720 - INFO - 正在发送Discord启动通知...
+2026-01-15 08:32:12,194 - INFO - Discord启动通知发送结果: 204
+2026-01-15 08:32:12,197 - INFO - 数据文件: data.json
+2026-01-15 08:32:12,197 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-15 08:32:12,197 - INFO - 文档目录: doc
+2026-01-15 08:32:12,253 - INFO - 已加载 34051 条历史记录
+2026-01-15 08:32:12,253 - INFO - === 开始今日拉取 ===
+2026-01-15 08:32:12,253 - INFO - 开始获取Doonsec RSS
+2026-01-15 08:32:12,253 - INFO - 目标日期: 2026-01-15
+2026-01-15 08:32:13,895 - INFO - Doonsec RSS请求成功
+2026-01-15 08:32:13,897 - INFO - RSS中共有 200 个条目
+2026-01-15 08:32:13,897 - INFO - Doonsec获取到 200 个2026-01-15的微信文章URL
+2026-01-15 08:32:13,898 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-15.md
+2026-01-15 08:32:13,931 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-15 08:32:13,931 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-15.md 状态码: 404
+2026-01-15 08:32:13,931 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-15.md
+2026-01-15 08:32:13,964 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-15 08:32:13,966 - INFO - BruceFeIix获取到 79 个URL
+2026-01-15 08:32:13,966 - INFO - === 开始处理 2026-01-15 的数据 ===
+2026-01-15 08:32:13,966 - INFO - Doonsec原始数据: 200 个
+2026-01-15 08:32:13,966 - INFO - ChainReactors原始数据: 0 个
+2026-01-15 08:32:13,966 - INFO - BruceFeIix原始数据: 79 个
+2026-01-15 08:32:13,966 - INFO - 开始处理Doonsec数据...
+2026-01-15 08:32:13,966 - INFO - 开始处理ChainReactors数据...
+2026-01-15 08:32:13,966 - INFO - 开始处理BruceFeIix数据...
+2026-01-15 08:32:13,967 - INFO - 去重后共 194 个URL待处理，跳过 85 个重复URL
+2026-01-15 08:32:13,967 - INFO - 去重后统计 - Doonsec: 146 个, ChainReactors: 0 个, BruceFeIix: 48 个
+2026-01-15 08:32:13,967 - INFO - === 开始关键词过滤 ===
+2026-01-15 08:32:13,973 - INFO - 关键词过滤: 匹配 5 个，跳过 189 个
+2026-01-15 08:32:13,973 - INFO - 关键词过滤后统计 - Doonsec: 5 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-15 08:32:13,991 - INFO - 已创建每日报告: md/2026-01-15.md
+2026-01-15 08:32:13,991 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-15 08:32:13,991 - INFO - 正在发送Discord通知: 2025年12月份网络安全和数据安全动态
+2026-01-15 08:32:14,474 - INFO - Discord通知发送结果: 204
+2026-01-15 08:32:14,475 - INFO - 正在发送Discord通知: CVE-2025-64155：Fortinet FortiSIEM 远程 Root 漏洞已存在三年
+2026-01-15 08:32:14,886 - INFO - Discord通知发送结果: 204
+2026-01-15 08:32:14,887 - INFO - 正在发送Discord通知: CVE-2025-53136 通过竞争条件泄露内核信息
+2026-01-15 08:32:15,126 - INFO - Discord通知发送结果: 204
+2026-01-15 08:32:15,127 - INFO - 正在发送Discord通知: 【APP测试】快速定位加密
+2026-01-15 08:32:15,359 - INFO - Discord通知发送结果: 204
+2026-01-15 08:32:15,360 - INFO - 正在发送Discord通知: 办公智盾·小课堂|为什么企业必须做数据安全？
+2026-01-15 08:32:15,623 - INFO - Discord通知发送结果: 204
+2026-01-15 08:32:15,680 - INFO - 已更新data.json，添加了 5 个URL
+2026-01-15 08:32:15,681 - INFO - 已创建每日报告: md/2026-01-15.md
+2026-01-15 08:32:15,681 - INFO - 正在发送Discord日报通知: 2026-01-15
+2026-01-15 08:32:16,089 - INFO - Discord日报发送结果: 204
+2026-01-15 08:32:16,090 - INFO - === 执行完成 ===
