@@ -9,13 +9,13 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +64,18 @@
 
 ### Doonsec
 
-- [文件上传](https://mp.weixin.qq.com/s/f1na8iTqkWVGpqUwKWpsTQ) (发布日期: 2026-01-17)
-- [网络安全洞察2026：社会工程学](https://mp.weixin.qq.com/s/-sZk0dbLCwFl6FYMOJ1Xww) (发布日期: 2026-01-17)
-- [网络安全洞察2026：首席信息安全官 (CISO) 在2026年及以后可以期待什么](https://mp.weixin.qq.com/s/hAROf1N1z_XwDmWMH0QiqA) (发布日期: 2026-01-17)
-- [AI软件工程实践：构建企业级Agentic SOC平台](https://mp.weixin.qq.com/s/c5jl82qwRyktYCl3vasG_g) (发布日期: 2026-01-17)
-- [一个基于 Multi-Agent 协作架构的下一代代码安全审计平台](https://mp.weixin.qq.com/s/115p3oHVpUIJ0lULPvyUUA) (发布日期: 2026-01-17)
-- [渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南）](https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg) (发布日期: 2026-01-17)
-- [【情报分析】美国负责中国事务的组织架构](https://mp.weixin.qq.com/s/c1IGeWL1-aFBElp7R0MSgQ) (发布日期: 2026-01-17)
-- [2026年校园网络安全响应中心（SRC）项目成员招募](https://mp.weixin.qq.com/s/97XHSpABrUJBCHmPUGS0GQ) (发布日期: 2026-01-17)
-- [CNNVD | 人工智能重要漏洞通报（2026年第一期）](https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ) (发布日期: 2026-01-17)
-- [CNNVD | 关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw) (发布日期: 2026-01-17)
-- [FastLinLog - 轻量级Linux 日志安全分析工具](https://mp.weixin.qq.com/s/-jXp5gK5inBC3LNooqSnzw) (发布日期: 2026-01-17)
-- [Nginx日志安全分析脚本](https://mp.weixin.qq.com/s/llj8fXGdaIKtaXdn6kL5pQ) (发布日期: 2026-01-17)
+- [阿里安全招聘-设备安全团队人才招募令](https://mp.weixin.qq.com/s/QGgRzywl9JB1yIWLxYH-rA) (发布日期: 2026-01-17)
+- [伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析](https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg) (发布日期: 2026-01-17)
+- [【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞](https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg) (发布日期: 2026-01-17)
+- [GYscan：内网横向安全测试工具](https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A) (发布日期: 2026-01-17)
+- [Firefox 147发布时修复了16个允许任意代码执行的漏洞](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) (发布日期: 2026-01-17)
+- [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑](https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA) (发布日期: 2026-01-17)
+- [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞](https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ) (发布日期: 2026-01-17)
+- [记几个edusrc简单挖掘案例](https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg) (发布日期: 2026-01-17)
+- [LOTUSLITE后门利用委内瑞拉主题钓鱼攻击瞄准美国政策机构](https://mp.weixin.qq.com/s/ACQYwpOPgYwHQqHUMyzYDw) (发布日期: 2026-01-17)
+- [ValleyRAT_S2 攻击组织部署隐蔽恶意软件窃取财务数据](https://mp.weixin.qq.com/s/6LkZcf8lUoXOeNWY5OlZ8Q) (发布日期: 2026-01-17)
+- [倒计时 2 天 ｜ 云原生安全立方项目](https://mp.weixin.qq.com/s/55WAHa0rB1EYnckpKvSo1g) (发布日期: 2026-01-17)
+- [工信部：网络和数据安全治理能力有效提升](https://mp.weixin.qq.com/s/Jt3Ld-2tsGY_VhGN__VdzQ) (发布日期: 2026-01-17)
 
 
 ## 🎯 威胁详情分析
@@ -84,21 +84,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南） | Doonsec | [https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg](https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg) |
-| 2 | CNNVD | 人工智能重要漏洞通报（2026年第一期） | Doonsec | [https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ](https://mp.weixin.qq.com/s/2uPMY1aXcPbL3m4AH9VtfQ) |
-| 3 | CNNVD | 关于微软多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw](https://mp.weixin.qq.com/s/lO-S_Z5Ih_18k1bR7AUbGw) |
+| 1 | 【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞 | Doonsec | [https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg](https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg) |
+| 2 | Firefox 147发布时修复了16个允许任意代码执行的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) |
+| 3 | 【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑 | Doonsec | [https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA](https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA) |
+| 4 | 【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ](https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | GYscan：内网横向安全测试工具 | Doonsec | [https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A](https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A) |
+| 2 | Firefox 147发布时修复了16个允许任意代码执行的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析 | Doonsec | [https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg](https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2026年校园网络安全响应中心（SRC）项目成员招募 | Doonsec | [https://mp.weixin.qq.com/s/97XHSpABrUJBCHmPUGS0GQ](https://mp.weixin.qq.com/s/97XHSpABrUJBCHmPUGS0GQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南） | Doonsec | [https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg](https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg) |
+| 1 | 记几个edusrc简单挖掘案例 | Doonsec | [https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg](https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg) |
 
 
 ## 📁 归档路径
@@ -114,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-17 08:26:46*
+*生成时间: 2026-01-17 12:40:38*
 *报告工具: 微信文章安全归档系统*
