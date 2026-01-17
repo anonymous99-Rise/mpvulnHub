@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +60,11 @@
 
 ### Doonsec
 
-- [阿里安全招聘-设备安全团队人才招募令](https://mp.weixin.qq.com/s/QGgRzywl9JB1yIWLxYH-rA) (发布日期: 2026-01-17)
-- [伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析](https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg) (发布日期: 2026-01-17)
-- [【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞](https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg) (发布日期: 2026-01-17)
-- [GYscan：内网横向安全测试工具](https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A) (发布日期: 2026-01-17)
-- [Firefox 147发布时修复了16个允许任意代码执行的漏洞](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) (发布日期: 2026-01-17)
-- [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑](https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA) (发布日期: 2026-01-17)
-- [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞](https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ) (发布日期: 2026-01-17)
-- [记几个edusrc简单挖掘案例](https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg) (发布日期: 2026-01-17)
-- [LOTUSLITE后门利用委内瑞拉主题钓鱼攻击瞄准美国政策机构](https://mp.weixin.qq.com/s/ACQYwpOPgYwHQqHUMyzYDw) (发布日期: 2026-01-17)
-- [ValleyRAT_S2 攻击组织部署隐蔽恶意软件窃取财务数据](https://mp.weixin.qq.com/s/6LkZcf8lUoXOeNWY5OlZ8Q) (发布日期: 2026-01-17)
-- [倒计时 2 天 ｜ 云原生安全立方项目](https://mp.weixin.qq.com/s/55WAHa0rB1EYnckpKvSo1g) (发布日期: 2026-01-17)
-- [工信部：网络和数据安全治理能力有效提升](https://mp.weixin.qq.com/s/Jt3Ld-2tsGY_VhGN__VdzQ) (发布日期: 2026-01-17)
+- [【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）](https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA) (发布日期: 2026-01-17)
+- [渗透安全测试远程接单](https://mp.weixin.qq.com/s/OfXJLcjJsfcCREsL8w8Ipw) (发布日期: 2026-01-17)
+- [OWASP 2026 “智能体应用”十大风险发布](https://mp.weixin.qq.com/s/mPYmNqNJL6XgWX-l7vC4Kg) (发布日期: 2026-01-17)
+- [JS逆向对抗——记一次渗透测试签名绕过](https://mp.weixin.qq.com/s/QAD6_65LQil1bz3JZ4st_g) (发布日期: 2026-01-17)
+- [漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779）](https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ) (发布日期: 2026-01-17)
 
 
 ## 🎯 威胁详情分析
@@ -84,29 +73,8 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【接口漏洞第六章第四节】绕过前端限制：浅析REST路径中的服务器端参数污染漏洞 | Doonsec | [https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg](https://mp.weixin.qq.com/s/11LMAoJ_Vp6swU0esKDMNg) |
-| 2 | Firefox 147发布时修复了16个允许任意代码执行的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) |
-| 3 | 【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑 | Doonsec | [https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA](https://mp.weixin.qq.com/s/0WmG2ZUgx8ffmH9g9m_bqA) |
-| 4 | 【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ](https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | GYscan：内网横向安全测试工具 | Doonsec | [https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A](https://mp.weixin.qq.com/s/dXWeFKhRbdzZ_EzPYcE79A) |
-| 2 | Firefox 147发布时修复了16个允许任意代码执行的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ](https://mp.weixin.qq.com/s/rzd1vTKvrVuCpUprR1lwlQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析 | Doonsec | [https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg](https://mp.weixin.qq.com/s/fYbhfwyuL79QS8bbmoofWg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记几个edusrc简单挖掘案例 | Doonsec | [https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg](https://mp.weixin.qq.com/s/fPvxdFmfk15CUkbzisWDHg) |
+| 1 | 【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC） | Doonsec | [https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA](https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA) |
+| 2 | 漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779） | Doonsec | [https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ](https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ) |
 
 
 ## 📁 归档路径
@@ -122,8 +90,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +100,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-17 12:40:38*
+*生成时间: 2026-01-17 16:23:42*
 *报告工具: 微信文章安全归档系统*
