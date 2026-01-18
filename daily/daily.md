@@ -2,22 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **应用漏洞**: 2篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,23 +62,11 @@
 
 ### Doonsec
 
-- [漏洞赏金高达 200 万+RMB 的 0-click 账户接管 MXSS](https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ) (发布日期: 2026-01-18)
-- [银狐黑产组织几大变种样本攻击流程图](https://mp.weixin.qq.com/s/pd3WLEhyKKgwXmGbftsxIQ) (发布日期: 2026-01-18)
-- [美特CRM sendmail.jsp 任意文件上传漏洞](https://mp.weixin.qq.com/s/zzVML-pKM5_WtGCvqxW_OQ) (发布日期: 2026-01-18)
-- [【接口漏洞第七章第一节】解码vs编码：那个让安全工程师彻夜难眠的JSON处理细节](https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg) (发布日期: 2026-01-18)
-- [StealC恶意软件C2系统被攻破，攻击者反被溯源锁定](https://mp.weixin.qq.com/s/xeyymrjI9c5ujL0R2aU20w) (发布日期: 2026-01-18)
-- [每周PDF资源：全球数据泄露态势报告；二进制代码混淆工具分析；某消费金融算法分析；信息安全工程师思维导图](https://mp.weixin.qq.com/s/7_0qJh1sO__JdsCQAztlKw) (发布日期: 2026-01-18)
-- [网络身份认证协议的隐秘战场：安全专家不可不知的五大真相](https://mp.weixin.qq.com/s/kwzQRyIUvPqTjVonc2Y_kw) (发布日期: 2026-01-18)
-- [【工具】Shiro反序列化利用工具](https://mp.weixin.qq.com/s/XpaK0jTBaHVjz4PBz79NSw) (发布日期: 2026-01-18)
-- [Jackson库字符串反序列化转换](https://mp.weixin.qq.com/s/YWyu0F9-6OosdkF519hlrQ) (发布日期: 2026-01-18)
-- [渗透测试fuzz参数拿下网站管理员权限](https://mp.weixin.qq.com/s/m-3EQGxWk5BmACtk9MMiGg) (发布日期: 2026-01-18)
-- [高危漏洞威胁情报 (2026-01-16）| n8n 任意文件读取漏洞](https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA) (发布日期: 2026-01-18)
-- [摄像头钓鱼攻击工具(Camera Phishing)](https://mp.weixin.qq.com/s/ZoXfaagqb-tNuLJ4WS_egg) (发布日期: 2026-01-18)
-- [危险的零点击漏洞](https://mp.weixin.qq.com/s/VOCvpGZ4jjSDEZLpkYP5dw) (发布日期: 2026-01-18)
-- [基于AI的自主渗透测试平台 | AI-Powered Autonomous Penetration Testing Platform](https://mp.weixin.qq.com/s/HGqJ5lnHgRwYk2axpZn1Nw) (发布日期: 2026-01-18)
-- [【云安全专题-9】Kubernetes 攻防实战：从 API Server 未授权到接管集群心脏](https://mp.weixin.qq.com/s/nsSE1BGva5Yn75EKdtdDeQ) (发布日期: 2026-01-18)
-- [CISSP复习题及答案解析-安全与风险管理](https://mp.weixin.qq.com/s/nUOpF5LnR8Qy0qahNoiEpw) (发布日期: 2026-01-18)
-- [Google Vertex AI漏洞允许低权限用户提升至服务代理角色](https://mp.weixin.qq.com/s/m5fSAgiQPKUgZL0jJD1PJA) (发布日期: 2026-01-18)
+- [记某edusrc挖掘案例分享](https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ) (发布日期: 2026-01-18)
+- [内网渗透(八)：中继攻击](https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw) (发布日期: 2026-01-18)
+- [第二周战报 | 常态化漏洞挖掘演习](https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw) (发布日期: 2026-01-18)
+- [某vue网站的渗透测试](https://mp.weixin.qq.com/s/k8JJp3tYMrsOg4Ty2pX_tg) (发布日期: 2026-01-18)
+- [CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。](https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg) (发布日期: 2026-01-18)
 
 
 ## 🎯 威胁详情分析
@@ -91,31 +75,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞赏金高达 200 万+RMB 的 0-click 账户接管 MXSS | Doonsec | [https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ](https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ) |
-| 2 | 美特CRM sendmail.jsp 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zzVML-pKM5_WtGCvqxW_OQ](https://mp.weixin.qq.com/s/zzVML-pKM5_WtGCvqxW_OQ) |
-| 3 | 【接口漏洞第七章第一节】解码vs编码：那个让安全工程师彻夜难眠的JSON处理细节 | Doonsec | [https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg](https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg) |
-| 4 | 高危漏洞威胁情报 (2026-01-16）| n8n 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA](https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA) |
-| 5 | 危险的零点击漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VOCvpGZ4jjSDEZLpkYP5dw](https://mp.weixin.qq.com/s/VOCvpGZ4jjSDEZLpkYP5dw) |
-| 6 | Google Vertex AI漏洞允许低权限用户提升至服务代理角色 | Doonsec | [https://mp.weixin.qq.com/s/m5fSAgiQPKUgZL0jJD1PJA](https://mp.weixin.qq.com/s/m5fSAgiQPKUgZL0jJD1PJA) |
+| 1 | 第二周战报 | 常态化漏洞挖掘演习 | Doonsec | [https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw](https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw) |
+| 2 | CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。 | Doonsec | [https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg](https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞赏金高达 200 万+RMB 的 0-click 账户接管 MXSS | Doonsec | [https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ](https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ) |
+| 1 | 内网渗透(八)：中继攻击 | Doonsec | [https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw](https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐黑产组织几大变种样本攻击流程图 | Doonsec | [https://mp.weixin.qq.com/s/pd3WLEhyKKgwXmGbftsxIQ](https://mp.weixin.qq.com/s/pd3WLEhyKKgwXmGbftsxIQ) |
-| 2 | 高危漏洞威胁情报 (2026-01-16）| n8n 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA](https://mp.weixin.qq.com/s/tzaUxgo2KUBbzKs2UAxAQA) |
-
-### 信息泄露
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 每周PDF资源：全球数据泄露态势报告；二进制代码混淆工具分析；某消费金融算法分析；信息安全工程师思维导图 | Doonsec | [https://mp.weixin.qq.com/s/7_0qJh1sO__JdsCQAztlKw](https://mp.weixin.qq.com/s/7_0qJh1sO__JdsCQAztlKw) |
+| 1 | 记某edusrc挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ](https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ) |
 
 
 ## 📁 归档路径
@@ -131,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -141,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-18 12:40:33*
+*生成时间: 2026-01-18 16:25:24*
 *报告工具: 微信文章安全归档系统*
