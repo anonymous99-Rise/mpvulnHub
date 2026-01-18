@@ -2,22 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 10篇
+  - BruceFeIix: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **安全运营**: 2篇
-- **信息泄露**: 2篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 2篇
 - **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **应用漏洞**: 1篇
+- **Web安全**: 3篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -67,21 +66,27 @@
 
 ### Doonsec
 
-- [漏洞复现 | 用友U8Cloud IPFxxFileService 任意文件上传漏洞](https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ) (发布日期: 2026-01-18)
-- [一图读懂 | 公共安全行业标准GA 1277.12-2025《互联网交互式服务安全管理要求 第12部分：网络直播服务》](https://mp.weixin.qq.com/s/RTWi9bWxpKv6vQdJRhP1eA) (发布日期: 2026-01-18)
-- [APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络](https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg) (发布日期: 2026-01-18)
-- [【代码审计】CVE-2025-46836](https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w) (发布日期: 2026-01-18)
-- [小白如何获取EDUSRC证书](https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g) (发布日期: 2026-01-18)
-- [法国电信企业因2400万用户数据泄露 被罚4890万美元](https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ) (发布日期: 2026-01-18)
-- [美外卖配送平台Grubhub确认发生数据泄露](https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag) (发布日期: 2026-01-18)
-- [一次内网渗透拿下多台设备](https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg) (发布日期: 2026-01-18)
-- [实战解析：绕WAF的SQL注入变形技巧思路](https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw) (发布日期: 2026-01-18)
-- [CISCN 2018 - SM 密码学题目深度技术解析](https://mp.weixin.qq.com/s/LjU3OWXhOfZY3lMxnjDSnQ) (发布日期: 2026-01-18)
-- [一次从0到1的逻辑漏洞挖掘之旅](https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ) (发布日期: 2026-01-18)
-- [雷池WAF的妙用-蓝队使用思路](https://mp.weixin.qq.com/s/SPb42MiXg8pzMPjzJhkUpw) (发布日期: 2026-01-18)
-- [网络安全行业，国产操作系统集群通过安全测评， 或许重塑国内网络安全新格局](https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ) (发布日期: 2026-01-18)
-- [行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中](https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q) (发布日期: 2026-01-18)
-- [【红队】一款专业的多协议安全测试工具](https://mp.weixin.qq.com/s/XQPTZfrNicCyDBUk2XHyQg) (发布日期: 2026-01-18)
+- [文件包含](https://mp.weixin.qq.com/s/Jno97CLeQVjD7PXSTMesLA) (发布日期: 2026-01-18)
+- [仿真商城漏洞靶场已上线](https://mp.weixin.qq.com/s/Pv8z7N78Y2dc1PqmQZhieA) (发布日期: 2026-01-18)
+- [【工具分享】MPET (Multi-Protocol Exploitation Toolkit)一款专业的多协议安全测试工具](https://mp.weixin.qq.com/s/_nOsFiJOiTwF7Z0A02J0fQ) (发布日期: 2026-01-18)
+- [红队必备漏扫神器！最新版 Invicti 26.1.0](https://mp.weixin.qq.com/s/Txmwjkh48Lz88s4Fq7QYnA) (发布日期: 2026-01-18)
+- [倒计时 1 天 ｜ 云原生安全立方项目](https://mp.weixin.qq.com/s/uL3bnEGP3_YwZXZuL4F0vA) (发布日期: 2026-01-18)
+- [数据安全治理框架](https://mp.weixin.qq.com/s/uJ0okqBh2ZlxkkReF9RBzw) (发布日期: 2026-01-18)
+- [复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）](https://mp.weixin.qq.com/s/cFUhkXB_MrB9RX4A6o7bQw) (发布日期: 2026-01-18)
+- [漏洞挖掘实战系列（第14期）：高级SQL注入技巧 WAF绕过+盲注优化+实战案例](https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg) (发布日期: 2026-01-18)
+- [SQL注入提权思路详解](https://mp.weixin.qq.com/s/AmBQl7qdhvsOtfTscoCD7Q) (发布日期: 2026-01-18)
+- [一文读懂信息安全标准：安全合规的“技术标尺”与核心框架](https://mp.weixin.qq.com/s/mu7X-7r3IISXTeRPMBMZCQ) (发布日期: 2026-01-18)
+
+### BruceFeIix
+
+- [ ] [伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495384&idx=1&sn=bc581050fa7a63617d651ee399d46645) (发布日期: 2026-01-18)
+- [ ] [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=1&sn=b7baabf15c246b7188cec3311d4fcb74) (发布日期: 2026-01-18)
+- [ ] [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=2&sn=568bc60bf24ebbbc562831d29e7b2c5a) (发布日期: 2026-01-18)
+- [ ] [CNNVD | 人工智能重要漏洞通报（2026年第一期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=1&sn=03dc63897eec3eeffc5eaebf1dc7d243) (发布日期: 2026-01-18)
+- [ ] [CNNVD | 关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=3&sn=d265efe8a38a8c6feed55b0fdeb89dd3) (发布日期: 2026-01-18)
+- [ ] [【情报分析】美国负责中国事务的组织架构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153807&idx=1&sn=6cf7429ea9794f687c489c08f4df7022) (发布日期: 2026-01-18)
+- [ ] [《跨年SRC联合狩猎翻倍盛典》第三期启幕 ！](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489076&idx=1&sn=fca16e91ea15fec15ec90029636a8464) (发布日期: 2026-01-18)
+- [ ] [AI软件工程实践：构建企业级Agentic SOC平台](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485457&idx=1&sn=90abec971627091a864d0cedc8d2b0db) (发布日期: 2026-01-18)
 
 
 ## 🎯 威胁详情分析
@@ -90,37 +95,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | 用友U8Cloud IPFxxFileService 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ](https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ) |
-| 2 | 【代码审计】CVE-2025-46836 | Doonsec | [https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w](https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w) |
-| 3 | 一次从0到1的逻辑漏洞挖掘之旅 | Doonsec | [https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ](https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ) |
+| 1 | 仿真商城漏洞靶场已上线 | Doonsec | [https://mp.weixin.qq.com/s/Pv8z7N78Y2dc1PqmQZhieA](https://mp.weixin.qq.com/s/Pv8z7N78Y2dc1PqmQZhieA) |
+| 2 | 【工具分享】MPET (Multi-Protocol Exploitation Toolkit)一款专业的多协议安全测试工具 | Doonsec | [https://mp.weixin.qq.com/s/_nOsFiJOiTwF7Z0A02J0fQ](https://mp.weixin.qq.com/s/_nOsFiJOiTwF7Z0A02J0fQ) |
+| 3 | 复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC） | Doonsec | [https://mp.weixin.qq.com/s/cFUhkXB_MrB9RX4A6o7bQw](https://mp.weixin.qq.com/s/cFUhkXB_MrB9RX4A6o7bQw) |
+| 4 | 漏洞挖掘实战系列（第14期）：高级SQL注入技巧 WAF绕过+盲注优化+实战案例 | Doonsec | [https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg](https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg) |
+| 5 |  ] [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=1&sn=b7baabf15c246b7188cec3311d4fcb74](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=1&sn=b7baabf15c246b7188cec3311d4fcb74) |
+| 6 |  ] [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=2&sn=568bc60bf24ebbbc562831d29e7b2c5a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=2&sn=568bc60bf24ebbbc562831d29e7b2c5a) |
+| 7 |  ] [CNNVD | 人工智能重要漏洞通报（2026年第一期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=1&sn=03dc63897eec3eeffc5eaebf1dc7d243](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=1&sn=03dc63897eec3eeffc5eaebf1dc7d243) |
+| 8 |  ] [CNNVD | 关于微软多个安全漏洞的通报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=3&sn=d265efe8a38a8c6feed55b0fdeb89dd3](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257584&idx=3&sn=d265efe8a38a8c6feed55b0fdeb89dd3) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一次内网渗透拿下多台设备 | Doonsec | [https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg](https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg) |
-| 2 | 实战解析：绕WAF的SQL注入变形技巧思路 | Doonsec | [https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw](https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw) |
-| 3 | 网络安全行业，国产操作系统集群通过安全测评， 或许重塑国内网络安全新格局 | Doonsec | [https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ](https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ) |
+| 1 | 漏洞挖掘实战系列（第14期）：高级SQL注入技巧 WAF绕过+盲注优化+实战案例 | Doonsec | [https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg](https://mp.weixin.qq.com/s/ALKYJ1dxxrpYBL1vKIQ1Zg) |
+| 2 | SQL注入提权思路详解 | Doonsec | [https://mp.weixin.qq.com/s/AmBQl7qdhvsOtfTscoCD7Q](https://mp.weixin.qq.com/s/AmBQl7qdhvsOtfTscoCD7Q) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络 | Doonsec | [https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg](https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg) |
+| 1 |  ] [伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495384&idx=1&sn=bc581050fa7a63617d651ee399d46645](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495384&idx=1&sn=bc581050fa7a63617d651ee399d46645) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 小白如何获取EDUSRC证书 | Doonsec | [https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g](https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g) |
-| 2 | 行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中 | Doonsec | [https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q](https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 法国电信企业因2400万用户数据泄露 被罚4890万美元 | Doonsec | [https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ](https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ) |
-| 2 | 美外卖配送平台Grubhub确认发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag](https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag) |
+| 1 |  ] [《跨年SRC联合狩猎翻倍盛典》第三期启幕 ！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489076&idx=1&sn=fca16e91ea15fec15ec90029636a8464](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489076&idx=1&sn=fca16e91ea15fec15ec90029636a8464) |
 
 
 ## 📁 归档路径
@@ -136,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-18 01:54:22*
+*生成时间: 2026-01-18 04:41:41*
 *报告工具: 微信文章安全归档系统*
