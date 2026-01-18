@@ -1,17 +1,24 @@
-# 2026-01-17 安全威胁态势报告
+# 2026-01-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 3篇
+- **安全运营**: 2篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,11 +67,21 @@
 
 ### Doonsec
 
-- [【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC）](https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA) (发布日期: 2026-01-17)
-- [渗透安全测试远程接单](https://mp.weixin.qq.com/s/OfXJLcjJsfcCREsL8w8Ipw) (发布日期: 2026-01-17)
-- [OWASP 2026 “智能体应用”十大风险发布](https://mp.weixin.qq.com/s/mPYmNqNJL6XgWX-l7vC4Kg) (发布日期: 2026-01-17)
-- [JS逆向对抗——记一次渗透测试签名绕过](https://mp.weixin.qq.com/s/QAD6_65LQil1bz3JZ4st_g) (发布日期: 2026-01-17)
-- [漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779）](https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ) (发布日期: 2026-01-17)
+- [漏洞复现 | 用友U8Cloud IPFxxFileService 任意文件上传漏洞](https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ) (发布日期: 2026-01-18)
+- [一图读懂 | 公共安全行业标准GA 1277.12-2025《互联网交互式服务安全管理要求 第12部分：网络直播服务》](https://mp.weixin.qq.com/s/RTWi9bWxpKv6vQdJRhP1eA) (发布日期: 2026-01-18)
+- [APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络](https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg) (发布日期: 2026-01-18)
+- [【代码审计】CVE-2025-46836](https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w) (发布日期: 2026-01-18)
+- [小白如何获取EDUSRC证书](https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g) (发布日期: 2026-01-18)
+- [法国电信企业因2400万用户数据泄露 被罚4890万美元](https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ) (发布日期: 2026-01-18)
+- [美外卖配送平台Grubhub确认发生数据泄露](https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag) (发布日期: 2026-01-18)
+- [一次内网渗透拿下多台设备](https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg) (发布日期: 2026-01-18)
+- [实战解析：绕WAF的SQL注入变形技巧思路](https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw) (发布日期: 2026-01-18)
+- [CISCN 2018 - SM 密码学题目深度技术解析](https://mp.weixin.qq.com/s/LjU3OWXhOfZY3lMxnjDSnQ) (发布日期: 2026-01-18)
+- [一次从0到1的逻辑漏洞挖掘之旅](https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ) (发布日期: 2026-01-18)
+- [雷池WAF的妙用-蓝队使用思路](https://mp.weixin.qq.com/s/SPb42MiXg8pzMPjzJhkUpw) (发布日期: 2026-01-18)
+- [网络安全行业，国产操作系统集群通过安全测评， 或许重塑国内网络安全新格局](https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ) (发布日期: 2026-01-18)
+- [行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中](https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q) (发布日期: 2026-01-18)
+- [【红队】一款专业的多协议安全测试工具](https://mp.weixin.qq.com/s/XQPTZfrNicCyDBUk2XHyQg) (发布日期: 2026-01-18)
 
 
 ## 🎯 威胁详情分析
@@ -73,13 +90,42 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【转载】复盘2025：在WAF的缝隙里开出花来（附EDU通杀0DayPOC） | Doonsec | [https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA](https://mp.weixin.qq.com/s/1LiBtZ-aiY8MLknS81AWRA) |
-| 2 | 漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779） | Doonsec | [https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ](https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ) |
+| 1 | 漏洞复现 | 用友U8Cloud IPFxxFileService 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ](https://mp.weixin.qq.com/s/7oGpjbtH1DhNqt70HwO5PQ) |
+| 2 | 【代码审计】CVE-2025-46836 | Doonsec | [https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w](https://mp.weixin.qq.com/s/9vO2mNzI0F2qonYIsnGV7w) |
+| 3 | 一次从0到1的逻辑漏洞挖掘之旅 | Doonsec | [https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ](https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 一次内网渗透拿下多台设备 | Doonsec | [https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg](https://mp.weixin.qq.com/s/O-07w1p1GJ2A6Pfjj5LUQg) |
+| 2 | 实战解析：绕WAF的SQL注入变形技巧思路 | Doonsec | [https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw](https://mp.weixin.qq.com/s/5KfLKCYpdjzbatvtVmvoKw) |
+| 3 | 网络安全行业，国产操作系统集群通过安全测评， 或许重塑国内网络安全新格局 | Doonsec | [https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ](https://mp.weixin.qq.com/s/Eimac9znl1QP8ThFkef-dQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | APT组织HoneyMyte利用Rootkit劫持亚洲多国政府网络 | Doonsec | [https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg](https://mp.weixin.qq.com/s/NrMGhAYwwZvEriQ_W3VVZg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 小白如何获取EDUSRC证书 | Doonsec | [https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g](https://mp.weixin.qq.com/s/0rVtHIRzSiSzYWy1On_f_g) |
+| 2 | 行业资讯：山东某市一体化网络安全运营服务项目同域信息（联合体）193.99万中 | Doonsec | [https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q](https://mp.weixin.qq.com/s/zM3UFk7GF2gFHCWt3e764Q) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 法国电信企业因2400万用户数据泄露 被罚4890万美元 | Doonsec | [https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ](https://mp.weixin.qq.com/s/mFqXW_QFYr7GiaNIZo_WpQ) |
+| 2 | 美外卖配送平台Grubhub确认发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag](https://mp.weixin.qq.com/s/rH2ReM4sPGfnaSwD2AG7ag) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-17/`
+文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-18/`
 
 ## 🔗 数据源说明
 
@@ -90,8 +136,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -100,5 +146,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-17 16:23:42*
+*生成时间: 2026-01-18 01:54:22*
 *报告工具: 微信文章安全归档系统*
