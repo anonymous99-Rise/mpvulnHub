@@ -1,17 +1,18 @@
-# 2026-01-18 安全威胁态势报告
+# 2026-01-19 安全威胁态势报告
 
 ## 📊 数据概览
 
 - **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 4篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **威胁情报**: 2篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -62,11 +63,14 @@
 
 ### Doonsec
 
-- [记某edusrc挖掘案例分享](https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ) (发布日期: 2026-01-18)
-- [内网渗透(八)：中继攻击](https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw) (发布日期: 2026-01-18)
-- [第二周战报 | 常态化漏洞挖掘演习](https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw) (发布日期: 2026-01-18)
-- [某vue网站的渗透测试](https://mp.weixin.qq.com/s/k8JJp3tYMrsOg4Ty2pX_tg) (发布日期: 2026-01-18)
-- [CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。](https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg) (发布日期: 2026-01-18)
+- [从灵感到落地：用Claude Skills实现\"一键代码审计\"全过程](https://mp.weixin.qq.com/s/3Cq4ptqLFoTr03vSqE5riA) (发布日期: 2026-01-19)
+- [AI 辅助逆向之旅：如何从TP-Link摄像头中挖掘漏洞](https://mp.weixin.qq.com/s/P1wN63buKdNji9qQ8t1kSQ) (发布日期: 2026-01-19)
+- [全面升级 | 如同开挂！注入AI灵魂后的DBF6300有多厉害？](https://mp.weixin.qq.com/s/KquU5uaXWt2ZrcRHKemMog) (发布日期: 2026-01-19)
+- [综合威胁情报聚合MCP - CyberSentinel AI 自动化安全监控与AI分析系统服务器](https://mp.weixin.qq.com/s/sPDDkZQ1Gu8vwvk4H7toyQ) (发布日期: 2026-01-19)
+
+### BruceFeIix
+
+- [ ] [银狐黑产组织几大变种样本攻击流程图](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439) (发布日期: 2026-01-19)
 
 
 ## 🎯 威胁详情分析
@@ -75,25 +79,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第二周战报 | 常态化漏洞挖掘演习 | Doonsec | [https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw](https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw) |
-| 2 | CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。 | Doonsec | [https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg](https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg) |
+| 1 | AI 辅助逆向之旅：如何从TP-Link摄像头中挖掘漏洞 | Doonsec | [https://mp.weixin.qq.com/s/P1wN63buKdNji9qQ8t1kSQ](https://mp.weixin.qq.com/s/P1wN63buKdNji9qQ8t1kSQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透(八)：中继攻击 | Doonsec | [https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw](https://mp.weixin.qq.com/s/qjR11oWaxlRQlCSeVEwssw) |
+| 1 | 全面升级 | 如同开挂！注入AI灵魂后的DBF6300有多厉害？ | Doonsec | [https://mp.weixin.qq.com/s/KquU5uaXWt2ZrcRHKemMog](https://mp.weixin.qq.com/s/KquU5uaXWt2ZrcRHKemMog) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记某edusrc挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ](https://mp.weixin.qq.com/s/_CbIWcnrEE9VQEump0ctnQ) |
+| 1 | 综合威胁情报聚合MCP - CyberSentinel AI 自动化安全监控与AI分析系统服务器 | Doonsec | [https://mp.weixin.qq.com/s/sPDDkZQ1Gu8vwvk4H7toyQ](https://mp.weixin.qq.com/s/sPDDkZQ1Gu8vwvk4H7toyQ) |
+| 2 |  ] [银狐黑产组织几大变种样本攻击流程图 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W03/2026-01-18/`
+文章已归档到: `doc/2026/2026-01/2026-W04/2026-01-19/`
 
 ## 🔗 数据源说明
 
@@ -104,7 +108,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -114,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-18 16:25:24*
+*生成时间: 2026-01-19 04:52:47*
 *报告工具: 微信文章安全归档系统*
