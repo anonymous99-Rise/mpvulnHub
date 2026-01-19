@@ -39859,3 +39859,52 @@
 2026-01-19 01:52:44,555 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-01-19 01:52:44,609 - INFO - 已更新data.json，添加了 0 个URL
 2026-01-19 01:52:44,609 - INFO - === 执行完成 ===
+2026-01-19 04:52:43,761 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-19 04:52:43,761 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-19 04:52:43,761 - INFO - 正在发送Discord启动通知...
+2026-01-19 04:52:44,016 - INFO - Discord启动通知发送结果: 204
+2026-01-19 04:52:44,018 - INFO - 数据文件: data.json
+2026-01-19 04:52:44,018 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-19 04:52:44,018 - INFO - 文档目录: doc
+2026-01-19 04:52:44,073 - INFO - 已加载 34411 条历史记录
+2026-01-19 04:52:44,073 - INFO - === 开始今日拉取 ===
+2026-01-19 04:52:44,073 - INFO - 开始获取Doonsec RSS
+2026-01-19 04:52:44,073 - INFO - 目标日期: 2026-01-19
+2026-01-19 04:52:45,643 - INFO - Doonsec RSS请求成功
+2026-01-19 04:52:45,644 - INFO - RSS中共有 200 个条目
+2026-01-19 04:52:45,644 - INFO - Doonsec获取到 19 个2026-01-19的微信文章URL
+2026-01-19 04:52:45,645 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-19.md
+2026-01-19 04:52:45,800 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-19 04:52:45,800 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-19.md 状态码: 404
+2026-01-19 04:52:45,800 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-19.md
+2026-01-19 04:52:45,832 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-19 04:52:45,833 - INFO - BruceFeIix获取到 183 个URL
+2026-01-19 04:52:45,833 - INFO - === 开始处理 2026-01-19 的数据 ===
+2026-01-19 04:52:45,833 - INFO - Doonsec原始数据: 19 个
+2026-01-19 04:52:45,833 - INFO - ChainReactors原始数据: 0 个
+2026-01-19 04:52:45,833 - INFO - BruceFeIix原始数据: 183 个
+2026-01-19 04:52:45,833 - INFO - 开始处理Doonsec数据...
+2026-01-19 04:52:45,833 - INFO - 开始处理ChainReactors数据...
+2026-01-19 04:52:45,833 - INFO - 开始处理BruceFeIix数据...
+2026-01-19 04:52:45,834 - INFO - 去重后共 155 个URL待处理，跳过 47 个重复URL
+2026-01-19 04:52:45,834 - INFO - 去重后统计 - Doonsec: 19 个, ChainReactors: 0 个, BruceFeIix: 136 个
+2026-01-19 04:52:45,834 - INFO - === 开始关键词过滤 ===
+2026-01-19 04:52:45,839 - INFO - 关键词过滤: 匹配 5 个，跳过 150 个
+2026-01-19 04:52:45,839 - INFO - 关键词过滤后统计 - Doonsec: 4 个, ChainReactors: 0 个, BruceFeIix: 1 个
+2026-01-19 04:52:45,852 - INFO - 已创建每日报告: md/2026-01-19.md
+2026-01-19 04:52:45,852 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-19 04:52:45,852 - INFO - 正在发送Discord通知: 从灵感到落地：用Claude Skills实现\"一键代码审计\"全过程
+2026-01-19 04:52:46,124 - INFO - Discord通知发送结果: 204
+2026-01-19 04:52:46,125 - INFO - 正在发送Discord通知: AI 辅助逆向之旅：如何从TP-Link摄像头中挖掘漏洞
+2026-01-19 04:52:46,441 - INFO - Discord通知发送结果: 204
+2026-01-19 04:52:46,442 - INFO - 正在发送Discord通知: 全面升级 | 如同开挂！注入AI灵魂后的DBF6300有多厉害？
+2026-01-19 04:52:46,842 - INFO - Discord通知发送结果: 204
+2026-01-19 04:52:46,843 - INFO - 正在发送Discord通知: 综合威胁情报聚合MCP - CyberSentinel AI 自动化安全监控与AI分析系统服务器
+2026-01-19 04:52:47,100 - INFO - Discord通知发送结果: 204
+2026-01-19 04:52:47,102 - INFO - 正在发送Discord通知:  ] [银狐黑产组织几大变种样本攻击流程图
+2026-01-19 04:52:47,529 - INFO - Discord通知发送结果: 204
+2026-01-19 04:52:47,585 - INFO - 已更新data.json，添加了 5 个URL
+2026-01-19 04:52:47,586 - INFO - 已创建每日报告: md/2026-01-19.md
+2026-01-19 04:52:47,586 - INFO - 正在发送Discord日报通知: 2026-01-19
+2026-01-19 04:52:47,796 - INFO - Discord日报发送结果: 204
+2026-01-19 04:52:47,797 - INFO - === 执行完成 ===
