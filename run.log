@@ -40530,3 +40530,44 @@
 2026-01-20 04:45:50,228 - INFO - 正在发送Discord日报通知: 2026-01-20
 2026-01-20 04:45:50,536 - INFO - Discord日报发送结果: 204
 2026-01-20 04:45:50,537 - INFO - === 执行完成 ===
+2026-01-20 08:32:56,391 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-20 08:32:56,391 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-20 08:32:56,391 - INFO - 正在发送Discord启动通知...
+2026-01-20 08:32:56,840 - INFO - Discord启动通知发送结果: 204
+2026-01-20 08:32:56,841 - INFO - 数据文件: data.json
+2026-01-20 08:32:56,842 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-20 08:32:56,842 - INFO - 文档目录: doc
+2026-01-20 08:32:56,897 - INFO - 已加载 34615 条历史记录
+2026-01-20 08:32:56,897 - INFO - === 开始今日拉取 ===
+2026-01-20 08:32:56,897 - INFO - 开始获取Doonsec RSS
+2026-01-20 08:32:56,897 - INFO - 目标日期: 2026-01-20
+2026-01-20 08:32:58,598 - INFO - Doonsec RSS请求成功
+2026-01-20 08:32:58,599 - INFO - RSS中共有 200 个条目
+2026-01-20 08:32:58,600 - INFO - Doonsec获取到 200 个2026-01-20的微信文章URL
+2026-01-20 08:32:58,601 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-20.md
+2026-01-20 08:32:58,713 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-20 08:32:58,713 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-20.md 状态码: 404
+2026-01-20 08:32:58,713 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-20.md
+2026-01-20 08:32:58,843 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-20 08:32:58,844 - INFO - BruceFeIix获取到 96 个URL
+2026-01-20 08:32:58,845 - INFO - === 开始处理 2026-01-20 的数据 ===
+2026-01-20 08:32:58,845 - INFO - Doonsec原始数据: 200 个
+2026-01-20 08:32:58,845 - INFO - ChainReactors原始数据: 0 个
+2026-01-20 08:32:58,845 - INFO - BruceFeIix原始数据: 96 个
+2026-01-20 08:32:58,845 - INFO - 开始处理Doonsec数据...
+2026-01-20 08:32:58,845 - INFO - 开始处理ChainReactors数据...
+2026-01-20 08:32:58,845 - INFO - 开始处理BruceFeIix数据...
+2026-01-20 08:32:58,845 - INFO - 去重后共 191 个URL待处理，跳过 105 个重复URL
+2026-01-20 08:32:58,846 - INFO - 去重后统计 - Doonsec: 127 个, ChainReactors: 0 个, BruceFeIix: 64 个
+2026-01-20 08:32:58,846 - INFO - === 开始关键词过滤 ===
+2026-01-20 08:32:58,852 - INFO - 关键词过滤: 匹配 1 个，跳过 190 个
+2026-01-20 08:32:58,852 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-20 08:32:58,890 - INFO - 已创建每日报告: md/2026-01-20.md
+2026-01-20 08:32:58,890 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-20 08:32:58,890 - INFO - 正在发送Discord通知: GootLoader 使用格式错误的 ZIP 文件来绕过安全控制
+2026-01-20 08:32:59,378 - INFO - Discord通知发送结果: 204
+2026-01-20 08:32:59,433 - INFO - 已更新data.json，添加了 1 个URL
+2026-01-20 08:32:59,434 - INFO - 已创建每日报告: md/2026-01-20.md
+2026-01-20 08:32:59,434 - INFO - 正在发送Discord日报通知: 2026-01-20
+2026-01-20 08:32:59,765 - INFO - Discord日报发送结果: 204
+2026-01-20 08:32:59,766 - INFO - === 执行完成 ===
