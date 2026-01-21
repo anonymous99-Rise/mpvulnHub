@@ -41316,3 +41316,60 @@
 2026-01-21 12:51:42,665 - INFO - 正在发送Discord日报通知: 2026-01-21
 2026-01-21 12:51:42,890 - INFO - Discord日报发送结果: 204
 2026-01-21 12:51:42,891 - INFO - === 执行完成 ===
+2026-01-21 16:50:25,521 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-21 16:50:25,521 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-21 16:50:25,521 - INFO - 正在发送Discord启动通知...
+2026-01-21 16:50:25,720 - INFO - Discord启动通知发送结果: 204
+2026-01-21 16:50:25,722 - INFO - 数据文件: data.json
+2026-01-21 16:50:25,722 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-21 16:50:25,722 - INFO - 文档目录: doc
+2026-01-21 16:50:25,779 - INFO - 已加载 34855 条历史记录
+2026-01-21 16:50:25,779 - INFO - === 开始今日拉取 ===
+2026-01-21 16:50:25,779 - INFO - 开始获取Doonsec RSS
+2026-01-21 16:50:25,779 - INFO - 目标日期: 2026-01-21
+2026-01-21 16:50:28,081 - INFO - Doonsec RSS请求成功
+2026-01-21 16:50:28,082 - INFO - RSS中共有 200 个条目
+2026-01-21 16:50:28,082 - INFO - Doonsec获取到 188 个2026-01-21的微信文章URL
+2026-01-21 16:50:28,083 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-21.md
+2026-01-21 16:50:28,142 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-21 16:50:28,142 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-21.md 状态码: 404
+2026-01-21 16:50:28,142 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-21.md
+2026-01-21 16:50:28,184 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-21 16:50:28,185 - INFO - BruceFeIix获取到 74 个URL
+2026-01-21 16:50:28,185 - INFO - === 开始处理 2026-01-21 的数据 ===
+2026-01-21 16:50:28,185 - INFO - Doonsec原始数据: 188 个
+2026-01-21 16:50:28,185 - INFO - ChainReactors原始数据: 0 个
+2026-01-21 16:50:28,185 - INFO - BruceFeIix原始数据: 74 个
+2026-01-21 16:50:28,185 - INFO - 开始处理Doonsec数据...
+2026-01-21 16:50:28,186 - INFO - 开始处理ChainReactors数据...
+2026-01-21 16:50:28,186 - INFO - 开始处理BruceFeIix数据...
+2026-01-21 16:50:28,186 - INFO - 去重后共 189 个URL待处理，跳过 73 个重复URL
+2026-01-21 16:50:28,186 - INFO - 去重后统计 - Doonsec: 138 个, ChainReactors: 0 个, BruceFeIix: 51 个
+2026-01-21 16:50:28,186 - INFO - === 开始关键词过滤 ===
+2026-01-21 16:50:28,192 - INFO - 关键词过滤: 匹配 9 个，跳过 180 个
+2026-01-21 16:50:28,192 - INFO - 关键词过滤后统计 - Doonsec: 9 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-21 16:50:28,207 - INFO - 已创建每日报告: md/2026-01-21.md
+2026-01-21 16:50:28,207 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-21 16:50:28,207 - INFO - 正在发送Discord通知: 最新高危漏洞威胁情报合集 (2026-01-21）
+2026-01-21 16:50:28,398 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:28,399 - INFO - 正在发送Discord通知: 常见OAuth 漏洞：未验证token
+2026-01-21 16:50:28,700 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:28,701 - INFO - 正在发送Discord通知: 【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061
+2026-01-21 16:50:28,914 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:28,916 - INFO - 正在发送Discord通知: 攻防技巧|快速高效挖掘.net系统漏洞
+2026-01-21 16:50:29,265 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:29,266 - INFO - 正在发送Discord通知: src专项挖掘知识库
+2026-01-21 16:50:29,495 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:29,496 - INFO - 正在发送Discord通知: 域控信息导出利器——ldapdomaindump
+2026-01-21 16:50:29,791 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:29,792 - INFO - 正在发送Discord通知: Windows安全攻防-手写一个PE壳
+2026-01-21 16:50:32,060 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:32,061 - INFO - 正在发送Discord通知: 银狐木马分析必懂的专业黑话
+2026-01-21 16:50:32,267 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:32,268 - INFO - 正在发送Discord通知: Cloudflare  WAF 零日漏洞：可访问全球任何主机
+2026-01-21 16:50:32,573 - INFO - Discord通知发送结果: 204
+2026-01-21 16:50:32,633 - INFO - 已更新data.json，添加了 9 个URL
+2026-01-21 16:50:32,634 - INFO - 已创建每日报告: md/2026-01-21.md
+2026-01-21 16:50:32,634 - INFO - 正在发送Discord日报通知: 2026-01-21
+2026-01-21 16:50:32,877 - INFO - Discord日报发送结果: 204
+2026-01-21 16:50:32,878 - INFO - === 执行完成 ===
