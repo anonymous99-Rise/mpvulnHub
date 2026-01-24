@@ -2,17 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 4篇
+- **威胁情报**: 3篇
+- **安全运营**: 3篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **网络攻击**: 2篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,11 +67,28 @@
 
 ### Doonsec
 
-- [从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)](https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA) (发布日期: 2026-01-24)
-- [GB/T46903—2025 数据安全技术个人信息保护合规审计要求](https://mp.weixin.qq.com/s/U-L9_zjA4O468rGYSmYHfA) (发布日期: 2026-01-24)
-- [AI SOC产品思考：如何用有限算力撬动最大效率](https://mp.weixin.qq.com/s/wCa_Xf0bd-U3iZXxcaypOg) (发布日期: 2026-01-24)
-- [微软向FBI提供BitLocker恢复密钥：隐私保护的重大漏洞暴露](https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw) (发布日期: 2026-01-24)
-- [高危漏洞威胁情报合集 (2026-01-22~2026-01-23）](https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg) (发布日期: 2026-01-24)
+- [蓝凌EKP系统接口thirdImSyncForKKWebService接口存在任意文件读取漏洞](https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA) (发布日期: 2026-01-24)
+- [SQL注入挖洞已死？月入过万的SRC猎手正在用这些“过时”技巧疯狂淘金](https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ) (发布日期: 2026-01-24)
+- [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg) (发布日期: 2026-01-24)
+- [喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5](https://mp.weixin.qq.com/s/MgZlMx1WOB1ePpYCxNOd7Q) (发布日期: 2026-01-24)
+- [CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞](https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ) (发布日期: 2026-01-24)
+- [Linux Telnetd 远程代码执行！靶场镜像](https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q) (发布日期: 2026-01-24)
+- [网络首发 | 北京航空航天大学关振宇教授团队：大语言模型驱动的网络协议逆向与安全测试方法](https://mp.weixin.qq.com/s/qvIFti3o7lKnvQLsOOmifA) (发布日期: 2026-01-24)
+- [针对APT研究人员的定向钓鱼攻击活动](https://mp.weixin.qq.com/s/Xb6jv464MLKodGi0ogAxlQ) (发布日期: 2026-01-24)
+- [【安全锐评】企业遭受勒索病毒攻击并非是其资源投入不够](https://mp.weixin.qq.com/s/_6qk59l9H9jpI37VhgJKwQ) (发布日期: 2026-01-24)
+- [伪装成TDesk安装程序银狐黑产样本与威胁情报](https://mp.weixin.qq.com/s/UCp8RdDVNZJXq4nG_ps_hg) (发布日期: 2026-01-24)
+- [Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径](https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w) (发布日期: 2026-01-24)
+- [干货：如何利用自动化工具绕过谷歌验证码实现XSS攻击链](https://mp.weixin.qq.com/s/j7ynlnjH31IkKV8giCuhhA) (发布日期: 2026-01-24)
+- [电脑中挖矿病毒程序   手搓溯源分析直接定位到人！](https://mp.weixin.qq.com/s/6t_B1wB03UkTJds6KDlohw) (发布日期: 2026-01-24)
+- [记某edusrc小程序挖掘案例](https://mp.weixin.qq.com/s/qVnZOQnN72Y_ME5t-aRe_A) (发布日期: 2026-01-24)
+- [耐克公司疑遭WorldLeaks勒索软件组织入侵，外泄TB级数据](https://mp.weixin.qq.com/s/IF1SGOVKoWqq66psJFi7lQ) (发布日期: 2026-01-24)
+- [苹果第二大代工厂立讯精密疑机密数据外泄；GPT-5.2可规模化开发0Day漏洞利用程序 | FreeBuf周报](https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw) (发布日期: 2026-01-24)
+- [暗网及明网数据泄露详细信息汇总2026](https://mp.weixin.qq.com/s/NHSZT61m_97KtoDz9LV3dg) (发布日期: 2026-01-24)
+- [中国科学院智能信息处理重点实验室关于文生图扩散模型后门检测的工作被T-PAMI接收](https://mp.weixin.qq.com/s/sW3zemb5PFHJuw8xHJM0oA) (发布日期: 2026-01-24)
+- [日历间谍：揭秘\"间接提示注入\"如何将Google Gemini变成监控工具](https://mp.weixin.qq.com/s/uH9wGZBfoKBDaTrccqfSfg) (发布日期: 2026-01-24)
+- [注意：Github上这个CVE-2025-8088工具实为木马下载器](https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg) (发布日期: 2026-01-24)
+- [CISA更新KEV目录，新增四个正在被积极利用的软件漏洞](https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w) (发布日期: 2026-01-24)
+- [MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险](https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w) (发布日期: 2026-01-24)
 
 
 ## 🎯 威胁详情分析
@@ -74,15 +97,45 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200) | Doonsec | [https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA](https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA) |
-| 2 | 微软向FBI提供BitLocker恢复密钥：隐私保护的重大漏洞暴露 | Doonsec | [https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw](https://mp.weixin.qq.com/s/NiruKEIvIlsrGplNF9RzGw) |
-| 3 | 高危漏洞威胁情报合集 (2026-01-22~2026-01-23） | Doonsec | [https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg](https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg) |
+| 1 | 蓝凌EKP系统接口thirdImSyncForKKWebService接口存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA](https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA) |
+| 2 | 拆解 AI Skills 的五大逻辑漏洞与防御实践 | Doonsec | [https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg](https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg) |
+| 3 | CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ](https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ) |
+| 4 | Web篇 | 密码重置漏洞挖掘指南：从原理到实战的完整路径 | Doonsec | [https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w](https://mp.weixin.qq.com/s/pHYh2DSyTyVVn-Mh8pE38w) |
+| 5 | 苹果第二大代工厂立讯精密疑机密数据外泄；GPT-5.2可规模化开发0Day漏洞利用程序 | FreeBuf周报 | Doonsec | [https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw](https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw) |
+| 6 | 注意：Github上这个CVE-2025-8088工具实为木马下载器 | Doonsec | [https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg](https://mp.weixin.qq.com/s/nbPsxTqg3jG3G8fqqglLbg) |
+| 7 | CISA更新KEV目录，新增四个正在被积极利用的软件漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w](https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w) |
+| 8 | MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险 | Doonsec | [https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w](https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SQL注入挖洞已死？月入过万的SRC猎手正在用这些“过时”技巧疯狂淘金 | Doonsec | [https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ](https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ) |
+| 2 | Linux Telnetd 远程代码执行！靶场镜像 | Doonsec | [https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q](https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q) |
+| 3 | 干货：如何利用自动化工具绕过谷歌验证码实现XSS攻击链 | Doonsec | [https://mp.weixin.qq.com/s/j7ynlnjH31IkKV8giCuhhA](https://mp.weixin.qq.com/s/j7ynlnjH31IkKV8giCuhhA) |
+| 4 | 日历间谍：揭秘\"间接提示注入\"如何将Google Gemini变成监控工具 | Doonsec | [https://mp.weixin.qq.com/s/uH9wGZBfoKBDaTrccqfSfg](https://mp.weixin.qq.com/s/uH9wGZBfoKBDaTrccqfSfg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 高危漏洞威胁情报合集 (2026-01-22~2026-01-23） | Doonsec | [https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg](https://mp.weixin.qq.com/s/lsC9ppKpI8Jqcx3WoWHxMg) |
+| 1 | 针对APT研究人员的定向钓鱼攻击活动 | Doonsec | [https://mp.weixin.qq.com/s/Xb6jv464MLKodGi0ogAxlQ](https://mp.weixin.qq.com/s/Xb6jv464MLKodGi0ogAxlQ) |
+| 2 | 【安全锐评】企业遭受勒索病毒攻击并非是其资源投入不够 | Doonsec | [https://mp.weixin.qq.com/s/_6qk59l9H9jpI37VhgJKwQ](https://mp.weixin.qq.com/s/_6qk59l9H9jpI37VhgJKwQ) |
+| 3 | 伪装成TDesk安装程序银狐黑产样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s/UCp8RdDVNZJXq4nG_ps_hg](https://mp.weixin.qq.com/s/UCp8RdDVNZJXq4nG_ps_hg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SQL注入挖洞已死？月入过万的SRC猎手正在用这些“过时”技巧疯狂淘金 | Doonsec | [https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ](https://mp.weixin.qq.com/s/MsFF3zyR9DExdeQz66EqFQ) |
+| 2 | 喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5 | Doonsec | [https://mp.weixin.qq.com/s/MgZlMx1WOB1ePpYCxNOd7Q](https://mp.weixin.qq.com/s/MgZlMx1WOB1ePpYCxNOd7Q) |
+| 3 | 记某edusrc小程序挖掘案例 | Doonsec | [https://mp.weixin.qq.com/s/qVnZOQnN72Y_ME5t-aRe_A](https://mp.weixin.qq.com/s/qVnZOQnN72Y_ME5t-aRe_A) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 暗网及明网数据泄露详细信息汇总2026 | Doonsec | [https://mp.weixin.qq.com/s/NHSZT61m_97KtoDz9LV3dg](https://mp.weixin.qq.com/s/NHSZT61m_97KtoDz9LV3dg) |
 
 
 ## 📁 归档路径
@@ -98,8 +151,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +161,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-24 08:27:55*
+*生成时间: 2026-01-24 16:25:42*
 *报告工具: 微信文章安全归档系统*
