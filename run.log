@@ -42504,3 +42504,50 @@
 2026-01-23 20:27:07,126 - INFO - 正在发送Discord日报通知: 2026-01-23
 2026-01-23 20:27:07,321 - INFO - Discord日报发送结果: 204
 2026-01-23 20:27:07,322 - INFO - === 执行完成 ===
+2026-01-24 01:44:44,669 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-24 01:44:44,669 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-24 01:44:44,670 - INFO - 正在发送Discord启动通知...
+2026-01-24 01:44:45,127 - INFO - Discord启动通知发送结果: 204
+2026-01-24 01:44:45,129 - INFO - 数据文件: data.json
+2026-01-24 01:44:45,129 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-24 01:44:45,129 - INFO - 文档目录: doc
+2026-01-24 01:44:45,187 - INFO - 已加载 35188 条历史记录
+2026-01-24 01:44:45,187 - INFO - === 开始今日拉取 ===
+2026-01-24 01:44:45,187 - INFO - 开始获取Doonsec RSS
+2026-01-24 01:44:45,187 - INFO - 目标日期: 2026-01-24
+2026-01-24 01:44:46,567 - INFO - Doonsec RSS请求成功
+2026-01-24 01:44:46,568 - INFO - RSS中共有 200 个条目
+2026-01-24 01:44:46,569 - INFO - Doonsec获取到 19 个2026-01-24的微信文章URL
+2026-01-24 01:44:46,570 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-24.md
+2026-01-24 01:44:46,653 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-24 01:44:46,653 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-24.md 状态码: 404
+2026-01-24 01:44:46,653 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-24.md
+2026-01-24 01:44:46,769 - INFO - BruceFeIix md文件下载状态码: 404
+2026-01-24 01:44:46,769 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-24.md 状态码: 404
+2026-01-24 01:44:46,770 - INFO - === 开始处理 2026-01-24 的数据 ===
+2026-01-24 01:44:46,770 - INFO - Doonsec原始数据: 19 个
+2026-01-24 01:44:46,770 - INFO - ChainReactors原始数据: 0 个
+2026-01-24 01:44:46,770 - INFO - BruceFeIix原始数据: 0 个
+2026-01-24 01:44:46,770 - INFO - 开始处理Doonsec数据...
+2026-01-24 01:44:46,770 - INFO - 开始处理ChainReactors数据...
+2026-01-24 01:44:46,770 - INFO - 开始处理BruceFeIix数据...
+2026-01-24 01:44:46,770 - INFO - 去重后共 19 个URL待处理，跳过 0 个重复URL
+2026-01-24 01:44:46,770 - INFO - 去重后统计 - Doonsec: 19 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-24 01:44:46,770 - INFO - === 开始关键词过滤 ===
+2026-01-24 01:44:46,771 - INFO - 关键词过滤: 匹配 4 个，跳过 15 个
+2026-01-24 01:44:46,771 - INFO - 关键词过滤后统计 - Doonsec: 4 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-24 01:44:46,794 - INFO - 已创建每日报告: md/2026-01-24.md
+2026-01-24 01:44:46,794 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-24 01:44:46,795 - INFO - 正在发送Discord通知: 红队攻防：快速拿下域控的思路打法
+2026-01-24 01:44:47,054 - INFO - Discord通知发送结果: 204
+2026-01-24 01:44:47,055 - INFO - 正在发送Discord通知: XML外部实体注入漏洞（XXE）
+2026-01-24 01:44:47,374 - INFO - Discord通知发送结果: 204
+2026-01-24 01:44:47,374 - INFO - 正在发送Discord通知: 西班牙能源巨头Endesa披露数据泄露事件，导致大量客户信息泄露
+2026-01-24 01:44:49,136 - INFO - Discord通知发送结果: 204
+2026-01-24 01:44:49,137 - INFO - 正在发送Discord通知: CVE-2026-22200：osTicket工单直通系统Shell的漏洞剖析
+2026-01-24 01:44:49,441 - INFO - Discord通知发送结果: 204
+2026-01-24 01:44:49,497 - INFO - 已更新data.json，添加了 4 个URL
+2026-01-24 01:44:49,497 - INFO - 已创建每日报告: md/2026-01-24.md
+2026-01-24 01:44:49,497 - INFO - 正在发送Discord日报通知: 2026-01-24
+2026-01-24 01:44:49,926 - INFO - Discord日报发送结果: 204
+2026-01-24 01:44:49,927 - INFO - === 执行完成 ===
