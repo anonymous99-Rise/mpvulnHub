@@ -2,20 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 7篇
+  - BruceFeIix: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 - **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,23 +67,19 @@
 
 ### Doonsec
 
-- [严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听](https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA) (发布日期: 2026-01-25)
-- [新Shiro反序列化漏洞一站式综合利用工具](https://mp.weixin.qq.com/s/jBzhPGZkyszNgLtlRl9pMA) (发布日期: 2026-01-25)
-- [招聘！渗透测试岗位（1人）](https://mp.weixin.qq.com/s/ZfhXKucuL-1_8bMKFLly0A) (发布日期: 2026-01-25)
-- [CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC）](https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg) (发布日期: 2026-01-25)
-- [CVE-2025-61686｜React Router未授权目录遍历漏洞（POC）](https://mp.weixin.qq.com/s/zSC_91YlsXBLtGk2gRt-pw) (发布日期: 2026-01-25)
-- [黑客利用 telnetd 身份验证绕过漏洞获取 root 权限](https://mp.weixin.qq.com/s/AZkj7nh8VIeetGQjK957Bw) (发布日期: 2026-01-25)
-- [阿尔巴尼亚驻俄使馆疑遭数据泄露，1.18GB敏感文件现身暗网](https://mp.weixin.qq.com/s/MW4VVekdduG1_FYThs3H0Q) (发布日期: 2026-01-25)
-- [通用数据安全治理与管控评估检查表（checklist）](https://mp.weixin.qq.com/s/tvdH9xSbO2wWNPrwbIpIdg) (发布日期: 2026-01-25)
-- [数据安全评估管理办法](https://mp.weixin.qq.com/s/Zacs8v2Ukzyv63tWYLj-IQ) (发布日期: 2026-01-25)
-- [CTF密码学实战：椭圆曲线加密（ECC）原理与解题](https://mp.weixin.qq.com/s/Nt45mdVtowX3XFu5Fg7fxg) (发布日期: 2026-01-25)
-- [使用数字孪生进行自动化汽车网络安全测试](https://mp.weixin.qq.com/s/hicuxTyLIGPe6XVRgnN0mg) (发布日期: 2026-01-25)
-- [一个整数溢出引发的全球安全危机：CVE-2022-22822深度解析](https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ) (发布日期: 2026-01-25)
-- [上饶银行因“信息安全管理不足”被罚30万](https://mp.weixin.qq.com/s/27HWK1iC4ENWpZ5Gvjoe_A) (发布日期: 2026-01-25)
-- [夏威夷大学癌症中心遭遇勒索软件攻击](https://mp.weixin.qq.com/s/Jl83hJZoulnOggj61tIxCg) (发布日期: 2026-01-25)
-- [StackWarp漏洞为什么不能影响海光C86](https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ) (发布日期: 2026-01-25)
-- [快云服务器助手 filemana.aspx/GetDetail 接口存在任意文件读取漏洞](https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg) (发布日期: 2026-01-25)
-- [网络安全行业，隐私增强计算或许成为千亿级市场，数据安全进入“可用不可见”新时代](https://mp.weixin.qq.com/s/VYMiP3cP3UBrvLWqpIVy8w) (发布日期: 2026-01-25)
+- [实战分享：手把手教你突破前端加密混淆限制](https://mp.weixin.qq.com/s/SVyZc-bMvceakjXVQktZqw) (发布日期: 2026-01-25)
+- [2026 AI安全十大预测发布：提示注入成首要威胁，全球进入“AI原生”防御元年](https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA) (发布日期: 2026-01-25)
+- [下载 | 人工智能安全治理研究报告（2025年）](https://mp.weixin.qq.com/s/_zc4WpvE2Igj_t_3MLCcZw) (发布日期: 2026-01-25)
+- [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) (发布日期: 2026-01-25)
+- [构建可扩展的 Windows 驱动漏洞分析器 (第一部分)](https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw) (发布日期: 2026-01-25)
+- [dddd指纹和POC扩展](https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang) (发布日期: 2026-01-25)
+- [漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞](https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg) (发布日期: 2026-01-25)
+
+### BruceFeIix
+
+- [ ] [伪装成TDesk安装程序银狐黑产样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57) (发布日期: 2026-01-25)
+- [ ] [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e) (发布日期: 2026-01-25)
+- [ ] [喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690) (发布日期: 2026-01-25)
 
 
 ## 🎯 威胁详情分析
@@ -89,26 +88,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听 | Doonsec | [https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA](https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA) |
-| 2 | 新Shiro反序列化漏洞一站式综合利用工具 | Doonsec | [https://mp.weixin.qq.com/s/jBzhPGZkyszNgLtlRl9pMA](https://mp.weixin.qq.com/s/jBzhPGZkyszNgLtlRl9pMA) |
-| 3 | CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg](https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg) |
-| 4 | CVE-2025-61686｜React Router未授权目录遍历漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/zSC_91YlsXBLtGk2gRt-pw](https://mp.weixin.qq.com/s/zSC_91YlsXBLtGk2gRt-pw) |
-| 5 | 黑客利用 telnetd 身份验证绕过漏洞获取 root 权限 | Doonsec | [https://mp.weixin.qq.com/s/AZkj7nh8VIeetGQjK957Bw](https://mp.weixin.qq.com/s/AZkj7nh8VIeetGQjK957Bw) |
-| 6 | 一个整数溢出引发的全球安全危机：CVE-2022-22822深度解析 | Doonsec | [https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ](https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ) |
-| 7 | StackWarp漏洞为什么不能影响海光C86 | Doonsec | [https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ](https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ) |
-| 8 | 快云服务器助手 filemana.aspx/GetDetail 接口存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg](https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg) |
+| 1 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) |
+| 2 | 构建可扩展的 Windows 驱动漏洞分析器 (第一部分) | Doonsec | [https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw](https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw) |
+| 3 | dddd指纹和POC扩展 | Doonsec | [https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang](https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang) |
+| 4 | 漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg](https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg) |
+| 5 |  ] [拆解 AI Skills 的五大逻辑漏洞与防御实践 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg](https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg) |
+| 1 | 2026 AI安全十大预测发布：提示注入成首要威胁，全球进入“AI原生”防御元年 | Doonsec | [https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA](https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA) |
+| 2 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 阿尔巴尼亚驻俄使馆疑遭数据泄露，1.18GB敏感文件现身暗网 | Doonsec | [https://mp.weixin.qq.com/s/MW4VVekdduG1_FYThs3H0Q](https://mp.weixin.qq.com/s/MW4VVekdduG1_FYThs3H0Q) |
+| 1 |  ] [伪装成TDesk安装程序银狐黑产样本与威胁情报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690) |
 
 
 ## 📁 归档路径
@@ -124,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -134,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-25 01:57:50*
+*生成时间: 2026-01-25 04:52:39*
 *报告工具: 微信文章安全归档系统*
