@@ -43039,3 +43039,48 @@
 2026-01-25 08:28:14,684 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-01-25 08:28:14,740 - INFO - 已更新data.json，添加了 0 个URL
 2026-01-25 08:28:14,740 - INFO - === 执行完成 ===
+2026-01-25 12:42:56,704 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-25 12:42:56,704 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-25 12:42:56,704 - INFO - 正在发送Discord启动通知...
+2026-01-25 12:42:56,989 - INFO - Discord启动通知发送结果: 204
+2026-01-25 12:42:56,990 - INFO - 数据文件: data.json
+2026-01-25 12:42:56,991 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-25 12:42:56,991 - INFO - 文档目录: doc
+2026-01-25 12:42:57,047 - INFO - 已加载 35287 条历史记录
+2026-01-25 12:42:57,047 - INFO - === 开始今日拉取 ===
+2026-01-25 12:42:57,047 - INFO - 开始获取Doonsec RSS
+2026-01-25 12:42:57,047 - INFO - 目标日期: 2026-01-25
+2026-01-25 12:43:00,135 - INFO - Doonsec RSS请求成功
+2026-01-25 12:43:00,136 - INFO - RSS中共有 200 个条目
+2026-01-25 12:43:00,137 - INFO - Doonsec获取到 106 个2026-01-25的微信文章URL
+2026-01-25 12:43:00,138 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-25.md
+2026-01-25 12:43:00,170 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-25 12:43:00,170 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-25.md 状态码: 404
+2026-01-25 12:43:00,170 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-25.md
+2026-01-25 12:43:00,201 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-25 12:43:00,202 - INFO - BruceFeIix获取到 121 个URL
+2026-01-25 12:43:00,202 - INFO - === 开始处理 2026-01-25 的数据 ===
+2026-01-25 12:43:00,202 - INFO - Doonsec原始数据: 106 个
+2026-01-25 12:43:00,202 - INFO - ChainReactors原始数据: 0 个
+2026-01-25 12:43:00,202 - INFO - BruceFeIix原始数据: 121 个
+2026-01-25 12:43:00,202 - INFO - 开始处理Doonsec数据...
+2026-01-25 12:43:00,202 - INFO - 开始处理ChainReactors数据...
+2026-01-25 12:43:00,202 - INFO - 开始处理BruceFeIix数据...
+2026-01-25 12:43:00,202 - INFO - 去重后共 173 个URL待处理，跳过 54 个重复URL
+2026-01-25 12:43:00,203 - INFO - 去重后统计 - Doonsec: 82 个, ChainReactors: 0 个, BruceFeIix: 91 个
+2026-01-25 12:43:00,203 - INFO - === 开始关键词过滤 ===
+2026-01-25 12:43:00,208 - INFO - 关键词过滤: 匹配 3 个，跳过 170 个
+2026-01-25 12:43:00,208 - INFO - 关键词过滤后统计 - Doonsec: 3 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-25 12:43:00,214 - INFO - 已创建每日报告: md/2026-01-25.md
+2026-01-25 12:43:00,214 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-25 12:43:00,214 - INFO - 正在发送Discord通知: 一款优秀的基于AI的自主渗透测试平台（自动渗透）
+2026-01-25 12:43:00,452 - INFO - Discord通知发送结果: 204
+2026-01-25 12:43:00,453 - INFO - 正在发送Discord通知: 新型 DynoWiper 恶意软件被用于企图对波兰电力部门发起APT攻击
+2026-01-25 12:43:00,634 - INFO - Discord通知发送结果: 204
+2026-01-25 12:43:00,635 - INFO - 正在发送Discord通知: 美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府
+2026-01-25 12:43:00,846 - INFO - Discord通知发送结果: 204
+2026-01-25 12:43:00,903 - INFO - 已更新data.json，添加了 3 个URL
+2026-01-25 12:43:00,903 - INFO - 已创建每日报告: md/2026-01-25.md
+2026-01-25 12:43:00,903 - INFO - 正在发送Discord日报通知: 2026-01-25
+2026-01-25 12:43:01,134 - INFO - Discord日报发送结果: 204
+2026-01-25 12:43:01,135 - INFO - === 执行完成 ===
