@@ -2,17 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 32
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 32篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 2篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 6篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **网络攻击**: 3篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,19 +65,80 @@
 
 ### Doonsec
 
-- [一款优秀的基于AI的自主渗透测试平台（自动渗透）](https://mp.weixin.qq.com/s/OKxLNykMnewOEoVDA_rekQ) (发布日期: 2026-01-25)
-- [新型 DynoWiper 恶意软件被用于企图对波兰电力部门发起APT攻击](https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg) (发布日期: 2026-01-25)
-- [美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府](https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ) (发布日期: 2026-01-25)
+- [安全专家，进来](https://mp.weixin.qq.com/s/CJbrFVCEjwpomlIQvMqI7g) (发布日期: 2026-01-25)
+- [溯源附近人加好友=木马钓鱼！千万别装陌生APP！](https://mp.weixin.qq.com/s/tZmbwXVbOiFUgGz0Q8qe-A) (发布日期: 2026-01-25)
+- [【接口漏洞第八章第五节】GraphQL内省探测全流程：从探测、查询到可视化与工具利用](https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w) (发布日期: 2026-01-25)
+- [网络安全工具NMAP扫描命令](https://mp.weixin.qq.com/s/bXN7srywJpJvwnwIocNy5A) (发布日期: 2026-01-25)
+- [米斯特安全团队多名成员研究成果登上国际安全顶会](https://mp.weixin.qq.com/s/l1xJhT3UoArpMlCK1ZFFGA) (发布日期: 2026-01-25)
+- [内网渗透认知战：当攻击者开始思考防御者如何思考攻击者](https://mp.weixin.qq.com/s/uu4JMLMowPdWaxvF_d-TTg) (发布日期: 2026-01-25)
+- [从灵感到落地：用Claude Skills实现\"一键代码审计\"全过程](https://mp.weixin.qq.com/s/1SlXxfYAH68js6G1XdE-Pw) (发布日期: 2026-01-25)
+- [银狐黑产组织新型后门样本分析](https://mp.weixin.qq.com/s/LQPh-TDSnP4dIKwxz0W0nQ) (发布日期: 2026-01-25)
+- [EasyTools渗透测试工具箱V2.1.2更新(新增iflow mcp对接cli工具、优化数据库执行命令等诸多功能)](https://mp.weixin.qq.com/s/ckrUXelBCryksd4jso2wPQ) (发布日期: 2026-01-25)
+- [如何巧用“营销思维”做好网络安全意识工作？](https://mp.weixin.qq.com/s/sfzgAEl9XRB_JFWMpXXrNQ) (发布日期: 2026-01-25)
+- [信息泄露到审计注入拿下后台，差一点shell](https://mp.weixin.qq.com/s/Zk57LN4asLH0ZMVa5SLB5w) (发布日期: 2026-01-25)
+- [复现（CVE-2026-21440）@adonisjs/bodyparser路径遍历漏洞利用](https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q) (发布日期: 2026-01-25)
+- [Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元](https://mp.weixin.qq.com/s/1wylCGy0hDm8GvnpR7WDgA) (发布日期: 2026-01-25)
+- [CVE-2025-8088复现学习](https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA) (发布日期: 2026-01-25)
+- [关于网络安全超低价格考证CISP、PTE、NISP](https://mp.weixin.qq.com/s/2SwGz-5_ukC9c2AfLHB_tw) (发布日期: 2026-01-25)
+- [知识星球 | 金融机构九大数据安全风险点监测、分工与协同实操指南](https://mp.weixin.qq.com/s/YQcvTV-YvhWxooPp9KUW1g) (发布日期: 2026-01-25)
+- [扬州大学信息工程学院（人工智能学院）软件与安全团队一项成果在网络与信息安全顶刊TIFS发表](https://mp.weixin.qq.com/s/v88DYcRPyU20KOdmS7J_6g) (发布日期: 2026-01-25)
+- [【漏洞预警】GNU InetUtils Telnetd USER环境变量注入 权限绕过漏洞（CVE-2026-24061）](https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q) (发布日期: 2026-01-25)
+- [畅捷通 mailinactive.php sql注入漏洞](https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g) (发布日期: 2026-01-25)
+- [中高级红队攻防招聘](https://mp.weixin.qq.com/s/FJvGY9N_azSqP9f-MwNqdQ) (发布日期: 2026-01-25)
+- [2025年100题一次通过CISSP考试的经验分享](https://mp.weixin.qq.com/s/uVLtwK6w4RJxvlKbdM4P9A) (发布日期: 2026-01-25)
+- [谨慎Github恶意项目CVE-2025-8088 WinRAR 路径遍历的漏洞编号](https://mp.weixin.qq.com/s/CV1kBwJCgrcUr6tJt_-aHA) (发布日期: 2026-01-25)
+- [BugKu CTF联合注入题解](https://mp.weixin.qq.com/s/GoOYPG3FHu1QYtRV9MTJxw) (发布日期: 2026-01-25)
+- [【0day】安全漏洞通告：SmarterMail 管理员密码重置 (CVE-2026-23760) 与 Dify SSRF (CVE-2025-56520)|孚*云SQL注入漏洞](https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ) (发布日期: 2026-01-25)
+- [AI助力单人一周开发出高危Linux恶意软件VoidLink](https://mp.weixin.qq.com/s/1xfQWPnl82fBtdH6-WkElQ) (发布日期: 2026-01-25)
+- [AI在渗透测试中的应用案例三则](https://mp.weixin.qq.com/s/Ko1OmZiKv3Cwjium0w2jpw) (发布日期: 2026-01-25)
+- [AI 狩猎 0day-自动化漏洞挖掘1000+ cve 和0day](https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A) (发布日期: 2026-01-25)
+- [多阶段网络钓鱼活动针对俄罗斯，使用Amnesia远程访问木马和勒索软件](https://mp.weixin.qq.com/s/DAdzroGPcO_LR9riB2cU5Q) (发布日期: 2026-01-25)
+- [网络钓鱼攻击利用窃取的凭证安装 LogMeIn RMM 以实现持久访问](https://mp.weixin.qq.com/s/M2C8vUDA0q_29Z_IN_D-gg) (发布日期: 2026-01-25)
+- [Shannon：这个AI渗透工具以96.15%漏洞利用成功率，重新定义AI自动化渗透测试](https://mp.weixin.qq.com/s/LQLv9mp211AZLMZ1d6iRUA) (发布日期: 2026-01-25)
+- [就在今晚！圆桌对话：赋能WAF/HIDS安全运营的痛点分析与未来演进](https://mp.weixin.qq.com/s/489IBdTYR5GbW1R0MSSyhg) (发布日期: 2026-01-25)
+- [红队必备POC模板管理漏扫工具(1243POC模板，支持多平台使用)](https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg) (发布日期: 2026-01-25)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【接口漏洞第八章第五节】GraphQL内省探测全流程：从探测、查询到可视化与工具利用 | Doonsec | [https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w](https://mp.weixin.qq.com/s/qnOLR3S50FQRiIpkpJeV3w) |
+| 2 | 复现（CVE-2026-21440）@adonisjs/bodyparser路径遍历漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q](https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q) |
+| 3 | Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元 | Doonsec | [https://mp.weixin.qq.com/s/1wylCGy0hDm8GvnpR7WDgA](https://mp.weixin.qq.com/s/1wylCGy0hDm8GvnpR7WDgA) |
+| 4 | CVE-2025-8088复现学习 | Doonsec | [https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA](https://mp.weixin.qq.com/s/j5fn1sxYaHavYHqNIMAwQA) |
+| 5 | 【漏洞预警】GNU InetUtils Telnetd USER环境变量注入 权限绕过漏洞（CVE-2026-24061） | Doonsec | [https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q](https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q) |
+| 6 | 畅捷通 mailinactive.php sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g](https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g) |
+| 7 | 谨慎Github恶意项目CVE-2025-8088 WinRAR 路径遍历的漏洞编号 | Doonsec | [https://mp.weixin.qq.com/s/CV1kBwJCgrcUr6tJt_-aHA](https://mp.weixin.qq.com/s/CV1kBwJCgrcUr6tJt_-aHA) |
+| 8 | 【0day】安全漏洞通告：SmarterMail 管理员密码重置 (CVE-2026-23760) 与 Dify SSRF (CVE-2025-56520)|孚*云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ](https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ) |
+| 9 | AI 狩猎 0day-自动化漏洞挖掘1000+ cve 和0day | Doonsec | [https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A](https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A) |
+| 10 | Shannon：这个AI渗透工具以96.15%漏洞利用成功率，重新定义AI自动化渗透测试 | Doonsec | [https://mp.weixin.qq.com/s/LQLv9mp211AZLMZ1d6iRUA](https://mp.weixin.qq.com/s/LQLv9mp211AZLMZ1d6iRUA) |
+| 11 | 红队必备POC模板管理漏扫工具(1243POC模板，支持多平台使用) | Doonsec | [https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg](https://mp.weixin.qq.com/s/V3gPS3Dgr_C6V0Xvor52gg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 内网渗透认知战：当攻击者开始思考防御者如何思考攻击者 | Doonsec | [https://mp.weixin.qq.com/s/uu4JMLMowPdWaxvF_d-TTg](https://mp.weixin.qq.com/s/uu4JMLMowPdWaxvF_d-TTg) |
+| 2 | 信息泄露到审计注入拿下后台，差一点shell | Doonsec | [https://mp.weixin.qq.com/s/Zk57LN4asLH0ZMVa5SLB5w](https://mp.weixin.qq.com/s/Zk57LN4asLH0ZMVa5SLB5w) |
+| 3 | 【漏洞预警】GNU InetUtils Telnetd USER环境变量注入 权限绕过漏洞（CVE-2026-24061） | Doonsec | [https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q](https://mp.weixin.qq.com/s/Xxifb1sKQyCn_WD9q7PV_Q) |
+| 4 | 畅捷通 mailinactive.php sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g](https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g) |
+| 5 | BugKu CTF联合注入题解 | Doonsec | [https://mp.weixin.qq.com/s/GoOYPG3FHu1QYtRV9MTJxw](https://mp.weixin.qq.com/s/GoOYPG3FHu1QYtRV9MTJxw) |
+| 6 | 【0day】安全漏洞通告：SmarterMail 管理员密码重置 (CVE-2026-23760) 与 Dify SSRF (CVE-2025-56520)|孚*云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ](https://mp.weixin.qq.com/s/Z_YuOGq_j8RdG4j7349jYQ) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新型 DynoWiper 恶意软件被用于企图对波兰电力部门发起APT攻击 | Doonsec | [https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg](https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg) |
-| 2 | 美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府 | Doonsec | [https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ](https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ) |
+| 1 | 银狐黑产组织新型后门样本分析 | Doonsec | [https://mp.weixin.qq.com/s/LQPh-TDSnP4dIKwxz0W0nQ](https://mp.weixin.qq.com/s/LQPh-TDSnP4dIKwxz0W0nQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 就在今晚！圆桌对话：赋能WAF/HIDS安全运营的痛点分析与未来演进 | Doonsec | [https://mp.weixin.qq.com/s/489IBdTYR5GbW1R0MSSyhg](https://mp.weixin.qq.com/s/489IBdTYR5GbW1R0MSSyhg) |
 
 
 ## 📁 归档路径
@@ -89,8 +154,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-25 12:43:00*
+*生成时间: 2026-01-25 16:26:25*
 *报告工具: 微信文章安全归档系统*
