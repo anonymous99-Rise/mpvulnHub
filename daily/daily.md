@@ -2,23 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 7篇
-  - BruceFeIix: 3篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -67,51 +61,19 @@
 
 ### Doonsec
 
-- [实战分享：手把手教你突破前端加密混淆限制](https://mp.weixin.qq.com/s/SVyZc-bMvceakjXVQktZqw) (发布日期: 2026-01-25)
-- [2026 AI安全十大预测发布：提示注入成首要威胁，全球进入“AI原生”防御元年](https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA) (发布日期: 2026-01-25)
-- [下载 | 人工智能安全治理研究报告（2025年）](https://mp.weixin.qq.com/s/_zc4WpvE2Igj_t_3MLCcZw) (发布日期: 2026-01-25)
-- [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) (发布日期: 2026-01-25)
-- [构建可扩展的 Windows 驱动漏洞分析器 (第一部分)](https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw) (发布日期: 2026-01-25)
-- [dddd指纹和POC扩展](https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang) (发布日期: 2026-01-25)
-- [漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞](https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg) (发布日期: 2026-01-25)
-
-### BruceFeIix
-
-- [ ] [伪装成TDesk安装程序银狐黑产样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57) (发布日期: 2026-01-25)
-- [ ] [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e) (发布日期: 2026-01-25)
-- [ ] [喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690) (发布日期: 2026-01-25)
+- [一款优秀的基于AI的自主渗透测试平台（自动渗透）](https://mp.weixin.qq.com/s/OKxLNykMnewOEoVDA_rekQ) (发布日期: 2026-01-25)
+- [新型 DynoWiper 恶意软件被用于企图对波兰电力部门发起APT攻击](https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg) (发布日期: 2026-01-25)
+- [美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府](https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ) (发布日期: 2026-01-25)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) |
-| 2 | 构建可扩展的 Windows 驱动漏洞分析器 (第一部分) | Doonsec | [https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw](https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw) |
-| 3 | dddd指纹和POC扩展 | Doonsec | [https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang](https://mp.weixin.qq.com/s/lSyVhjNrDvFzf4dYbZrang) |
-| 4 | 漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg](https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg) |
-| 5 |  ] [拆解 AI Skills 的五大逻辑漏洞与防御实践 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2026 AI安全十大预测发布：提示注入成首要威胁，全球进入“AI原生”防御元年 | Doonsec | [https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA](https://mp.weixin.qq.com/s/4Bj0RM8hWky0Ex3-ApA5ZA) |
-| 2 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ](https://mp.weixin.qq.com/s/Ny2l60b-VSK9bH9NVinneQ) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [伪装成TDesk安装程序银狐黑产样本与威胁情报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [喜报 | ChaMd5团队荣获JSRC2025年度“优秀合作伙伴”和成员Str1am_年度No.5 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514049&idx=1&sn=84f9b24b3ff483a1d4b19d653ebdd690) |
+| 1 | 新型 DynoWiper 恶意软件被用于企图对波兰电力部门发起APT攻击 | Doonsec | [https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg](https://mp.weixin.qq.com/s/5J9bLWyj64uMq-TJ5RgoJg) |
+| 2 | 美军突袭委内瑞拉的网络暗战：停电只是开胃菜？APT组织早已渗透总统府 | Doonsec | [https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ](https://mp.weixin.qq.com/s/ZdWm0HVvQf1ztrCfi9wQRQ) |
 
 
 ## 📁 归档路径
@@ -127,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -137,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-25 04:52:39*
+*生成时间: 2026-01-25 12:43:00*
 *报告工具: 微信文章安全归档系统*
