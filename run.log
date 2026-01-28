@@ -44616,3 +44616,62 @@
 2026-01-28 12:52:11,281 - INFO - 正在发送Discord日报通知: 2026-01-28
 2026-01-28 12:52:11,553 - INFO - Discord日报发送结果: 204
 2026-01-28 12:52:11,554 - INFO - === 执行完成 ===
+2026-01-28 16:37:45,238 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-28 16:37:45,239 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-28 16:37:45,239 - INFO - 正在发送Discord启动通知...
+2026-01-28 16:37:45,640 - INFO - Discord启动通知发送结果: 204
+2026-01-28 16:37:45,642 - INFO - 数据文件: data.json
+2026-01-28 16:37:45,642 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-28 16:37:45,642 - INFO - 文档目录: doc
+2026-01-28 16:37:45,698 - INFO - 已加载 35717 条历史记录
+2026-01-28 16:37:45,698 - INFO - === 开始今日拉取 ===
+2026-01-28 16:37:45,698 - INFO - 开始获取Doonsec RSS
+2026-01-28 16:37:45,698 - INFO - 目标日期: 2026-01-28
+2026-01-28 16:37:47,628 - INFO - Doonsec RSS请求成功
+2026-01-28 16:37:47,630 - INFO - RSS中共有 200 个条目
+2026-01-28 16:37:47,630 - INFO - Doonsec获取到 186 个2026-01-28的微信文章URL
+2026-01-28 16:37:47,631 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-28.md
+2026-01-28 16:37:47,678 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-28 16:37:47,678 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-28.md 状态码: 404
+2026-01-28 16:37:47,678 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-28.md
+2026-01-28 16:37:47,721 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-28 16:37:47,722 - INFO - BruceFeIix获取到 82 个URL
+2026-01-28 16:37:47,722 - INFO - === 开始处理 2026-01-28 的数据 ===
+2026-01-28 16:37:47,722 - INFO - Doonsec原始数据: 186 个
+2026-01-28 16:37:47,722 - INFO - ChainReactors原始数据: 0 个
+2026-01-28 16:37:47,723 - INFO - BruceFeIix原始数据: 82 个
+2026-01-28 16:37:47,723 - INFO - 开始处理Doonsec数据...
+2026-01-28 16:37:47,723 - INFO - 开始处理ChainReactors数据...
+2026-01-28 16:37:47,723 - INFO - 开始处理BruceFeIix数据...
+2026-01-28 16:37:47,723 - INFO - 去重后共 193 个URL待处理，跳过 75 个重复URL
+2026-01-28 16:37:47,723 - INFO - 去重后统计 - Doonsec: 134 个, ChainReactors: 0 个, BruceFeIix: 59 个
+2026-01-28 16:37:47,723 - INFO - === 开始关键词过滤 ===
+2026-01-28 16:37:47,729 - INFO - 关键词过滤: 匹配 10 个，跳过 183 个
+2026-01-28 16:37:47,730 - INFO - 关键词过滤后统计 - Doonsec: 10 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-28 16:37:47,746 - INFO - 已创建每日报告: md/2026-01-28.md
+2026-01-28 16:37:47,746 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-28 16:37:47,746 - INFO - 正在发送Discord通知: QVD-2025-44295：东方通TongWeb应用服务器ejbserver远程代码执行漏洞
+2026-01-28 16:37:48,199 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:48,200 - INFO - 正在发送Discord通知: 腾达Tenda 路由器存在敏感信息泄露漏洞 附POC
+2026-01-28 16:37:48,413 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:48,414 - INFO - 正在发送Discord通知: 【SRC实战】白嫖我有的是力气和手段
+2026-01-28 16:37:48,659 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:48,660 - INFO - 正在发送Discord通知: 一名合格红队的成长之路
+2026-01-28 16:37:49,183 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:49,184 - INFO - 正在发送Discord通知: 注册功能漏洞检查清单
+2026-01-28 16:37:49,632 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:49,633 - INFO - 正在发送Discord通知: Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站
+2026-01-28 16:37:49,816 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:49,817 - INFO - 正在发送Discord通知: burp被动xss插件 -- Burp Passive XSS Detector
+2026-01-28 16:37:50,025 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:50,026 - INFO - 正在发送Discord通知: 【漏洞预警】Fortinet多款产品身份认证绕过漏洞(CVE-2026-24858)
+2026-01-28 16:37:50,275 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:50,276 - INFO - 正在发送Discord通知: 学术前沿 | 北京邮电大学陶小峰教授团队：星地融合网络身份认证技术综述
+2026-01-28 16:37:51,313 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:51,314 - INFO - 正在发送Discord通知: 安全通告丨网络安全漏洞通告（2026年1月）
+2026-01-28 16:37:51,694 - INFO - Discord通知发送结果: 204
+2026-01-28 16:37:51,754 - INFO - 已更新data.json，添加了 10 个URL
+2026-01-28 16:37:51,755 - INFO - 已创建每日报告: md/2026-01-28.md
+2026-01-28 16:37:51,755 - INFO - 正在发送Discord日报通知: 2026-01-28
+2026-01-28 16:37:51,994 - INFO - Discord日报发送结果: 204
+2026-01-28 16:37:51,994 - INFO - === 执行完成 ===
