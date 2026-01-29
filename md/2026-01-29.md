@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 39
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 39篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 18篇
+- **攻击技术**: 7篇
+- **威胁情报**: 3篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 4篇
+- **Web安全**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -65,20 +66,45 @@
 
 ### Doonsec
 
-- [关于信息安全、网络安全和数据安全三个概念](https://mp.weixin.qq.com/s/ph2Xznf_kb9kxY3jhbE78Q) (发布日期: 2026-01-29)
-- [CVE-2025-39566 sql注入漏洞](https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ) (发布日期: 2026-01-29)
-- [无问AI + MCP：让网络安全应急响应进入“自动驾驶”阶段](https://mp.weixin.qq.com/s/Ny-RKr5GMda5YhwK5p2jLg) (发布日期: 2026-01-29)
-- [红队钓鱼攻击技术实战指南](https://mp.weixin.qq.com/s/ha24Sc8TpGuvfIvTMJAFJA) (发布日期: 2026-01-29)
-- [入侵检测引擎的语义分析](https://mp.weixin.qq.com/s/ioo4ok677EmVZGbriOJOdQ) (发布日期: 2026-01-29)
-- [AI在渗透测试中的应用案例三则](https://mp.weixin.qq.com/s/6ArrBa4PmgSswGrmU253LA) (发布日期: 2026-01-29)
-- [记一次EDUSRC简单却容易忽视的通杀](https://mp.weixin.qq.com/s/NkXNSa6RlF89kDzahGujaQ) (发布日期: 2026-01-29)
-- [AI时代下的DDoS攻防战：看懂2025年全球DDoS威胁态势](https://mp.weixin.qq.com/s/ymsdV9tk6mB8xx-wcsPZqw) (发布日期: 2026-01-29)
-- [无风扇工业防火墙凭什么成工控标配？](https://mp.weixin.qq.com/s/ZD5we7WmgRs0e2eOM8PdYQ) (发布日期: 2026-01-29)
-- [山石方案｜某省疾控中心国密VPN解决方案](https://mp.weixin.qq.com/s/ipWd5ALnq8KCZMAHpuJ14g) (发布日期: 2026-01-29)
-- [Redis 远程代码执行漏洞（CVE-2025-49844）](https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw) (发布日期: 2026-01-29)
-- [CISA助您突破职业瓶颈，拓宽晋升路径【附赠IT审计工作实用手册】](https://mp.weixin.qq.com/s/KQ71PlTGHx6CKe9Z-EgnDw) (发布日期: 2026-01-29)
-- [招聘｜海量岗位招聘｜阿里云安全保障团队期待你的加入](https://mp.weixin.qq.com/s/AOQiUVreXic_rtELEr0qlw) (发布日期: 2026-01-29)
-- [主机的账号密码，毕竟还隔了一层VPN和堡垒机，为啥要做一机一密？](https://mp.weixin.qq.com/s/azySVpTeqY8GSKxydJh5qA) (发布日期: 2026-01-29)
+- [谁在领跑AI安全赛道？CISO眼中的十大服务商](https://mp.weixin.qq.com/s/rkET2SWPVDvFBcqpEHI9QA) (发布日期: 2026-01-29)
+- [免费赠送 | 青少年安全意识科普素材（第十三期）](https://mp.weixin.qq.com/s/sdXnUkBO-wOJ7laXVc56Dg) (发布日期: 2026-01-29)
+- [【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解](https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg) (发布日期: 2026-01-29)
+- [BlackIce – 基于容器的红队AI安全测试工具包](https://mp.weixin.qq.com/s/0Gk7LQ3veSdxZl_6G7SxJA) (发布日期: 2026-01-29)
+- [由于银狐远控，被*安找了](https://mp.weixin.qq.com/s/S9IR7EUbRsp0UGh-LI62xw) (发布日期: 2026-01-29)
+- [严重OpenSSL漏洞可使远程攻击者执行恶意代码](https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ) (发布日期: 2026-01-29)
+- [Chrome安全更新修复Background Fetch API中的严重漏洞](https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ) (发布日期: 2026-01-29)
+- [【安全圈】恶意 VS Code 扩展\"ClawdBot Agent\"伪装AI助手传播木马](https://mp.weixin.qq.com/s/cUXKA8jdT7k2QpDNK4RaYA) (发布日期: 2026-01-29)
+- [【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码](https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A) (发布日期: 2026-01-29)
+- [【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞](https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg) (发布日期: 2026-01-29)
+- [后门函数技术在二进制对抗中的应用](https://mp.weixin.qq.com/s/BAOebe1wG5frxNmT42AU6Q) (发布日期: 2026-01-29)
+- [【免费领】顶级黑客工具：Kali Linux最优渗透测试思路及方法](https://mp.weixin.qq.com/s/KITS6gt3otKeD0RvuB-99g) (发布日期: 2026-01-29)
+- [安全运营破局关键：AI驱动的闭环防御](https://mp.weixin.qq.com/s/vlhhOTzrKInholLsNkuW5A) (发布日期: 2026-01-29)
+- [恶意VS Code扩展“ClawdBot Agent”伪装AI助手传播木马](https://mp.weixin.qq.com/s/fFEBFFkIrYZ1BKuWCJQnSw) (发布日期: 2026-01-29)
+- [个人购买的商用软件能否在公司使用；如何绕过加密app查看加密文件 | FB甲方群话题讨论](https://mp.weixin.qq.com/s/ZMbXlhAA4qv1_jhDE5S6SA) (发布日期: 2026-01-29)
+- [PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码](https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA) (发布日期: 2026-01-29)
+- [SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发](https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA) (发布日期: 2026-01-29)
+- [【论文推荐】大模型组队挖掘0day，成功率竟然远超专业工具？](https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg) (发布日期: 2026-01-29)
+- [备考CISSP丨CISSP英文在线宣讲会欢迎您](https://mp.weixin.qq.com/s/uVuW7kSDOLFedp3ipoKyBg) (发布日期: 2026-01-29)
+- [Gemini MCP 曝高危零日漏洞 允许远程攻击](https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA) (发布日期: 2026-01-29)
+- [第十届安全开发者峰会（SDC2026）议题征集开启](https://mp.weixin.qq.com/s/OHtecJvPKrW1EFnoHvYLQQ) (发布日期: 2026-01-29)
+- [Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现)](https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg) (发布日期: 2026-01-29)
+- [CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞](https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA) (发布日期: 2026-01-29)
+- [密码重置漏洞挖掘指南：从原理到实战的完整路径](https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw) (发布日期: 2026-01-29)
+- [n8n 两个高危漏洞可导致认证RCE](https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ) (发布日期: 2026-01-29)
+- [Fortinet 修复已遭利用的严重 FortiOS 漏洞](https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ) (发布日期: 2026-01-29)
+- [网络加密与密钥管理](https://mp.weixin.qq.com/s/4JPbpDH1aF28PMkZAqHhyQ) (发布日期: 2026-01-29)
+- [CSO、CISO必看！新《网络安全法》落地首月，企业必做的3大合规动作](https://mp.weixin.qq.com/s/rZWHiqoe877fBLWW8SlmUQ) (发布日期: 2026-01-29)
+- [AI安全“无人区”：Moltbot安全事件技术分析与防护指南](https://mp.weixin.qq.com/s/v6lcBd2InI5PCVqCNruUpA) (发布日期: 2026-01-29)
+- [【论文速读】| VulnResolver：一款基于大语言模型的自动化漏洞修复混合智能体框架](https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg) (发布日期: 2026-01-29)
+- [2025全球人工智能安全重大事件盘点](https://mp.weixin.qq.com/s/guYYOHqiHBQzxlGXE7nJJQ) (发布日期: 2026-01-29)
+- [路由器安全研究｜D- Link DIR-823G v1.02 B05 复现与利用思路](https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ) (发布日期: 2026-01-29)
+- [babyECC2 CTF 密码学挑战深度解析](https://mp.weixin.qq.com/s/qhifaPLZ2GKR2VMsh4bXOA) (发布日期: 2026-01-29)
+- [绕dog+WAF进行SQL注入](https://mp.weixin.qq.com/s/LBGmalWkp0HBmwenqXHB2w) (发布日期: 2026-01-29)
+- [[分享]连用四个驱动！银狐开始硬刚EDR和杀软](https://mp.weixin.qq.com/s/0i_m27_Mt6VA9Ac7AM2qvA) (发布日期: 2026-01-29)
+- [WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067）](https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow) (发布日期: 2026-01-29)
+- [2026年CISO需掌握的核心技能](https://mp.weixin.qq.com/s/i2o8NB7ZRGkQqamVkJ1oig) (发布日期: 2026-01-29)
+- [【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行](https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A) (发布日期: 2026-01-29)
+- [俄罗斯APT组织对波兰电力系统网络攻击的新特点、新战术及警示](https://mp.weixin.qq.com/s/rOe_XW3MOwb2RTJBowbBiw) (发布日期: 2026-01-29)
 
 
 ## 🎯 威胁详情分析
@@ -87,27 +113,50 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-39566 sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ](https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ) |
-| 2 | Redis 远程代码执行漏洞（CVE-2025-49844） | Doonsec | [https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw](https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw) |
+| 1 | 【接口漏洞第八章第九节】一招绕过GraphQL内省防御：实战利用详解 | Doonsec | [https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg](https://mp.weixin.qq.com/s/efU2-wd1ZHFH48t3MHp8Gg) |
+| 2 | 严重OpenSSL漏洞可使远程攻击者执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ](https://mp.weixin.qq.com/s/rBLFnFKwLayQU7fIwoJOaQ) |
+| 3 | Chrome安全更新修复Background Fetch API中的严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ](https://mp.weixin.qq.com/s/pTw1PJuArTmLxnfycTt1UQ) |
+| 4 | 【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A](https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A) |
+| 5 | 【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg](https://mp.weixin.qq.com/s/gakjueNgGFU2unY-WuybOg) |
+| 6 | PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA](https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA) |
+| 7 | SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发 | Doonsec | [https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA](https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA) |
+| 8 | 【论文推荐】大模型组队挖掘0day，成功率竟然远超专业工具？ | Doonsec | [https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg](https://mp.weixin.qq.com/s/5ulg_3lR2wbQ5M3MGvWQXg) |
+| 9 | Gemini MCP 曝高危零日漏洞 允许远程攻击 | Doonsec | [https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA](https://mp.weixin.qq.com/s/iKSyh5ksFFnH8IzfIlWBGA) |
+| 10 | Linux 内核攻击：Punch hole (2025 Backdoor skernel 复现) | Doonsec | [https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg](https://mp.weixin.qq.com/s/_Paf3WYVXDV9gDmQwYdeLg) |
+| 11 | CVE-2026-24747：PyTorch模型加载功能曝出8.8分高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA](https://mp.weixin.qq.com/s/3AbOpNlidTI5KPcfqkEVOA) |
+| 12 | 密码重置漏洞挖掘指南：从原理到实战的完整路径 | Doonsec | [https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw](https://mp.weixin.qq.com/s/dkjJDZKQp9zdw7lA8-dAhw) |
+| 13 | n8n 两个高危漏洞可导致认证RCE | Doonsec | [https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ](https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ) |
+| 14 | Fortinet 修复已遭利用的严重 FortiOS 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ](https://mp.weixin.qq.com/s/sI8BOAyzeLdZ_z5AyINkkQ) |
+| 15 | 【论文速读】| VulnResolver：一款基于大语言模型的自动化漏洞修复混合智能体框架 | Doonsec | [https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg](https://mp.weixin.qq.com/s/fcDX1r74I8YzIG2WSnU4Wg) |
+| 16 | 路由器安全研究｜D- Link DIR-823G v1.02 B05 复现与利用思路 | Doonsec | [https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ](https://mp.weixin.qq.com/s/4ZNdVVPLk_QwgrFTkJRNzQ) |
+| 17 | WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067） | Doonsec | [https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow](https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow) |
+| 18 | 【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A](https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-39566 sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ](https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ) |
-| 2 | Redis 远程代码执行漏洞（CVE-2025-49844） | Doonsec | [https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw](https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw) |
+| 1 | 【安全圈】PyTorch \"安全\"模式被严重RCE漏洞攻破，可执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A](https://mp.weixin.qq.com/s/vq41cwGRjiKoATtNMCx03A) |
+| 2 | PyTorch安全模式被RCE漏洞攻破，恶意模型可执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA](https://mp.weixin.qq.com/s/UgdwoIRiHlXWDa6J_De7wA) |
+| 3 | SolarWinds再曝重大RCE漏洞，企业安全团队旧伤复发 | Doonsec | [https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA](https://mp.weixin.qq.com/s/1yPCR92RT33Ce4vWxR6DWA) |
+| 4 | n8n 两个高危漏洞可导致认证RCE | Doonsec | [https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ](https://mp.weixin.qq.com/s/07vRoWodsj0lNgPPMjk2CQ) |
+| 5 | 绕dog+WAF进行SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/LBGmalWkp0HBmwenqXHB2w](https://mp.weixin.qq.com/s/LBGmalWkp0HBmwenqXHB2w) |
+| 6 | WordPress后台存储型XSS 全网首发POC及复现环境（CVE-2025-12067） | Doonsec | [https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow](https://mp.weixin.qq.com/s/5EN6WrqP-AVVuhsnAtz9ow) |
+| 7 | 【已复现】OpenSSL CMS模块栈溢出漏洞(CVE-2025-15467)：可导致拒绝服务或远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A](https://mp.weixin.qq.com/s/h7uRGRlLnkJuZtINKiZo3A) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 无问AI + MCP：让网络安全应急响应进入“自动驾驶”阶段 | Doonsec | [https://mp.weixin.qq.com/s/Ny-RKr5GMda5YhwK5p2jLg](https://mp.weixin.qq.com/s/Ny-RKr5GMda5YhwK5p2jLg) |
+| 1 | 由于银狐远控，被*安找了 | Doonsec | [https://mp.weixin.qq.com/s/S9IR7EUbRsp0UGh-LI62xw](https://mp.weixin.qq.com/s/S9IR7EUbRsp0UGh-LI62xw) |
+| 2 | [分享]连用四个驱动！银狐开始硬刚EDR和杀软 | Doonsec | [https://mp.weixin.qq.com/s/0i_m27_Mt6VA9Ac7AM2qvA](https://mp.weixin.qq.com/s/0i_m27_Mt6VA9Ac7AM2qvA) |
+| 3 | 俄罗斯APT组织对波兰电力系统网络攻击的新特点、新战术及警示 | Doonsec | [https://mp.weixin.qq.com/s/rOe_XW3MOwb2RTJBowbBiw](https://mp.weixin.qq.com/s/rOe_XW3MOwb2RTJBowbBiw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次EDUSRC简单却容易忽视的通杀 | Doonsec | [https://mp.weixin.qq.com/s/NkXNSa6RlF89kDzahGujaQ](https://mp.weixin.qq.com/s/NkXNSa6RlF89kDzahGujaQ) |
+| 1 | 安全运营破局关键：AI驱动的闭环防御 | Doonsec | [https://mp.weixin.qq.com/s/vlhhOTzrKInholLsNkuW5A](https://mp.weixin.qq.com/s/vlhhOTzrKInholLsNkuW5A) |
 
 
 ## 📁 归档路径
@@ -123,8 +172,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 18 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +182,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-29 08:40:18*
+*生成时间: 2026-01-29 12:58:22*
 *报告工具: 微信文章安全归档系统*
