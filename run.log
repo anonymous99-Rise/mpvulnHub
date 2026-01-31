@@ -45662,3 +45662,66 @@
 2026-01-30 20:35:14,664 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-01-30 20:35:14,719 - INFO - 已更新data.json，添加了 0 个URL
 2026-01-30 20:35:14,719 - INFO - === 执行完成 ===
+2026-01-31 01:59:58,527 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-31 01:59:58,527 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-31 01:59:58,527 - INFO - 正在发送Discord启动通知...
+2026-01-31 01:59:58,849 - INFO - Discord启动通知发送结果: 204
+2026-01-31 01:59:58,852 - INFO - 数据文件: data.json
+2026-01-31 01:59:58,852 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-31 01:59:58,852 - INFO - 文档目录: doc
+2026-01-31 01:59:58,908 - INFO - 已加载 35978 条历史记录
+2026-01-31 01:59:58,908 - INFO - === 开始今日拉取 ===
+2026-01-31 01:59:58,908 - INFO - 开始获取Doonsec RSS
+2026-01-31 01:59:58,908 - INFO - 目标日期: 2026-01-31
+2026-01-31 02:00:01,901 - INFO - Doonsec RSS请求成功
+2026-01-31 02:00:01,902 - INFO - RSS中共有 200 个条目
+2026-01-31 02:00:01,902 - INFO - Doonsec获取到 72 个2026-01-31的微信文章URL
+2026-01-31 02:00:01,903 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 02:00:02,022 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-31 02:00:02,022 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md 状态码: 404
+2026-01-31 02:00:02,022 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 02:00:02,119 - INFO - BruceFeIix md文件下载状态码: 404
+2026-01-31 02:00:02,120 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-31.md 状态码: 404
+2026-01-31 02:00:02,120 - INFO - === 开始处理 2026-01-31 的数据 ===
+2026-01-31 02:00:02,120 - INFO - Doonsec原始数据: 72 个
+2026-01-31 02:00:02,120 - INFO - ChainReactors原始数据: 0 个
+2026-01-31 02:00:02,120 - INFO - BruceFeIix原始数据: 0 个
+2026-01-31 02:00:02,120 - INFO - 开始处理Doonsec数据...
+2026-01-31 02:00:02,120 - INFO - 开始处理ChainReactors数据...
+2026-01-31 02:00:02,120 - INFO - 开始处理BruceFeIix数据...
+2026-01-31 02:00:02,120 - INFO - 去重后共 72 个URL待处理，跳过 0 个重复URL
+2026-01-31 02:00:02,120 - INFO - 去重后统计 - Doonsec: 72 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-31 02:00:02,121 - INFO - === 开始关键词过滤 ===
+2026-01-31 02:00:02,124 - INFO - 关键词过滤: 匹配 12 个，跳过 60 个
+2026-01-31 02:00:02,124 - INFO - 关键词过滤后统计 - Doonsec: 12 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-31 02:00:02,142 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 02:00:02,142 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-31 02:00:02,142 - INFO - 正在发送Discord通知: “万能AI助手”or“潜伏木马”？奇安信专家深度解析Clawdbot（OpenClaw）高危风险
+2026-01-31 02:00:02,465 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:02,466 - INFO - 正在发送Discord通知: 微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑
+2026-01-31 02:00:03,130 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:03,131 - INFO - 正在发送Discord通知: 个人接单 | web渗透测试
+2026-01-31 02:00:03,590 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:03,591 - INFO - 正在发送Discord通知: 渗透测试新高度：红队必备的Metasploit靶场攻略
+2026-01-31 02:00:03,828 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:03,829 - INFO - 正在发送Discord通知: 浙江绍兴恒信农商行因“违反数据安全”等被271.4万 科技部人员被罚
+2026-01-31 02:00:04,244 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:04,246 - INFO - 正在发送Discord通知: 空白页面的漏洞挖掘方法
+2026-01-31 02:00:04,639 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:04,640 - INFO - 正在发送Discord通知: GNU Inetutils Telnetd 认证绕过漏洞检测工具（CVE-2026-24061）1月28日更新
+2026-01-31 02:00:05,055 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:05,056 - INFO - 正在发送Discord通知: 【高危漏洞预警】WinRAR 存在目录穿越漏洞（CVE-2025-8088），CVSS 评分高达 8.4
+2026-01-31 02:00:05,456 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:05,457 - INFO - 正在发送Discord通知: Moltbot AI助手病毒式传播引发数据安全担忧
+2026-01-31 02:00:06,159 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:06,160 - INFO - 正在发送Discord通知: 安全追踪：勒索软件关联方溯源
+2026-01-31 02:00:06,922 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:06,923 - INFO - 正在发送Discord通知: 通过沙箱逃逸在 n8n 上实现远程代码执行 - CVE-2026-1470 和 CVE-2026-0863
+2026-01-31 02:00:07,809 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:07,810 - INFO - 正在发送Discord通知: CISA高层涉密文件泄露事件：公共AI模型中的数据安全合规挑战
+2026-01-31 02:00:08,114 - INFO - Discord通知发送结果: 204
+2026-01-31 02:00:08,172 - INFO - 已更新data.json，添加了 12 个URL
+2026-01-31 02:00:08,172 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 02:00:08,173 - INFO - 正在发送Discord日报通知: 2026-01-31
+2026-01-31 02:00:08,488 - INFO - Discord日报发送结果: 204
+2026-01-31 02:00:08,489 - INFO - === 执行完成 ===
