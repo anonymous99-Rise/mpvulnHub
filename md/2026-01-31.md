@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 20
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 20篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 4篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,26 +62,14 @@
 
 ### Doonsec
 
-- [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s/elfVzCXE6UBRM6yRO3NwnA) (发布日期: 2026-01-31)
-- [银狐黑产木马最新免杀样本分析](https://mp.weixin.qq.com/s/6nCG9vIgA-y7abXvZBe4OA) (发布日期: 2026-01-31)
-- [2026年OWASP LLM安全新格局](https://mp.weixin.qq.com/s/oFi_u9RMXva4JKdLku4NZQ) (发布日期: 2026-01-31)
-- [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s/jAmkGeE0nCzTyHxNMafv1A) (发布日期: 2026-01-31)
-- [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s/ymGCtFaI8bU5XLBK1QMpOA) (发布日期: 2026-01-31)
-- [JWT：渗透测试姿势全解析（含实战）](https://mp.weixin.qq.com/s/el__Ih_587ALW3xDQaf_jQ) (发布日期: 2026-01-31)
-- [0day-飞牛 fnOS存在任意文件读取漏洞](https://mp.weixin.qq.com/s/CAP2D7-hllhK9dbYFFhxuw) (发布日期: 2026-01-31)
-- [信息安全、网络安全和数据安全的区别与联系](https://mp.weixin.qq.com/s/Qd65YKaGFeelFy8VjyI96Q) (发布日期: 2026-01-31)
-- [Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail](https://mp.weixin.qq.com/s/S6IEtr56ruwCPpGQWpHPXw) (发布日期: 2026-01-31)
-- [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s/6teA8-jtTJ2-IgSE9rEscA) (发布日期: 2026-01-31)
-- [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s/8KeefJZn_TVoIVZLbS_kcQ) (发布日期: 2026-01-31)
-- [银狐黑产组织Quick远控工具-Planet RAT远控](https://mp.weixin.qq.com/s/LOwdLOF511GZRY3QXnS8WQ) (发布日期: 2026-01-31)
-- [在看 | 周报：湖南网信办对2家未履行数据安全保护义务的公司作出了行政处罚；i茅台严打外挂灰产，今年已拦截异常行为4.26亿次](https://mp.weixin.qq.com/s/QUVOfz7rNAjHs7FYakcv5Q) (发布日期: 2026-01-31)
-- [【漏洞预警】国产飞牛系统 fnOS 出现安全漏洞](https://mp.weixin.qq.com/s/GygBtFPmOufJghsvw5iTRg) (发布日期: 2026-01-31)
-- [融合AI引擎的日志应急响应溯源工具SSLogs--详细配置教程与使用方法](https://mp.weixin.qq.com/s/Yo3RGkZ2TVms5O1YSvBgxw) (发布日期: 2026-01-31)
-- [数据出境安全管理政策法规问答（2026年1月）](https://mp.weixin.qq.com/s/BUQ2tat8bEbqy5qt8r_teA) (发布日期: 2026-01-31)
-- [数据安全法借读.pptx](https://mp.weixin.qq.com/s/ZP0g2zAYVW0thMfIMvXTJw) (发布日期: 2026-01-31)
-- [太顶了！超全 Linux 应急响应手册，懂一半绝对高手！](https://mp.weixin.qq.com/s/75lnboQuZHHVsaGDWG-Uyw) (发布日期: 2026-01-31)
-- [NeuroSploitv2: 一款AI驱动的渗透测试工具（试用版）](https://mp.weixin.qq.com/s/9DIfJvK3Hjrr-smYa4XpCA) (发布日期: 2026-01-31)
-- [从“检测恶意”到“发现异常”：基于 Novelty Search 的威胁检测新范式](https://mp.weixin.qq.com/s/b6Rva6nB1N_B3DZ1XAHTUA) (发布日期: 2026-01-31)
+- [Windows安全攻防-PEB&amp;TEB](https://mp.weixin.qq.com/s/RTyafWl13djCI5ua6LFQ6w) (发布日期: 2026-01-31)
+- [2026年人工智能安全摘要](https://mp.weixin.qq.com/s/MKRU2L5qTWUrgKVHEriwYg) (发布日期: 2026-01-31)
+- [【限时靶场】网传的飞牛任意文件读取漏洞](https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw) (发布日期: 2026-01-31)
+- [飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) (发布日期: 2026-01-31)
+- [AutoPentestX – Linux 自动化渗透测试和漏洞报告工具](https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A) (发布日期: 2026-01-31)
+- [LeakDetector 是一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。](https://mp.weixin.qq.com/s/nuLkCx5M9WwcVRJHS3-Daw) (发布日期: 2026-01-31)
+- [【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设](https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg) (发布日期: 2026-01-31)
+- [Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE）](https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A) (发布日期: 2026-01-31)
 
 
 ## 🎯 威胁详情分析
@@ -90,27 +78,17 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告 | Doonsec | [https://mp.weixin.qq.com/s/jAmkGeE0nCzTyHxNMafv1A](https://mp.weixin.qq.com/s/jAmkGeE0nCzTyHxNMafv1A) |
-| 2 | 【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail | Doonsec | [https://mp.weixin.qq.com/s/ymGCtFaI8bU5XLBK1QMpOA](https://mp.weixin.qq.com/s/ymGCtFaI8bU5XLBK1QMpOA) |
-| 3 | 0day-飞牛 fnOS存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CAP2D7-hllhK9dbYFFhxuw](https://mp.weixin.qq.com/s/CAP2D7-hllhK9dbYFFhxuw) |
-| 4 | Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail | Doonsec | [https://mp.weixin.qq.com/s/S6IEtr56ruwCPpGQWpHPXw](https://mp.weixin.qq.com/s/S6IEtr56ruwCPpGQWpHPXw) |
-| 5 | 今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播 | Doonsec | [https://mp.weixin.qq.com/s/8KeefJZn_TVoIVZLbS_kcQ](https://mp.weixin.qq.com/s/8KeefJZn_TVoIVZLbS_kcQ) |
-| 6 | 【漏洞预警】国产飞牛系统 fnOS 出现安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/GygBtFPmOufJghsvw5iTRg](https://mp.weixin.qq.com/s/GygBtFPmOufJghsvw5iTRg) |
+| 1 | 【限时靶场】网传的飞牛任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw](https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw) |
+| 2 | 飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) |
+| 3 | AutoPentestX – Linux 自动化渗透测试和漏洞报告工具 | Doonsec | [https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A](https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A) |
+| 4 | 【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设 | Doonsec | [https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg](https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 银狐黑产木马最新免杀样本分析 | Doonsec | [https://mp.weixin.qq.com/s/6nCG9vIgA-y7abXvZBe4OA](https://mp.weixin.qq.com/s/6nCG9vIgA-y7abXvZBe4OA) |
-| 2 | 银狐黑产组织Quick远控工具-Planet RAT远控 | Doonsec | [https://mp.weixin.qq.com/s/LOwdLOF511GZRY3QXnS8WQ](https://mp.weixin.qq.com/s/LOwdLOF511GZRY3QXnS8WQ) |
-| 3 | 融合AI引擎的日志应急响应溯源工具SSLogs--详细配置教程与使用方法 | Doonsec | [https://mp.weixin.qq.com/s/Yo3RGkZ2TVms5O1YSvBgxw](https://mp.weixin.qq.com/s/Yo3RGkZ2TVms5O1YSvBgxw) |
-| 4 | 太顶了！超全 Linux 应急响应手册，懂一半绝对高手！ | Doonsec | [https://mp.weixin.qq.com/s/75lnboQuZHHVsaGDWG-Uyw](https://mp.weixin.qq.com/s/75lnboQuZHHVsaGDWG-Uyw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 58SRC 2025 年度 年终奖励 | Doonsec | [https://mp.weixin.qq.com/s/6teA8-jtTJ2-IgSE9rEscA](https://mp.weixin.qq.com/s/6teA8-jtTJ2-IgSE9rEscA) |
+| 1 | 飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) |
+| 2 | Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE） | Doonsec | [https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A](https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A) |
 
 
 ## 📁 归档路径
@@ -126,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-31 12:49:28*
+*生成时间: 2026-01-31 16:29:15*
 *报告工具: 微信文章安全归档系统*

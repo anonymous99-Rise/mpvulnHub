@@ -45982,3 +45982,58 @@
 2026-01-31 12:49:28,210 - INFO - 正在发送Discord日报通知: 2026-01-31
 2026-01-31 12:49:28,497 - INFO - Discord日报发送结果: 204
 2026-01-31 12:49:28,497 - INFO - === 执行完成 ===
+2026-01-31 16:29:09,546 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-31 16:29:09,546 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-31 16:29:09,546 - INFO - 正在发送Discord启动通知...
+2026-01-31 16:29:09,792 - INFO - Discord启动通知发送结果: 204
+2026-01-31 16:29:09,795 - INFO - 数据文件: data.json
+2026-01-31 16:29:09,795 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-31 16:29:09,795 - INFO - 文档目录: doc
+2026-01-31 16:29:09,865 - INFO - 已加载 36060 条历史记录
+2026-01-31 16:29:09,865 - INFO - === 开始今日拉取 ===
+2026-01-31 16:29:09,866 - INFO - 开始获取Doonsec RSS
+2026-01-31 16:29:09,866 - INFO - 目标日期: 2026-01-31
+2026-01-31 16:29:13,040 - INFO - Doonsec RSS请求成功
+2026-01-31 16:29:13,041 - INFO - RSS中共有 200 个条目
+2026-01-31 16:29:13,042 - INFO - Doonsec获取到 180 个2026-01-31的微信文章URL
+2026-01-31 16:29:13,043 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 16:29:13,097 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-31 16:29:13,097 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md 状态码: 404
+2026-01-31 16:29:13,097 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 16:29:13,132 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-31 16:29:13,133 - INFO - BruceFeIix获取到 95 个URL
+2026-01-31 16:29:13,133 - INFO - === 开始处理 2026-01-31 的数据 ===
+2026-01-31 16:29:13,133 - INFO - Doonsec原始数据: 180 个
+2026-01-31 16:29:13,133 - INFO - ChainReactors原始数据: 0 个
+2026-01-31 16:29:13,133 - INFO - BruceFeIix原始数据: 95 个
+2026-01-31 16:29:13,133 - INFO - 开始处理Doonsec数据...
+2026-01-31 16:29:13,133 - INFO - 开始处理ChainReactors数据...
+2026-01-31 16:29:13,133 - INFO - 开始处理BruceFeIix数据...
+2026-01-31 16:29:13,133 - INFO - 去重后共 206 个URL待处理，跳过 69 个重复URL
+2026-01-31 16:29:13,134 - INFO - 去重后统计 - Doonsec: 133 个, ChainReactors: 0 个, BruceFeIix: 73 个
+2026-01-31 16:29:13,134 - INFO - === 开始关键词过滤 ===
+2026-01-31 16:29:13,140 - INFO - 关键词过滤: 匹配 8 个，跳过 198 个
+2026-01-31 16:29:13,140 - INFO - 关键词过滤后统计 - Doonsec: 8 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-31 16:29:13,153 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 16:29:13,153 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-31 16:29:13,153 - INFO - 正在发送Discord通知: Windows安全攻防-PEB&amp;TEB
+2026-01-31 16:29:13,472 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:13,472 - INFO - 正在发送Discord通知: 2026年人工智能安全摘要
+2026-01-31 16:29:13,699 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:13,699 - INFO - 正在发送Discord通知: 【限时靶场】网传的飞牛任意文件读取漏洞
+2026-01-31 16:29:14,128 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:14,129 - INFO - 正在发送Discord通知: 飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞
+2026-01-31 16:29:14,464 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:14,465 - INFO - 正在发送Discord通知: AutoPentestX – Linux 自动化渗透测试和漏洞报告工具
+2026-01-31 16:29:14,707 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:14,708 - INFO - 正在发送Discord通知: LeakDetector 是一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。
+2026-01-31 16:29:14,973 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:14,974 - INFO - 正在发送Discord通知: 【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设
+2026-01-31 16:29:15,289 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:15,290 - INFO - 正在发送Discord通知: Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE）
+2026-01-31 16:29:15,536 - INFO - Discord通知发送结果: 204
+2026-01-31 16:29:15,591 - INFO - 已更新data.json，添加了 8 个URL
+2026-01-31 16:29:15,592 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 16:29:15,592 - INFO - 正在发送Discord日报通知: 2026-01-31
+2026-01-31 16:29:15,887 - INFO - Discord日报发送结果: 204
+2026-01-31 16:29:15,888 - INFO - === 执行完成 ===
