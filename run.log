@@ -45844,3 +45844,62 @@
 2026-01-31 05:01:35,031 - INFO - 正在发送Discord日报通知: 2026-01-31
 2026-01-31 05:01:35,167 - INFO - Discord日报发送结果: 429
 2026-01-31 05:01:35,168 - INFO - === 执行完成 ===
+2026-01-31 08:31:05,229 - INFO - === 开始执行微信文章归档工具 ===
+2026-01-31 08:31:05,229 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-01-31 08:31:05,230 - INFO - 正在发送Discord启动通知...
+2026-01-31 08:31:05,488 - INFO - Discord启动通知发送结果: 204
+2026-01-31 08:31:05,491 - INFO - 数据文件: data.json
+2026-01-31 08:31:05,491 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-01-31 08:31:05,491 - INFO - 文档目录: doc
+2026-01-31 08:31:05,553 - INFO - 已加载 36030 条历史记录
+2026-01-31 08:31:05,554 - INFO - === 开始今日拉取 ===
+2026-01-31 08:31:05,554 - INFO - 开始获取Doonsec RSS
+2026-01-31 08:31:05,554 - INFO - 目标日期: 2026-01-31
+2026-01-31 08:31:07,582 - INFO - Doonsec RSS请求成功
+2026-01-31 08:31:07,583 - INFO - RSS中共有 200 个条目
+2026-01-31 08:31:07,584 - INFO - Doonsec获取到 165 个2026-01-31的微信文章URL
+2026-01-31 08:31:07,585 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 08:31:07,638 - INFO - ChainReactors md文件下载状态码: 404
+2026-01-31 08:31:07,638 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-01-31.md 状态码: 404
+2026-01-31 08:31:07,638 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-01-31.md
+2026-01-31 08:31:07,692 - INFO - BruceFeIix md文件下载状态码: 200
+2026-01-31 08:31:07,693 - INFO - BruceFeIix获取到 95 个URL
+2026-01-31 08:31:07,694 - INFO - === 开始处理 2026-01-31 的数据 ===
+2026-01-31 08:31:07,694 - INFO - Doonsec原始数据: 165 个
+2026-01-31 08:31:07,694 - INFO - ChainReactors原始数据: 0 个
+2026-01-31 08:31:07,694 - INFO - BruceFeIix原始数据: 95 个
+2026-01-31 08:31:07,694 - INFO - 开始处理Doonsec数据...
+2026-01-31 08:31:07,694 - INFO - 开始处理ChainReactors数据...
+2026-01-31 08:31:07,694 - INFO - 开始处理BruceFeIix数据...
+2026-01-31 08:31:07,694 - INFO - 去重后共 206 个URL待处理，跳过 54 个重复URL
+2026-01-31 08:31:07,694 - INFO - 去重后统计 - Doonsec: 133 个, ChainReactors: 0 个, BruceFeIix: 73 个
+2026-01-31 08:31:07,695 - INFO - === 开始关键词过滤 ===
+2026-01-31 08:31:07,701 - INFO - 关键词过滤: 匹配 10 个，跳过 196 个
+2026-01-31 08:31:07,701 - INFO - 关键词过滤后统计 - Doonsec: 10 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-01-31 08:31:07,736 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 08:31:07,737 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-01-31 08:31:07,737 - INFO - 正在发送Discord通知: 关注 | 国家网信办解答数据出境安全管理政策法规相关问题
+2026-01-31 08:31:08,036 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:08,037 - INFO - 正在发送Discord通知: Metasploit 发布 7 个全新漏洞利用模块，涵盖 FreePBX、Cacti 和 SmarterMail
+2026-01-31 08:31:08,311 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:08,312 - INFO - 正在发送Discord通知: 【JAVA安全研究】 MySQL “伪预编译” 机制深度剖析与 MyBatisPlus 进阶 SQL 注入审计防御体系
+2026-01-31 08:31:08,647 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:08,648 - INFO - 正在发送Discord通知: 第三届“数信杯”数据安全大赛优秀案例征集赛决赛倒计时2天！
+2026-01-31 08:31:08,862 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:08,863 - INFO - 正在发送Discord通知: 传统漏洞修复已死！VulnResolver加 BUFF
+2026-01-31 08:31:09,315 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:09,316 - INFO - 正在发送Discord通知: 从 Vite 漏洞联想到 Flarum Less RCE
+2026-01-31 08:31:09,601 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:09,603 - INFO - 正在发送Discord通知: Web架构差异分析与安全测试意义
+2026-01-31 08:31:09,841 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:09,842 - INFO - 正在发送Discord通知: 渗透测试人员必备武器库：子域名爆破、漏洞扫描、内网渗透、工控安全工具全收录
+2026-01-31 08:31:10,487 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:10,488 - INFO - 正在发送Discord通知: 【AI安全】传统漏洞修复已死！VulnResolver给大模型加 BUFF
+2026-01-31 08:31:10,861 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:10,862 - INFO - 正在发送Discord通知: 汽车数据出境安全评估方法
+2026-01-31 08:31:11,185 - INFO - Discord通知发送结果: 204
+2026-01-31 08:31:11,242 - INFO - 已更新data.json，添加了 10 个URL
+2026-01-31 08:31:11,243 - INFO - 已创建每日报告: md/2026-01-31.md
+2026-01-31 08:31:11,243 - INFO - 正在发送Discord日报通知: 2026-01-31
+2026-01-31 08:31:11,562 - INFO - Discord日报发送结果: 204
+2026-01-31 08:31:11,563 - INFO - === 执行完成 ===
