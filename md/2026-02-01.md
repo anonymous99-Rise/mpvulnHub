@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 5
 - **数据源分布**:
-  - BruceFeIix: 9篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,17 +61,13 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [银狐黑产木马最新免杀样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c) (发布日期: 2026-02-01)
-- [ ] [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942) (发布日期: 2026-02-01)
-- [ ] [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2) (发布日期: 2026-02-01)
-- [ ] [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587) (发布日期: 2026-02-01)
-- [ ] [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6) (发布日期: 2026-02-01)
-- [ ] [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c) (发布日期: 2026-02-01)
-- [ ] [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1) (发布日期: 2026-02-01)
-- [ ] [关注 | 国家网信办解答数据出境安全管理政策法规相关问题](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=2&sn=b06b24b52dfc73239c33b3d581fd5f82) (发布日期: 2026-02-01)
-- [ ] [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca) (发布日期: 2026-02-01)
+- [飞牛系统（fnOS）0Day漏洞风险提示](https://mp.weixin.qq.com/s/1hrOpyAOxx-i8kC16MF_ew) (发布日期: 2026-02-01)
+- [【限时靶场】【已开启】网传的飞牛任意文件读取漏洞](https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA) (发布日期: 2026-02-01)
+- [【红队必备】100+服务识别+CVE匹配漏洞检测工具](https://mp.weixin.qq.com/s/haqpTk0I-K6wwXMxmeoD_g) (发布日期: 2026-02-01)
+- [HW和日常研判必备神器：集成威胁情报+日志分析+免杀辅助](https://mp.weixin.qq.com/s/3W7aJK_JcMz43cw7Lvw5Zg) (发布日期: 2026-02-01)
+- [从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘](https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w) (发布日期: 2026-02-01)
 
 
 ## 🎯 威胁详情分析
@@ -79,22 +76,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942) |
-| 2 |  ] [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587) |
-| 3 |  ] [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6) |
-| 4 |  ] [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1) |
+| 1 | 飞牛系统（fnOS）0Day漏洞风险提示 | Doonsec | [https://mp.weixin.qq.com/s/1hrOpyAOxx-i8kC16MF_ew](https://mp.weixin.qq.com/s/1hrOpyAOxx-i8kC16MF_ew) |
+| 2 | 【限时靶场】【已开启】网传的飞牛任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA](https://mp.weixin.qq.com/s/5BJgLIw693XR9oAioqdxBA) |
+| 3 | 【红队必备】100+服务识别+CVE匹配漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s/haqpTk0I-K6wwXMxmeoD_g](https://mp.weixin.qq.com/s/haqpTk0I-K6wwXMxmeoD_g) |
+| 4 | 从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘 | Doonsec | [https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w](https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘 | Doonsec | [https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w](https://mp.weixin.qq.com/s/uMa_qYfHGiF8bwZOb9rn1w) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [银狐黑产木马最新免杀样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [58SRC 2025 年度 年终奖励 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2) |
+| 1 | HW和日常研判必备神器：集成威胁情报+日志分析+免杀辅助 | Doonsec | [https://mp.weixin.qq.com/s/3W7aJK_JcMz43cw7Lvw5Zg](https://mp.weixin.qq.com/s/3W7aJK_JcMz43cw7Lvw5Zg) |
 
 
 ## 📁 归档路径
@@ -111,7 +108,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +117,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-01 05:26:12*
+*生成时间: 2026-02-01 08:33:30*
 *报告工具: 微信文章安全归档系统*

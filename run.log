@@ -46196,3 +46196,52 @@
 2026-02-01 05:26:12,341 - INFO - 正在发送Discord日报通知: 2026-02-01
 2026-02-01 05:26:12,599 - INFO - Discord日报发送结果: 204
 2026-02-01 05:26:12,600 - INFO - === 执行完成 ===
+2026-02-01 08:33:27,245 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-01 08:33:27,246 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-01 08:33:27,246 - INFO - 正在发送Discord启动通知...
+2026-02-01 08:33:27,532 - INFO - Discord启动通知发送结果: 204
+2026-02-01 08:33:27,534 - INFO - 数据文件: data.json
+2026-02-01 08:33:27,534 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-01 08:33:27,535 - INFO - 文档目录: doc
+2026-02-01 08:33:27,591 - INFO - 已加载 36092 条历史记录
+2026-02-01 08:33:27,591 - INFO - === 开始今日拉取 ===
+2026-02-01 08:33:27,591 - INFO - 开始获取Doonsec RSS
+2026-02-01 08:33:27,591 - INFO - 目标日期: 2026-02-01
+2026-02-01 08:33:29,173 - INFO - Doonsec RSS请求成功
+2026-02-01 08:33:29,174 - INFO - RSS中共有 200 个条目
+2026-02-01 08:33:29,175 - INFO - Doonsec获取到 109 个2026-02-01的微信文章URL
+2026-02-01 08:33:29,176 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-01.md
+2026-02-01 08:33:29,209 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-01 08:33:29,209 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-01.md 状态码: 404
+2026-02-01 08:33:29,209 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-01.md
+2026-02-01 08:33:29,239 - INFO - BruceFeIix md文件下载状态码: 200
+2026-02-01 08:33:29,240 - INFO - BruceFeIix获取到 110 个URL
+2026-02-01 08:33:29,240 - INFO - === 开始处理 2026-02-01 的数据 ===
+2026-02-01 08:33:29,240 - INFO - Doonsec原始数据: 109 个
+2026-02-01 08:33:29,240 - INFO - ChainReactors原始数据: 0 个
+2026-02-01 08:33:29,241 - INFO - BruceFeIix原始数据: 110 个
+2026-02-01 08:33:29,241 - INFO - 开始处理Doonsec数据...
+2026-02-01 08:33:29,241 - INFO - 开始处理ChainReactors数据...
+2026-02-01 08:33:29,241 - INFO - 开始处理BruceFeIix数据...
+2026-02-01 08:33:29,241 - INFO - 去重后共 167 个URL待处理，跳过 52 个重复URL
+2026-02-01 08:33:29,241 - INFO - 去重后统计 - Doonsec: 94 个, ChainReactors: 0 个, BruceFeIix: 73 个
+2026-02-01 08:33:29,241 - INFO - === 开始关键词过滤 ===
+2026-02-01 08:33:29,247 - INFO - 关键词过滤: 匹配 5 个，跳过 162 个
+2026-02-01 08:33:29,247 - INFO - 关键词过滤后统计 - Doonsec: 5 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-01 08:33:29,263 - INFO - 已创建每日报告: md/2026-02-01.md
+2026-02-01 08:33:29,264 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-01 08:33:29,264 - INFO - 正在发送Discord通知: 飞牛系统（fnOS）0Day漏洞风险提示
+2026-02-01 08:33:29,577 - INFO - Discord通知发送结果: 204
+2026-02-01 08:33:29,578 - INFO - 正在发送Discord通知: 【限时靶场】【已开启】网传的飞牛任意文件读取漏洞
+2026-02-01 08:33:29,835 - INFO - Discord通知发送结果: 204
+2026-02-01 08:33:29,836 - INFO - 正在发送Discord通知: 【红队必备】100+服务识别+CVE匹配漏洞检测工具
+2026-02-01 08:33:30,267 - INFO - Discord通知发送结果: 204
+2026-02-01 08:33:30,268 - INFO - 正在发送Discord通知: HW和日常研判必备神器：集成威胁情报+日志分析+免杀辅助
+2026-02-01 08:33:30,588 - INFO - Discord通知发送结果: 204
+2026-02-01 08:33:30,589 - INFO - 正在发送Discord通知: 从“打补丁”到“套娃式绕过”：SolarWinds Web Help Desk 的 RCE 漏洞深度复盘
+2026-02-01 08:33:30,809 - INFO - Discord通知发送结果: 204
+2026-02-01 08:33:30,866 - INFO - 已更新data.json，添加了 5 个URL
+2026-02-01 08:33:30,867 - INFO - 已创建每日报告: md/2026-02-01.md
+2026-02-01 08:33:30,867 - INFO - 正在发送Discord日报通知: 2026-02-01
+2026-02-01 08:33:31,130 - INFO - Discord日报发送结果: 204
+2026-02-01 08:33:31,131 - INFO - === 执行完成 ===
