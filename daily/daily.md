@@ -1,19 +1,21 @@
-# 2026-01-31 安全威胁态势报告
+# 2026-02-01 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 2篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,14 +64,21 @@
 
 ### Doonsec
 
-- [Windows安全攻防-PEB&amp;TEB](https://mp.weixin.qq.com/s/RTyafWl13djCI5ua6LFQ6w) (发布日期: 2026-01-31)
-- [2026年人工智能安全摘要](https://mp.weixin.qq.com/s/MKRU2L5qTWUrgKVHEriwYg) (发布日期: 2026-01-31)
-- [【限时靶场】网传的飞牛任意文件读取漏洞](https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw) (发布日期: 2026-01-31)
-- [飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) (发布日期: 2026-01-31)
-- [AutoPentestX – Linux 自动化渗透测试和漏洞报告工具](https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A) (发布日期: 2026-01-31)
-- [LeakDetector 是一款专为红队渗透测试人员和安全研究员设计的自动化信息泄露侦察工具。](https://mp.weixin.qq.com/s/nuLkCx5M9WwcVRJHS3-Daw) (发布日期: 2026-01-31)
-- [【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设](https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg) (发布日期: 2026-01-31)
-- [Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE）](https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A) (发布日期: 2026-01-31)
+- [JAVA代码审计shiro鉴权绕过案例](https://mp.weixin.qq.com/s/Hptzwr3UrNllzF0PEZrwCQ) (发布日期: 2026-02-01)
+- [基于AI的自主渗透测试平台 | AI-Powered Autonomous Penetration Testing Platform](https://mp.weixin.qq.com/s/5JLp4g70V0HZ-sMKcDnTgQ) (发布日期: 2026-02-01)
+- [第三届“数信杯”数据安全大赛优秀案例征集赛决赛倒计时1天！](https://mp.weixin.qq.com/s/4x4ussrU1iQ-5gMtKj6Xdg) (发布日期: 2026-02-01)
+- [Meta回应1750 万 Instagram 账号数据泄露传闻：系统未被入侵，用户账号安全](https://mp.weixin.qq.com/s/te935UDuyYO1SHSQnDzTCw) (发布日期: 2026-02-01)
+- [记一次红蓝攻防-应急响应事件分析](https://mp.weixin.qq.com/s/qhJWJZjcA7ki2TilHpGAPQ) (发布日期: 2026-02-01)
+- [1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞](https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw) (发布日期: 2026-02-01)
+- [学术前沿 | 安徽大学崔杰教授团队：元宇宙中去中心化的三因素身份认证方案](https://mp.weixin.qq.com/s/HqJJO8saGtAQjcHq1riVzA) (发布日期: 2026-02-01)
+- [美国海军设施工程指挥部 (NAVFAC) 数据泄露](https://mp.weixin.qq.com/s/qUuK2togQLtl2ePv5sSb5Q) (发布日期: 2026-02-01)
+- [2026.03截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s/2RvsPnPtI5RVcqQnJZhGCA) (发布日期: 2026-02-01)
+- [【SciSec 2026】Mar 10@Beijing, China](https://mp.weixin.qq.com/s/TG_PiuGGndb5M_1z66WmKQ) (发布日期: 2026-02-01)
+- [网络安全新挑战：红队视角下的域渗透与横向移动策略](https://mp.weixin.qq.com/s/VZXTt0oqH5uO0S4o_uPDnQ) (发布日期: 2026-02-01)
+- [登录框常见漏洞测试方法](https://mp.weixin.qq.com/s/m3eOheTYF-g0-VJZehupuA) (发布日期: 2026-02-01)
+- [体验 Moltbot（原名Clawdbot）以及说明它的注入风险](https://mp.weixin.qq.com/s/N_6Nngh7Ni-P5SdCXnmpJA) (发布日期: 2026-02-01)
+- [VoidLink云恶意软件表现出明显的AI生成特征](https://mp.weixin.qq.com/s/mC9y3Fc0guCuX4qKJPw2Kw) (发布日期: 2026-02-01)
+- [【CVE-2025-40551】：Solarwinds Web Help Desk又一处反序列化漏洞](https://mp.weixin.qq.com/s/yoilGdO5F2sObg94a6KzgQ) (发布日期: 2026-02-01)
 
 
 ## 🎯 威胁详情分析
@@ -78,22 +87,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【限时靶场】网传的飞牛任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw](https://mp.weixin.qq.com/s/D1JViErI_G5wntmXTrGRIw) |
-| 2 | 飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) |
-| 3 | AutoPentestX – Linux 自动化渗透测试和漏洞报告工具 | Doonsec | [https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A](https://mp.weixin.qq.com/s/XN8GbwvZC8Xf747SbYDw7A) |
-| 4 | 【接口漏洞第八章第十节】你以为的速率限制真的安全吗？GraphQL这个功能可能让它形同虚设 | Doonsec | [https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg](https://mp.weixin.qq.com/s/P3Cuo9-veC_U-iq96w85cg) |
+| 1 | 1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw](https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw) |
+| 2 | 登录框常见漏洞测试方法 | Doonsec | [https://mp.weixin.qq.com/s/m3eOheTYF-g0-VJZehupuA](https://mp.weixin.qq.com/s/m3eOheTYF-g0-VJZehupuA) |
+| 3 | 【CVE-2025-40551】：Solarwinds Web Help Desk又一处反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yoilGdO5F2sObg94a6KzgQ](https://mp.weixin.qq.com/s/yoilGdO5F2sObg94a6KzgQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 飞牛系统（fnOS）app-center-static 目录遍历导致的任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ](https://mp.weixin.qq.com/s/jpnS3f2lkmY-NWPM0sDoOQ) |
-| 2 | Kubernetes 通过 nodes/proxy GET 权限在集群任意 Pod 中执行命令（RCE） | Doonsec | [https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A](https://mp.weixin.qq.com/s/dplQXBA3vxFmMm1c8qjc7A) |
+| 1 | 1day | 飞牛系统（fnOS）app-center-static 目录遍历导致任意文件读取漏洞+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw](https://mp.weixin.qq.com/s/OjSn4k6RCSwYSFuh-78Thw) |
+| 2 | 体验 Moltbot（原名Clawdbot）以及说明它的注入风险 | Doonsec | [https://mp.weixin.qq.com/s/N_6Nngh7Ni-P5SdCXnmpJA](https://mp.weixin.qq.com/s/N_6Nngh7Ni-P5SdCXnmpJA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次红蓝攻防-应急响应事件分析 | Doonsec | [https://mp.weixin.qq.com/s/qhJWJZjcA7ki2TilHpGAPQ](https://mp.weixin.qq.com/s/qhJWJZjcA7ki2TilHpGAPQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Meta回应1750 万 Instagram 账号数据泄露传闻：系统未被入侵，用户账号安全 | Doonsec | [https://mp.weixin.qq.com/s/te935UDuyYO1SHSQnDzTCw](https://mp.weixin.qq.com/s/te935UDuyYO1SHSQnDzTCw) |
+| 2 | 美国海军设施工程指挥部 (NAVFAC) 数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/qUuK2togQLtl2ePv5sSb5Q](https://mp.weixin.qq.com/s/qUuK2togQLtl2ePv5sSb5Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-01/2026-W05/2026-01-31/`
+文章已归档到: `doc/2026/2026-02/2026-W05/2026-02-01/`
 
 ## 🔗 数据源说明
 
@@ -104,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-01-31 16:29:15*
+*生成时间: 2026-02-01 02:28:05*
 *报告工具: 微信文章安全归档系统*
