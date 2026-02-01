@@ -46141,3 +46141,58 @@
 2026-02-01 02:28:05,544 - INFO - 正在发送Discord日报通知: 2026-02-01
 2026-02-01 02:28:07,249 - INFO - Discord日报发送结果: 204
 2026-02-01 02:28:07,250 - INFO - === 执行完成 ===
+2026-02-01 05:21:21,948 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-01 05:21:21,948 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-01 05:21:21,948 - INFO - 正在发送Discord启动通知...
+2026-02-01 05:21:22,226 - INFO - Discord启动通知发送结果: 204
+2026-02-01 05:21:22,228 - INFO - 数据文件: data.json
+2026-02-01 05:21:22,228 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-01 05:21:22,229 - INFO - 文档目录: doc
+2026-02-01 05:21:22,284 - INFO - 已加载 36083 条历史记录
+2026-02-01 05:21:22,284 - INFO - === 开始今日拉取 ===
+2026-02-01 05:21:22,284 - INFO - 开始获取Doonsec RSS
+2026-02-01 05:21:22,284 - INFO - 目标日期: 2026-02-01
+2026-02-01 05:26:09,136 - ERROR - Doonsec RSS解析失败: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-02-01 05:26:09,136 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-01.md
+2026-02-01 05:26:09,241 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-01 05:26:09,241 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-01.md 状态码: 404
+2026-02-01 05:26:09,241 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-01.md
+2026-02-01 05:26:09,365 - INFO - BruceFeIix md文件下载状态码: 200
+2026-02-01 05:26:09,366 - INFO - BruceFeIix获取到 110 个URL
+2026-02-01 05:26:09,366 - INFO - === 开始处理 2026-02-01 的数据 ===
+2026-02-01 05:26:09,366 - INFO - Doonsec原始数据: 0 个
+2026-02-01 05:26:09,366 - INFO - ChainReactors原始数据: 0 个
+2026-02-01 05:26:09,366 - INFO - BruceFeIix原始数据: 110 个
+2026-02-01 05:26:09,366 - INFO - 开始处理Doonsec数据...
+2026-02-01 05:26:09,366 - INFO - 开始处理ChainReactors数据...
+2026-02-01 05:26:09,366 - INFO - 开始处理BruceFeIix数据...
+2026-02-01 05:26:09,367 - INFO - 去重后共 82 个URL待处理，跳过 28 个重复URL
+2026-02-01 05:26:09,367 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 82 个
+2026-02-01 05:26:09,367 - INFO - === 开始关键词过滤 ===
+2026-02-01 05:26:09,370 - INFO - 关键词过滤: 匹配 9 个，跳过 73 个
+2026-02-01 05:26:09,370 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 9 个
+2026-02-01 05:26:09,388 - INFO - 已创建每日报告: md/2026-02-01.md
+2026-02-01 05:26:09,388 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-01 05:26:09,388 - INFO - 正在发送Discord通知:  ] [银狐黑产木马最新免杀样本分析
+2026-02-01 05:26:09,651 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:09,652 - INFO - 正在发送Discord通知:  ] [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑
+2026-02-01 05:26:10,348 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:10,349 - INFO - 正在发送Discord通知:  ] [58SRC 2025 年度 年终奖励
+2026-02-01 05:26:10,641 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:10,642 - INFO - 正在发送Discord通知:  ] [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告
+2026-02-01 05:26:10,895 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:10,896 - INFO - 正在发送Discord通知:  ] [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail
+2026-02-01 05:26:11,283 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:11,284 - INFO - 正在发送Discord通知:  ] [“人工智能赋能的数据安全”专题征稿
+2026-02-01 05:26:11,513 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:11,514 - INFO - 正在发送Discord通知:  ] [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播
+2026-02-01 05:26:11,757 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:11,758 - INFO - 正在发送Discord通知:  ] [关注 | 国家网信办解答数据出境安全管理政策法规相关问题
+2026-02-01 05:26:12,041 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:12,042 - INFO - 正在发送Discord通知:  ] [安全团队携带的工具越来越多，但信心却在下降
+2026-02-01 05:26:12,284 - INFO - Discord通知发送结果: 204
+2026-02-01 05:26:12,340 - INFO - 已更新data.json，添加了 9 个URL
+2026-02-01 05:26:12,340 - INFO - 已创建每日报告: md/2026-02-01.md
+2026-02-01 05:26:12,341 - INFO - 正在发送Discord日报通知: 2026-02-01
+2026-02-01 05:26:12,599 - INFO - Discord日报发送结果: 204
+2026-02-01 05:26:12,600 - INFO - === 执行完成 ===
