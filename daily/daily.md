@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,12 +65,26 @@
 
 ### Doonsec
 
-- [三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断](https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A) (发布日期: 2026-02-02)
-- [信息安全防护漫画](https://mp.weixin.qq.com/s/eQFcallIJWzHfd2k9h0dJg) (发布日期: 2026-02-02)
-- [工业控制系统风险评估：守护油气管网的“安全体检”](https://mp.weixin.qq.com/s/L3XlQW-Ym_VduopeqFKNEw) (发布日期: 2026-02-02)
-- [深度实例分析：攻防视角下的AI框架组件中的注入漏洞](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) (发布日期: 2026-02-02)
-- [Ivanti EPMM RCE CVE-2026-1340/1281完整分析](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) (发布日期: 2026-02-02)
-- [攻防演练中的“惊魂时刻”—被打穿后的应急启示（上篇）](https://mp.weixin.qq.com/s/2xBLKf0TVup8Qnb4Y_9iLw) (发布日期: 2026-02-02)
+- [有意思的敏感信息泄露挖掘](https://mp.weixin.qq.com/s/tEAVEHMv_Ke-bYR7G_HITg) (发布日期: 2026-02-02)
+- [小白也能看懂系列——红队进攻](https://mp.weixin.qq.com/s/UoIo-fdZb6xWhTgl0AH-Dg) (发布日期: 2026-02-02)
+- [【高危漏洞预警】Ivanti Endpoint Manager Mobile代码注入漏洞CVE-2026-1281/CVE-2026-1340](https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA) (发布日期: 2026-02-02)
+- [CertiK发布Skynet报告：2025年“扳手攻击”激增75%，肢体暴力成加密领域重要威胁](https://mp.weixin.qq.com/s/edJKxk4d9BoSaPZrofRJ_g) (发布日期: 2026-02-02)
+- [NIST重磅! AI标准评价新框架发布](https://mp.weixin.qq.com/s/4Fi2mfq__BxEm0Kk3Sl45Q) (发布日期: 2026-02-02)
+- [安徽江淮汽车：基于渗透测试的车联网通信安全与防范措施](https://mp.weixin.qq.com/s/m3fPAI0UrgaLAS_kNq3dRw) (发布日期: 2026-02-02)
+- [第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇）](https://mp.weixin.qq.com/s/pJhZaWxKQTBD4poWn5YKXg) (发布日期: 2026-02-02)
+- [专注人工智能与数据安全，「安泉数智」完成数千万元Pre-Axa0轮融资](https://mp.weixin.qq.com/s/uVEZQxcs8V7hp432ewi8QA) (发布日期: 2026-02-02)
+- [AI社交平台Moltbook曝严重安全漏洞](https://mp.weixin.qq.com/s/pAhC-DJgcTF3usj6qdQcaQ) (发布日期: 2026-02-02)
+- [注册信息安全专业人员（CISP）认证介绍](https://mp.weixin.qq.com/s/jOZ0vGuK7VYy_pE6lPxYYA) (发布日期: 2026-02-02)
+- [学术前沿 | 基于LWE加密的分布式隐私保护生物特征认证方案](https://mp.weixin.qq.com/s/rhiSEobNVRkgPCJCB3tVFg) (发布日期: 2026-02-02)
+- [注册信息安全专业人员渗透测试方向（PTE、PTS）](https://mp.weixin.qq.com/s/ZNwSl_ZJHtYWgwRvpu_yrA) (发布日期: 2026-02-02)
+- [【AI安全】NIST重磅! AI标准评价新框架发布](https://mp.weixin.qq.com/s/ZMk-O9zfOSyW4bXjfLwNfg) (发布日期: 2026-02-02)
+- [行业标准丨水利部发布7项水利行业标准，涉及数据安全](https://mp.weixin.qq.com/s/3Qt3jEKBwBhjmsnqW8mg4w) (发布日期: 2026-02-02)
+- [通过Notepad++安装黑猫黑产组织后门样本](https://mp.weixin.qq.com/s/9Ko3-TwRKhwDdw3eEFIEiA) (发布日期: 2026-02-02)
+- [CISA紧急警告，Office、Linux内核等关键漏洞正被黑客利用](https://mp.weixin.qq.com/s/DURhQdhQnrQmri5-Tmrobg) (发布日期: 2026-02-02)
+- [EDUSRC之证书站挖掘1](https://mp.weixin.qq.com/s/7H9rIwr5Ed51r6Cv-_qrsA) (发布日期: 2026-02-02)
+- [前沿 | AI滥用与钓鱼攻击交织：人为因素仍是网络安全首要风险](https://mp.weixin.qq.com/s/OEJhNVVnok9q0FoDckZSPw) (发布日期: 2026-02-02)
+- [每周网安资讯 （1.27-2.2）| 新型Android木马攻击活动利用Hugging Face平台托管恶意软件](https://mp.weixin.qq.com/s/OKU_lwFwtml1RTBgfnma2w) (发布日期: 2026-02-02)
+- [eScan 杀毒软件被用于供应链攻击传播恶意软件](https://mp.weixin.qq.com/s/DAReUj7LPJwMuTP35mO5Gw) (发布日期: 2026-02-02)
 
 
 ## 🎯 威胁详情分析
@@ -77,22 +93,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断 | Doonsec | [https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A](https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A) |
-| 2 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
-| 3 | Ivanti EPMM RCE CVE-2026-1340/1281完整分析 | Doonsec | [https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) |
+| 1 | 【高危漏洞预警】Ivanti Endpoint Manager Mobile代码注入漏洞CVE-2026-1281/CVE-2026-1340 | Doonsec | [https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA](https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA) |
+| 2 | 第155篇：Weblogic反序列化漏洞的多种回显方法总结（上篇） | Doonsec | [https://mp.weixin.qq.com/s/pJhZaWxKQTBD4poWn5YKXg](https://mp.weixin.qq.com/s/pJhZaWxKQTBD4poWn5YKXg) |
+| 3 | AI社交平台Moltbook曝严重安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pAhC-DJgcTF3usj6qdQcaQ](https://mp.weixin.qq.com/s/pAhC-DJgcTF3usj6qdQcaQ) |
+| 4 | CISA紧急警告，Office、Linux内核等关键漏洞正被黑客利用 | Doonsec | [https://mp.weixin.qq.com/s/DURhQdhQnrQmri5-Tmrobg](https://mp.weixin.qq.com/s/DURhQdhQnrQmri5-Tmrobg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
-| 2 | Ivanti EPMM RCE CVE-2026-1340/1281完整分析 | Doonsec | [https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) |
+| 1 | 【高危漏洞预警】Ivanti Endpoint Manager Mobile代码注入漏洞CVE-2026-1281/CVE-2026-1340 | Doonsec | [https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA](https://mp.weixin.qq.com/s/Cl-q6CL-V5jKat7DzgWjLA) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | EDUSRC之证书站挖掘1 | Doonsec | [https://mp.weixin.qq.com/s/7H9rIwr5Ed51r6Cv-_qrsA](https://mp.weixin.qq.com/s/7H9rIwr5Ed51r6Cv-_qrsA) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
+| 1 | eScan 杀毒软件被用于供应链攻击传播恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/DAReUj7LPJwMuTP35mO5Gw](https://mp.weixin.qq.com/s/DAReUj7LPJwMuTP35mO5Gw) |
 
 
 ## 📁 归档路径
@@ -108,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-02 13:00:54*
+*生成时间: 2026-02-02 16:41:12*
 *报告工具: 微信文章安全归档系统*
