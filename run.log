@@ -46618,3 +46618,74 @@
 2026-02-02 05:23:49,408 - INFO - 正在发送Discord日报通知: 2026-02-02
 2026-02-02 05:23:49,556 - INFO - Discord日报发送结果: 429
 2026-02-02 05:23:49,556 - INFO - === 执行完成 ===
+2026-02-02 08:42:59,063 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-02 08:42:59,063 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-02 08:42:59,063 - INFO - 正在发送Discord启动通知...
+2026-02-02 08:42:59,453 - INFO - Discord启动通知发送结果: 204
+2026-02-02 08:42:59,455 - INFO - 数据文件: data.json
+2026-02-02 08:42:59,456 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-02 08:42:59,456 - INFO - 文档目录: doc
+2026-02-02 08:42:59,516 - INFO - 已加载 36195 条历史记录
+2026-02-02 08:42:59,516 - INFO - === 开始今日拉取 ===
+2026-02-02 08:42:59,516 - INFO - 开始获取Doonsec RSS
+2026-02-02 08:42:59,517 - INFO - 目标日期: 2026-02-02
+2026-02-02 08:43:01,640 - INFO - Doonsec RSS请求成功
+2026-02-02 08:43:01,641 - INFO - RSS中共有 200 个条目
+2026-02-02 08:43:01,641 - INFO - Doonsec获取到 200 个2026-02-02的微信文章URL
+2026-02-02 08:43:01,642 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-02.md
+2026-02-02 08:43:01,705 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-02 08:43:01,705 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-02.md 状态码: 404
+2026-02-02 08:43:01,705 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-02.md
+2026-02-02 08:43:01,748 - INFO - BruceFeIix md文件下载状态码: 200
+2026-02-02 08:43:01,748 - INFO - BruceFeIix获取到 17 个URL
+2026-02-02 08:43:01,748 - INFO - === 开始处理 2026-02-02 的数据 ===
+2026-02-02 08:43:01,749 - INFO - Doonsec原始数据: 200 个
+2026-02-02 08:43:01,749 - INFO - ChainReactors原始数据: 0 个
+2026-02-02 08:43:01,749 - INFO - BruceFeIix原始数据: 17 个
+2026-02-02 08:43:01,749 - INFO - 开始处理Doonsec数据...
+2026-02-02 08:43:01,749 - INFO - 开始处理ChainReactors数据...
+2026-02-02 08:43:01,749 - INFO - 开始处理BruceFeIix数据...
+2026-02-02 08:43:01,749 - INFO - 去重后共 173 个URL待处理，跳过 44 个重复URL
+2026-02-02 08:43:01,749 - INFO - 去重后统计 - Doonsec: 163 个, ChainReactors: 0 个, BruceFeIix: 10 个
+2026-02-02 08:43:01,749 - INFO - === 开始关键词过滤 ===
+2026-02-02 08:43:01,755 - INFO - 关键词过滤: 匹配 16 个，跳过 157 个
+2026-02-02 08:43:01,755 - INFO - 关键词过滤后统计 - Doonsec: 16 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-02 08:43:01,761 - INFO - 已创建每日报告: md/2026-02-02.md
+2026-02-02 08:43:01,761 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-02 08:43:01,761 - INFO - 正在发送Discord通知: SCADA系统中存在的特权文件系统漏洞
+2026-02-02 08:43:02,238 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:02,239 - INFO - 正在发送Discord通知: 【网络安全】Office助手和WindSoul软件管家遭植入恶意代码
+2026-02-02 08:43:02,460 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:02,461 - INFO - 正在发送Discord通知: 国家安全部：NFC可能成为信息泄露乃至危害国家安全的渠道
+2026-02-02 08:43:02,777 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:02,778 - INFO - 正在发送Discord通知: WordPress Modular DS 插件的严重漏洞已被积极利用以获取管理员权限
+2026-02-02 08:43:03,003 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:03,004 - INFO - 正在发送Discord通知: 【安全月报】| 1 月加密货币领域因安全事件损失超 4 亿美元
+2026-02-02 08:43:03,197 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:03,198 - INFO - 正在发送Discord通知: 美军利用标准化网络事件分析框架保障关键基础设施安全
+2026-02-02 08:43:03,465 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:03,466 - INFO - 正在发送Discord通知: Easy Quotes WordPress 插件 SQL注入
+2026-02-02 08:43:03,633 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:03,634 - INFO - 正在发送Discord通知: 漏洞验证-Nps代理工具web管理端认证绕过
+2026-02-02 08:43:03,890 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:03,891 - INFO - 正在发送Discord通知: 漏洞预警暗网泄露：[exploitpack.com] 所有漏洞利用程序泄露！
+2026-02-02 08:43:04,420 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:04,422 - INFO - 正在发送Discord通知: 解析2024:Low-latency Virtual Network function Scheduling Algorithm Based on Deep Reinforcement Learning文章
+2026-02-02 08:43:04,685 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:04,686 - INFO - 正在发送Discord通知: simpleRSA - 深入浅出的RSA密码学攻击实战
+2026-02-02 08:43:04,910 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:04,911 - INFO - 正在发送Discord通知: vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码
+2026-02-02 08:43:05,291 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:05,292 - INFO - 正在发送Discord通知: 安全服务岗位分享
+2026-02-02 08:43:05,754 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:05,755 - INFO - 正在发送Discord通知: DudeSuite 漏洞播报 全网漏洞早知道【20260202】
+2026-02-02 08:43:06,072 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:06,073 - INFO - 正在发送Discord通知: 数据安全实践0-1第4讲：定岗定责：安全事件来了，谁负责？怎么做？
+2026-02-02 08:43:06,323 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:06,324 - INFO - 正在发送Discord通知: 安全锐见：AI时代仍需警惕人的风险，因此安全意识培训依旧很重要
+2026-02-02 08:43:06,534 - INFO - Discord通知发送结果: 204
+2026-02-02 08:43:06,591 - INFO - 已更新data.json，添加了 16 个URL
+2026-02-02 08:43:06,592 - INFO - 已创建每日报告: md/2026-02-02.md
+2026-02-02 08:43:06,592 - INFO - 正在发送Discord日报通知: 2026-02-02
+2026-02-02 08:43:06,692 - INFO - Discord日报发送结果: 429
+2026-02-02 08:43:06,693 - INFO - === 执行完成 ===
