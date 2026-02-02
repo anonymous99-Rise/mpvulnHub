@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -63,22 +63,12 @@
 
 ### Doonsec
 
-- [SCADA系统中存在的特权文件系统漏洞](https://mp.weixin.qq.com/s/MrOy3xrbsVMB9p8uliGNOQ) (发布日期: 2026-02-02)
-- [【网络安全】Office助手和WindSoul软件管家遭植入恶意代码](https://mp.weixin.qq.com/s/yShmLz96MBVmN-UEuG-daQ) (发布日期: 2026-02-02)
-- [国家安全部：NFC可能成为信息泄露乃至危害国家安全的渠道](https://mp.weixin.qq.com/s/eoUvme9mWuUmdM-O1PDARA) (发布日期: 2026-02-02)
-- [WordPress Modular DS 插件的严重漏洞已被积极利用以获取管理员权限](https://mp.weixin.qq.com/s/rvUAp_XRLjeVrHLuRS4HXw) (发布日期: 2026-02-02)
-- [【安全月报】| 1 月加密货币领域因安全事件损失超 4 亿美元](https://mp.weixin.qq.com/s/mO0XhzjXd25XKmvSSU4hmg) (发布日期: 2026-02-02)
-- [美军利用标准化网络事件分析框架保障关键基础设施安全](https://mp.weixin.qq.com/s/JaDWU0jz3lOp-CNR7C39Qg) (发布日期: 2026-02-02)
-- [Easy Quotes WordPress 插件 SQL注入](https://mp.weixin.qq.com/s/ye39dMFRtGobsLh0EwfZmA) (发布日期: 2026-02-02)
-- [漏洞验证-Nps代理工具web管理端认证绕过](https://mp.weixin.qq.com/s/U8l5fvJC3BaCRLXjUBhsxQ) (发布日期: 2026-02-02)
-- [漏洞预警暗网泄露：[exploitpack.com] 所有漏洞利用程序泄露！](https://mp.weixin.qq.com/s/7O1QfXe2UhTUU_xBss4EoA) (发布日期: 2026-02-02)
-- [解析2024:Low-latency Virtual Network function Scheduling Algorithm Based on Deep Reinforcement Learning文章](https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA) (发布日期: 2026-02-02)
-- [simpleRSA - 深入浅出的RSA密码学攻击实战](https://mp.weixin.qq.com/s/MsmpkVFADtvuqIqbADhyeQ) (发布日期: 2026-02-02)
-- [vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码](https://mp.weixin.qq.com/s/RRnwzuw1_FbdLPcvzLJxjA) (发布日期: 2026-02-02)
-- [安全服务岗位分享](https://mp.weixin.qq.com/s/fkr4rjO0eBIDfU_sLe362Q) (发布日期: 2026-02-02)
-- [DudeSuite 漏洞播报 全网漏洞早知道【20260202】](https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg) (发布日期: 2026-02-02)
-- [数据安全实践0-1第4讲：定岗定责：安全事件来了，谁负责？怎么做？](https://mp.weixin.qq.com/s/TX8E3SitcwQouSrOlbvDog) (发布日期: 2026-02-02)
-- [安全锐见：AI时代仍需警惕人的风险，因此安全意识培训依旧很重要](https://mp.weixin.qq.com/s/HmH-oTRXEb2UNS96BBxbfA) (发布日期: 2026-02-02)
+- [三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断](https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A) (发布日期: 2026-02-02)
+- [信息安全防护漫画](https://mp.weixin.qq.com/s/eQFcallIJWzHfd2k9h0dJg) (发布日期: 2026-02-02)
+- [工业控制系统风险评估：守护油气管网的“安全体检”](https://mp.weixin.qq.com/s/L3XlQW-Ym_VduopeqFKNEw) (发布日期: 2026-02-02)
+- [深度实例分析：攻防视角下的AI框架组件中的注入漏洞](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) (发布日期: 2026-02-02)
+- [Ivanti EPMM RCE CVE-2026-1340/1281完整分析](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) (发布日期: 2026-02-02)
+- [攻防演练中的“惊魂时刻”—被打穿后的应急启示（上篇）](https://mp.weixin.qq.com/s/2xBLKf0TVup8Qnb4Y_9iLw) (发布日期: 2026-02-02)
 
 
 ## 🎯 威胁详情分析
@@ -87,19 +77,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SCADA系统中存在的特权文件系统漏洞 | Doonsec | [https://mp.weixin.qq.com/s/MrOy3xrbsVMB9p8uliGNOQ](https://mp.weixin.qq.com/s/MrOy3xrbsVMB9p8uliGNOQ) |
-| 2 | WordPress Modular DS 插件的严重漏洞已被积极利用以获取管理员权限 | Doonsec | [https://mp.weixin.qq.com/s/rvUAp_XRLjeVrHLuRS4HXw](https://mp.weixin.qq.com/s/rvUAp_XRLjeVrHLuRS4HXw) |
-| 3 | 漏洞验证-Nps代理工具web管理端认证绕过 | Doonsec | [https://mp.weixin.qq.com/s/U8l5fvJC3BaCRLXjUBhsxQ](https://mp.weixin.qq.com/s/U8l5fvJC3BaCRLXjUBhsxQ) |
-| 4 | 漏洞预警暗网泄露：[exploitpack.com] 所有漏洞利用程序泄露！ | Doonsec | [https://mp.weixin.qq.com/s/7O1QfXe2UhTUU_xBss4EoA](https://mp.weixin.qq.com/s/7O1QfXe2UhTUU_xBss4EoA) |
-| 5 | vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/RRnwzuw1_FbdLPcvzLJxjA](https://mp.weixin.qq.com/s/RRnwzuw1_FbdLPcvzLJxjA) |
-| 6 | DudeSuite 漏洞播报 全网漏洞早知道【20260202】 | Doonsec | [https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg](https://mp.weixin.qq.com/s/zTiDqtIKWYHKBoxIDP3JQg) |
+| 1 | 三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断 | Doonsec | [https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A](https://mp.weixin.qq.com/s/1kWR8KnKFEIxCtJNo5Ak_A) |
+| 2 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
+| 3 | Ivanti EPMM RCE CVE-2026-1340/1281完整分析 | Doonsec | [https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Easy Quotes WordPress 插件 SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ye39dMFRtGobsLh0EwfZmA](https://mp.weixin.qq.com/s/ye39dMFRtGobsLh0EwfZmA) |
-| 2 | 解析2024:Low-latency Virtual Network function Scheduling Algorithm Based on Deep Reinforcement Learning文章 | Doonsec | [https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA](https://mp.weixin.qq.com/s/ckBSqV-Bdv-PbMSGfX7WbA) |
+| 1 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
+| 2 | Ivanti EPMM RCE CVE-2026-1340/1281完整分析 | Doonsec | [https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ](https://mp.weixin.qq.com/s/PoWUy4x8ivGE3Oog3N00jQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 深度实例分析：攻防视角下的AI框架组件中的注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg](https://mp.weixin.qq.com/s/jLY9wEB2GjGVOoMHBDrFQg) |
 
 
 ## 📁 归档路径
@@ -115,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-02 08:43:06*
+*生成时间: 2026-02-02 13:00:54*
 *报告工具: 微信文章安全归档系统*

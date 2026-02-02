@@ -46689,3 +46689,54 @@
 2026-02-02 08:43:06,592 - INFO - 正在发送Discord日报通知: 2026-02-02
 2026-02-02 08:43:06,692 - INFO - Discord日报发送结果: 429
 2026-02-02 08:43:06,693 - INFO - === 执行完成 ===
+2026-02-02 13:00:46,911 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-02 13:00:46,911 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-02 13:00:46,911 - INFO - 正在发送Discord启动通知...
+2026-02-02 13:00:47,823 - INFO - Discord启动通知发送结果: 204
+2026-02-02 13:00:47,825 - INFO - 数据文件: data.json
+2026-02-02 13:00:47,825 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-02 13:00:47,825 - INFO - 文档目录: doc
+2026-02-02 13:00:47,881 - INFO - 已加载 36211 条历史记录
+2026-02-02 13:00:47,881 - INFO - === 开始今日拉取 ===
+2026-02-02 13:00:47,881 - INFO - 开始获取Doonsec RSS
+2026-02-02 13:00:47,881 - INFO - 目标日期: 2026-02-02
+2026-02-02 13:00:50,909 - INFO - Doonsec RSS请求成功
+2026-02-02 13:00:50,910 - INFO - RSS中共有 200 个条目
+2026-02-02 13:00:50,911 - INFO - Doonsec获取到 200 个2026-02-02的微信文章URL
+2026-02-02 13:00:50,912 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-02.md
+2026-02-02 13:00:51,038 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-02 13:00:51,038 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-02.md 状态码: 404
+2026-02-02 13:00:51,038 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-02.md
+2026-02-02 13:00:51,147 - INFO - BruceFeIix md文件下载状态码: 200
+2026-02-02 13:00:51,147 - INFO - BruceFeIix获取到 17 个URL
+2026-02-02 13:00:51,148 - INFO - === 开始处理 2026-02-02 的数据 ===
+2026-02-02 13:00:51,148 - INFO - Doonsec原始数据: 200 个
+2026-02-02 13:00:51,148 - INFO - ChainReactors原始数据: 0 个
+2026-02-02 13:00:51,148 - INFO - BruceFeIix原始数据: 17 个
+2026-02-02 13:00:51,148 - INFO - 开始处理Doonsec数据...
+2026-02-02 13:00:51,148 - INFO - 开始处理ChainReactors数据...
+2026-02-02 13:00:51,148 - INFO - 开始处理BruceFeIix数据...
+2026-02-02 13:00:51,148 - INFO - 去重后共 175 个URL待处理，跳过 42 个重复URL
+2026-02-02 13:00:51,148 - INFO - 去重后统计 - Doonsec: 165 个, ChainReactors: 0 个, BruceFeIix: 10 个
+2026-02-02 13:00:51,148 - INFO - === 开始关键词过滤 ===
+2026-02-02 13:00:51,154 - INFO - 关键词过滤: 匹配 6 个，跳过 169 个
+2026-02-02 13:00:51,154 - INFO - 关键词过滤后统计 - Doonsec: 6 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-02 13:00:51,159 - INFO - 已创建每日报告: md/2026-02-02.md
+2026-02-02 13:00:51,160 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-02 13:00:51,160 - INFO - 正在发送Discord通知: 三菱电机 SCADA 系统曝漏洞，恐引发工业生产中断
+2026-02-02 13:00:51,529 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:51,530 - INFO - 正在发送Discord通知: 信息安全防护漫画
+2026-02-02 13:00:51,947 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:51,948 - INFO - 正在发送Discord通知: 工业控制系统风险评估：守护油气管网的“安全体检”
+2026-02-02 13:00:52,442 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:52,443 - INFO - 正在发送Discord通知: 深度实例分析：攻防视角下的AI框架组件中的注入漏洞
+2026-02-02 13:00:53,329 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:53,330 - INFO - 正在发送Discord通知: Ivanti EPMM RCE CVE-2026-1340/1281完整分析
+2026-02-02 13:00:53,586 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:53,587 - INFO - 正在发送Discord通知: 攻防演练中的“惊魂时刻”—被打穿后的应急启示（上篇）
+2026-02-02 13:00:53,983 - INFO - Discord通知发送结果: 204
+2026-02-02 13:00:54,040 - INFO - 已更新data.json，添加了 6 个URL
+2026-02-02 13:00:54,041 - INFO - 已创建每日报告: md/2026-02-02.md
+2026-02-02 13:00:54,041 - INFO - 正在发送Discord日报通知: 2026-02-02
+2026-02-02 13:00:54,306 - INFO - Discord日报发送结果: 204
+2026-02-02 13:00:54,307 - INFO - === 执行完成 ===
