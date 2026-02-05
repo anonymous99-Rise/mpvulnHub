@@ -47873,3 +47873,76 @@
 2026-02-04 20:34:57,695 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-02-04 20:34:57,752 - INFO - 已更新data.json，添加了 0 个URL
 2026-02-04 20:34:57,752 - INFO - === 执行完成 ===
+2026-02-05 02:06:23,875 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-05 02:06:23,875 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-05 02:06:23,876 - INFO - 正在发送Discord启动通知...
+2026-02-05 02:06:24,252 - INFO - Discord启动通知发送结果: 204
+2026-02-05 02:06:24,254 - INFO - 数据文件: data.json
+2026-02-05 02:06:24,254 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-05 02:06:24,254 - INFO - 文档目录: doc
+2026-02-05 02:06:24,311 - INFO - 已加载 36539 条历史记录
+2026-02-05 02:06:24,311 - INFO - === 开始今日拉取 ===
+2026-02-05 02:06:24,311 - INFO - 开始获取Doonsec RSS
+2026-02-05 02:06:24,311 - INFO - 目标日期: 2026-02-05
+2026-02-05 02:06:26,229 - INFO - Doonsec RSS请求成功
+2026-02-05 02:06:26,230 - INFO - RSS中共有 200 个条目
+2026-02-05 02:06:26,230 - INFO - Doonsec获取到 74 个2026-02-05的微信文章URL
+2026-02-05 02:06:26,231 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-05.md
+2026-02-05 02:06:26,352 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-05 02:06:26,352 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-05.md 状态码: 404
+2026-02-05 02:06:26,352 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-05.md
+2026-02-05 02:06:26,463 - INFO - BruceFeIix md文件下载状态码: 404
+2026-02-05 02:06:26,463 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-05.md 状态码: 404
+2026-02-05 02:06:26,464 - INFO - === 开始处理 2026-02-05 的数据 ===
+2026-02-05 02:06:26,464 - INFO - Doonsec原始数据: 74 个
+2026-02-05 02:06:26,464 - INFO - ChainReactors原始数据: 0 个
+2026-02-05 02:06:26,464 - INFO - BruceFeIix原始数据: 0 个
+2026-02-05 02:06:26,464 - INFO - 开始处理Doonsec数据...
+2026-02-05 02:06:26,464 - INFO - 开始处理ChainReactors数据...
+2026-02-05 02:06:26,464 - INFO - 开始处理BruceFeIix数据...
+2026-02-05 02:06:26,464 - INFO - 去重后共 74 个URL待处理，跳过 0 个重复URL
+2026-02-05 02:06:26,464 - INFO - 去重后统计 - Doonsec: 74 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-05 02:06:26,464 - INFO - === 开始关键词过滤 ===
+2026-02-05 02:06:26,466 - INFO - 关键词过滤: 匹配 17 个，跳过 57 个
+2026-02-05 02:06:26,467 - INFO - 关键词过滤后统计 - Doonsec: 17 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-05 02:06:26,507 - INFO - 已创建每日报告: md/2026-02-05.md
+2026-02-05 02:06:26,507 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-05 02:06:26,507 - INFO - 正在发送Discord通知: 理想/米哈游/大疆等热招，头部大厂&amp;新锐企业齐聚，应用安全岗直推负责人
+2026-02-05 02:06:26,918 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:26,918 - INFO - 正在发送Discord通知: 内网横向边界安全测试工具
+2026-02-05 02:06:27,149 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:27,149 - INFO - 正在发送Discord通知: 【代码审计】某财务系统代码审计Jdbc Attack bypass+反序列化漏洞利用
+2026-02-05 02:06:28,092 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:28,093 - INFO - 正在发送Discord通知: 黑客利用 React Native CLI 的漏洞在公开披露前部署了 Rust 恶意软件
+2026-02-05 02:06:28,670 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:28,670 - INFO - 正在发送Discord通知: 微软报告：信息窃取恶意软件已从 Windows 扩展到 macOS
+2026-02-05 02:06:29,105 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:29,106 - INFO - 正在发送Discord通知: 爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 / 植入 macOS 病毒
+2026-02-05 02:06:29,369 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:29,370 - INFO - 正在发送Discord通知: 全网首发！银狐团伙2026年开年最新黑科技深度拆解！
+2026-02-05 02:06:29,613 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:29,614 - INFO - 正在发送Discord通知: 关于防范Microsoft Office安全功能绕过【高危漏洞】的风险提示
+2026-02-05 02:06:29,954 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:29,955 - INFO - 正在发送Discord通知: 海莲花APT组织最新定向样本分析
+2026-02-05 02:06:30,490 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:30,491 - INFO - 正在发送Discord通知: 伪装成Foxmail银狐黑产最新高级免杀样本分析
+2026-02-05 02:06:30,737 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:30,737 - INFO - 正在发送Discord通知: 【漏洞复现】飞牛私有云 fnOS 0day 漏洞复现：可任意读取文件 + 绕过认证。
+2026-02-05 02:06:30,988 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:30,989 - INFO - 正在发送Discord通知: Foxit PDF 编辑器漏洞允许攻击者执行任意 JavaScript 代码
+2026-02-05 02:06:31,297 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:31,298 - INFO - 正在发送Discord通知: 身边考CISSP的同事，最近都在偷偷用这个……
+2026-02-05 02:06:31,612 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:31,613 - INFO - 正在发送Discord通知: SQL注入实战：sqli-labs第54关通关，只允许 10 次请求？教你用 UNION 一次打穿！（Variation 1）
+2026-02-05 02:06:31,892 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:31,892 - INFO - 正在发送Discord通知: CVE-2026-21721 漏洞分析
+2026-02-05 02:06:32,297 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:32,297 - INFO - 正在发送Discord通知: 承影 ChYing：支持 Nuclei POC+JWT 爆破 + 403 Bypass，开源渗透利器
+2026-02-05 02:06:32,589 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:32,589 - INFO - 正在发送Discord通知: 网络安全洞察2026：人工智能时代的恶意软件和网络攻击
+2026-02-05 02:06:32,819 - INFO - Discord通知发送结果: 204
+2026-02-05 02:06:32,877 - INFO - 已更新data.json，添加了 17 个URL
+2026-02-05 02:06:32,878 - INFO - 已创建每日报告: md/2026-02-05.md
+2026-02-05 02:06:32,878 - INFO - 正在发送Discord日报通知: 2026-02-05
+2026-02-05 02:06:33,124 - INFO - Discord日报发送结果: 204
+2026-02-05 02:06:33,125 - INFO - === 执行完成 ===
