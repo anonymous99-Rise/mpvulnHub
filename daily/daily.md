@@ -2,22 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 5篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,25 +61,11 @@
 
 ### Doonsec
 
-- [云安全SRC狩猎：从配置错误到完整账户接管的武器化路径](https://mp.weixin.qq.com/s/kf6CNxT3QfmXc50ZnAjMXw) (发布日期: 2026-02-07)
-- [OSV-Scanner：一款专门于发现开源软件漏洞的扫描器](https://mp.weixin.qq.com/s/E-zLW9Jc_vERUnINyCwgNw) (发布日期: 2026-02-07)
-- [2025年网络空间安全漏洞态势分析研究报告](https://mp.weixin.qq.com/s/OaAeOmxfBeENHTETmfKsfw) (发布日期: 2026-02-07)
-- [应急响应 | Proc目录常见文件和目录含义解析](https://mp.weixin.qq.com/s/9KG1ly3mg5I4i-rjL7UAXw) (发布日期: 2026-02-07)
-- [银狐黑产组织ValleyRAT远控样本分析](https://mp.weixin.qq.com/s/xXzdBgf_F8Ugz03VK5eRzw) (发布日期: 2026-02-07)
-- [中标快讯：某勒索病毒专项整治项目，重庆晓维网络139.35万中](https://mp.weixin.qq.com/s/n_iPJ_FwT41oYh9uIKDLaA) (发布日期: 2026-02-07)
-- [GYscan——综合渗透测试工具](https://mp.weixin.qq.com/s/ZtRQBPMgJ7LEaep6R8qEiw) (发布日期: 2026-02-07)
-- [基于特斯拉联网汽车LTE连接安全分析](https://mp.weixin.qq.com/s/eXZARVSSb_CxViEuWUkYHg) (发布日期: 2026-02-07)
-- [CentOS 9 安全漏洞可被利用进行权限提升 - PoC已发布](https://mp.weixin.qq.com/s/-3m3_nX_zP4OOhaL_7qHgA) (发布日期: 2026-02-07)
-- [黑客利用Windows屏幕保护程序漏洞部署RMM工具，获取远程访问权限](https://mp.weixin.qq.com/s/zk-LYFz3SAUzX_K8ddX_jw) (发布日期: 2026-02-07)
-- [破阵阁・网安淬锋巅峰赛 应急响应WP](https://mp.weixin.qq.com/s/mDD4zIuId5yySSvPxhFQoA) (发布日期: 2026-02-07)
-- [微软开发轻量级AI检测工具，一键扫描大模型隐藏后门](https://mp.weixin.qq.com/s/OwdKFaJv1dEK7QLtHYBJcQ) (发布日期: 2026-02-07)
-- [蛙池AI 一款无门槛渗透测试神器！](https://mp.weixin.qq.com/s/fusGGXNLtbiQEwWvBQ2vFQ) (发布日期: 2026-02-07)
-- [Claude新模型4.6开箱即挖500个0day漏洞； OpenClaw高危漏洞可一键直通上帝模式 | FreeBuf周报](https://mp.weixin.qq.com/s/5Z81R1hoBFpXbd6LG_n9ug) (发布日期: 2026-02-07)
-- [数据安全体系及逻辑分层小结](https://mp.weixin.qq.com/s/jtap4Beq0qB3NPD9Kz0qGw) (发布日期: 2026-02-07)
-- [看雪【勒索病毒应急响应服务】上线！](https://mp.weixin.qq.com/s/--tlEfcJ-CvC6GIMYKy9yg) (发布日期: 2026-02-07)
-- [云安全SRC狩猎：从配置错误到完整账户接管的武器化路径](https://mp.weixin.qq.com/s/4zwuZR8GjMyBekz1_2S2_A) (发布日期: 2026-02-07)
-- [豆包ai 命令执行？](https://mp.weixin.qq.com/s/x_O7ppK0FmF0UgNwRw3Z2Q) (发布日期: 2026-02-07)
-- [快普M6 GetCustomerList SQL注入漏洞](https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw) (发布日期: 2026-02-07)
+- [【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞](https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg) (发布日期: 2026-02-07)
+- [浏览器插件暗藏后门](https://mp.weixin.qq.com/s/ALP5oHttbvaf796SkaDjHA) (发布日期: 2026-02-07)
+- [内网渗透(十)：横向移动](https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng) (发布日期: 2026-02-07)
+- [2026全球人工智能安全会议（含25）](https://mp.weixin.qq.com/s/0pbqoOfnWfEm78HVF-Ff2w) (发布日期: 2026-02-07)
+- [OSV-Scanner：一款专门于发现开源软件漏洞的扫描器](https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg) (发布日期: 2026-02-07)
 
 
 ## 🎯 威胁详情分析
@@ -93,36 +74,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OSV-Scanner：一款专门于发现开源软件漏洞的扫描器 | Doonsec | [https://mp.weixin.qq.com/s/E-zLW9Jc_vERUnINyCwgNw](https://mp.weixin.qq.com/s/E-zLW9Jc_vERUnINyCwgNw) |
-| 2 | 2025年网络空间安全漏洞态势分析研究报告 | Doonsec | [https://mp.weixin.qq.com/s/OaAeOmxfBeENHTETmfKsfw](https://mp.weixin.qq.com/s/OaAeOmxfBeENHTETmfKsfw) |
-| 3 | CentOS 9 安全漏洞可被利用进行权限提升 - PoC已发布 | Doonsec | [https://mp.weixin.qq.com/s/-3m3_nX_zP4OOhaL_7qHgA](https://mp.weixin.qq.com/s/-3m3_nX_zP4OOhaL_7qHgA) |
-| 4 | 黑客利用Windows屏幕保护程序漏洞部署RMM工具，获取远程访问权限 | Doonsec | [https://mp.weixin.qq.com/s/zk-LYFz3SAUzX_K8ddX_jw](https://mp.weixin.qq.com/s/zk-LYFz3SAUzX_K8ddX_jw) |
-| 5 | Claude新模型4.6开箱即挖500个0day漏洞； OpenClaw高危漏洞可一键直通上帝模式 | FreeBuf周报 | Doonsec | [https://mp.weixin.qq.com/s/5Z81R1hoBFpXbd6LG_n9ug](https://mp.weixin.qq.com/s/5Z81R1hoBFpXbd6LG_n9ug) |
-| 6 | 快普M6 GetCustomerList SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw](https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw) |
+| 1 | 【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg](https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg) |
+| 2 | OSV-Scanner：一款专门于发现开源软件漏洞的扫描器 | Doonsec | [https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg](https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 豆包ai 命令执行？ | Doonsec | [https://mp.weixin.qq.com/s/x_O7ppK0FmF0UgNwRw3Z2Q](https://mp.weixin.qq.com/s/x_O7ppK0FmF0UgNwRw3Z2Q) |
-| 2 | 快普M6 GetCustomerList SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw](https://mp.weixin.qq.com/s/Jhi_SVgXR-DQKyCqUjBwyw) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应 | Proc目录常见文件和目录含义解析 | Doonsec | [https://mp.weixin.qq.com/s/9KG1ly3mg5I4i-rjL7UAXw](https://mp.weixin.qq.com/s/9KG1ly3mg5I4i-rjL7UAXw) |
-| 2 | 银狐黑产组织ValleyRAT远控样本分析 | Doonsec | [https://mp.weixin.qq.com/s/xXzdBgf_F8Ugz03VK5eRzw](https://mp.weixin.qq.com/s/xXzdBgf_F8Ugz03VK5eRzw) |
-| 3 | 中标快讯：某勒索病毒专项整治项目，重庆晓维网络139.35万中 | Doonsec | [https://mp.weixin.qq.com/s/n_iPJ_FwT41oYh9uIKDLaA](https://mp.weixin.qq.com/s/n_iPJ_FwT41oYh9uIKDLaA) |
-| 4 | 破阵阁・网安淬锋巅峰赛 应急响应WP | Doonsec | [https://mp.weixin.qq.com/s/mDD4zIuId5yySSvPxhFQoA](https://mp.weixin.qq.com/s/mDD4zIuId5yySSvPxhFQoA) |
-| 5 | 看雪【勒索病毒应急响应服务】上线！ | Doonsec | [https://mp.weixin.qq.com/s/--tlEfcJ-CvC6GIMYKy9yg](https://mp.weixin.qq.com/s/--tlEfcJ-CvC6GIMYKy9yg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 云安全SRC狩猎：从配置错误到完整账户接管的武器化路径 | Doonsec | [https://mp.weixin.qq.com/s/kf6CNxT3QfmXc50ZnAjMXw](https://mp.weixin.qq.com/s/kf6CNxT3QfmXc50ZnAjMXw) |
-| 2 | 云安全SRC狩猎：从配置错误到完整账户接管的武器化路径 | Doonsec | [https://mp.weixin.qq.com/s/4zwuZR8GjMyBekz1_2S2_A](https://mp.weixin.qq.com/s/4zwuZR8GjMyBekz1_2S2_A) |
+| 1 | 内网渗透(十)：横向移动 | Doonsec | [https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng](https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng) |
 
 
 ## 📁 归档路径
@@ -138,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -148,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-07 12:50:32*
+*生成时间: 2026-02-07 16:30:41*
 *报告工具: 微信文章安全归档系统*
