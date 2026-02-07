@@ -49199,3 +49199,52 @@
 2026-02-07 12:50:32,455 - INFO - 正在发送Discord日报通知: 2026-02-07
 2026-02-07 12:50:32,866 - INFO - Discord日报发送结果: 204
 2026-02-07 12:50:32,867 - INFO - === 执行完成 ===
+2026-02-07 16:30:35,582 - INFO - === 开始执行微信文章归档工具 ===
+2026-02-07 16:30:35,582 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-02-07 16:30:35,582 - INFO - 正在发送Discord启动通知...
+2026-02-07 16:30:35,982 - INFO - Discord启动通知发送结果: 204
+2026-02-07 16:30:35,984 - INFO - 数据文件: data.json
+2026-02-07 16:30:35,984 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-02-07 16:30:35,984 - INFO - 文档目录: doc
+2026-02-07 16:30:36,043 - INFO - 已加载 36899 条历史记录
+2026-02-07 16:30:36,043 - INFO - === 开始今日拉取 ===
+2026-02-07 16:30:36,043 - INFO - 开始获取Doonsec RSS
+2026-02-07 16:30:36,043 - INFO - 目标日期: 2026-02-07
+2026-02-07 16:30:39,289 - INFO - Doonsec RSS请求成功
+2026-02-07 16:30:39,291 - INFO - RSS中共有 200 个条目
+2026-02-07 16:30:39,291 - INFO - Doonsec获取到 186 个2026-02-07的微信文章URL
+2026-02-07 16:30:39,292 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-07.md
+2026-02-07 16:30:39,341 - INFO - ChainReactors md文件下载状态码: 404
+2026-02-07 16:30:39,341 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-02-07.md 状态码: 404
+2026-02-07 16:30:39,341 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-02-07.md
+2026-02-07 16:30:39,411 - INFO - BruceFeIix md文件下载状态码: 200
+2026-02-07 16:30:39,412 - INFO - BruceFeIix获取到 143 个URL
+2026-02-07 16:30:39,412 - INFO - === 开始处理 2026-02-07 的数据 ===
+2026-02-07 16:30:39,412 - INFO - Doonsec原始数据: 186 个
+2026-02-07 16:30:39,412 - INFO - ChainReactors原始数据: 0 个
+2026-02-07 16:30:39,412 - INFO - BruceFeIix原始数据: 143 个
+2026-02-07 16:30:39,412 - INFO - 开始处理Doonsec数据...
+2026-02-07 16:30:39,413 - INFO - 开始处理ChainReactors数据...
+2026-02-07 16:30:39,413 - INFO - 开始处理BruceFeIix数据...
+2026-02-07 16:30:39,413 - INFO - 去重后共 243 个URL待处理，跳过 86 个重复URL
+2026-02-07 16:30:39,413 - INFO - 去重后统计 - Doonsec: 146 个, ChainReactors: 0 个, BruceFeIix: 97 个
+2026-02-07 16:30:39,413 - INFO - === 开始关键词过滤 ===
+2026-02-07 16:30:39,421 - INFO - 关键词过滤: 匹配 5 个，跳过 238 个
+2026-02-07 16:30:39,421 - INFO - 关键词过滤后统计 - Doonsec: 5 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-02-07 16:30:39,437 - INFO - 已创建每日报告: md/2026-02-07.md
+2026-02-07 16:30:39,437 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-02-07 16:30:39,437 - INFO - 正在发送Discord通知: 【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞
+2026-02-07 16:30:39,699 - INFO - Discord通知发送结果: 204
+2026-02-07 16:30:39,700 - INFO - 正在发送Discord通知: 浏览器插件暗藏后门
+2026-02-07 16:30:40,021 - INFO - Discord通知发送结果: 204
+2026-02-07 16:30:40,022 - INFO - 正在发送Discord通知: 内网渗透(十)：横向移动
+2026-02-07 16:30:40,356 - INFO - Discord通知发送结果: 204
+2026-02-07 16:30:40,357 - INFO - 正在发送Discord通知: 2026全球人工智能安全会议（含25）
+2026-02-07 16:30:41,194 - INFO - Discord通知发送结果: 204
+2026-02-07 16:30:41,195 - INFO - 正在发送Discord通知: OSV-Scanner：一款专门于发现开源软件漏洞的扫描器
+2026-02-07 16:30:41,430 - INFO - Discord通知发送结果: 204
+2026-02-07 16:30:41,488 - INFO - 已更新data.json，添加了 5 个URL
+2026-02-07 16:30:41,489 - INFO - 已创建每日报告: md/2026-02-07.md
+2026-02-07 16:30:41,489 - INFO - 正在发送Discord日报通知: 2026-02-07
+2026-02-07 16:30:41,730 - INFO - Discord日报发送结果: 204
+2026-02-07 16:30:41,731 - INFO - === 执行完成 ===
