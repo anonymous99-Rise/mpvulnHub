@@ -1,18 +1,23 @@
-# 2026-02-07 安全威胁态势报告
+# 2026-02-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 31
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 31篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 5篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 4篇
+- **网络攻击**: 4篇
+- **应用漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,11 +66,37 @@
 
 ### Doonsec
 
-- [【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞](https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg) (发布日期: 2026-02-07)
-- [浏览器插件暗藏后门](https://mp.weixin.qq.com/s/ALP5oHttbvaf796SkaDjHA) (发布日期: 2026-02-07)
-- [内网渗透(十)：横向移动](https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng) (发布日期: 2026-02-07)
-- [2026全球人工智能安全会议（含25）](https://mp.weixin.qq.com/s/0pbqoOfnWfEm78HVF-Ff2w) (发布日期: 2026-02-07)
-- [OSV-Scanner：一款专门于发现开源软件漏洞的扫描器](https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg) (发布日期: 2026-02-07)
+- [漏洞复现 | MetaCRM 客户关系管理系统 mobileupload.jsp 任意文件上传漏洞](https://mp.weixin.qq.com/s/OwwPdHDM-_4HwIeTxxhvew) (发布日期: 2026-02-08)
+- [代码审计之前端框架篇](https://mp.weixin.qq.com/s/rrPkw2Zb_1unPi8evTeqsg) (发布日期: 2026-02-08)
+- [【工具推荐】P1soda全方位内网扫描工具](https://mp.weixin.qq.com/s/tdHCQN3IKVQ-TwJzgdlKeQ) (发布日期: 2026-02-08)
+- [跨站脚本攻击（XSS）速查手册（基础篇）](https://mp.weixin.qq.com/s/7Cpu7w95vl58jH7kHKAP0w) (发布日期: 2026-02-08)
+- [支付平台BridgePay因勒索软件攻击导致服务中断](https://mp.weixin.qq.com/s/hB-VFeQvQ2m_gKPbKkPOXQ) (发布日期: 2026-02-08)
+- [【代码审计】某校园统一认证任意用户登录](https://mp.weixin.qq.com/s/947HCNj8_c-Jpu8Zygs7gw) (发布日期: 2026-02-08)
+- [【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞](https://mp.weixin.qq.com/s/Kw-FGJMiXcAtTAXSoKwRQg) (发布日期: 2026-02-08)
+- [【林晓月的新漏洞科普】AMD AutoUpdate 远程代码执行漏洞深度分析（官方无影响忽略）](https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw) (发布日期: 2026-02-08)
+- [JWT：渗透测试姿势全解析（含实战）](https://mp.weixin.qq.com/s/ieJghvUwullmaHlwXYy8sw) (发布日期: 2026-02-08)
+- [德国机构警告：针对政界人士、军方人士和记者的信号钓鱼攻击正在兴起](https://mp.weixin.qq.com/s/1WYf6kXaaC5lX10WiogFRA) (发布日期: 2026-02-08)
+- [Metasploit Pro：可视化的metasploit渗透测试工具](https://mp.weixin.qq.com/s/MTLmXU1i62d9f-VegrVBUw) (发布日期: 2026-02-08)
+- [一周安全事件回顾：全球监管升级，多国多起事件引发高额处罚](https://mp.weixin.qq.com/s/3AAx5OgaSTLmoovmZOuQiA) (发布日期: 2026-02-08)
+- [云安全SRC狩猎：从配置错误到完整账户接管的武器化路径](https://mp.weixin.qq.com/s/p4ORm0KnaPOwXSlTyLkH8Q) (发布日期: 2026-02-08)
+- [一文带你看懂fastjson2下的反序列化调用链完整过程](https://mp.weixin.qq.com/s/CNdRYyeSjNCJJRL6uQBr3A) (发布日期: 2026-02-08)
+- [【JAVA代审】某OA系统0Day审计过程](https://mp.weixin.qq.com/s/6TbmsjBZX9vYV-YboVz5Ng) (发布日期: 2026-02-08)
+- [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s/nds3oFwrb_gNrnpRcPxjbQ) (发布日期: 2026-02-08)
+- [BridgePay支付网关遭勒索软件攻击，导致全国范围服务中断](https://mp.weixin.qq.com/s/R-2eVVtH05CtpPxjiP-RZg) (发布日期: 2026-02-08)
+- [一次省护红队的经历(100w公民信息泄露+找到双网卡主机—>内网沦陷)](https://mp.weixin.qq.com/s/ML-d1x7piJKX9_2ifi77ug) (发布日期: 2026-02-08)
+- [EPSS深度解析：如何利用漏洞预测评分系统优化现代漏洞管理](https://mp.weixin.qq.com/s/LaGS8K94rYIx-OmWjDkm7g) (发布日期: 2026-02-08)
+- [Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅](https://mp.weixin.qq.com/s/6TgTyUT_tZHhcpMsqz2uew) (发布日期: 2026-02-08)
+- [网络安全洞察2026：API安全——更难保障，不容忽视](https://mp.weixin.qq.com/s/fkHrS8YJ8AMHZoNvg6qlnA) (发布日期: 2026-02-08)
+- [数据资产对内开放安全管理办法](https://mp.weixin.qq.com/s/r30RyDddt_QmBerBJPDXyA) (发布日期: 2026-02-08)
+- [实战高频漏洞TOP 10](https://mp.weixin.qq.com/s/Dhp-Q9cXJaYKtkkUk6chPA) (发布日期: 2026-02-08)
+- [勒索软件重创支付命脉：BridgePay网关攻击事件追踪](https://mp.weixin.qq.com/s/ZPck0HYiqljX5oedAEMuwg) (发布日期: 2026-02-08)
+- [核威慑在不断变化的欧美安全架构中的作用](https://mp.weixin.qq.com/s/0Jg-VnMfc2wUEjbWjzdxVQ) (发布日期: 2026-02-08)
+- [SQL注入实战：关于sqli-labs 62关的通关疑惑](https://mp.weixin.qq.com/s/CjJwbTcpj-GN5PJaDYGJjg) (发布日期: 2026-02-08)
+- [Aciacell 电信数据库数据泄露](https://mp.weixin.qq.com/s/3blY_KtlkO8-lNsZVZcPgQ) (发布日期: 2026-02-08)
+- [国外：一周网络安全态势回顾之第137期，CISA指示各机构识别升级边缘设备](https://mp.weixin.qq.com/s/5owwZAu3f4nGv_H-B7aTlA) (发布日期: 2026-02-08)
+- [基于 BAT 千万级用户零信任架构（ZTA）](https://mp.weixin.qq.com/s/SzSf3Qs3zCkZzr2pbA5y0g) (发布日期: 2026-02-08)
+- [黑客利用 Open VSX 扩展程序植入复杂的恶意软件，该扩展程序下载量已超过 5060 次](https://mp.weixin.qq.com/s/kLVziDseo0nyLKFgZ4TxXQ) (发布日期: 2026-02-08)
+- [招标公告：某部网络安全服务项目公开招标，预算229.1960万元](https://mp.weixin.qq.com/s/DVAECFwj2_fYcQT42dOi-A) (发布日期: 2026-02-08)
 
 
 ## 🎯 威胁详情分析
@@ -74,19 +105,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【CVE-2025-3052】信任链条上的又一道裂痕：揭秘另一个安全启动绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg](https://mp.weixin.qq.com/s/IiUsl_OgNTouj85iuPCBbg) |
-| 2 | OSV-Scanner：一款专门于发现开源软件漏洞的扫描器 | Doonsec | [https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg](https://mp.weixin.qq.com/s/WA7mHRbFX5OEKMKqaFDSAg) |
+| 1 | 漏洞复现 | MetaCRM 客户关系管理系统 mobileupload.jsp 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OwwPdHDM-_4HwIeTxxhvew](https://mp.weixin.qq.com/s/OwwPdHDM-_4HwIeTxxhvew) |
+| 2 | 【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Kw-FGJMiXcAtTAXSoKwRQg](https://mp.weixin.qq.com/s/Kw-FGJMiXcAtTAXSoKwRQg) |
+| 3 | 【林晓月的新漏洞科普】AMD AutoUpdate 远程代码执行漏洞深度分析（官方无影响忽略） | Doonsec | [https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw](https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw) |
+| 4 | 【JAVA代审】某OA系统0Day审计过程 | Doonsec | [https://mp.weixin.qq.com/s/6TbmsjBZX9vYV-YboVz5Ng](https://mp.weixin.qq.com/s/6TbmsjBZX9vYV-YboVz5Ng) |
+| 5 | EPSS深度解析：如何利用漏洞预测评分系统优化现代漏洞管理 | Doonsec | [https://mp.weixin.qq.com/s/LaGS8K94rYIx-OmWjDkm7g](https://mp.weixin.qq.com/s/LaGS8K94rYIx-OmWjDkm7g) |
+| 6 | Vulnhub打靶新体验：深入pWnOS_v0的漏洞挖掘之旅 | Doonsec | [https://mp.weixin.qq.com/s/6TgTyUT_tZHhcpMsqz2uew](https://mp.weixin.qq.com/s/6TgTyUT_tZHhcpMsqz2uew) |
+| 7 | 实战高频漏洞TOP 10 | Doonsec | [https://mp.weixin.qq.com/s/Dhp-Q9cXJaYKtkkUk6chPA](https://mp.weixin.qq.com/s/Dhp-Q9cXJaYKtkkUk6chPA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透(十)：横向移动 | Doonsec | [https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng](https://mp.weixin.qq.com/s/dABrYX7nH4VEBdibuAp4ng) |
+| 1 | 【工具推荐】P1soda全方位内网扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/tdHCQN3IKVQ-TwJzgdlKeQ](https://mp.weixin.qq.com/s/tdHCQN3IKVQ-TwJzgdlKeQ) |
+| 2 | 跨站脚本攻击（XSS）速查手册（基础篇） | Doonsec | [https://mp.weixin.qq.com/s/7Cpu7w95vl58jH7kHKAP0w](https://mp.weixin.qq.com/s/7Cpu7w95vl58jH7kHKAP0w) |
+| 3 | 【林晓月的新漏洞科普】AMD AutoUpdate 远程代码执行漏洞深度分析（官方无影响忽略） | Doonsec | [https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw](https://mp.weixin.qq.com/s/KB9GfNmxYrf8U7cLh0EIhw) |
+| 4 | 一次省护红队的经历(100w公民信息泄露+找到双网卡主机—>内网沦陷) | Doonsec | [https://mp.weixin.qq.com/s/ML-d1x7piJKX9_2ifi77ug](https://mp.weixin.qq.com/s/ML-d1x7piJKX9_2ifi77ug) |
+| 5 | SQL注入实战：关于sqli-labs 62关的通关疑惑 | Doonsec | [https://mp.weixin.qq.com/s/CjJwbTcpj-GN5PJaDYGJjg](https://mp.weixin.qq.com/s/CjJwbTcpj-GN5PJaDYGJjg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 云安全SRC狩猎：从配置错误到完整账户接管的武器化路径 | Doonsec | [https://mp.weixin.qq.com/s/p4ORm0KnaPOwXSlTyLkH8Q](https://mp.weixin.qq.com/s/p4ORm0KnaPOwXSlTyLkH8Q) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Aciacell 电信数据库数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/3blY_KtlkO8-lNsZVZcPgQ](https://mp.weixin.qq.com/s/3blY_KtlkO8-lNsZVZcPgQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W06/2026-02-07/`
+文章已归档到: `doc/2026/2026-02/2026-W06/2026-02-08/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +149,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +159,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-07 16:30:41*
+*生成时间: 2026-02-08 02:35:18*
 *报告工具: 微信文章安全归档系统*
