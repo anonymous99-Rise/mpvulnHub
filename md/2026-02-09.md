@@ -2,23 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 21篇
-  - BruceFeIix: 2篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **威胁情报**: 3篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 5篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 4篇
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -68,32 +64,28 @@
 
 ### Doonsec
 
-- [DNN 最新漏洞挖掘与技术复盘：从 Unicode 转换到 SMB 凭证窃取](https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA) (发布日期: 2026-02-09)
-- [2025十大Web黑客技术榜单：侧信道攻击崛起，模板注入王者归来](https://mp.weixin.qq.com/s/FqTfqFXS03OUbOtkybTfeA) (发布日期: 2026-02-09)
-- [英国建筑公司遭隐藏在 Windows 服务器中的 Prometei 僵尸网络攻击](https://mp.weixin.qq.com/s/PEeGKUzqFf2ec9VIEIVQDg) (发布日期: 2026-02-09)
-- [PHP mail() 命令注入到远程代码执行（RCE）](https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ) (发布日期: 2026-02-09)
-- [【独家复现】用友BIP、NC Cloud、NC无条件任意文件上传漏洞](https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw) (发布日期: 2026-02-09)
-- [数据安全实践0-1第6讲：数据处理安全核心（上）：从标准到实践，筑牢五大环节技术防线](https://mp.weixin.qq.com/s/59MoPgMi0rolwQVrzLGjYw) (发布日期: 2026-02-09)
-- [两网安专家用勒索软件攻击企业](https://mp.weixin.qq.com/s/yQmk5OwZJAmOYVx4kscfqA) (发布日期: 2026-02-09)
-- [XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新）](https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q) (发布日期: 2026-02-09)
-- [一文秒懂 | 网络安全应急响应（内附应对网络危机的完整闭环）](https://mp.weixin.qq.com/s/KKJ7PcsAWgdq3L-eVoSGiQ) (发布日期: 2026-02-09)
-- [jeecg框架漏洞利用工具](https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw) (发布日期: 2026-02-09)
-- [OWASP 2025十大应用风险发布：访问控制问题依然高居榜首](https://mp.weixin.qq.com/s/iWp8YkZYW-T7DwnfzNc_dw) (发布日期: 2026-02-09)
-- [记一次在应急响应中捕获的流量检测绕过方法 - 天眼篇](https://mp.weixin.qq.com/s/UAWf7mSPVvo6xfWhdkaayQ) (发布日期: 2026-02-09)
-- [红队内部魔改版MDUT工具分享](https://mp.weixin.qq.com/s/oz_MleP9KsTAlVs-x3YW7g) (发布日期: 2026-02-09)
-- [威胁情报｜ClawHub 恶意 skills 投毒分析](https://mp.weixin.qq.com/s/mH2kApjTgBw6iskh-HBFNQ) (发布日期: 2026-02-09)
-- [大蚂蚁即时通讯系统任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g) (发布日期: 2026-02-09)
-- [[AI安全论文] (48)TIFS24 基于注意力的恶意软件API定位技术](https://mp.weixin.qq.com/s/SBB0Z2z-8P2dZkDPLqe8Nw) (发布日期: 2026-02-09)
-- [端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行](https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w) (发布日期: 2026-02-09)
-- [网安靶场实战指南（第12期）：Windows内网凭证窃取新手版！4个工具偷遍所有密码，零原理上手](https://mp.weixin.qq.com/s/tpek8K7Gpcb9CDGAYM1Hcw) (发布日期: 2026-02-09)
-- [大蚂蚁 (BigAnt) 即时通讯系统 loginByToken 权限绕过登陆后台](https://mp.weixin.qq.com/s/4Q7VEnBbgfEytWD2Zk7Dgw) (发布日期: 2026-02-09)
-- [漏洞复现 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞](https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA) (发布日期: 2026-02-09)
-- [中国信通院2026年安全运营中心与【首批】智能安全运营中心评估报名正式开始！](https://mp.weixin.qq.com/s/bSLNmaSVk8TGM9a2S0MX1A) (发布日期: 2026-02-09)
-
-### BruceFeIix
-
-- [ ] [ES端口暴露互联网导致数据泄露被罚十五万元](https://mp.weixin.qq.com/s/tHpzqo13XwZ12wYZgm9H2Q) (发布日期: 2026-02-09)
-- [ ] [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac) (发布日期: 2026-02-09)
+- [C2后门程序通信的 “低交互、弱心跳” 技术原理分析](https://mp.weixin.qq.com/s/K29dP1FcYRwkqmnzy96u4A) (发布日期: 2026-02-09)
+- [BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞](https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ) (发布日期: 2026-02-09)
+- [【AI高危漏洞预警】OpenClaw PATH命令注入漏洞CVE-2026-24763](https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ) (发布日期: 2026-02-09)
+- [【AI高危漏洞预警】OpenClaw路径遍历漏洞（CVE-2026-25253）](https://mp.weixin.qq.com/s/TnARzC04jqnY5oP-uszjoQ) (发布日期: 2026-02-09)
+- [文件被加密？中了勒索病毒怎么办？](https://mp.weixin.qq.com/s/5SZvSSME9XSr_cZWCF5d4g) (发布日期: 2026-02-09)
+- [微软共享BitLocker恢复密钥后，FBI轻松访问Windows系统加密盘](https://mp.weixin.qq.com/s/7-I2uBqfmG4zfG6XQRFmKw) (发布日期: 2026-02-09)
+- [libexif 漏洞复现以及eclipse-cdt调试](https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg) (发布日期: 2026-02-09)
+- [CVE-2025-30936 SQL注入](https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w) (发布日期: 2026-02-09)
+- [江苏两家农商行因“违反网络安全管理 数据安全管理”等被罚435万元！](https://mp.weixin.qq.com/s/HCtRNw3MQt_1u6H-ersASA) (发布日期: 2026-02-09)
+- [SOAR MCP Server v1.5.0 发布：让 AI 更安全地调度安全编排](https://mp.weixin.qq.com/s/Pha8pkbjpr6gXJRLiQTg9g) (发布日期: 2026-02-09)
+- [【公告】漏洞盒子服务器升级通知](https://mp.weixin.qq.com/s/q2F_027gqq5nNpbbEjUCsQ) (发布日期: 2026-02-09)
+- [喜报 |2025年12月CISP考试南京地区通过名单](https://mp.weixin.qq.com/s/DuIRqf1-fhOWlYvtvKAOPA) (发布日期: 2026-02-09)
+- [DudeSuite 漏洞播报 全网漏洞早知道【20260209】](https://mp.weixin.qq.com/s/EGs8IUac267ifzbS_sMstQ) (发布日期: 2026-02-09)
+- [新年福利 | GUI红队单兵渗透Tools无影v3.0（附激活Key）](https://mp.weixin.qq.com/s/zEopZS2klBxVIP1TdXsyPg) (发布日期: 2026-02-09)
+- [【渗透测试必备】网安人的漏洞知识库/漏洞检索神器](https://mp.weixin.qq.com/s/ywYVEGzNybL_80vJM2WRYg) (发布日期: 2026-02-09)
+- [【蓝队攻防对抗必备】从威胁狩猎到事件响应一站式资源汇总(蓝队清单，涵盖SIEM/EDR/蜜罐等20+领域)](https://mp.weixin.qq.com/s/jSmMMCfL6scm8VE94qfB1Q) (发布日期: 2026-02-09)
+- [44项AI赋能！山石网科入选信通院第四期《数字安全护航技术能力全景图》，引领智能安全新篇章](https://mp.weixin.qq.com/s/Mh0qccKJP-1lAV494vzf2A) (发布日期: 2026-02-09)
+- [TA584黑客团伙利用Tsundere Bot与XWorm实施勒索软件攻击](https://mp.weixin.qq.com/s/QDR7B89QSYcHknGILOVG9w) (发布日期: 2026-02-09)
+- [国家计算机病毒应急处理中心检测发现72款违法违规收集使用个人信息的移动应用](https://mp.weixin.qq.com/s/EOjUIDYjJ6oyHu1Q02SLZg) (发布日期: 2026-02-09)
+- [记docker复杂环境下的内网打点](https://mp.weixin.qq.com/s/1Iy_WmxExR89ZjgLMkYnsw) (发布日期: 2026-02-09)
+- [黑客正积极利用 SolarWinds Web Help Desk 的远程代码执行漏洞部署自定义工具](https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A) (发布日期: 2026-02-09)
+- [一款红队在信息收集时规避IP封禁的傻瓜式一键代理池，通过大量代理节点轮询的代理池工具](https://mp.weixin.qq.com/s/3XzQ4jmEtVF3sBDKcQkL1w) (发布日期: 2026-02-09)
 
 
 ## 🎯 威胁详情分析
@@ -102,41 +94,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | DNN 最新漏洞挖掘与技术复盘：从 Unicode 转换到 SMB 凭证窃取 | Doonsec | [https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA](https://mp.weixin.qq.com/s/yJf7G4OviVcLynHrGWnDhA) |
-| 2 | 【独家复现】用友BIP、NC Cloud、NC无条件任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw](https://mp.weixin.qq.com/s/GsuG9Z7omLh05POTMivkSw) |
-| 3 | XXE漏洞测试工具 -- go-fake-ftp-server（2月6日更新） | Doonsec | [https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q](https://mp.weixin.qq.com/s/5FesYDUZJZ6hNErDQ-KC4Q) |
-| 4 | jeecg框架漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw](https://mp.weixin.qq.com/s/aDanrPZ-pyk_gbFq2-erJw) |
-| 5 | 大蚂蚁即时通讯系统任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g](https://mp.weixin.qq.com/s/OIee-HjvdeKVIPpBYMp39g) |
-| 6 | 漏洞复现 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA](https://mp.weixin.qq.com/s/6gwvm9itLBtOpdFKu7iNNA) |
+| 1 | BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ](https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ) |
+| 2 | 【AI高危漏洞预警】OpenClaw PATH命令注入漏洞CVE-2026-24763 | Doonsec | [https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ](https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ) |
+| 3 | 【AI高危漏洞预警】OpenClaw路径遍历漏洞（CVE-2026-25253） | Doonsec | [https://mp.weixin.qq.com/s/TnARzC04jqnY5oP-uszjoQ](https://mp.weixin.qq.com/s/TnARzC04jqnY5oP-uszjoQ) |
+| 4 | libexif 漏洞复现以及eclipse-cdt调试 | Doonsec | [https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg](https://mp.weixin.qq.com/s/H6SKMby9oveZnEnUZuplFg) |
+| 5 | CVE-2025-30936 SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w](https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w) |
+| 6 | 【公告】漏洞盒子服务器升级通知 | Doonsec | [https://mp.weixin.qq.com/s/q2F_027gqq5nNpbbEjUCsQ](https://mp.weixin.qq.com/s/q2F_027gqq5nNpbbEjUCsQ) |
+| 7 | DudeSuite 漏洞播报 全网漏洞早知道【20260209】 | Doonsec | [https://mp.weixin.qq.com/s/EGs8IUac267ifzbS_sMstQ](https://mp.weixin.qq.com/s/EGs8IUac267ifzbS_sMstQ) |
+| 8 | 【渗透测试必备】网安人的漏洞知识库/漏洞检索神器 | Doonsec | [https://mp.weixin.qq.com/s/ywYVEGzNybL_80vJM2WRYg](https://mp.weixin.qq.com/s/ywYVEGzNybL_80vJM2WRYg) |
+| 9 | 黑客正积极利用 SolarWinds Web Help Desk 的远程代码执行漏洞部署自定义工具 | Doonsec | [https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A](https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2025十大Web黑客技术榜单：侧信道攻击崛起，模板注入王者归来 | Doonsec | [https://mp.weixin.qq.com/s/FqTfqFXS03OUbOtkybTfeA](https://mp.weixin.qq.com/s/FqTfqFXS03OUbOtkybTfeA) |
-| 2 | PHP mail() 命令注入到远程代码执行（RCE） | Doonsec | [https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ](https://mp.weixin.qq.com/s/14lnajOC5OzlQVfBTIt5TQ) |
-| 3 | 端点暴露：FortiClient EMS 存在严重缺陷（CVSS 9.1），允许未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w](https://mp.weixin.qq.com/s/WPBNVpgDv2NpZY_QjO2P_w) |
-| 4 | 网安靶场实战指南（第12期）：Windows内网凭证窃取新手版！4个工具偷遍所有密码，零原理上手 | Doonsec | [https://mp.weixin.qq.com/s/tpek8K7Gpcb9CDGAYM1Hcw](https://mp.weixin.qq.com/s/tpek8K7Gpcb9CDGAYM1Hcw) |
+| 1 | BeyondTrust 修复了远程支持和 PRA 中的关键身份验证前远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ](https://mp.weixin.qq.com/s/BWvSJ1cHRydaupUEXmZ9UQ) |
+| 2 | 【AI高危漏洞预警】OpenClaw PATH命令注入漏洞CVE-2026-24763 | Doonsec | [https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ](https://mp.weixin.qq.com/s/65q9acMEp1VZXvsR_k_fUQ) |
+| 3 | CVE-2025-30936 SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w](https://mp.weixin.qq.com/s/ZCIZk4N8pCtBOUVLkiwp3w) |
+| 4 | 记docker复杂环境下的内网打点 | Doonsec | [https://mp.weixin.qq.com/s/1Iy_WmxExR89ZjgLMkYnsw](https://mp.weixin.qq.com/s/1Iy_WmxExR89ZjgLMkYnsw) |
+| 5 | 黑客正积极利用 SolarWinds Web Help Desk 的远程代码执行漏洞部署自定义工具 | Doonsec | [https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A](https://mp.weixin.qq.com/s/q0nN2uhC8OfMdRC6kgLi6A) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一文秒懂 | 网络安全应急响应（内附应对网络危机的完整闭环） | Doonsec | [https://mp.weixin.qq.com/s/KKJ7PcsAWgdq3L-eVoSGiQ](https://mp.weixin.qq.com/s/KKJ7PcsAWgdq3L-eVoSGiQ) |
-| 2 | 记一次在应急响应中捕获的流量检测绕过方法 - 天眼篇 | Doonsec | [https://mp.weixin.qq.com/s/UAWf7mSPVvo6xfWhdkaayQ](https://mp.weixin.qq.com/s/UAWf7mSPVvo6xfWhdkaayQ) |
-| 3 | 威胁情报｜ClawHub 恶意 skills 投毒分析 | Doonsec | [https://mp.weixin.qq.com/s/mH2kApjTgBw6iskh-HBFNQ](https://mp.weixin.qq.com/s/mH2kApjTgBw6iskh-HBFNQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 中国信通院2026年安全运营中心与【首批】智能安全运营中心评估报名正式开始！ | Doonsec | [https://mp.weixin.qq.com/s/bSLNmaSVk8TGM9a2S0MX1A](https://mp.weixin.qq.com/s/bSLNmaSVk8TGM9a2S0MX1A) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [ES端口暴露互联网导致数据泄露被罚十五万元 | BruceFeIix | [https://mp.weixin.qq.com/s/tHpzqo13XwZ12wYZgm9H2Q](https://mp.weixin.qq.com/s/tHpzqo13XwZ12wYZgm9H2Q) |
+| 1 | 文件被加密？中了勒索病毒怎么办？ | Doonsec | [https://mp.weixin.qq.com/s/5SZvSSME9XSr_cZWCF5d4g](https://mp.weixin.qq.com/s/5SZvSSME9XSr_cZWCF5d4g) |
 
 
 ## 📁 归档路径
@@ -152,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -162,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-09 05:26:58*
+*生成时间: 2026-02-09 08:53:54*
 *报告工具: 微信文章安全归档系统*
