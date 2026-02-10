@@ -1,21 +1,21 @@
-# 2026-02-09 安全威胁态势报告
+# 2026-02-10 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 2篇
-- **供应链**: 1篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 4篇
+- **安全运营**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **Web安全**: 3篇
 
 ## 🔍 匹配规则
 
@@ -64,15 +64,26 @@
 
 ### Doonsec
 
-- [大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC](https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw) (发布日期: 2026-02-09)
-- [【吃瓜后续】挖洞天才少年假扮 AI 被骂破防，竟分不清 SQL 注入和信息泄露？](https://mp.weixin.qq.com/s/dnJH-zUfLM02e5ZtAiQZcQ) (发布日期: 2026-02-09)
-- [某天第一个RCE记录](https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA) (发布日期: 2026-02-09)
-- [hackerone之有意思的供应链攻击](https://mp.weixin.qq.com/s/j9Ty-byW6Ms4AnIMHKk8Ag) (发布日期: 2026-02-09)
-- [WordPress WC Designer Pro（CVE-2025-6440）分析](https://mp.weixin.qq.com/s/oP0VlggcnOJUMlojCV1Nyg) (发布日期: 2026-02-09)
-- [Administrator Protection 安全边界绕过漏洞分析](https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg) (发布日期: 2026-02-09)
-- [通过补丁对比分析 N-day 漏洞](https://mp.weixin.qq.com/s/-hXWVR1jqa4a022d20h-wA) (发布日期: 2026-02-09)
-- [爱丁堡大学 | 探索人工智能漏洞的赏金政策与披露实践](https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ) (发布日期: 2026-02-09)
-- [Windows内核溢出漏洞——栈溢出保护(上篇)](https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA) (发布日期: 2026-02-09)
+- [【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111)](https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA) (发布日期: 2026-02-10)
+- [TOPSRC 2026年春节放假通知](https://mp.weixin.qq.com/s/bdeKLfud4Ef6tlJziGnwLA) (发布日期: 2026-02-10)
+- [年前sql注入收尾](https://mp.weixin.qq.com/s/yVzTIoou3OYCWfjlrZzFyQ) (发布日期: 2026-02-10)
+- [天堂之门：发现谷歌云 Apigee 中的跨租户漏洞](https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A) (发布日期: 2026-02-10)
+- [电脑中了勒索病毒？试试这个方法。](https://mp.weixin.qq.com/s/eAkzgZONzibfTjJHFU5IYg) (发布日期: 2026-02-10)
+- [强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库](https://mp.weixin.qq.com/s/KB4t2bLpurTZq9_YiVaUOA) (发布日期: 2026-02-10)
+- [Everything - Post Exploitation](https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw) (发布日期: 2026-02-10)
+- [殡仪馆 AshesSearch.jsp 存在信息泄露漏洞](https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w) (发布日期: 2026-02-10)
+- [LLM 在恶意软件检测中的应用](https://mp.weixin.qq.com/s/4r7yC0GuRLc_bQk6g6bbWw) (发布日期: 2026-02-10)
+- [GOGS 严重缺陷（CVSS 9.3）允许远程代码执行和绕过双因素认证](https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw) (发布日期: 2026-02-10)
+- [蠕虫式云攻击：揭秘TeamPCP新兴云原生勒索组织](https://mp.weixin.qq.com/s/jxpmXT7JHvMTp0AFk63RUw) (发布日期: 2026-02-10)
+- [企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！](https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ) (发布日期: 2026-02-10)
+- [漏洞预警 | Google Chrome类型混淆漏洞](https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg) (发布日期: 2026-02-10)
+- [漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞](https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q) (发布日期: 2026-02-10)
+- [确认！欧盟委员会遭网络攻击：祸起Ivanti产品漏洞](https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA) (发布日期: 2026-02-10)
+- [当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建）](https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ) (发布日期: 2026-02-10)
+- [最新Nessus2026.1.8版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg) (发布日期: 2026-02-10)
+- [SRC挖洞的立体化作战：从“撒网捕鱼”到“精准狙击”的工业级漏洞狩猎体系](https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA) (发布日期: 2026-02-10)
+- [工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞](https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw) (发布日期: 2026-02-10)
+- [云原生安全：容器时代的“防护新范式”——技术原理与实战深度解析](https://mp.weixin.qq.com/s/R_UlRqfhdRRvROMWl_Bncg) (发布日期: 2026-02-10)
 
 
 ## 🎯 威胁详情分析
@@ -81,30 +92,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大蚂蚁BigAnt即时通讯系统DispersedAddin接口存在文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw](https://mp.weixin.qq.com/s/KJBGGaTwFjRvgAfGqqiLTw) |
-| 2 | WordPress WC Designer Pro（CVE-2025-6440）分析 | Doonsec | [https://mp.weixin.qq.com/s/oP0VlggcnOJUMlojCV1Nyg](https://mp.weixin.qq.com/s/oP0VlggcnOJUMlojCV1Nyg) |
-| 3 | Administrator Protection 安全边界绕过漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg](https://mp.weixin.qq.com/s/1QCTBTMXdtq9yplqmi1PMg) |
-| 4 | 通过补丁对比分析 N-day 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-hXWVR1jqa4a022d20h-wA](https://mp.weixin.qq.com/s/-hXWVR1jqa4a022d20h-wA) |
-| 5 | 爱丁堡大学 | 探索人工智能漏洞的赏金政策与披露实践 | Doonsec | [https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ](https://mp.weixin.qq.com/s/jVLdcQZ6fYHln2cTNC7MQQ) |
-| 6 | Windows内核溢出漏洞——栈溢出保护(上篇) | Doonsec | [https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA](https://mp.weixin.qq.com/s/TCCnpbT9Xxe9_78tuJTVHA) |
+| 1 | 【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111) | Doonsec | [https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA](https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA) |
+| 2 | 天堂之门：发现谷歌云 Apigee 中的跨租户漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A](https://mp.weixin.qq.com/s/eZPEdHhq7vw1akyvgW067A) |
+| 3 | Everything - Post Exploitation | Doonsec | [https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw](https://mp.weixin.qq.com/s/nKkUOcb-c_9wzogr8H50Tw) |
+| 4 | 殡仪馆 AshesSearch.jsp 存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w](https://mp.weixin.qq.com/s/IH7pkSLfX8-RWmIvuFfz1w) |
+| 5 | 企业安全神器：一键爆破子域名、秒扫全端口、0day 裸奔可视化——资产漏洞全景地图，十分钟让你“看见”整个互联网攻击面！ | Doonsec | [https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ](https://mp.weixin.qq.com/s/KjugfvkmbwFQWgKqu_BbaQ) |
+| 6 | 漏洞预警 | Google Chrome类型混淆漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg](https://mp.weixin.qq.com/s/pXsxOm3-AIUPJ45Y0Sgwdg) |
+| 7 | 漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q](https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q) |
+| 8 | 确认！欧盟委员会遭网络攻击：祸起Ivanti产品漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA](https://mp.weixin.qq.com/s/pu_vHhVPHjEeKqDaUr7pjA) |
+| 9 | 当我打完 sqli-labs 后，我决定进入文件上传漏洞（附靶场环境搭建） | Doonsec | [https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ](https://mp.weixin.qq.com/s/zkw0S7TRGvXZWwO1mJunCQ) |
+| 10 | 最新Nessus2026.1.8版本主机漏洞扫描/探测工具Windows/Linux下载 | Doonsec | [https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg](https://mp.weixin.qq.com/s/fmQ_G2eNynbSnUXyTNvwQg) |
+| 11 | SRC挖洞的立体化作战：从“撒网捕鱼”到“精准狙击”的工业级漏洞狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA](https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA) |
+| 12 | 工具推荐 | JeecgBoot 全场景漏洞检测工具，覆盖 20+ 高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw](https://mp.weixin.qq.com/s/SDiOpqKX5JESztfDhi2diw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【吃瓜后续】挖洞天才少年假扮 AI 被骂破防，竟分不清 SQL 注入和信息泄露？ | Doonsec | [https://mp.weixin.qq.com/s/dnJH-zUfLM02e5ZtAiQZcQ](https://mp.weixin.qq.com/s/dnJH-zUfLM02e5ZtAiQZcQ) |
-| 2 | 某天第一个RCE记录 | Doonsec | [https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA](https://mp.weixin.qq.com/s/AZdwpP5uqZ2q82KBCgZPyA) |
+| 1 | 【已复现】Gogs 远程命令执行漏洞(CVE-2025-64111) | Doonsec | [https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA](https://mp.weixin.qq.com/s/KEs8CmhejZ_OBwuD_6x7IA) |
+| 2 | 年前sql注入收尾 | Doonsec | [https://mp.weixin.qq.com/s/yVzTIoou3OYCWfjlrZzFyQ](https://mp.weixin.qq.com/s/yVzTIoou3OYCWfjlrZzFyQ) |
+| 3 | GOGS 严重缺陷（CVSS 9.3）允许远程代码执行和绕过双因素认证 | Doonsec | [https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw](https://mp.weixin.qq.com/s/veE6EDZOVw21whPq-ZzyLw) |
+| 4 | 漏洞预警 | 天地伟业Easy7综合管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q](https://mp.weixin.qq.com/s/DXAd1PP_YNz9atDVjbxL8Q) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | hackerone之有意思的供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/j9Ty-byW6Ms4AnIMHKk8Ag](https://mp.weixin.qq.com/s/j9Ty-byW6Ms4AnIMHKk8Ag) |
+| 1 | 电脑中了勒索病毒？试试这个方法。 | Doonsec | [https://mp.weixin.qq.com/s/eAkzgZONzibfTjJHFU5IYg](https://mp.weixin.qq.com/s/eAkzgZONzibfTjJHFU5IYg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | TOPSRC 2026年春节放假通知 | Doonsec | [https://mp.weixin.qq.com/s/bdeKLfud4Ef6tlJziGnwLA](https://mp.weixin.qq.com/s/bdeKLfud4Ef6tlJziGnwLA) |
+| 2 | 强烈推荐一个永久的SRC挖掘、渗透攻防内部知识库 | Doonsec | [https://mp.weixin.qq.com/s/KB4t2bLpurTZq9_YiVaUOA](https://mp.weixin.qq.com/s/KB4t2bLpurTZq9_YiVaUOA) |
+| 3 | SRC挖洞的立体化作战：从“撒网捕鱼”到“精准狙击”的工业级漏洞狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA](https://mp.weixin.qq.com/s/yBQD_hl0c0VuKU-Kh4lKtA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W07/2026-02-09/`
+文章已归档到: `doc/2026/2026-02/2026-W07/2026-02-10/`
 
 ## 🔗 数据源说明
 
@@ -115,8 +142,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +152,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-09 20:38:36*
+*生成时间: 2026-02-10 02:29:41*
 *报告工具: 微信文章安全归档系统*
