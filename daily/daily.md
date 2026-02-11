@@ -2,21 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 37
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 37篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 19篇
-- **攻击技术**: 11篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,43 +63,10 @@
 
 ### Doonsec
 
-- [2026汽车数据安全出境指引](https://mp.weixin.qq.com/s/Fhq31J-sgE1o7i3gukUOYw) (发布日期: 2026-02-11)
-- [【开源】XSAST-Python：AI代码审计工具](https://mp.weixin.qq.com/s/64fBgd6f6cF0W5ZMRIPgLw) (发布日期: 2026-02-11)
-- [【高危漏洞预警】WeChat/Linux版本命令执行漏洞](https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw) (发布日期: 2026-02-11)
-- [Claude 高级技巧与安全配置CLAUDE.md、MCP、命令、技能与钩子 (Skills &amp; Hooks)](https://mp.weixin.qq.com/s/8yq_Q8JbnDPRWsltVgc9lw) (发布日期: 2026-02-11)
-- [985证书漏洞越权成为教授 + EDU/RCE漏洞实战解析｜湘安内部平台月榜 TOP3 案例](https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w) (发布日期: 2026-02-11)
-- [关于RCtea僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s/VJET14YgfWuLxRrlnCRRkg) (发布日期: 2026-02-11)
-- [微信 Linux版本命令执行漏洞](https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q) (发布日期: 2026-02-11)
-- [Shannon——全自动 AI 渗透测试工具](https://mp.weixin.qq.com/s/6wmutbYVWobTC8wY-zyc4g) (发布日期: 2026-02-11)
-- [【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行](https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A) (发布日期: 2026-02-11)
-- [【安全圈】假 AI 助手暗藏木马：恶意“ClawdBot”插件潜伏 VS Code](https://mp.weixin.qq.com/s/pmhDywCsrmwiSnwWo4RU1g) (发布日期: 2026-02-11)
-- [【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告](https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w) (发布日期: 2026-02-11)
-- [开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击](https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw) (发布日期: 2026-02-11)
-- [微软2月补丁星期二值得关注的漏洞](https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA) (发布日期: 2026-02-11)
-- [已修复 | 微信Linux版本远程命令执行漏洞](https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw) (发布日期: 2026-02-11)
-- [沃尔沃发生数据泄露：因供应商被黑](https://mp.weixin.qq.com/s/xHkZ6wkS9u7rBUey0iH6UA) (发布日期: 2026-02-11)
-- [AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增](https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg) (发布日期: 2026-02-11)
-- [SandboxJS四大高危漏洞可完全突破沙箱控制宿主系统](https://mp.weixin.qq.com/s/JrKaokdFkQpffE0XVcT87Q) (发布日期: 2026-02-11)
-- [从勒索软件到持久驻留，数字寄生时代的悄然崛起](https://mp.weixin.qq.com/s/R98E1YvBQ5rlsaAXxKXecA) (发布日期: 2026-02-11)
-- [CISO面临的首要网络攻击目标与新兴风险载体](https://mp.weixin.qq.com/s/e8m6m6elWU8S8vcRtN3Teg) (发布日期: 2026-02-11)
-- [AutoSec 10周年大咖确认 | 大众酷翼VSOC平台负责人：面向智能网联汽车的先进安全运维中心架构构建](https://mp.weixin.qq.com/s/BGsLQbx8bgAawHxHTUv0mA) (发布日期: 2026-02-11)
-- [紧急修复！Windows 记事本漏洞可致远程代码执行](https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA) (发布日期: 2026-02-11)
-- [【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫](https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA) (发布日期: 2026-02-11)
-- [【成功复现】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)](https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg) (发布日期: 2026-02-11)
-- [某LLM问答系统安全测试报告：提示词注入与越狱攻击分析](https://mp.weixin.qq.com/s/g73d2pEGFP8x8554mniG8A) (发布日期: 2026-02-11)
-- [【免费领】大神12年经验成果：渗透红队实战技术教程](https://mp.weixin.qq.com/s/DC87ny2ZWr5F_Eo_-lipnA) (发布日期: 2026-02-11)
-- [【风险通告】微软2月安全更新补丁和多个高危漏洞风险提示](https://mp.weixin.qq.com/s/xhJRCZjGXCp8UshVudmfpA) (发布日期: 2026-02-11)
-- [CNNVD通报微软多个安全漏洞](https://mp.weixin.qq.com/s/MurzX4_cyzbOZjJmoJN9Yw) (发布日期: 2026-02-11)
-- [安星威胁检测智能体DeepHunting实战：威胁狩猎提效显著，30分钟全链溯源](https://mp.weixin.qq.com/s/IBLTlTVfWzg8jrOVYFp50A) (发布日期: 2026-02-11)
-- [安全意识 |xa0春运买个票为何能把银行卡里钱扣光](https://mp.weixin.qq.com/s/DmFuWQrpM0BooC9Khr2ZmQ) (发布日期: 2026-02-11)
-- [【网络安全】微信Linux版高危漏洞已修复 信创安全防护仍需重点强化](https://mp.weixin.qq.com/s/TPfP4TuP-X44VeyVyEjpGg) (发布日期: 2026-02-11)
-- [CNNVD关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw) (发布日期: 2026-02-11)
-- [微信Linux版高危漏洞已修复 信创安全防护仍需重点强化](https://mp.weixin.qq.com/s/OkpO1YkyUBg8xHIHY5oUmQ) (发布日期: 2026-02-11)
-- [优秀论文 | 复旦大学陈平：云边端内核竞态漏洞大模型分析方法研究](https://mp.weixin.qq.com/s/_LqIQRUivsTSaN8vNqAjpg) (发布日期: 2026-02-11)
-- [强推一个基于 Red-Teaming-Toolkit 的红队渗透工具库](https://mp.weixin.qq.com/s/4FzipKXHlQ2h6MC-96B1pQ) (发布日期: 2026-02-11)
-- [常见Web安全技术总结！474页Web安全从入门到精通（附PDF）](https://mp.weixin.qq.com/s/NQXfloqFIN7B-YdZELSbhQ) (发布日期: 2026-02-11)
-- [公告 | USRC元旦嘉年华奖励公告](https://mp.weixin.qq.com/s/VRo3eRgFUbBylX6TDwJwMg) (发布日期: 2026-02-11)
-- [GYscan——综合渗透测试工具](https://mp.weixin.qq.com/s/B-Rg6ksPwjU0GGWZdh7mcQ) (发布日期: 2026-02-11)
+- [从 SQL 注入到文件上传：Upload-Labs 前必须掌握的核心理论基础](https://mp.weixin.qq.com/s/kZp_S235993-wZ6g3kifyg) (发布日期: 2026-02-11)
+- [Frida 恶意软件分析实战教程](https://mp.weixin.qq.com/s/ZriA9hCWHtsFx9Uw-imm3g) (发布日期: 2026-02-11)
+- [【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat](https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ) (发布日期: 2026-02-11)
+- [美国西北大学 | PentestAgent：将LLM代理融入自动化渗透测试](https://mp.weixin.qq.com/s/3oqdxLDpAQrDfUbJSbPfTg) (发布日期: 2026-02-11)
 
 
 ## 🎯 威胁详情分析
@@ -110,53 +75,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】WeChat/Linux版本命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw](https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw) |
-| 2 | 985证书漏洞越权成为教授 + EDU/RCE漏洞实战解析｜湘安内部平台月榜 TOP3 案例 | Doonsec | [https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w](https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w) |
-| 3 | 微信 Linux版本命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q](https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q) |
-| 4 | 【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A](https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A) |
-| 5 | 【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w](https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w) |
-| 6 | 开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw](https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw) |
-| 7 | 微软2月补丁星期二值得关注的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA](https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA) |
-| 8 | 已修复 | 微信Linux版本远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw](https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw) |
-| 9 | AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增 | Doonsec | [https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg](https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg) |
-| 10 | SandboxJS四大高危漏洞可完全突破沙箱控制宿主系统 | Doonsec | [https://mp.weixin.qq.com/s/JrKaokdFkQpffE0XVcT87Q](https://mp.weixin.qq.com/s/JrKaokdFkQpffE0XVcT87Q) |
-| 11 | 紧急修复！Windows 记事本漏洞可致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA](https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA) |
-| 12 | 【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫 | Doonsec | [https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA](https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA) |
-| 13 | 【成功复现】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844) | Doonsec | [https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg](https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg) |
-| 14 | 【风险通告】微软2月安全更新补丁和多个高危漏洞风险提示 | Doonsec | [https://mp.weixin.qq.com/s/xhJRCZjGXCp8UshVudmfpA](https://mp.weixin.qq.com/s/xhJRCZjGXCp8UshVudmfpA) |
-| 15 | CNNVD通报微软多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/MurzX4_cyzbOZjJmoJN9Yw](https://mp.weixin.qq.com/s/MurzX4_cyzbOZjJmoJN9Yw) |
-| 16 | 【网络安全】微信Linux版高危漏洞已修复 信创安全防护仍需重点强化 | Doonsec | [https://mp.weixin.qq.com/s/TPfP4TuP-X44VeyVyEjpGg](https://mp.weixin.qq.com/s/TPfP4TuP-X44VeyVyEjpGg) |
-| 17 | CNNVD关于微软多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw](https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw) |
-| 18 | 微信Linux版高危漏洞已修复 信创安全防护仍需重点强化 | Doonsec | [https://mp.weixin.qq.com/s/OkpO1YkyUBg8xHIHY5oUmQ](https://mp.weixin.qq.com/s/OkpO1YkyUBg8xHIHY5oUmQ) |
-| 19 | 优秀论文 | 复旦大学陈平：云边端内核竞态漏洞大模型分析方法研究 | Doonsec | [https://mp.weixin.qq.com/s/_LqIQRUivsTSaN8vNqAjpg](https://mp.weixin.qq.com/s/_LqIQRUivsTSaN8vNqAjpg) |
+| 1 | 【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat | Doonsec | [https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ](https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】WeChat/Linux版本命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw](https://mp.weixin.qq.com/s/E0RN27Yr_qDXgh0IZMN_Bw) |
-| 2 | 985证书漏洞越权成为教授 + EDU/RCE漏洞实战解析｜湘安内部平台月榜 TOP3 案例 | Doonsec | [https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w](https://mp.weixin.qq.com/s/9AAoIbOoMxVTjx9Vvu760w) |
-| 3 | 微信 Linux版本命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q](https://mp.weixin.qq.com/s/90kehAH0b7H1if9CHTVQ9Q) |
-| 4 | 【安全圈】CVE-2026-1868：GitLab AI Gateway 严重漏洞（CVSS 9.9），可致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A](https://mp.weixin.qq.com/s/kYauQVEyBpe0Stq4u33w9A) |
-| 5 | 【已复现】微信 Linux版本命令执行漏洞(QVD-2026-7687)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w](https://mp.weixin.qq.com/s/Jopoi2JGbbJYhmcRqa6-0w) |
-| 6 | 开源库 Libpng 漏洞已存在30年，可导致数百万系统遭代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw](https://mp.weixin.qq.com/s/uyH8XoiOHygvgC_mH4vESw) |
-| 7 | 已修复 | 微信Linux版本远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw](https://mp.weixin.qq.com/s/mgdatlRj_WUUKCW8I0VCzw) |
-| 8 | 紧急修复！Windows 记事本漏洞可致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA](https://mp.weixin.qq.com/s/n1zUYXO1m0d2pb6F8n8WjA) |
-| 9 | 【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫 | Doonsec | [https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA](https://mp.weixin.qq.com/s/wgZX8drvbwWmepkK1npicA) |
-| 10 | 【成功复现】Redis Lua脚本远程代码执行漏洞(CVE-2025-49844) | Doonsec | [https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg](https://mp.weixin.qq.com/s/UnCvWFJa4Vt3uwP6m0E4yg) |
-| 11 | 某LLM问答系统安全测试报告：提示词注入与越狱攻击分析 | Doonsec | [https://mp.weixin.qq.com/s/g73d2pEGFP8x8554mniG8A](https://mp.weixin.qq.com/s/g73d2pEGFP8x8554mniG8A) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 公告 | USRC元旦嘉年华奖励公告 | Doonsec | [https://mp.weixin.qq.com/s/VRo3eRgFUbBylX6TDwJwMg](https://mp.weixin.qq.com/s/VRo3eRgFUbBylX6TDwJwMg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 沃尔沃发生数据泄露：因供应商被黑 | Doonsec | [https://mp.weixin.qq.com/s/xHkZ6wkS9u7rBUey0iH6UA](https://mp.weixin.qq.com/s/xHkZ6wkS9u7rBUey0iH6UA) |
+| 1 | 从 SQL 注入到文件上传：Upload-Labs 前必须掌握的核心理论基础 | Doonsec | [https://mp.weixin.qq.com/s/kZp_S235993-wZ6g3kifyg](https://mp.weixin.qq.com/s/kZp_S235993-wZ6g3kifyg) |
+| 2 | 【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat | Doonsec | [https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ](https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ) |
 
 
 ## 📁 归档路径
@@ -172,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 19 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -182,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-11 13:11:38*
+*生成时间: 2026-02-11 20:39:03*
 *报告工具: 微信文章安全归档系统*
