@@ -2,17 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,20 +61,9 @@
 
 ### Doonsec
 
-- [第30天-Web开发安全深度剖析：从模板引擎到代码审计的攻防实战](https://mp.weixin.qq.com/s/yMdomnWCjJFEnIndapD6Bg) (发布日期: 2026-02-14)
-- [汽车网络安全风险评估方法](https://mp.weixin.qq.com/s/SXvuwqwhwsHBGx89G0aOfA) (发布日期: 2026-02-14)
-- [攻击者火速利用BeyondTrust高危漏洞发起攻击，数千系统面临沦陷风险](https://mp.weixin.qq.com/s/GqQco2Ku7kBKFvXmUvsInA) (发布日期: 2026-02-14)
-- [漏洞挖掘之利用js挖掘漏洞](https://mp.weixin.qq.com/s/Tqc7yQno7_CDD8pIwLwDGw) (发布日期: 2026-02-14)
-- [春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航](https://mp.weixin.qq.com/s/wiGmYGX3tYXbbJFQveSAhQ) (发布日期: 2026-02-14)
-- [流氓软件卷土重来？恶意驱动作祟下发DDoS工具包](https://mp.weixin.qq.com/s/fa3T9jpeXE_kzeGx6QkdqA) (发布日期: 2026-02-14)
-- [红队干货 | 外网快速打点方法技巧总结](https://mp.weixin.qq.com/s/l5KO-_IS0fG7tj3g0TTx_g) (发布日期: 2026-02-14)
-- [中科院信工所数据安全研究室古晓艳课题组科研成果被USENIX Security 2026录用](https://mp.weixin.qq.com/s/KGTrpmi7EQvzgJl5yFbAjA) (发布日期: 2026-02-14)
-- [代码审计 | 朗速ERP漏洞分析](https://mp.weixin.qq.com/s/ucU66FGMsAEScEdl5kbU-A) (发布日期: 2026-02-14)
-- [TryHackMe第275天：提示词注入攻击](https://mp.weixin.qq.com/s/EDb0v2cVEOO8Jr73u-Zo_g) (发布日期: 2026-02-14)
-- [【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393）](https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ) (发布日期: 2026-02-14)
-- [多数据库后渗透神器！支持MySQL/Redis/MSSQL/PostgreSQL命令执行与文件读取](https://mp.weixin.qq.com/s/m5Y5V43qQquLCujz_k0fWA) (发布日期: 2026-02-14)
-- [【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393）](https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw) (发布日期: 2026-02-14)
-- [【已复现】谷歌紧急修复！已发现在野利用：Chrome 浏览器 CSS 渲染组件高危 UAF 漏洞](https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q) (发布日期: 2026-02-14)
+- [荷兰运营商Odido数据泄露涉及600万用户](https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA) (发布日期: 2026-02-14)
+- [【工具】一款图形化Jenkins综合漏洞利用工具](https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA) (发布日期: 2026-02-14)
+- [MPET——多协议安全测试与漏洞利用工具](https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A) (发布日期: 2026-02-14)
 
 
 ## 🎯 威胁详情分析
@@ -85,33 +72,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 攻击者火速利用BeyondTrust高危漏洞发起攻击，数千系统面临沦陷风险 | Doonsec | [https://mp.weixin.qq.com/s/GqQco2Ku7kBKFvXmUvsInA](https://mp.weixin.qq.com/s/GqQco2Ku7kBKFvXmUvsInA) |
-| 2 | 漏洞挖掘之利用js挖掘漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Tqc7yQno7_CDD8pIwLwDGw](https://mp.weixin.qq.com/s/Tqc7yQno7_CDD8pIwLwDGw) |
-| 3 | 代码审计 | 朗速ERP漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/ucU66FGMsAEScEdl5kbU-A](https://mp.weixin.qq.com/s/ucU66FGMsAEScEdl5kbU-A) |
-| 4 | 【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393） | Doonsec | [https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ](https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ) |
-| 5 | 【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393） | Doonsec | [https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw](https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw) |
-| 6 | 【已复现】谷歌紧急修复！已发现在野利用：Chrome 浏览器 CSS 渲染组件高危 UAF 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q](https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q) |
+| 1 | 【工具】一款图形化Jenkins综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA](https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA) |
+| 2 | MPET——多协议安全测试与漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A](https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A) |
 
-### 攻击技术
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | TryHackMe第275天：提示词注入攻击 | Doonsec | [https://mp.weixin.qq.com/s/EDb0v2cVEOO8Jr73u-Zo_g](https://mp.weixin.qq.com/s/EDb0v2cVEOO8Jr73u-Zo_g) |
-| 2 | 【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393） | Doonsec | [https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ](https://mp.weixin.qq.com/s/UJvzdwuYkbPpBlBvVsslEQ) |
-| 3 | 多数据库后渗透神器！支持MySQL/Redis/MSSQL/PostgreSQL命令执行与文件读取 | Doonsec | [https://mp.weixin.qq.com/s/m5Y5V43qQquLCujz_k0fWA](https://mp.weixin.qq.com/s/m5Y5V43qQquLCujz_k0fWA) |
-| 4 | 【在野利用】CVSS 满分，Cisco邮件网关未授权远程命令执行漏洞（CVE-2025-20393） | Doonsec | [https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw](https://mp.weixin.qq.com/s/N8yy4ZhMRrJQBueCRyRvfw) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航 | Doonsec | [https://mp.weixin.qq.com/s/wiGmYGX3tYXbbJFQveSAhQ](https://mp.weixin.qq.com/s/wiGmYGX3tYXbbJFQveSAhQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【已复现】谷歌紧急修复！已发现在野利用：Chrome 浏览器 CSS 渲染组件高危 UAF 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q](https://mp.weixin.qq.com/s/5IdXMdgtz98_PZTspdkq_Q) |
+| 1 | 荷兰运营商Odido数据泄露涉及600万用户 | Doonsec | [https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA](https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA) |
 
 
 ## 📁 归档路径
@@ -127,7 +95,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -137,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-14 12:50:26*
+*生成时间: 2026-02-14 16:30:51*
 *报告工具: 微信文章安全归档系统*
