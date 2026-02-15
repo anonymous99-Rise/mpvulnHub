@@ -1,15 +1,16 @@
-# 2026-02-14 安全威胁态势报告
+# 2026-02-15 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
+- **安全运营**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
@@ -61,9 +62,10 @@
 
 ### Doonsec
 
-- [荷兰运营商Odido数据泄露涉及600万用户](https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA) (发布日期: 2026-02-14)
-- [【工具】一款图形化Jenkins综合漏洞利用工具](https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA) (发布日期: 2026-02-14)
-- [MPET——多协议安全测试与漏洞利用工具](https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A) (发布日期: 2026-02-14)
+- [SRC必备的SSRF插件](https://mp.weixin.qq.com/s/JZzv77HYco8NXfRheGfE5A) (发布日期: 2026-02-15)
+- [荷兰电信运营商Odido遭网络攻击 620万用户信息泄露](https://mp.weixin.qq.com/s/YlSrtXLFoPDd0BWEy-zW5Q) (发布日期: 2026-02-15)
+- [巴西中央银行BC称 Agibank的PIX系统注册数据泄露](https://mp.weixin.qq.com/s/RAXxCQi_eVLgAYIaVFlIyA) (发布日期: 2026-02-15)
+- [那个被标记为‘中危’的漏洞，让我拿了18000元奖金](https://mp.weixin.qq.com/s/bn7SV9o4-vxYzEj9_kW7oQ) (发布日期: 2026-02-15)
 
 
 ## 🎯 威胁详情分析
@@ -72,19 +74,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【工具】一款图形化Jenkins综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA](https://mp.weixin.qq.com/s/BQw7wUrAVuW1Y6P0wVEGYA) |
-| 2 | MPET——多协议安全测试与漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A](https://mp.weixin.qq.com/s/9_Md2pl0FRemhx3LggWY0A) |
+| 1 | 那个被标记为‘中危’的漏洞，让我拿了18000元奖金 | Doonsec | [https://mp.weixin.qq.com/s/bn7SV9o4-vxYzEj9_kW7oQ](https://mp.weixin.qq.com/s/bn7SV9o4-vxYzEj9_kW7oQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC必备的SSRF插件 | Doonsec | [https://mp.weixin.qq.com/s/JZzv77HYco8NXfRheGfE5A](https://mp.weixin.qq.com/s/JZzv77HYco8NXfRheGfE5A) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 荷兰运营商Odido数据泄露涉及600万用户 | Doonsec | [https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA](https://mp.weixin.qq.com/s/KOMcRxM0BBsdTASmyHwrZA) |
+| 1 | 巴西中央银行BC称 Agibank的PIX系统注册数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/RAXxCQi_eVLgAYIaVFlIyA](https://mp.weixin.qq.com/s/RAXxCQi_eVLgAYIaVFlIyA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W07/2026-02-14/`
+文章已归档到: `doc/2026/2026-02/2026-W07/2026-02-15/`
 
 ## 🔗 数据源说明
 
@@ -95,7 +102,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -105,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-14 16:30:51*
+*生成时间: 2026-02-15 02:22:28*
 *报告工具: 微信文章安全归档系统*
