@@ -2,24 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 15篇
-  - BruceFeIix: 6篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 6篇
-- **漏洞利用**: 4篇
-- **安全运营**: 3篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,30 +60,9 @@
 
 ### Doonsec
 
-- [内网渗透工具--GhostKatz](https://mp.weixin.qq.com/s/C5De4eyL0xje0w1TGG_BAQ) (发布日期: 2026-02-16)
-- [警惕！俄相关的全新APT组织使用AI加持的新型恶意软件CANFAIL，乌克兰成主要攻击目标](https://mp.weixin.qq.com/s/2i-5Ic1yjuz07L7m_YJ9qA) (发布日期: 2026-02-16)
-- [EDU某证书站从信息收集到大量信息泄露](https://mp.weixin.qq.com/s/G5BnSXSa-UTdSiMY_m9cFA) (发布日期: 2026-02-16)
-- [山海关安全团队2025年终总结](https://mp.weixin.qq.com/s/zdl6-gylez-w9Dp2DI527Q) (发布日期: 2026-02-16)
-- [2026马年新春，船山安全团队有哪些新征程？](https://mp.weixin.qq.com/s/9JjliDkYWfmm_gjJB6AuIA) (发布日期: 2026-02-16)
-- [越权所导致的信息泄露](https://mp.weixin.qq.com/s/Jo4b858lgaCYqp2nlJkDtQ) (发布日期: 2026-02-16)
-- [骁马迎春，鹏程万里：XPSRC 祝各位“鹏友”除夕快乐，平安顺遂！](https://mp.weixin.qq.com/s/rfsj7oiYyUPXoLf1lryDSQ) (发布日期: 2026-02-16)
-- [2025年人工智能安全指数报告](https://mp.weixin.qq.com/s/mzkPPuvQn-ALqvN7e6TajQ) (发布日期: 2026-02-16)
-- [【林晓月的段子】小品004-信息安全工程师曾经的烦恼](https://mp.weixin.qq.com/s/w6LCfk5Tl_W9r33Kk5L60g) (发布日期: 2026-02-16)
-- [USRC祝大家新春快乐！](https://mp.weixin.qq.com/s/YUIO5sGDmYSw8tkWxNCbnQ) (发布日期: 2026-02-16)
-- [代码注入到杀毒软件的进程](https://mp.weixin.qq.com/s/PpQk7G0ed-GDnoFcTcF6fg) (发布日期: 2026-02-16)
-- [360SRC祝大家马年快乐丨限定红包封面放送](https://mp.weixin.qq.com/s/ZkoR4R5p9Y-tyCX2Wj1Ldg) (发布日期: 2026-02-16)
-- [北大医疗信息技术有限公司运营管理与决策支持系统存在弱口令漏洞](https://mp.weixin.qq.com/s/Sr7m00Yu6aYC-qdDNTClVw) (发布日期: 2026-02-16)
-- [Windows Server 2019创建并配置AD域控制器](https://mp.weixin.qq.com/s/2a-nfmX-P8B93I1h99JnxQ) (发布日期: 2026-02-16)
-- [你的漏洞，都藏在那些异步加载的JS里。](https://mp.weixin.qq.com/s/oB0ZN7rmf9zrwg-eGvC7oA) (发布日期: 2026-02-16)
-
-### BruceFeIix
-
-- [ ] [Android和iOS安全技能树(2026版)](https://mp.weixin.qq.com/s/Z75clH5sLTLuq5bgtvDj5Q) (发布日期: 2026-02-16)
-- [ ] [EDU某证书站从信息收集到大量信息泄露](https://mp.weixin.qq.com/s/XoH9xhZH3uCTlPEGHE0JRA) (发布日期: 2026-02-16)
-- [ ] [实战SQL注入之绕过代码拦截+软waf](https://mp.weixin.qq.com/s/Nm9ZikqVEZ-_S9cv9_tvRQ) (发布日期: 2026-02-16)
-- [ ] [CVE-2026-20841（Win11-记事本RCE）复现学习(未果)](https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ) (发布日期: 2026-02-16)
-- [ ] [漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞](https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg) (发布日期: 2026-02-16)
-- [ ] [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6) (发布日期: 2026-02-16)
+- [安全团队年终总结](https://mp.weixin.qq.com/s/JFUyaUmCUF6tM_tsXdyiHQ) (发布日期: 2026-02-16)
+- [伪装成奇安信专杀工具CS木马样本分析](https://mp.weixin.qq.com/s/qeR4R-L2d8FQCinLz9KvkA) (发布日期: 2026-02-16)
+- [Chroma DB存在swagger敏感信息泄露漏洞 附POC](https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ) (发布日期: 2026-02-16)
 
 
 ## 🎯 威胁详情分析
@@ -100,35 +71,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 北大医疗信息技术有限公司运营管理与决策支持系统存在弱口令漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Sr7m00Yu6aYC-qdDNTClVw](https://mp.weixin.qq.com/s/Sr7m00Yu6aYC-qdDNTClVw) |
-| 2 | 你的漏洞，都藏在那些异步加载的JS里。 | Doonsec | [https://mp.weixin.qq.com/s/oB0ZN7rmf9zrwg-eGvC7oA](https://mp.weixin.qq.com/s/oB0ZN7rmf9zrwg-eGvC7oA) |
-| 3 |  ] [CVE-2026-20841（Win11-记事本RCE）复现学习(未果) | BruceFeIix | [https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ](https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ) |
-| 4 |  ] [漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg](https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 内网渗透工具--GhostKatz | Doonsec | [https://mp.weixin.qq.com/s/C5De4eyL0xje0w1TGG_BAQ](https://mp.weixin.qq.com/s/C5De4eyL0xje0w1TGG_BAQ) |
-| 2 | 代码注入到杀毒软件的进程 | Doonsec | [https://mp.weixin.qq.com/s/PpQk7G0ed-GDnoFcTcF6fg](https://mp.weixin.qq.com/s/PpQk7G0ed-GDnoFcTcF6fg) |
-| 3 | Windows Server 2019创建并配置AD域控制器 | Doonsec | [https://mp.weixin.qq.com/s/2a-nfmX-P8B93I1h99JnxQ](https://mp.weixin.qq.com/s/2a-nfmX-P8B93I1h99JnxQ) |
-| 4 |  ] [实战SQL注入之绕过代码拦截+软waf | BruceFeIix | [https://mp.weixin.qq.com/s/Nm9ZikqVEZ-_S9cv9_tvRQ](https://mp.weixin.qq.com/s/Nm9ZikqVEZ-_S9cv9_tvRQ) |
-| 5 |  ] [CVE-2026-20841（Win11-记事本RCE）复现学习(未果) | BruceFeIix | [https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ](https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ) |
-| 6 |  ] [漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg](https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 警惕！俄相关的全新APT组织使用AI加持的新型恶意软件CANFAIL，乌克兰成主要攻击目标 | Doonsec | [https://mp.weixin.qq.com/s/2i-5Ic1yjuz07L7m_YJ9qA](https://mp.weixin.qq.com/s/2i-5Ic1yjuz07L7m_YJ9qA) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 骁马迎春，鹏程万里：XPSRC 祝各位“鹏友”除夕快乐，平安顺遂！ | Doonsec | [https://mp.weixin.qq.com/s/rfsj7oiYyUPXoLf1lryDSQ](https://mp.weixin.qq.com/s/rfsj7oiYyUPXoLf1lryDSQ) |
-| 2 | USRC祝大家新春快乐！ | Doonsec | [https://mp.weixin.qq.com/s/YUIO5sGDmYSw8tkWxNCbnQ](https://mp.weixin.qq.com/s/YUIO5sGDmYSw8tkWxNCbnQ) |
-| 3 | 360SRC祝大家马年快乐丨限定红包封面放送 | Doonsec | [https://mp.weixin.qq.com/s/ZkoR4R5p9Y-tyCX2Wj1Ldg](https://mp.weixin.qq.com/s/ZkoR4R5p9Y-tyCX2Wj1Ldg) |
+| 1 | Chroma DB存在swagger敏感信息泄露漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ](https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ) |
 
 
 ## 📁 归档路径
@@ -144,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -154,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-16 05:26:26*
+*生成时间: 2026-02-16 16:43:57*
 *报告工具: 微信文章安全归档系统*
