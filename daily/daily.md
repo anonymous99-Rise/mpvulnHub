@@ -1,16 +1,16 @@
-# 2026-02-15 安全威胁态势报告
+# 2026-02-16 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 4
 - **数据源分布**:
-  - BruceFeIix: 7篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
-- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -59,15 +59,12 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [使用EtherHiding技术隐藏C2通信流量窃密木马样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495677&idx=1&sn=3fd559041790e1955335108ac9acac99) (发布日期: 2026-02-15)
-- [ ] [流氓软件卷土重来？恶意驱动作祟下发DDoS工具包](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530713&idx=1&sn=07ef414cafff1d7e02ed23a8b6aeca50) (发布日期: 2026-02-15)
-- [ ] [新型Linux僵尸网络SSHStalker利用传统IRC协议实现命令与控制（C2）通信](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586795&idx=2&sn=17e0a533aaa6f8917d06bcb109196dda) (发布日期: 2026-02-15)
-- [ ] [OpenClaw爆火：CISO 必须了解这些关键风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=1&sn=d907d29ac1baa86b2682f31cb6578344) (发布日期: 2026-02-15)
-- [ ] [漏洞扫描不是“点一下”：揭秘安服巡检背后的“硬功夫”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=2&sn=e1576b69d1de35ee786bdca2de933727) (发布日期: 2026-02-15)
-- [ ] [春节假期|安全服务保障通知](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584999&idx=1&sn=5ba07ee510ffa8d0c690966ed2914267) (发布日期: 2026-02-15)
-- [ ] [春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=2&sn=2ff74fb9bef3d4e31a6e4f2b468d01bc) (发布日期: 2026-02-15)
+- [沃尔沃发生数据泄露：因供应商被黑](https://mp.weixin.qq.com/s/VrYGPnp3oC3Zv8caO_zbKA) (发布日期: 2026-02-16)
+- [Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail](https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg) (发布日期: 2026-02-16)
+- [基于腾讯云函数 (SCF) 的分布式 IP 代理池；用于绕过 WAF IP限制，支持安全扫描工具调用](https://mp.weixin.qq.com/s/7QXKTlxRW18zgKi8B39tXA) (发布日期: 2026-02-16)
+- [除夕丨福气加密，除夕团圆](https://mp.weixin.qq.com/s/RhmifAY4iNpvzRbDYpqcqQ) (发布日期: 2026-02-16)
 
 
 ## 🎯 威胁详情分析
@@ -76,18 +73,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [漏洞扫描不是“点一下”：揭秘安服巡检背后的“硬功夫” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=2&sn=e1576b69d1de35ee786bdca2de933727](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=2&sn=e1576b69d1de35ee786bdca2de933727) |
+| 1 | Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail | Doonsec | [https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg](https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg) |
 
-### 威胁情报
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=2&sn=2ff74fb9bef3d4e31a6e4f2b468d01bc](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=2&sn=2ff74fb9bef3d4e31a6e4f2b468d01bc) |
+| 1 | 沃尔沃发生数据泄露：因供应商被黑 | Doonsec | [https://mp.weixin.qq.com/s/VrYGPnp3oC3Zv8caO_zbKA](https://mp.weixin.qq.com/s/VrYGPnp3oC3Zv8caO_zbKA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W07/2026-02-15/`
+文章已归档到: `doc/2026/2026-02/2026-W08/2026-02-16/`
 
 ## 🔗 数据源说明
 
@@ -108,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-15 05:18:57*
+*生成时间: 2026-02-16 02:11:10*
 *报告工具: 微信文章安全归档系统*
