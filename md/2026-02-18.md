@@ -2,15 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 16
 - **数据源分布**:
-  - BruceFeIix: 3篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 6篇
+- **攻击技术**: 4篇
+- **安全运营**: 3篇
+- **威胁情报**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -57,14 +66,69 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [新型Keenadu安卓固件级后门揭开跨僵尸网络协同攻击链条](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185321&idx=1&sn=6cc091bbf4b0e2e24f59d38ee3c9f257) (发布日期: 2026-02-18)
-- [ ] [如何每天将开源情报纳入情报收集计划](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566773&idx=1&sn=05d01a10a30aabf0cd370ef97f418cc8) (发布日期: 2026-02-18)
-- [ ] [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247497826&idx=1&sn=88abb72a17195a537f2473dfcba5017a) (发布日期: 2026-02-18)
+- [我下载了整个公司”：一个备份文件如何让我在SRC赚到18.7万](https://mp.weixin.qq.com/s/rNcv2r4lharFrbpkCSSZUQ) (发布日期: 2026-02-18)
+- [upload_forge：CTF利器-文件上传漏洞扫描工具](https://mp.weixin.qq.com/s/wGYkJawYCfh1JKsKxNL8Cg) (发布日期: 2026-02-18)
+- [金融机构数据安全合规“大考”来临，应该如何破题](https://mp.weixin.qq.com/s/BFLF6Gc_3ckiMWSePqxeOg) (发布日期: 2026-02-18)
+- [技贯山河·荣耀加冕｜北山学院2025年度SRC&amp;安全众测战绩全榜](https://mp.weixin.qq.com/s/_Za1P7rFSx-IglMlXdY1mQ) (发布日期: 2026-02-18)
+- [在 Firefox 中，将“|”误写为“&amp;”会导致零日远程代码执行漏洞](https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w) (发布日期: 2026-02-18)
+- [CVE-2025-40536&amp;CVE-2025-40551｜SolarWinds Web Help Desk未授权远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA) (发布日期: 2026-02-18)
+- [CVE-2026-24061｜Telnetd存在远程认证绕过漏洞（POC）](https://mp.weixin.qq.com/s/6NqQQ-LzrLYSfAWkwq_t2g) (发布日期: 2026-02-18)
+- [大模型侧信道攻击简述](https://mp.weixin.qq.com/s/zPEDg7aZYOIVfUmKpvIgYg) (发布日期: 2026-02-18)
+- [TrueSightKiller：超过2500种可绕过微软防御的武器化安全工具变种](https://mp.weixin.qq.com/s/APX18AbVDAW5SnhN7O8WLg) (发布日期: 2026-02-18)
+- [第三方集成崩盘：Salesforce 可预测 ID 枚举 + Zendesk 前端 admin token 泄露 265 万记录](https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg) (发布日期: 2026-02-18)
+- [某系统存在Beetl反序列化模板注入RCE漏洞](https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA) (发布日期: 2026-02-18)
+- [0APT勒索软件组织声称已造成200组织被攻击但未能交付任何真实数据](https://mp.weixin.qq.com/s/wwELvC4pTx3ZmmuJ95HjlA) (发布日期: 2026-02-18)
+- [【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享](https://mp.weixin.qq.com/s/Ut6lqW47yevQiQ5zqqXqFw) (发布日期: 2026-02-18)
+- [AI助手沦为“帮凶”——Copilot和Grok被滥用作恶意软件C2代理](https://mp.weixin.qq.com/s/sM1xqq290P2rkUGfTOlE-w) (发布日期: 2026-02-18)
+- [一款超级无敌的跨平台应急响应自动化分析工具](https://mp.weixin.qq.com/s/rgrPapBdp6li7d1ATjzNqw) (发布日期: 2026-02-18)
+- [泉州银行因“第三方合作数据安全风险管控”等被罚625万 一人禁业终身](https://mp.weixin.qq.com/s/k2JGmsKMj_FM90HmMP84cg) (发布日期: 2026-02-18)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | upload_forge：CTF利器-文件上传漏洞扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/wGYkJawYCfh1JKsKxNL8Cg](https://mp.weixin.qq.com/s/wGYkJawYCfh1JKsKxNL8Cg) |
+| 2 | 在 Firefox 中，将“|”误写为“&amp;”会导致零日远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w](https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w) |
+| 3 | CVE-2025-40536&amp;CVE-2025-40551｜SolarWinds Web Help Desk未授权远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA](https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA) |
+| 4 | CVE-2026-24061｜Telnetd存在远程认证绕过漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/6NqQQ-LzrLYSfAWkwq_t2g](https://mp.weixin.qq.com/s/6NqQQ-LzrLYSfAWkwq_t2g) |
+| 5 | 某系统存在Beetl反序列化模板注入RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA](https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA) |
+| 6 | 【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s/Ut6lqW47yevQiQ5zqqXqFw](https://mp.weixin.qq.com/s/Ut6lqW47yevQiQ5zqqXqFw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 在 Firefox 中，将“|”误写为“&amp;”会导致零日远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w](https://mp.weixin.qq.com/s/xsfskiYUocOU6sdiBAdU2w) |
+| 2 | CVE-2025-40536&amp;CVE-2025-40551｜SolarWinds Web Help Desk未授权远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA](https://mp.weixin.qq.com/s/dq04eccy1mB7hMkb-7LEXA) |
+| 3 | 第三方集成崩盘：Salesforce 可预测 ID 枚举 + Zendesk 前端 admin token 泄露 265 万记录 | Doonsec | [https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg](https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg) |
+| 4 | 某系统存在Beetl反序列化模板注入RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA](https://mp.weixin.qq.com/s/ZMW8BxqPu1OqL0j5K-2VzA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 0APT勒索软件组织声称已造成200组织被攻击但未能交付任何真实数据 | Doonsec | [https://mp.weixin.qq.com/s/wwELvC4pTx3ZmmuJ95HjlA](https://mp.weixin.qq.com/s/wwELvC4pTx3ZmmuJ95HjlA) |
+| 2 | 一款超级无敌的跨平台应急响应自动化分析工具 | Doonsec | [https://mp.weixin.qq.com/s/rgrPapBdp6li7d1ATjzNqw](https://mp.weixin.qq.com/s/rgrPapBdp6li7d1ATjzNqw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 我下载了整个公司”：一个备份文件如何让我在SRC赚到18.7万 | Doonsec | [https://mp.weixin.qq.com/s/rNcv2r4lharFrbpkCSSZUQ](https://mp.weixin.qq.com/s/rNcv2r4lharFrbpkCSSZUQ) |
+| 2 | 技贯山河·荣耀加冕｜北山学院2025年度SRC&amp;安全众测战绩全榜 | Doonsec | [https://mp.weixin.qq.com/s/_Za1P7rFSx-IglMlXdY1mQ](https://mp.weixin.qq.com/s/_Za1P7rFSx-IglMlXdY1mQ) |
+| 3 | 【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s/Ut6lqW47yevQiQ5zqqXqFw](https://mp.weixin.qq.com/s/Ut6lqW47yevQiQ5zqqXqFw) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 第三方集成崩盘：Salesforce 可预测 ID 枚举 + Zendesk 前端 admin token 泄露 265 万记录 | Doonsec | [https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg](https://mp.weixin.qq.com/s/V8vJ_7IwPqJasFk3DdSDFg) |
+| 2 | 泉州银行因“第三方合作数据安全风险管控”等被罚625万 一人禁业终身 | Doonsec | [https://mp.weixin.qq.com/s/k2JGmsKMj_FM90HmMP84cg](https://mp.weixin.qq.com/s/k2JGmsKMj_FM90HmMP84cg) |
 
 
 ## 📁 归档路径
@@ -80,8 +144,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -90,5 +154,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-18 05:22:49*
+*生成时间: 2026-02-18 17:04:10*
 *报告工具: 微信文章安全归档系统*
