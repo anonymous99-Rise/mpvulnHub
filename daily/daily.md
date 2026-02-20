@@ -1,14 +1,17 @@
-# 2026-02-19 安全威胁态势报告
+# 2026-02-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 5篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **网络攻击**: 1篇
@@ -60,17 +63,36 @@
 
 ### Doonsec
 
-- [英国信息技术巨头：英迈国际称，勒索软件攻击影响了4.2万人](https://mp.weixin.qq.com/s/jcvlqjlOZVPNjmgRrDl4Jg) (发布日期: 2026-02-19)
-- [数据安全态势管理与云安全态势管理](https://mp.weixin.qq.com/s/hcGfm0aC3qTPWhHzquztLA) (发布日期: 2026-02-19)
-- [来自GitHub的优秀网络安全工具（无广告附链接）](https://mp.weixin.qq.com/s/ABbTdX5QqguiOGwH7Ri6tw) (发布日期: 2026-02-19)
+- [短信钓鱼攻击是如何运作的（以及它们为何屡屡得手）](https://mp.weixin.qq.com/s/ZL9v1bx5-UocUKZRLRryTQ) (发布日期: 2026-02-20)
+- [警惕！PPT 插件也能成后门？深度分析 DeskRAT 与 Ares RAT 的潜伏艺术](https://mp.weixin.qq.com/s/gWm0m3vRCCWFPr4xHx2JVQ) (发布日期: 2026-02-20)
+- [微软共享BitLocker恢复密钥后，FBI轻松访问Windows系统加密盘](https://mp.weixin.qq.com/s/ByWaZPJnQQA83GZjr7DNVQ) (发布日期: 2026-02-20)
+- [漏洞监控平台｜5 分钟搭建、7×24 推送、0 元成本](https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA) (发布日期: 2026-02-20)
+- [记一次SRC-APP测试实战](https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ) (发布日期: 2026-02-20)
+
+### BruceFeIix
+
+- [ ] [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d) (发布日期: 2026-02-20)
+- [ ] [挑选人工智能红队服务商越来越难](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3) (发布日期: 2026-02-20)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞监控平台｜5 分钟搭建、7×24 推送、0 元成本 | Doonsec | [https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA](https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次SRC-APP测试实战 | Doonsec | [https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ](https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W08/2026-02-19/`
+文章已归档到: `doc/2026/2026-02/2026-W08/2026-02-20/`
 
 ## 🔗 数据源说明
 
@@ -81,7 +103,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -91,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-19 02:10:44*
+*生成时间: 2026-02-20 05:15:41*
 *报告工具: 微信文章安全归档系统*
