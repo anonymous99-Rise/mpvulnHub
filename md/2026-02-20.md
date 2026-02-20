@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 5篇
-  - BruceFeIix: 2篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 3篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -63,16 +64,21 @@
 
 ### Doonsec
 
-- [短信钓鱼攻击是如何运作的（以及它们为何屡屡得手）](https://mp.weixin.qq.com/s/ZL9v1bx5-UocUKZRLRryTQ) (发布日期: 2026-02-20)
-- [警惕！PPT 插件也能成后门？深度分析 DeskRAT 与 Ares RAT 的潜伏艺术](https://mp.weixin.qq.com/s/gWm0m3vRCCWFPr4xHx2JVQ) (发布日期: 2026-02-20)
-- [微软共享BitLocker恢复密钥后，FBI轻松访问Windows系统加密盘](https://mp.weixin.qq.com/s/ByWaZPJnQQA83GZjr7DNVQ) (发布日期: 2026-02-20)
-- [漏洞监控平台｜5 分钟搭建、7×24 推送、0 元成本](https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA) (发布日期: 2026-02-20)
-- [记一次SRC-APP测试实战](https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ) (发布日期: 2026-02-20)
-
-### BruceFeIix
-
-- [ ] [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d) (发布日期: 2026-02-20)
-- [ ] [挑选人工智能红队服务商越来越难](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3) (发布日期: 2026-02-20)
+- [Splunk Enterprise for Windows 漏洞允许攻击者劫持 DLL 并获得系统访问权限](https://mp.weixin.qq.com/s/anr6iAgJZuYV6DyG_9Mlcw) (发布日期: 2026-02-20)
+- [Predator iOS 恶意软件逆向分析：构建监控框架（第一部分）](https://mp.weixin.qq.com/s/ff76p1IAoqA_JydOx7ASDg) (发布日期: 2026-02-20)
+- [【红队信息收集利器】绕过验证解决Enscan封号难题批量资产收集与覆盖工具](https://mp.weixin.qq.com/s/t19Ih3LRaDF6z7pe-pgy7g) (发布日期: 2026-02-20)
+- [开发者警惕！Lazarus APT组织新骗局：借区块链招聘植入恶意包，npm/PyPI已中招](https://mp.weixin.qq.com/s/R5cX5QyYnkN-CK_0WRlYcQ) (发布日期: 2026-02-20)
+- [告别工具碎片化：SecNotes专注蓝队防御的安全工具与笔记导航站](https://mp.weixin.qq.com/s/u1KSsDoeQZDeU8FNx7BMPw) (发布日期: 2026-02-20)
+- [利用MSSQL与ADCS漏洞：攻破域控?](https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg) (发布日期: 2026-02-20)
+- [如何构建事件响应框架](https://mp.weixin.qq.com/s/DEOzj0fO4MxeQiD2Sg0Clw) (发布日期: 2026-02-20)
+- [移动安全调试分析工具(29款)](https://mp.weixin.qq.com/s/X5MmseXwT3fA2asPZEDX-A) (发布日期: 2026-02-20)
+- [从\"提示词注入\"到\"权限滥用\"：当AI智能体失控，我们该如何应对？](https://mp.weixin.qq.com/s/L4OPjCHf7NFWy-Xg3sTjsA) (发布日期: 2026-02-20)
+- [公安AI大脑秒串天网、票务、社交，失踪轨迹秒生成——大数据技术如何为打击拐卖犯罪注入“智慧引擎”](https://mp.weixin.qq.com/s/697rMvZSTQ0cjV4RpVJ3gQ) (发布日期: 2026-02-20)
+- [懒人必备！飞塔防火墙自动化脚本实战：ADVPN配置异常的自愈秘籍](https://mp.weixin.qq.com/s/ghUtJ99bcYFnFwU0rtvtng) (发布日期: 2026-02-20)
+- [首款已知安卓人工智能恶意软件利用谷歌的Gemini进行决策](https://mp.weixin.qq.com/s/GKF1VNe0ePIz3cAZxJH9Cg) (发布日期: 2026-02-20)
+- [疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击](https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ) (发布日期: 2026-02-20)
+- [Fortinet SSO漏洞已被积极利用，用于入侵防火墙并获取管理员权限](https://mp.weixin.qq.com/s/u0scejIAE0SphPE55qv4OA) (发布日期: 2026-02-20)
+- [加拿大投资交易机构 CIRO 证实数据泄露事件导致75万名加拿大投资者的信息曝光](https://mp.weixin.qq.com/s/KBBiAPpZQlV595zBIl9RAw) (发布日期: 2026-02-20)
 
 
 ## 🎯 威胁详情分析
@@ -81,13 +87,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞监控平台｜5 分钟搭建、7×24 推送、0 元成本 | Doonsec | [https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA](https://mp.weixin.qq.com/s/d8VpMlrFXh_clxDMRDg7cA) |
+| 1 | Splunk Enterprise for Windows 漏洞允许攻击者劫持 DLL 并获得系统访问权限 | Doonsec | [https://mp.weixin.qq.com/s/anr6iAgJZuYV6DyG_9Mlcw](https://mp.weixin.qq.com/s/anr6iAgJZuYV6DyG_9Mlcw) |
+| 2 | 利用MSSQL与ADCS漏洞：攻破域控? | Doonsec | [https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg](https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg) |
+| 3 | 疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击 | Doonsec | [https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ](https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ) |
+| 4 | Fortinet SSO漏洞已被积极利用，用于入侵防火墙并获取管理员权限 | Doonsec | [https://mp.weixin.qq.com/s/u0scejIAE0SphPE55qv4OA](https://mp.weixin.qq.com/s/u0scejIAE0SphPE55qv4OA) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次SRC-APP测试实战 | Doonsec | [https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ](https://mp.weixin.qq.com/s/JHPETbDM_WNEE5_d6PgfqQ) |
+| 1 | 利用MSSQL与ADCS漏洞：攻破域控? | Doonsec | [https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg](https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg) |
+| 2 | 从\"提示词注入\"到\"权限滥用\"：当AI智能体失控，我们该如何应对？ | Doonsec | [https://mp.weixin.qq.com/s/L4OPjCHf7NFWy-Xg3sTjsA](https://mp.weixin.qq.com/s/L4OPjCHf7NFWy-Xg3sTjsA) |
+| 3 | 公安AI大脑秒串天网、票务、社交，失踪轨迹秒生成——大数据技术如何为打击拐卖犯罪注入“智慧引擎” | Doonsec | [https://mp.weixin.qq.com/s/697rMvZSTQ0cjV4RpVJ3gQ](https://mp.weixin.qq.com/s/697rMvZSTQ0cjV4RpVJ3gQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 开发者警惕！Lazarus APT组织新骗局：借区块链招聘植入恶意包，npm/PyPI已中招 | Doonsec | [https://mp.weixin.qq.com/s/R5cX5QyYnkN-CK_0WRlYcQ](https://mp.weixin.qq.com/s/R5cX5QyYnkN-CK_0WRlYcQ) |
+| 2 | 疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击 | Doonsec | [https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ](https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 加拿大投资交易机构 CIRO 证实数据泄露事件导致75万名加拿大投资者的信息曝光 | Doonsec | [https://mp.weixin.qq.com/s/KBBiAPpZQlV595zBIl9RAw](https://mp.weixin.qq.com/s/KBBiAPpZQlV595zBIl9RAw) |
 
 
 ## 📁 归档路径
@@ -103,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-20 05:15:41*
+*生成时间: 2026-02-20 08:40:48*
 *报告工具: 微信文章安全归档系统*
