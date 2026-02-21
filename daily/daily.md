@@ -2,18 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 8篇
-  - BruceFeIix: 2篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,36 +61,21 @@
 
 ### Doonsec
 
-- [AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式](https://mp.weixin.qq.com/s/CbvZS9VtGnr8dvuTj1-KEg) (发布日期: 2026-02-21)
-- [OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险](https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA) (发布日期: 2026-02-21)
-- [Vantor 联手 Google Earth AI：在美政府内网实现卫星分析](https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA) (发布日期: 2026-02-21)
-- [2026二月网络安全红警拉满！全球多起重大攻击爆发，这些漏洞和陷阱必防](https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA) (发布日期: 2026-02-21)
-- [【红队必备】info_scan集成30+工具的集成化漏洞扫描平台(从资产发现到漏洞验证的闭环管理)](https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ) (发布日期: 2026-02-21)
-- [下一代安全评估：AI Agent全自动渗透测试平台](https://mp.weixin.qq.com/s/zHWEvGmpCtOLm8RqWi7d7A) (发布日期: 2026-02-21)
-- [【渗透测试】AppScan Standard 10.10.0](https://mp.weixin.qq.com/s/ymcjWGnj1YgCp8UTY0Vm-A) (发布日期: 2026-02-21)
-- [安天AVL SDK反病毒引擎升级通告（20260221）](https://mp.weixin.qq.com/s/LSf6ZMNS-MQxrynkL_kVZQ) (发布日期: 2026-02-21)
-
-### BruceFeIix
-
-- [ ] [第十届安全开发者峰会（SDC2026）【议题火热征集中】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611117&idx=1&sn=f063788f8971edf449fd09571d515ba7) (发布日期: 2026-02-21)
-- [ ] [如何构建事件响应框架](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485905&idx=1&sn=2f7eca14cf73db1da60aa7363692c5af) (发布日期: 2026-02-21)
+- [代码审计交流讨论群](https://mp.weixin.qq.com/s/RdN93aG5v9PlOZFUTtK3dQ) (发布日期: 2026-02-21)
+- [第43天-JavaEE与ORM框架安全指南：从JDBC到Hibernate/MyBatis的SQL注入防御](https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g) (发布日期: 2026-02-21)
+- [开源自动化渗透框架 ONIST：它真的能挑战 Metasploit 吗？](https://mp.weixin.qq.com/s/uvMP5VTaGxHQYBQmFfDRiQ) (发布日期: 2026-02-21)
+- [网安行业几小时内蒸发百亿，Claude Code安全工具发布](https://mp.weixin.qq.com/s/bMKP9Lrjmn8-I8JGhM8G-Q) (发布日期: 2026-02-21)
+- [内网渗透工具--scepreq](https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w) (发布日期: 2026-02-21)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险 | Doonsec | [https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA](https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA) |
-| 2 | 2026二月网络安全红警拉满！全球多起重大攻击爆发，这些漏洞和陷阱必防 | Doonsec | [https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA](https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA) |
-| 3 | 【红队必备】info_scan集成30+工具的集成化漏洞扫描平台(从资产发现到漏洞验证的闭环管理) | Doonsec | [https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ](https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Vantor 联手 Google Earth AI：在美政府内网实现卫星分析 | Doonsec | [https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA](https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA) |
+| 1 | 第43天-JavaEE与ORM框架安全指南：从JDBC到Hibernate/MyBatis的SQL注入防御 | Doonsec | [https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g](https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g) |
+| 2 | 内网渗透工具--scepreq | Doonsec | [https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w](https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w) |
 
 
 ## 📁 归档路径
@@ -107,8 +91,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -117,5 +101,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-21 05:05:10*
+*生成时间: 2026-02-21 08:31:56*
 *报告工具: 微信文章安全归档系统*
