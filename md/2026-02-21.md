@@ -2,14 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
@@ -61,21 +64,64 @@
 
 ### Doonsec
 
-- [代码审计交流讨论群](https://mp.weixin.qq.com/s/RdN93aG5v9PlOZFUTtK3dQ) (发布日期: 2026-02-21)
-- [第43天-JavaEE与ORM框架安全指南：从JDBC到Hibernate/MyBatis的SQL注入防御](https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g) (发布日期: 2026-02-21)
-- [开源自动化渗透框架 ONIST：它真的能挑战 Metasploit 吗？](https://mp.weixin.qq.com/s/uvMP5VTaGxHQYBQmFfDRiQ) (发布日期: 2026-02-21)
-- [网安行业几小时内蒸发百亿，Claude Code安全工具发布](https://mp.weixin.qq.com/s/bMKP9Lrjmn8-I8JGhM8G-Q) (发布日期: 2026-02-21)
-- [内网渗透工具--scepreq](https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w) (发布日期: 2026-02-21)
+- [人性化安全工程：提升员工安全意识的秘诀](https://mp.weixin.qq.com/s/d9osaSXa5-RtG0fJP6xDCg) (发布日期: 2026-02-21)
+- [2025年全球加密货币网络犯罪激增，黑客与勒索攻击事件持续高发](https://mp.weixin.qq.com/s/raEM8I-APsKBfwPPf8ec9w) (发布日期: 2026-02-21)
+- [【攻防实战4】记一次某地市卫校内网穿透](https://mp.weixin.qq.com/s/szTA1S5WKk1NKrWDBh3j8Q) (发布日期: 2026-02-21)
+- [ManSpider：一款黑客内网快速敏感信息搜集工具](https://mp.weixin.qq.com/s/qBdkMI4VzQwpjqo4xwoETw) (发布日期: 2026-02-21)
+- [最强AI安全工具？秒查BUG，Claude Code Security上线，安全厂商股价都崩了](https://mp.weixin.qq.com/s/qGdt34qIxzfCCJM2Wu4R2Q) (发布日期: 2026-02-21)
+- [红队渗透必备：自动化代理池，多协议订阅解析工具，生成Clash轮询配置](https://mp.weixin.qq.com/s/eU2Dk62ArHjtkcKV_DRKVg) (发布日期: 2026-02-21)
+- [配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系](https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog) (发布日期: 2026-02-21)
+- [自写壳学习与加密壳实现](https://mp.weixin.qq.com/s/BJTksX0MOg4OJldq27kzcw) (发布日期: 2026-02-21)
+- [CVE-2026-27199(Werkzeug)研究](https://mp.weixin.qq.com/s/lsPV-FJ4ZtKPglIVb4dldQ) (发布日期: 2026-02-21)
+- [Web-Check：一款全面的web网站信息和漏洞扫描工具](https://mp.weixin.qq.com/s/8l3lF0vjTKToWEqcUHy7Mw) (发布日期: 2026-02-21)
+- [银狐黑产最新攻击样本内存静态特征与威胁情报](https://mp.weixin.qq.com/s/Le8Lkb5lTZD37EsMCbKgTg) (发布日期: 2026-02-21)
+- [航电系统信息安全防护工程培训课程2026](https://mp.weixin.qq.com/s/bWKxSPkv14HDrvL8NgHmAQ) (发布日期: 2026-02-21)
+- [面向无人机网络的密钥管理和认证协议](https://mp.weixin.qq.com/s/Trokv2_PZzTcmZGcz-qb7g) (发布日期: 2026-02-21)
+- [漏洞复现 | Synway SMG网关管理软件 9-13pcap.php 命令注入漏洞](https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ) (发布日期: 2026-02-21)
+- [记实战中的越权漏洞挖掘案例分享](https://mp.weixin.qq.com/s/wq9u7AfbUuS5WeZVEmHw7Q) (发布日期: 2026-02-21)
+- [CVE-2026-27199(Werkzeug)研究](https://mp.weixin.qq.com/s/5tvvFbzatQnziaqVv82RSg) (发布日期: 2026-02-21)
+- [自写壳学习与加密壳实现](https://mp.weixin.qq.com/s/ATkF2lAFzE_t7CkFgfb6pA) (发布日期: 2026-02-21)
+- [CVE-2026-27199(Werkzeug)研究](https://mp.weixin.qq.com/s/bnbugxkdj2bFTzov-T6sXw) (发布日期: 2026-02-21)
+- [CISP题库（带答案）](https://mp.weixin.qq.com/s/gU0J1kUWakdfLXrp9p-VVA) (发布日期: 2026-02-21)
+- [成果分享 | 智能体漏洞检测 [ASE\'25, Security\'25/26, BlackHat EU]](https://mp.weixin.qq.com/s/lm6ULPS6uS7ZaHxt8_xy6Q) (发布日期: 2026-02-21)
+- [下一代安全评估：AI Agent全自动渗透测试平台](https://mp.weixin.qq.com/s/mif4Ncf_9BtXvK2nD5Y1tg) (发布日期: 2026-02-21)
+- [【密码学】通用可组合安全(UC)](https://mp.weixin.qq.com/s/nLMmCCraGoqI4pFNkpcMWQ) (发布日期: 2026-02-21)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog](https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog) |
+| 2 | CVE-2026-27199(Werkzeug)研究 | Doonsec | [https://mp.weixin.qq.com/s/lsPV-FJ4ZtKPglIVb4dldQ](https://mp.weixin.qq.com/s/lsPV-FJ4ZtKPglIVb4dldQ) |
+| 3 | Web-Check：一款全面的web网站信息和漏洞扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/8l3lF0vjTKToWEqcUHy7Mw](https://mp.weixin.qq.com/s/8l3lF0vjTKToWEqcUHy7Mw) |
+| 4 | 漏洞复现 | Synway SMG网关管理软件 9-13pcap.php 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ](https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ) |
+| 5 | 记实战中的越权漏洞挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/wq9u7AfbUuS5WeZVEmHw7Q](https://mp.weixin.qq.com/s/wq9u7AfbUuS5WeZVEmHw7Q) |
+| 6 | CVE-2026-27199(Werkzeug)研究 | Doonsec | [https://mp.weixin.qq.com/s/5tvvFbzatQnziaqVv82RSg](https://mp.weixin.qq.com/s/5tvvFbzatQnziaqVv82RSg) |
+| 7 | CVE-2026-27199(Werkzeug)研究 | Doonsec | [https://mp.weixin.qq.com/s/bnbugxkdj2bFTzov-T6sXw](https://mp.weixin.qq.com/s/bnbugxkdj2bFTzov-T6sXw) |
+| 8 | 成果分享 | 智能体漏洞检测 [ASE\'25, Security\'25/26, BlackHat EU] | Doonsec | [https://mp.weixin.qq.com/s/lm6ULPS6uS7ZaHxt8_xy6Q](https://mp.weixin.qq.com/s/lm6ULPS6uS7ZaHxt8_xy6Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第43天-JavaEE与ORM框架安全指南：从JDBC到Hibernate/MyBatis的SQL注入防御 | Doonsec | [https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g](https://mp.weixin.qq.com/s/3oWdhN8FxyfE7zOz-o_e2g) |
-| 2 | 内网渗透工具--scepreq | Doonsec | [https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w](https://mp.weixin.qq.com/s/hbx6tn9jX9az0vY_pJaB4w) |
+| 1 | 【攻防实战4】记一次某地市卫校内网穿透 | Doonsec | [https://mp.weixin.qq.com/s/szTA1S5WKk1NKrWDBh3j8Q](https://mp.weixin.qq.com/s/szTA1S5WKk1NKrWDBh3j8Q) |
+| 2 | ManSpider：一款黑客内网快速敏感信息搜集工具 | Doonsec | [https://mp.weixin.qq.com/s/qBdkMI4VzQwpjqo4xwoETw](https://mp.weixin.qq.com/s/qBdkMI4VzQwpjqo4xwoETw) |
+| 3 | 漏洞复现 | Synway SMG网关管理软件 9-13pcap.php 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ](https://mp.weixin.qq.com/s/lpvDpb3JPsRz1olUxJ96wQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐黑产最新攻击样本内存静态特征与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s/Le8Lkb5lTZD37EsMCbKgTg](https://mp.weixin.qq.com/s/Le8Lkb5lTZD37EsMCbKgTg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog](https://mp.weixin.qq.com/s/a3sgXqyo3PejVLnOre_Bog) |
 
 
 ## 📁 归档路径
@@ -91,7 +137,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -101,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-21 08:31:56*
+*生成时间: 2026-02-21 16:30:15*
 *报告工具: 微信文章安全归档系统*
