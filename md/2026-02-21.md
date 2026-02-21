@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 8篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,24 +62,19 @@
 
 ### Doonsec
 
-- [【攻防渗透集锦】漏洞组合拳与JS攻击面的博弈](https://mp.weixin.qq.com/s/URG8rVQDIpjE0cR3OI5xFQ) (发布日期: 2026-02-21)
-- [SmarterMail 关键远程代码执行漏洞在野外被利用](https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA) (发布日期: 2026-02-21)
-- [如何组建网络安全应急响应团队](https://mp.weixin.qq.com/s/zsCnIXktbZix9PB7huXifw) (发布日期: 2026-02-21)
-- [经纬恒润：物理区域控制器（ZCU）技术白皮书](https://mp.weixin.qq.com/s/LxjEgwc6fNYCp1_0X4IIpA) (发布日期: 2026-02-21)
-- [【AI焕新】捷普工业安全隔离与信息交换系统](https://mp.weixin.qq.com/s/XK9jrbZ6JRqriF_aBPwdKA) (发布日期: 2026-02-21)
-- [claude code发布网络安全代码审计功能预览版](https://mp.weixin.qq.com/s/iBQwct0E2v0u8y7GGJi0Kw) (发布日期: 2026-02-21)
-- [【密码学】通用可组合安全(UC)](https://mp.weixin.qq.com/s/eqfaMEMzf43eJqhZVJDmGA) (发布日期: 2026-02-21)
-- [谷歌紧急发布关键Chrome更新，以修复PDFium和V8的严重漏洞](https://mp.weixin.qq.com/s/xmU88CJcC7Qw11CTQ6fEuA) (发布日期: 2026-02-21)
-- [利用开源情报分析自媒体博主偷税漏税嫌疑——以闫学晶事件为例](https://mp.weixin.qq.com/s/5W6Qyog_rrppFUaD26i5ZQ) (发布日期: 2026-02-21)
-- [法国多个国家安全、情报相关数据泄露 | DGSI、DGSE、国家宪兵、警察、武装部队部和CNIL](https://mp.weixin.qq.com/s/fd66Sjh-XPc-U9ax9HDdow) (发布日期: 2026-02-21)
-- [数据安全监督检查管理实施指南](https://mp.weixin.qq.com/s/T0ZjYLOclyBdX7Daa-rhVg) (发布日期: 2026-02-21)
-- [美FBI警告ATM恶意软件攻击激增 一年被盗两千万美元](https://mp.weixin.qq.com/s/ewgb1sjvKE6OXHjBcGFkUg) (发布日期: 2026-02-21)
-- [《密码学》科普讲坛—第五讲：明文的搅乱](https://mp.weixin.qq.com/s/ecrwBD7yIzazmsM6Tr0Tqw) (发布日期: 2026-02-21)
-- [Jenkins 存在严重漏洞导致建环境易受 XSS 攻击](https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg) (发布日期: 2026-02-21)
-- [Tomcat漏洞允许攻击者通过HTTP/0.9请求绕过安全限制](https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA) (发布日期: 2026-02-21)
-- [配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系](https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg) (发布日期: 2026-02-21)
-- [【渗透测试】SQLMAP_FY - SQLMAP 完全汉化版](https://mp.weixin.qq.com/s/iblo_5m0SgPhhrxOjsBhnA) (发布日期: 2026-02-21)
-- [自动化 FortiGate 攻击利用 FortiCloud 单点登录 (SSO) 篡改防火墙配置](https://mp.weixin.qq.com/s/0VsSIFN077gPlTKPhawIcw) (发布日期: 2026-02-21)
+- [AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式](https://mp.weixin.qq.com/s/CbvZS9VtGnr8dvuTj1-KEg) (发布日期: 2026-02-21)
+- [OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险](https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA) (发布日期: 2026-02-21)
+- [Vantor 联手 Google Earth AI：在美政府内网实现卫星分析](https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA) (发布日期: 2026-02-21)
+- [2026二月网络安全红警拉满！全球多起重大攻击爆发，这些漏洞和陷阱必防](https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA) (发布日期: 2026-02-21)
+- [【红队必备】info_scan集成30+工具的集成化漏洞扫描平台(从资产发现到漏洞验证的闭环管理)](https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ) (发布日期: 2026-02-21)
+- [下一代安全评估：AI Agent全自动渗透测试平台](https://mp.weixin.qq.com/s/zHWEvGmpCtOLm8RqWi7d7A) (发布日期: 2026-02-21)
+- [【渗透测试】AppScan Standard 10.10.0](https://mp.weixin.qq.com/s/ymcjWGnj1YgCp8UTY0Vm-A) (发布日期: 2026-02-21)
+- [安天AVL SDK反病毒引擎升级通告（20260221）](https://mp.weixin.qq.com/s/LSf6ZMNS-MQxrynkL_kVZQ) (发布日期: 2026-02-21)
+
+### BruceFeIix
+
+- [ ] [第十届安全开发者峰会（SDC2026）【议题火热征集中】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611117&idx=1&sn=f063788f8971edf449fd09571d515ba7) (发布日期: 2026-02-21)
+- [ ] [如何构建事件响应框架](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485905&idx=1&sn=2f7eca14cf73db1da60aa7363692c5af) (发布日期: 2026-02-21)
 
 
 ## 🎯 威胁详情分析
@@ -91,38 +83,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【攻防渗透集锦】漏洞组合拳与JS攻击面的博弈 | Doonsec | [https://mp.weixin.qq.com/s/URG8rVQDIpjE0cR3OI5xFQ](https://mp.weixin.qq.com/s/URG8rVQDIpjE0cR3OI5xFQ) |
-| 2 | SmarterMail 关键远程代码执行漏洞在野外被利用 | Doonsec | [https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA](https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA) |
-| 3 | 谷歌紧急发布关键Chrome更新，以修复PDFium和V8的严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xmU88CJcC7Qw11CTQ6fEuA](https://mp.weixin.qq.com/s/xmU88CJcC7Qw11CTQ6fEuA) |
-| 4 | Jenkins 存在严重漏洞导致建环境易受 XSS 攻击 | Doonsec | [https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg](https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg) |
-| 5 | Tomcat漏洞允许攻击者通过HTTP/0.9请求绕过安全限制 | Doonsec | [https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA](https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA) |
-| 6 | 配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg](https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg) |
+| 1 | OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险 | Doonsec | [https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA](https://mp.weixin.qq.com/s/xXfxNJOWRpMyJorhWIWEiA) |
+| 2 | 2026二月网络安全红警拉满！全球多起重大攻击爆发，这些漏洞和陷阱必防 | Doonsec | [https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA](https://mp.weixin.qq.com/s/xEp5-H6_dmbnx5k4YHHRUA) |
+| 3 | 【红队必备】info_scan集成30+工具的集成化漏洞扫描平台(从资产发现到漏洞验证的闭环管理) | Doonsec | [https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ](https://mp.weixin.qq.com/s/ejCGba22xZGOQTb8l5rFjQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SmarterMail 关键远程代码执行漏洞在野外被利用 | Doonsec | [https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA](https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA) |
-| 2 | 经纬恒润：物理区域控制器（ZCU）技术白皮书 | Doonsec | [https://mp.weixin.qq.com/s/LxjEgwc6fNYCp1_0X4IIpA](https://mp.weixin.qq.com/s/LxjEgwc6fNYCp1_0X4IIpA) |
-| 3 | Jenkins 存在严重漏洞导致建环境易受 XSS 攻击 | Doonsec | [https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg](https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 如何组建网络安全应急响应团队 | Doonsec | [https://mp.weixin.qq.com/s/zsCnIXktbZix9PB7huXifw](https://mp.weixin.qq.com/s/zsCnIXktbZix9PB7huXifw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系 | Doonsec | [https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg](https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 法国多个国家安全、情报相关数据泄露 | DGSI、DGSE、国家宪兵、警察、武装部队部和CNIL | Doonsec | [https://mp.weixin.qq.com/s/fd66Sjh-XPc-U9ax9HDdow](https://mp.weixin.qq.com/s/fd66Sjh-XPc-U9ax9HDdow) |
+| 1 | Vantor 联手 Google Earth AI：在美政府内网实现卫星分析 | Doonsec | [https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA](https://mp.weixin.qq.com/s/pxiOTXcmHLSQm3lLA9GFPA) |
 
 
 ## 📁 归档路径
@@ -138,8 +107,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -148,5 +117,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-21 02:01:30*
+*生成时间: 2026-02-21 05:05:10*
 *报告工具: 微信文章安全归档系统*
