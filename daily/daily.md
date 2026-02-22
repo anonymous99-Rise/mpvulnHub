@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,15 +61,11 @@
 
 ### Doonsec
 
-- [银狐黑产组织通过恶意软件盗取你的虚拟货币](https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg) (发布日期: 2026-02-22)
-- [伪装成简历某红队窃密样本分析](https://mp.weixin.qq.com/s/26eQePkTAaA0kuT0C314yg) (发布日期: 2026-02-22)
-- [做个\"脚本小子\"--XPOC下载篇](https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ) (发布日期: 2026-02-22)
-- [Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) (发布日期: 2026-02-22)
-- [几个常见漏洞挖掘案例分享](https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ) (发布日期: 2026-02-22)
-- [第46天-Java安全学习笔记：动态代理与反序列化利用链深度解析](https://mp.weixin.qq.com/s/DjMcGQu7ZLEFfdZKQgn6EQ) (发布日期: 2026-02-22)
-- [第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析](https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA) (发布日期: 2026-02-22)
-- [总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施）](https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q) (发布日期: 2026-02-22)
-- [前沿 | 网络数据安全风险评估机制面临的问题与制度优化措施](https://mp.weixin.qq.com/s/oJXPqX6KIhPIFoT5IEM9WA) (发布日期: 2026-02-22)
+- [工业设备的 TPM 加密防线，竟被一根探针轻松攻破？](https://mp.weixin.qq.com/s/krolJbpabCByqBwBMo07Hg) (发布日期: 2026-02-22)
+- [Phantom TrojanWalker——AI 恶意软件自动化分析平台](https://mp.weixin.qq.com/s/hmxfMk-3uIohed4Jq8YHZQ) (发布日期: 2026-02-22)
+- [无人机网络入侵检测与信任体系研究综述](https://mp.weixin.qq.com/s/U79xZF2VrFpTGbifA-IHeA) (发布日期: 2026-02-22)
+- [航电系统信息安全防护工程培训课程2026](https://mp.weixin.qq.com/s/S-_OjOQHOnYQiKCMbAPugg) (发布日期: 2026-02-22)
+- [CVE-2026-27470(Zoneminder-二阶注入)研究](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) (发布日期: 2026-02-22)
 
 
 ## 🎯 威胁详情分析
@@ -81,23 +74,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 做个\"脚本小子\"--XPOC下载篇 | Doonsec | [https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ](https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ) |
-| 2 | Windows记事本RCE漏洞PoC已公开（CVE-2026-20841） | Doonsec | [https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) |
-| 3 | 几个常见漏洞挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ](https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ) |
-| 4 | 第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA](https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA) |
-| 5 | 总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施） | Doonsec | [https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q](https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q) |
+| 1 | CVE-2026-27470(Zoneminder-二阶注入)研究 | Doonsec | [https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows记事本RCE漏洞PoC已公开（CVE-2026-20841） | Doonsec | [https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐黑产组织通过恶意软件盗取你的虚拟货币 | Doonsec | [https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg](https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg) |
+| 1 | CVE-2026-27470(Zoneminder-二阶注入)研究 | Doonsec | [https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) |
 
 
 ## 📁 归档路径
@@ -113,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-22 12:51:21*
+*生成时间: 2026-02-22 20:27:22*
 *报告工具: 微信文章安全归档系统*
