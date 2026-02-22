@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 26篇
+  - Doonsec: 15篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **安全运营**: 3篇
-- **信息泄露**: 3篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,32 +64,26 @@
 
 ### Doonsec
 
-- [漏洞复现 | 多客圈子论坛社区系统前台文件上传漏洞](https://mp.weixin.qq.com/s/lmKRaMajydqD-Gg6TQL-hw) (发布日期: 2026-02-22)
-- [《网络战》第九集：震网病毒：在伊朗物理摧毁目标的网络武器](https://mp.weixin.qq.com/s/4g_9G2d7iXdnKh7yaQwkKg) (发布日期: 2026-02-22)
-- [《网络战》第八集：飞马间谍软件：恶意软件如何落入墨西哥贩毒集团之手](https://mp.weixin.qq.com/s/tEU3tp4cDHsoEmo6WczdPQ) (发布日期: 2026-02-22)
-- [LangGraph 驱动的基于反馈进化的 AI 渗透测试多智能体系统](https://mp.weixin.qq.com/s/eEbwSp3uPoRkWfAzv2Q4Fg) (发布日期: 2026-02-22)
-- [企业 SRC 低投入，高收益漏洞总结](https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg) (发布日期: 2026-02-22)
-- [多个黑客组织利用 OpenClaw 实例窃取 API 密钥并部署恶意软件](https://mp.weixin.qq.com/s/TBWu4rb2A7rbyCG9gQ-5mA) (发布日期: 2026-02-22)
-- [【严重】CVE-2026-20408 Wifi范围内即可Getshell](https://mp.weixin.qq.com/s/XgfUrJe0ZyoZKizQEH8Tkw) (发布日期: 2026-02-22)
-- [2026年顶级AI红队测试工具全景解析](https://mp.weixin.qq.com/s/jCP0r6vJRdLJn4hT9iufrg) (发布日期: 2026-02-22)
-- [严重警报：Chrome 零日漏洞 (CVE-2026-2441) 已被利用](https://mp.weixin.qq.com/s/gTurMGl0RKa6Oj-1ER37oQ) (发布日期: 2026-02-22)
-- [冒充电商物流客服诈骗案数据泄露源头追踪方法](https://mp.weixin.qq.com/s/3w7X3VfMArAyLEpfx5mIZQ) (发布日期: 2026-02-22)
-- [向董事会推销技术投资：CISO和CIO的战略指南](https://mp.weixin.qq.com/s/nEoOMK62IZA4pat63RqDzg) (发布日期: 2026-02-22)
-- [漏洞预警：波及 VS Code 与 Cursor！4款超 1.28 亿安装的插件成黑客攻击跳板](https://mp.weixin.qq.com/s/-WIFrWr0BTH10WGoDwA43A) (发布日期: 2026-02-22)
-- [CVE-2025-2294 网关允许未经认证的用户通过 SpEL 注入和执行任意代码。](https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ) (发布日期: 2026-02-22)
-- [某企业src的弱口令案例](https://mp.weixin.qq.com/s/VWYq_l8rEgjl-S71rxl85A) (发布日期: 2026-02-22)
-- [捷普云安全产品线，捷普助力企业安全上云](https://mp.weixin.qq.com/s/bm9PW7D9KmprL9awhB8DrA) (发布日期: 2026-02-22)
-- [【AI焕新】捷普漏洞扫描系统](https://mp.weixin.qq.com/s/dpZaAASV9L_1Uq-qUbgiIw) (发布日期: 2026-02-22)
-- [白嫖一支 AI 黑客战队！3 分钟本地部署，自动挖洞 + 沙箱 PoC，0 成本干翻传统审计](https://mp.weixin.qq.com/s/04JUVCLuLODDpmHkFHIyxg) (发布日期: 2026-02-22)
-- [Google 官方出品，5 秒扫穿项目依赖漏洞](https://mp.weixin.qq.com/s/TlLh9DiZKw4n35fDqG6SSA) (发布日期: 2026-02-22)
-- [Anthropic发布Claude安全工具引起网络安全公司股价大幅下跌](https://mp.weixin.qq.com/s/BU9vYyKPQZZ6sQrjcOZklA) (发布日期: 2026-02-22)
-- [SRC中CSRF漏洞挖掘技巧](https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg) (发布日期: 2026-02-22)
-- [[工具·书·人] 把渗透测试交给 AI 来做，这个开源项目做到了什么程度](https://mp.weixin.qq.com/s/RdI71Ix0Q1XSUi3akA6waA) (发布日期: 2026-02-22)
-- [暗网泄露saipos巴西一家专注于餐饮业的一体化管理系统数据泄露](https://mp.weixin.qq.com/s/OaeoIAr9CUTQAH-xsnqwvw) (发布日期: 2026-02-22)
-- [PayPal披露数据泄露事件，导致用户信息泄露长达6个月](https://mp.weixin.qq.com/s/4NMEPUtqxhy8FX4yIlvq6g) (发布日期: 2026-02-22)
-- [GRE欺骗、VXLAN投毒、域名前置：红队代理穿透的三种降维打击](https://mp.weixin.qq.com/s/-ku9Yvl0PccNmzU30JV-jA) (发布日期: 2026-02-22)
-- [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力](https://mp.weixin.qq.com/s/PJu419Kugx2ELhJGzOYP2g) (发布日期: 2026-02-22)
-- [针对iOS生态系统的国家级网络攻击深度分析与个人安全防护体系报告](https://mp.weixin.qq.com/s/Vx5crW5hP01X3Ost6wKanQ) (发布日期: 2026-02-22)
+- [美国网安股暴跌！Claude AI安全工具降维打击](https://mp.weixin.qq.com/s/v0QlDFQO-tK3Kgya6Dz3hQ) (发布日期: 2026-02-22)
+- [[CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥](https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw) (发布日期: 2026-02-22)
+- [2026全球事件响应报告：黑客屡屡得手的6大“绝招”](https://mp.weixin.qq.com/s/5mO5QQ6hgnW1T86P5AgN8A) (发布日期: 2026-02-22)
+- [Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描](https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A) (发布日期: 2026-02-22)
+- [CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中](https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww) (发布日期: 2026-02-22)
+- [FnOS GUI Exploit Tool:针对 FnOS 系统的综合漏洞利用工具](https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q) (发布日期: 2026-02-22)
+- [【渗透测试】Invicti Professional v26.2.0](https://mp.weixin.qq.com/s/dYHAwo4nrjU5wEfAn83UVQ) (发布日期: 2026-02-22)
+- [BeyondTrust高危漏洞遭勒索团伙利用，留给企业的时间不多了](https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw) (发布日期: 2026-02-22)
+- [Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台](https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w) (发布日期: 2026-02-22)
+- [LangGraph 驱动的基于反馈进化的 AI 渗透测试多智能体系统](https://mp.weixin.qq.com/s/YCKZTOQIDgITfu12p8pM_w) (发布日期: 2026-02-22)
+- [企业 SRC 低投入，高收益漏洞总结](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) (发布日期: 2026-02-22)
+- [[工具·书·人] 把渗透测试交给 AI 来做，这个开源项目做到了什么程度](https://mp.weixin.qq.com/s/HaDcE5B3OpZvXdBx9eLl-Q) (发布日期: 2026-02-22)
+- [你的Windows还安全吗？2月6个零日漏洞正在被大规模利用](https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw) (发布日期: 2026-02-22)
+- [Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台](https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg) (发布日期: 2026-02-22)
+- [Claude Code Security 入场，软件安全工具的饭碗还保得住吗？](https://mp.weixin.qq.com/s/xihZJ0FOPGwaBqiUyd-EbQ) (发布日期: 2026-02-22)
+
+### BruceFeIix
+
+- [ ] [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354) (发布日期: 2026-02-22)
+- [ ] [如何组建网络安全应急响应团队](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd) (发布日期: 2026-02-22)
 
 
 ## 🎯 威胁详情分析
@@ -99,39 +92,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | 多客圈子论坛社区系统前台文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/lmKRaMajydqD-Gg6TQL-hw](https://mp.weixin.qq.com/s/lmKRaMajydqD-Gg6TQL-hw) |
-| 2 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg](https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg) |
-| 3 | 【严重】CVE-2026-20408 Wifi范围内即可Getshell | Doonsec | [https://mp.weixin.qq.com/s/XgfUrJe0ZyoZKizQEH8Tkw](https://mp.weixin.qq.com/s/XgfUrJe0ZyoZKizQEH8Tkw) |
-| 4 | 严重警报：Chrome 零日漏洞 (CVE-2026-2441) 已被利用 | Doonsec | [https://mp.weixin.qq.com/s/gTurMGl0RKa6Oj-1ER37oQ](https://mp.weixin.qq.com/s/gTurMGl0RKa6Oj-1ER37oQ) |
-| 5 | 漏洞预警：波及 VS Code 与 Cursor！4款超 1.28 亿安装的插件成黑客攻击跳板 | Doonsec | [https://mp.weixin.qq.com/s/-WIFrWr0BTH10WGoDwA43A](https://mp.weixin.qq.com/s/-WIFrWr0BTH10WGoDwA43A) |
-| 6 | CVE-2025-2294 网关允许未经认证的用户通过 SpEL 注入和执行任意代码。 | Doonsec | [https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ](https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ) |
-| 7 | 【AI焕新】捷普漏洞扫描系统 | Doonsec | [https://mp.weixin.qq.com/s/dpZaAASV9L_1Uq-qUbgiIw](https://mp.weixin.qq.com/s/dpZaAASV9L_1Uq-qUbgiIw) |
-| 8 | 白嫖一支 AI 黑客战队！3 分钟本地部署，自动挖洞 + 沙箱 PoC，0 成本干翻传统审计 | Doonsec | [https://mp.weixin.qq.com/s/04JUVCLuLODDpmHkFHIyxg](https://mp.weixin.qq.com/s/04JUVCLuLODDpmHkFHIyxg) |
-| 9 | Google 官方出品，5 秒扫穿项目依赖漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TlLh9DiZKw4n35fDqG6SSA](https://mp.weixin.qq.com/s/TlLh9DiZKw4n35fDqG6SSA) |
-| 10 | SRC中CSRF漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg](https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg) |
+| 1 | [CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥 | Doonsec | [https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw](https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw) |
+| 2 | Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描 | Doonsec | [https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A](https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A) |
+| 3 | CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中 | Doonsec | [https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww](https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww) |
+| 4 | FnOS GUI Exploit Tool:针对 FnOS 系统的综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q](https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q) |
+| 5 | BeyondTrust高危漏洞遭勒索团伙利用，留给企业的时间不多了 | Doonsec | [https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw](https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw) |
+| 6 | Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台 | Doonsec | [https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w](https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w) |
+| 7 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) |
+| 8 | 你的Windows还安全吗？2月6个零日漏洞正在被大规模利用 | Doonsec | [https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw](https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw) |
+| 9 | Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台 | Doonsec | [https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg](https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-2294 网关允许未经认证的用户通过 SpEL 注入和执行任意代码。 | Doonsec | [https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ](https://mp.weixin.qq.com/s/LpHBTZ1oURIWCeFN1lc-sQ) |
-| 2 | Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力 | Doonsec | [https://mp.weixin.qq.com/s/PJu419Kugx2ELhJGzOYP2g](https://mp.weixin.qq.com/s/PJu419Kugx2ELhJGzOYP2g) |
+| 1 |  ] [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [如何组建网络安全应急响应团队 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg](https://mp.weixin.qq.com/s/ebiq708TbwI_Qu6cD_cGeg) |
-| 2 | 某企业src的弱口令案例 | Doonsec | [https://mp.weixin.qq.com/s/VWYq_l8rEgjl-S71rxl85A](https://mp.weixin.qq.com/s/VWYq_l8rEgjl-S71rxl85A) |
-| 3 | SRC中CSRF漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg](https://mp.weixin.qq.com/s/ZwW8FY0S7dmtOEARAgGNQg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 冒充电商物流客服诈骗案数据泄露源头追踪方法 | Doonsec | [https://mp.weixin.qq.com/s/3w7X3VfMArAyLEpfx5mIZQ](https://mp.weixin.qq.com/s/3w7X3VfMArAyLEpfx5mIZQ) |
-| 2 | 暗网泄露saipos巴西一家专注于餐饮业的一体化管理系统数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/OaeoIAr9CUTQAH-xsnqwvw](https://mp.weixin.qq.com/s/OaeoIAr9CUTQAH-xsnqwvw) |
-| 3 | PayPal披露数据泄露事件，导致用户信息泄露长达6个月 | Doonsec | [https://mp.weixin.qq.com/s/4NMEPUtqxhy8FX4yIlvq6g](https://mp.weixin.qq.com/s/4NMEPUtqxhy8FX4yIlvq6g) |
+| 1 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) |
 
 
 ## 📁 归档路径
@@ -147,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -157,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-22 02:11:06*
+*生成时间: 2026-02-22 08:33:10*
 *报告工具: 微信文章安全归档系统*
