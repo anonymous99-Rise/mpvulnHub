@@ -2,20 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 15篇
-  - BruceFeIix: 2篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 1篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,26 +64,15 @@
 
 ### Doonsec
 
-- [美国网安股暴跌！Claude AI安全工具降维打击](https://mp.weixin.qq.com/s/v0QlDFQO-tK3Kgya6Dz3hQ) (发布日期: 2026-02-22)
-- [[CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥](https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw) (发布日期: 2026-02-22)
-- [2026全球事件响应报告：黑客屡屡得手的6大“绝招”](https://mp.weixin.qq.com/s/5mO5QQ6hgnW1T86P5AgN8A) (发布日期: 2026-02-22)
-- [Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描](https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A) (发布日期: 2026-02-22)
-- [CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中](https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww) (发布日期: 2026-02-22)
-- [FnOS GUI Exploit Tool:针对 FnOS 系统的综合漏洞利用工具](https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q) (发布日期: 2026-02-22)
-- [【渗透测试】Invicti Professional v26.2.0](https://mp.weixin.qq.com/s/dYHAwo4nrjU5wEfAn83UVQ) (发布日期: 2026-02-22)
-- [BeyondTrust高危漏洞遭勒索团伙利用，留给企业的时间不多了](https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw) (发布日期: 2026-02-22)
-- [Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台](https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w) (发布日期: 2026-02-22)
-- [LangGraph 驱动的基于反馈进化的 AI 渗透测试多智能体系统](https://mp.weixin.qq.com/s/YCKZTOQIDgITfu12p8pM_w) (发布日期: 2026-02-22)
-- [企业 SRC 低投入，高收益漏洞总结](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) (发布日期: 2026-02-22)
-- [[工具·书·人] 把渗透测试交给 AI 来做，这个开源项目做到了什么程度](https://mp.weixin.qq.com/s/HaDcE5B3OpZvXdBx9eLl-Q) (发布日期: 2026-02-22)
-- [你的Windows还安全吗？2月6个零日漏洞正在被大规模利用](https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw) (发布日期: 2026-02-22)
-- [Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台](https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg) (发布日期: 2026-02-22)
-- [Claude Code Security 入场，软件安全工具的饭碗还保得住吗？](https://mp.weixin.qq.com/s/xihZJ0FOPGwaBqiUyd-EbQ) (发布日期: 2026-02-22)
-
-### BruceFeIix
-
-- [ ] [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354) (发布日期: 2026-02-22)
-- [ ] [如何组建网络安全应急响应团队](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd) (发布日期: 2026-02-22)
+- [银狐黑产组织通过恶意软件盗取你的虚拟货币](https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg) (发布日期: 2026-02-22)
+- [伪装成简历某红队窃密样本分析](https://mp.weixin.qq.com/s/26eQePkTAaA0kuT0C314yg) (发布日期: 2026-02-22)
+- [做个\"脚本小子\"--XPOC下载篇](https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ) (发布日期: 2026-02-22)
+- [Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) (发布日期: 2026-02-22)
+- [几个常见漏洞挖掘案例分享](https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ) (发布日期: 2026-02-22)
+- [第46天-Java安全学习笔记：动态代理与反序列化利用链深度解析](https://mp.weixin.qq.com/s/DjMcGQu7ZLEFfdZKQgn6EQ) (发布日期: 2026-02-22)
+- [第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析](https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA) (发布日期: 2026-02-22)
+- [总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施）](https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q) (发布日期: 2026-02-22)
+- [前沿 | 网络数据安全风险评估机制面临的问题与制度优化措施](https://mp.weixin.qq.com/s/oJXPqX6KIhPIFoT5IEM9WA) (发布日期: 2026-02-22)
 
 
 ## 🎯 威胁详情分析
@@ -92,33 +81,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [CVE-2026-0714] 嵌入式设备上的 TPM 嗅探 LUKS 密钥 | Doonsec | [https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw](https://mp.weixin.qq.com/s/-Ww5NDMB9C7Pb7URNJZeAw) |
-| 2 | Anthropic推出Claude Code Security，用于人工智能驱动的漏洞扫描 | Doonsec | [https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A](https://mp.weixin.qq.com/s/OVMUp8YalicS003K06t93A) |
-| 3 | CISA 将两个已被积极利用的 Roundcube 漏洞添加到 KEV 目录中 | Doonsec | [https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww](https://mp.weixin.qq.com/s/nUC7IPuPHritj2a5YX5oww) |
-| 4 | FnOS GUI Exploit Tool:针对 FnOS 系统的综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q](https://mp.weixin.qq.com/s/CC2s1g-j9tmnd5qMjfjx0Q) |
-| 5 | BeyondTrust高危漏洞遭勒索团伙利用，留给企业的时间不多了 | Doonsec | [https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw](https://mp.weixin.qq.com/s/-rpsSSJNE5oSsqbwqxtiSw) |
-| 6 | Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台 | Doonsec | [https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w](https://mp.weixin.qq.com/s/j6dpdiTw8cXxCo62lt4Y_w) |
-| 7 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) |
-| 8 | 你的Windows还安全吗？2月6个零日漏洞正在被大规模利用 | Doonsec | [https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw](https://mp.weixin.qq.com/s/JJtI7BTMmJ1ayFJcIDlAfw) |
-| 9 | Go 原生的可视化自动化资产监控与攻击面漏洞扫描平台 | Doonsec | [https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg](https://mp.weixin.qq.com/s/zysGSE_z0GvlU0N7j-W0Hg) |
+| 1 | 做个\"脚本小子\"--XPOC下载篇 | Doonsec | [https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ](https://mp.weixin.qq.com/s/BhfaxatmTiWpxMZhuukHHQ) |
+| 2 | Windows记事本RCE漏洞PoC已公开（CVE-2026-20841） | Doonsec | [https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) |
+| 3 | 几个常见漏洞挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ](https://mp.weixin.qq.com/s/v6bW3AwyovI0R2YN7F3viQ) |
+| 4 | 第45天-JavaEE安全探秘：动态代理与反序列化漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA](https://mp.weixin.qq.com/s/SyENC7Y9eWi6UciQEwWNeA) |
+| 5 | 总结常见的web安全漏洞（产生原因 ，原理 ，危害 ，防御措施） | Doonsec | [https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q](https://mp.weixin.qq.com/s/bqavfbmDlHutjTb2hQVZ6Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354) |
+| 1 | Windows记事本RCE漏洞PoC已公开（CVE-2026-20841） | Doonsec | [https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw](https://mp.weixin.qq.com/s/h7uNXsxKDj6JaR4A-w-0kw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [如何组建网络安全应急响应团队 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 企业 SRC 低投入，高收益漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw](https://mp.weixin.qq.com/s/5cQBb9LQ1wBTUeOR8O-hJw) |
+| 1 | 银狐黑产组织通过恶意软件盗取你的虚拟货币 | Doonsec | [https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg](https://mp.weixin.qq.com/s/vNH3GL2PuLihLpQi1XmzOg) |
 
 
 ## 📁 归档路径
@@ -134,8 +113,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-22 08:33:10*
+*生成时间: 2026-02-22 12:51:21*
 *报告工具: 微信文章安全归档系统*
