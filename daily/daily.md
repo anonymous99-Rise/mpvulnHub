@@ -1,18 +1,21 @@
-# 2026-02-22 安全威胁态势报告
+# 2026-02-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **攻击技术**: 5篇
+- **漏洞利用**: 4篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,11 +64,27 @@
 
 ### Doonsec
 
-- [工业设备的 TPM 加密防线，竟被一根探针轻松攻破？](https://mp.weixin.qq.com/s/krolJbpabCByqBwBMo07Hg) (发布日期: 2026-02-22)
-- [Phantom TrojanWalker——AI 恶意软件自动化分析平台](https://mp.weixin.qq.com/s/hmxfMk-3uIohed4Jq8YHZQ) (发布日期: 2026-02-22)
-- [无人机网络入侵检测与信任体系研究综述](https://mp.weixin.qq.com/s/U79xZF2VrFpTGbifA-IHeA) (发布日期: 2026-02-22)
-- [航电系统信息安全防护工程培训课程2026](https://mp.weixin.qq.com/s/S-_OjOQHOnYQiKCMbAPugg) (发布日期: 2026-02-22)
-- [CVE-2026-27470(Zoneminder-二阶注入)研究](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) (发布日期: 2026-02-22)
+- [漏洞复现 | Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞](https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ) (发布日期: 2026-02-23)
+- [网安行业几小时内蒸发百亿，Claude Code安全工具发布](https://mp.weixin.qq.com/s/W10hyTL-RkKfHZEBWra7hg) (发布日期: 2026-02-23)
+- [AI时代下安全工程师培养的新范式](https://mp.weixin.qq.com/s/38bMNXF_ByL5MgDP5ynFwg) (发布日期: 2026-02-23)
+- [别再瞎爆破！最全的内网凭据密码收集方法和技巧总结](https://mp.weixin.qq.com/s/uESwFGjdXR01517kCTRpGw) (发布日期: 2026-02-23)
+- [AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式](https://mp.weixin.qq.com/s/XQVo2dXJeERm7sNnwycBQg) (发布日期: 2026-02-23)
+- [亚马逊：黑客借AI之手，五周攻破600台Fortinet防火墙](https://mp.weixin.qq.com/s/lEha0tsmZoq4lQuBfMd_dQ) (发布日期: 2026-02-23)
+- [一次省护红队的经历(100w公民信息泄露+找到双网卡主机—>内网沦陷)](https://mp.weixin.qq.com/s/gIZPFOPyNu0gilsNDRRgjw) (发布日期: 2026-02-23)
+- [第47天-JNDI注入深度剖析：从原理到高版本绕过，一篇全掌握！](https://mp.weixin.qq.com/s/kYzs6vSH2g3u8ONm1lEJGw) (发布日期: 2026-02-23)
+- [PromptLock现身：当勒索软件学会\'思考\'，我们的防线还够用吗？](https://mp.weixin.qq.com/s/llf8wUfLQ5LU8aM-OKFtUg) (发布日期: 2026-02-23)
+- [北约（NATO）及其成员国/伙伴实体的机密文件和个人信息泄露](https://mp.weixin.qq.com/s/gvXvm0yucpU4dDLg_2EuvA) (发布日期: 2026-02-23)
+- [数据安全审计实施细则](https://mp.weixin.qq.com/s/n649q1Hgn44myPSSvN7KEw) (发布日期: 2026-02-23)
+- [零逆向 DLL 劫持后门生成器](https://mp.weixin.qq.com/s/LLntn218i_MC9ZQdgI52-w) (发布日期: 2026-02-23)
+- [网络安全新闻周报：PayPal 数据泄露、Chrome 零日漏洞、BeyondTrust 远程代码执行漏洞等](https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w) (发布日期: 2026-02-23)
+- [外国安全研究人员眼中的中国两大网络安全漏洞库](https://mp.weixin.qq.com/s/6WIbsMskNo9RE5BXtpHpEQ) (发布日期: 2026-02-23)
+- [防火墙旁挂部署二选一：详解单臂/双臂方案，避坑策略一看就懂！](https://mp.weixin.qq.com/s/vXe1jE7ej35BCKg585kzSw) (发布日期: 2026-02-23)
+- [SolarWinds 2026 的关键漏洞](https://mp.weixin.qq.com/s/g7cGTdl_BotRwvnm7Vvz2Q) (发布日期: 2026-02-23)
+- [日本华盛顿酒店确认遭勒索软件攻击疑似泄露用户信息](https://mp.weixin.qq.com/s/Io0lhbV-DzG8iAuUQPWDJg) (发布日期: 2026-02-23)
+- [亚马逊：黑客借助生成式AI五周攻陷全球600台防火墙](https://mp.weixin.qq.com/s/JTm47H34YxW75cur2fgMQg) (发布日期: 2026-02-23)
+- [多个黑客组织利用 OpenClaw 实例窃取 API 密钥并部署恶意软件](https://mp.weixin.qq.com/s/CRZ3CJ-Lsc96cPTe3Ehesg) (发布日期: 2026-02-23)
+- [黑客将 Pulsar RAT 隐藏在 PNG 图片中，发动新的 NPM 供应链攻击](https://mp.weixin.qq.com/s/vOqH4LmqUkQupjbhhW7QwA) (发布日期: 2026-02-23)
+- [针对iOS系统的国家级网络攻击深度分析与个人安全防护体系报告](https://mp.weixin.qq.com/s/DSd_exV3sRTk7xswZEnBhg) (发布日期: 2026-02-23)
 
 
 ## 🎯 威胁详情分析
@@ -74,18 +93,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-27470(Zoneminder-二阶注入)研究 | Doonsec | [https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) |
+| 1 | 漏洞复现 | Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ](https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ) |
+| 2 | 网络安全新闻周报：PayPal 数据泄露、Chrome 零日漏洞、BeyondTrust 远程代码执行漏洞等 | Doonsec | [https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w](https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w) |
+| 3 | 外国安全研究人员眼中的中国两大网络安全漏洞库 | Doonsec | [https://mp.weixin.qq.com/s/6WIbsMskNo9RE5BXtpHpEQ](https://mp.weixin.qq.com/s/6WIbsMskNo9RE5BXtpHpEQ) |
+| 4 | SolarWinds 2026 的关键漏洞 | Doonsec | [https://mp.weixin.qq.com/s/g7cGTdl_BotRwvnm7Vvz2Q](https://mp.weixin.qq.com/s/g7cGTdl_BotRwvnm7Vvz2Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-27470(Zoneminder-二阶注入)研究 | Doonsec | [https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg](https://mp.weixin.qq.com/s/U-U30eoVQhrH3RoB4OIghg) |
+| 1 | 漏洞复现 | Tosei自助洗衣机network_test.php接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ](https://mp.weixin.qq.com/s/7PnJ9zmlT2dC1OA8MH4VoQ) |
+| 2 | 别再瞎爆破！最全的内网凭据密码收集方法和技巧总结 | Doonsec | [https://mp.weixin.qq.com/s/uESwFGjdXR01517kCTRpGw](https://mp.weixin.qq.com/s/uESwFGjdXR01517kCTRpGw) |
+| 3 | 一次省护红队的经历(100w公民信息泄露+找到双网卡主机—>内网沦陷) | Doonsec | [https://mp.weixin.qq.com/s/gIZPFOPyNu0gilsNDRRgjw](https://mp.weixin.qq.com/s/gIZPFOPyNu0gilsNDRRgjw) |
+| 4 | 第47天-JNDI注入深度剖析：从原理到高版本绕过，一篇全掌握！ | Doonsec | [https://mp.weixin.qq.com/s/kYzs6vSH2g3u8ONm1lEJGw](https://mp.weixin.qq.com/s/kYzs6vSH2g3u8ONm1lEJGw) |
+| 5 | 网络安全新闻周报：PayPal 数据泄露、Chrome 零日漏洞、BeyondTrust 远程代码执行漏洞等 | Doonsec | [https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w](https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络安全新闻周报：PayPal 数据泄露、Chrome 零日漏洞、BeyondTrust 远程代码执行漏洞等 | Doonsec | [https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w](https://mp.weixin.qq.com/s/boSZCgh5xSBA76GawUWf-w) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 黑客将 Pulsar RAT 隐藏在 PNG 图片中，发动新的 NPM 供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/vOqH4LmqUkQupjbhhW7QwA](https://mp.weixin.qq.com/s/vOqH4LmqUkQupjbhhW7QwA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W08/2026-02-22/`
+文章已归档到: `doc/2026/2026-02/2026-W09/2026-02-23/`
 
 ## 🔗 数据源说明
 
@@ -96,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 5 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -106,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-22 20:27:22*
+*生成时间: 2026-02-23 02:11:44*
 *报告工具: 微信文章安全归档系统*
