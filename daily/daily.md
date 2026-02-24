@@ -1,16 +1,24 @@
-# 2026-02-23 安全威胁态势报告
+# 2026-02-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 37
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 37篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 12篇
+- **威胁情报**: 6篇
+- **攻击技术**: 3篇
+- **安全运营**: 3篇
+- **供应链**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 2篇
+- **网络攻击**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -60,15 +68,108 @@
 
 ### Doonsec
 
-- [【Web 安全实战】黑名单全覆盖？带你用 .htaccess 玩转文件上传绕过](https://mp.weixin.qq.com/s/jEQTj5SjJRUzSXUY0PZhbQ) (发布日期: 2026-02-23)
+- [蓝牙渗透测试工具更新](https://mp.weixin.qq.com/s/PhcWzwwsuCU0R1AlgT_UrA) (发布日期: 2026-02-24)
+- [网安股暴跌！因 Anthropic 发布了一款安全工具。。。](https://mp.weixin.qq.com/s/9WR5oqEUwjm1PESm0WAfeA) (发布日期: 2026-02-24)
+- [深度解析：在 Rails 中通过结构化代码消灭 IDOR 漏洞](https://mp.weixin.qq.com/s/oMqK4nCnXVBH8IguGzfq3Q) (发布日期: 2026-02-24)
+- [黑客组织大规模利用OpenClaw漏洞，窃取API密钥并部署恶意软件](https://mp.weixin.qq.com/s/1FZ4g6E_vCYG2zwGjnxy3Q) (发布日期: 2026-02-24)
+- [渗透测试中常用提权漏洞详解！](https://mp.weixin.qq.com/s/1NMUA0KBc7If-NNpxnX42w) (发布日期: 2026-02-24)
+- [某企业src的弱口令案例](https://mp.weixin.qq.com/s/nlIMfoUH7ueJL38Dr-sdNQ) (发布日期: 2026-02-24)
+- [一款轻量级Windows 应急响应辅助工具 -- WG-Win-Check](https://mp.weixin.qq.com/s/hR0yU5HQZkftgxZwPnTmkg) (发布日期: 2026-02-24)
+- [俄黑客组织 APT28 利用基于 Webhook 的宏恶意软件攻击欧洲实体](https://mp.weixin.qq.com/s/Oab0yXVmiaGA7dTlMJU8jw) (发布日期: 2026-02-24)
+- [AWS威胁情报团队发现600多台FortiGate设备受到攻击](https://mp.weixin.qq.com/s/txGhYRm0Y4wOoajIZS6jvw) (发布日期: 2026-02-24)
+- [VPN漏洞使得黑客得以入侵数十家Ivanti客户的账户](https://mp.weixin.qq.com/s/2Q7FF22ygEKPSlThzFeCJg) (发布日期: 2026-02-24)
+- [不止渗透测试：10 种网络韧性演练方案](https://mp.weixin.qq.com/s/gUYop0CJ3pQBP_qfWMMJQA) (发布日期: 2026-02-24)
+- [捷普网络安全服务体系，护航企业数智化发展](https://mp.weixin.qq.com/s/vUb6hIzHQ_s2tvM5SwdJzA) (发布日期: 2026-02-24)
+- [山石网科中标｜中国银行国芯防火墙项目](https://mp.weixin.qq.com/s/ZQIFmCdfJtv1DbYKehdUXA) (发布日期: 2026-02-24)
+- [实战挖洞技巧-记一次由任意注册引发的严重信息泄露案例](https://mp.weixin.qq.com/s/v7V0wL9XdZDH84w-fC_Xgg) (发布日期: 2026-02-24)
+- [【红队必备】红队批量打点/Getshell利器(集成百个框架高危漏洞)](https://mp.weixin.qq.com/s/_paLzPUcg5Vlrt46gRRjaA) (发布日期: 2026-02-24)
+- [终止支持版本无补丁：CISA警告称USR-W610物联网设备存在严重（9.8级）漏洞](https://mp.weixin.qq.com/s/6bmASz5JrN51y8t3jw5Gcg) (发布日期: 2026-02-24)
+- [APT28 利用基于 Webhook 的宏恶意软件攻击欧洲实体](https://mp.weixin.qq.com/s/4Nuv0qr5hssQle70B64AFA) (发布日期: 2026-02-24)
+- [红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线](https://mp.weixin.qq.com/s/bNxMRRo77De9YntmtIXtTQ) (发布日期: 2026-02-24)
+- [网安行业几小时内蒸发百亿，Claude Code安全工具发布](https://mp.weixin.qq.com/s/IYhaxHTuOqX4f5lCoZcygg) (发布日期: 2026-02-24)
+- [【红队必备】长亭科技开源轻量级供应链漏洞漏扫/应急利器](https://mp.weixin.qq.com/s/CdbIaLuvpuwycl_kMw3UCQ) (发布日期: 2026-02-24)
+- [密钥泄露事件应急响应预案编写指南](https://mp.weixin.qq.com/s/I82cyS5X0jWYYs48bLVRaw) (发布日期: 2026-02-24)
+- [Docker 常见漏洞全解析](https://mp.weixin.qq.com/s/eBfyPCZKteGFORp60cd2Cg) (发布日期: 2026-02-24)
+- [【密码学】CTRU-Light 算法解析](https://mp.weixin.qq.com/s/sLLUdUObzV7UbpayWlQcPA) (发布日期: 2026-02-24)
+- [基于Context上下文驱动的Android 恶意软件检测实现](https://mp.weixin.qq.com/s/MX3g8vtQKfAeaBijFK89Ng) (发布日期: 2026-02-24)
+- [银狐黑产最新过沙箱高级免杀木马分析](https://mp.weixin.qq.com/s/87KJgP2iMYHMTauj-zPSHg) (发布日期: 2026-02-24)
+- [内网渗透测试100条命令大全！](https://mp.weixin.qq.com/s/3bDvxG6sRMKKFVS6S8ydcQ) (发布日期: 2026-02-24)
+- [透防火墙的瑞士军刀！Go 单文件 3 秒打通内网，frp/ngrok 集体下岗](https://mp.weixin.qq.com/s/rYZ-_qOxqU0SbU_dKePVrQ) (发布日期: 2026-02-24)
+- [GrayCharlie 入侵 WordPress 网站，传播 NetSupport RAT 和 Stealc 恶意软件](https://mp.weixin.qq.com/s/GH5W7j5bvWhUndl5eqrdHA) (发布日期: 2026-02-24)
+- [Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA/Hunter/Shodan 资产测绘、AI 辅助分析、漏洞报告生成](https://mp.weixin.qq.com/s/O81bAxS38j7FAEt2GoplpQ) (发布日期: 2026-02-24)
+- [能源 | 三家与阿美相关的沙特阿拉伯承包商Almutawa Group、Tanmia Ltd 和 Bin Omairah Holding机密数据泄露](https://mp.weixin.qq.com/s/YjxRpB2OIPbUxw7Xush4sQ) (发布日期: 2026-02-24)
+- [网络安全服务责任及损失评估标准](https://mp.weixin.qq.com/s/9--W4uFH3vnPCR4RdPOyDg) (发布日期: 2026-02-24)
+- [PayPal代码漏洞导致企业账户安全受损长达六个月](https://mp.weixin.qq.com/s/3iNvhP2pesm6dytGE0tn5A) (发布日期: 2026-02-24)
+- [XSS检测单兵工具](https://mp.weixin.qq.com/s/Vv8RtMI-krnhfLeJJTGD_w) (发布日期: 2026-02-24)
+- [SRC入门新人须知](https://mp.weixin.qq.com/s/JbkkDhc_RgaQUthjgxXB1w) (发布日期: 2026-02-24)
+- [从信息收集到后台拿权全记录 SRC 视角下：渗透测试中的逻辑漏洞思路博弈](https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ) (发布日期: 2026-02-24)
+- [针对iOS系统的国家级网络攻击深度分析与个人安全防护指南](https://mp.weixin.qq.com/s/EiLROQAEdUsMHdK2RVD48g) (发布日期: 2026-02-24)
+- [自主人工智能代理带来新型供应链攻击](https://mp.weixin.qq.com/s/U6ogdTsoXgSQoIJp86dL0A) (发布日期: 2026-02-24)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 深度解析：在 Rails 中通过结构化代码消灭 IDOR 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/oMqK4nCnXVBH8IguGzfq3Q](https://mp.weixin.qq.com/s/oMqK4nCnXVBH8IguGzfq3Q) |
+| 2 | 黑客组织大规模利用OpenClaw漏洞，窃取API密钥并部署恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/1FZ4g6E_vCYG2zwGjnxy3Q](https://mp.weixin.qq.com/s/1FZ4g6E_vCYG2zwGjnxy3Q) |
+| 3 | 渗透测试中常用提权漏洞详解！ | Doonsec | [https://mp.weixin.qq.com/s/1NMUA0KBc7If-NNpxnX42w](https://mp.weixin.qq.com/s/1NMUA0KBc7If-NNpxnX42w) |
+| 4 | VPN漏洞使得黑客得以入侵数十家Ivanti客户的账户 | Doonsec | [https://mp.weixin.qq.com/s/2Q7FF22ygEKPSlThzFeCJg](https://mp.weixin.qq.com/s/2Q7FF22ygEKPSlThzFeCJg) |
+| 5 | 【红队必备】红队批量打点/Getshell利器(集成百个框架高危漏洞) | Doonsec | [https://mp.weixin.qq.com/s/_paLzPUcg5Vlrt46gRRjaA](https://mp.weixin.qq.com/s/_paLzPUcg5Vlrt46gRRjaA) |
+| 6 | 终止支持版本无补丁：CISA警告称USR-W610物联网设备存在严重（9.8级）漏洞 | Doonsec | [https://mp.weixin.qq.com/s/6bmASz5JrN51y8t3jw5Gcg](https://mp.weixin.qq.com/s/6bmASz5JrN51y8t3jw5Gcg) |
+| 7 | 红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线 | Doonsec | [https://mp.weixin.qq.com/s/bNxMRRo77De9YntmtIXtTQ](https://mp.weixin.qq.com/s/bNxMRRo77De9YntmtIXtTQ) |
+| 8 | 【红队必备】长亭科技开源轻量级供应链漏洞漏扫/应急利器 | Doonsec | [https://mp.weixin.qq.com/s/CdbIaLuvpuwycl_kMw3UCQ](https://mp.weixin.qq.com/s/CdbIaLuvpuwycl_kMw3UCQ) |
+| 9 | Docker 常见漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s/eBfyPCZKteGFORp60cd2Cg](https://mp.weixin.qq.com/s/eBfyPCZKteGFORp60cd2Cg) |
+| 10 | Nuclei 漏洞扫描图形化工具 | POC 管理、FOFA/Hunter/Shodan 资产测绘、AI 辅助分析、漏洞报告生成 | Doonsec | [https://mp.weixin.qq.com/s/O81bAxS38j7FAEt2GoplpQ](https://mp.weixin.qq.com/s/O81bAxS38j7FAEt2GoplpQ) |
+| 11 | PayPal代码漏洞导致企业账户安全受损长达六个月 | Doonsec | [https://mp.weixin.qq.com/s/3iNvhP2pesm6dytGE0tn5A](https://mp.weixin.qq.com/s/3iNvhP2pesm6dytGE0tn5A) |
+| 12 | 从信息收集到后台拿权全记录 SRC 视角下：渗透测试中的逻辑漏洞思路博弈 | Doonsec | [https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ](https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 内网渗透测试100条命令大全！ | Doonsec | [https://mp.weixin.qq.com/s/3bDvxG6sRMKKFVS6S8ydcQ](https://mp.weixin.qq.com/s/3bDvxG6sRMKKFVS6S8ydcQ) |
+| 2 | 透防火墙的瑞士军刀！Go 单文件 3 秒打通内网，frp/ngrok 集体下岗 | Doonsec | [https://mp.weixin.qq.com/s/rYZ-_qOxqU0SbU_dKePVrQ](https://mp.weixin.qq.com/s/rYZ-_qOxqU0SbU_dKePVrQ) |
+| 3 | XSS检测单兵工具 | Doonsec | [https://mp.weixin.qq.com/s/Vv8RtMI-krnhfLeJJTGD_w](https://mp.weixin.qq.com/s/Vv8RtMI-krnhfLeJJTGD_w) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 一款轻量级Windows 应急响应辅助工具 -- WG-Win-Check | Doonsec | [https://mp.weixin.qq.com/s/hR0yU5HQZkftgxZwPnTmkg](https://mp.weixin.qq.com/s/hR0yU5HQZkftgxZwPnTmkg) |
+| 2 | 俄黑客组织 APT28 利用基于 Webhook 的宏恶意软件攻击欧洲实体 | Doonsec | [https://mp.weixin.qq.com/s/Oab0yXVmiaGA7dTlMJU8jw](https://mp.weixin.qq.com/s/Oab0yXVmiaGA7dTlMJU8jw) |
+| 3 | AWS威胁情报团队发现600多台FortiGate设备受到攻击 | Doonsec | [https://mp.weixin.qq.com/s/txGhYRm0Y4wOoajIZS6jvw](https://mp.weixin.qq.com/s/txGhYRm0Y4wOoajIZS6jvw) |
+| 4 | APT28 利用基于 Webhook 的宏恶意软件攻击欧洲实体 | Doonsec | [https://mp.weixin.qq.com/s/4Nuv0qr5hssQle70B64AFA](https://mp.weixin.qq.com/s/4Nuv0qr5hssQle70B64AFA) |
+| 5 | 密钥泄露事件应急响应预案编写指南 | Doonsec | [https://mp.weixin.qq.com/s/I82cyS5X0jWYYs48bLVRaw](https://mp.weixin.qq.com/s/I82cyS5X0jWYYs48bLVRaw) |
+| 6 | 银狐黑产最新过沙箱高级免杀木马分析 | Doonsec | [https://mp.weixin.qq.com/s/87KJgP2iMYHMTauj-zPSHg](https://mp.weixin.qq.com/s/87KJgP2iMYHMTauj-zPSHg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 某企业src的弱口令案例 | Doonsec | [https://mp.weixin.qq.com/s/nlIMfoUH7ueJL38Dr-sdNQ](https://mp.weixin.qq.com/s/nlIMfoUH7ueJL38Dr-sdNQ) |
+| 2 | SRC入门新人须知 | Doonsec | [https://mp.weixin.qq.com/s/JbkkDhc_RgaQUthjgxXB1w](https://mp.weixin.qq.com/s/JbkkDhc_RgaQUthjgxXB1w) |
+| 3 | 从信息收集到后台拿权全记录 SRC 视角下：渗透测试中的逻辑漏洞思路博弈 | Doonsec | [https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ](https://mp.weixin.qq.com/s/rrBaGy7fhAb9SqwNjxVbCQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 能源 | 三家与阿美相关的沙特阿拉伯承包商Almutawa Group、Tanmia Ltd 和 Bin Omairah Holding机密数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/YjxRpB2OIPbUxw7Xush4sQ](https://mp.weixin.qq.com/s/YjxRpB2OIPbUxw7Xush4sQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【红队必备】长亭科技开源轻量级供应链漏洞漏扫/应急利器 | Doonsec | [https://mp.weixin.qq.com/s/CdbIaLuvpuwycl_kMw3UCQ](https://mp.weixin.qq.com/s/CdbIaLuvpuwycl_kMw3UCQ) |
+| 2 | 自主人工智能代理带来新型供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/U6ogdTsoXgSQoIJp86dL0A](https://mp.weixin.qq.com/s/U6ogdTsoXgSQoIJp86dL0A) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W09/2026-02-23/`
+文章已归档到: `doc/2026/2026-02/2026-W09/2026-02-24/`
 
 ## 🔗 数据源说明
 
@@ -79,8 +180,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +190,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-23 16:57:46*
+*生成时间: 2026-02-24 02:08:38*
 *报告工具: 微信文章安全归档系统*
