@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 25篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
 - **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 3篇
-- **Web安全**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,31 +62,10 @@
 
 ### Doonsec
 
-- [【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（一）ICS过程控制漏洞概述](https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ) (发布日期: 2026-02-25)
-- [网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权](https://mp.weixin.qq.com/s/LoLQIph9v7DqhAdOOwUZKQ) (发布日期: 2026-02-25)
-- [成都信息工程大学媒体融合与传播安全团队刘东博副教授在国际顶级期刊发表学术论文](https://mp.weixin.qq.com/s/21GRZa0_1ZZ_g8W-vh-mQg) (发布日期: 2026-02-25)
-- [四川大学人工智能安全领域最新研究成果被ICLR 2026接收](https://mp.weixin.qq.com/s/TKNY6GTgvSN1ifeNSMaHqw) (发布日期: 2026-02-25)
-- [获取CISSP认证，引领网络安全领导者之路](https://mp.weixin.qq.com/s/8i5wwoo5nxguUcgeuzLslQ) (发布日期: 2026-02-25)
-- [安恒正式推出中国版“Claude Code Security”!恒脑安全智能体漏洞挖掘能力跑出行业加速度](https://mp.weixin.qq.com/s/A7rUKKcOf5RccwiFESaySg) (发布日期: 2026-02-25)
-- [黑客组织 Lazarus 新动向！运用 Medusa 勒索软件攻击中东及美国医疗机构](https://mp.weixin.qq.com/s/Q2PgvxHcjk5sZiiuocmDkg) (发布日期: 2026-02-25)
-- [OpenClaw最新版本发布，安全防护全面升级强化](https://mp.weixin.qq.com/s/Y_fEf_nHu1I-7p44Y4iExQ) (发布日期: 2026-02-25)
-- [GitHub Copilot漏洞可致代码库遭劫持，攻击者利用AI静默窃取敏感令牌](https://mp.weixin.qq.com/s/jba1vz708W7K90gopsxt9A) (发布日期: 2026-02-25)
-- [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s/UPd5LD-2Blrwcr_Dqush8w) (发布日期: 2026-02-25)
-- [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业](https://mp.weixin.qq.com/s/KMbHwHEstoh_lSvEDN3CwA) (发布日期: 2026-02-25)
-- [【招人】车辆网络安全测试工程师](https://mp.weixin.qq.com/s/eXPM7pOeVtgTYfQUm561wQ) (发布日期: 2026-02-25)
-- [漏洞挖掘中的组合拳攻击](https://mp.weixin.qq.com/s/Az2eMxaNcGRfMSMALDyJSw) (发布日期: 2026-02-25)
-- [什么操作魔法？安全漏洞轻松到手](https://mp.weixin.qq.com/s/6Nk3utyfCDeN7K_sf9VQ4Q) (发布日期: 2026-02-25)
-- [【免费领】大厂经验成果：DDoS攻击应急响应实战指导手册](https://mp.weixin.qq.com/s/PDDpb6mmgswRNer7xyzNjA) (发布日期: 2026-02-25)
-- [MWC 2026倒计时！安天移动安全携移动智能终端安全防护解决方案，赴巴塞罗那之约](https://mp.weixin.qq.com/s/qtPdykq_rrY5scPkQpJLEw) (发布日期: 2026-02-25)
-- [SOC片上互联设计](https://mp.weixin.qq.com/s/ynKpXvw1FGra2q1NGkTIAg) (发布日期: 2026-02-25)
-- [【内推】渗透测试工程师岗位](https://mp.weixin.qq.com/s/FoTan11QecM1AVe-mSOrSA) (发布日期: 2026-02-25)
-- [一款全方位渗透测试工具](https://mp.weixin.qq.com/s/ibzgKU-sBFCO-BUE4Q2Dqg) (发布日期: 2026-02-25)
-- [【线下培训】聚焦实战强技能！我司受邀参加某市网安支队电子数据取证分析培训班](https://mp.weixin.qq.com/s/n7saECS5FSXFI3XL6cKV5w) (发布日期: 2026-02-25)
-- [信息安全管理体系介绍（含全套体系文档）](https://mp.weixin.qq.com/s/rSu16hK2oNcD4_NoTsJZNA) (发布日期: 2026-02-25)
-- [AI红队工具“卷王”诞生：Predator v2.3.0融合15大竞品，安全圈惊呼“还要人类干嘛？”](https://mp.weixin.qq.com/s/g6fbvnKVMmtCb4M69CCCRw) (发布日期: 2026-02-25)
-- [CVE-2026-24061：潜伏11年的致命漏洞深度解析](https://mp.weixin.qq.com/s/VdqN_G-hzgikTFCNN_oBsw) (发布日期: 2026-02-25)
-- [【红队工具】红队内网后渗透CobaltStrike插件更新](https://mp.weixin.qq.com/s/W7TWR4mw8Sx9RCFoJSKPjg) (发布日期: 2026-02-25)
-- [纯数据勒索增长11倍，勒索软件团伙想要马上有“钱”](https://mp.weixin.qq.com/s/doi_2WDBOJsrahpiYorfNQ) (发布日期: 2026-02-25)
+- [猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) (发布日期: 2026-02-25)
+- [EasyTools渗透测试工具箱V2.1.4更新(优化资源桶遍历功能，支持kkfileview预览，新增空间测绘、AI版域名收集功能等诸多功能)](https://mp.weixin.qq.com/s/xrwbiMyEbRW0Pecd9OONxQ) (发布日期: 2026-02-25)
+- [一个开源的渗透测试辅助平台--Payloader](https://mp.weixin.qq.com/s/MRMx0FpLvWAJVTWDJMm4Ig) (发布日期: 2026-02-25)
+- [网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权](https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA) (发布日期: 2026-02-25)
 
 
 ## 🎯 威胁详情分析
@@ -97,26 +74,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（一）ICS过程控制漏洞概述 | Doonsec | [https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ](https://mp.weixin.qq.com/s/i6ZJifWeNNpgDswNgAkqXQ) |
-| 2 | 安恒正式推出中国版“Claude Code Security”!恒脑安全智能体漏洞挖掘能力跑出行业加速度 | Doonsec | [https://mp.weixin.qq.com/s/A7rUKKcOf5RccwiFESaySg](https://mp.weixin.qq.com/s/A7rUKKcOf5RccwiFESaySg) |
-| 3 | GitHub Copilot漏洞可致代码库遭劫持，攻击者利用AI静默窃取敏感令牌 | Doonsec | [https://mp.weixin.qq.com/s/jba1vz708W7K90gopsxt9A](https://mp.weixin.qq.com/s/jba1vz708W7K90gopsxt9A) |
-| 4 | Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业 | Doonsec | [https://mp.weixin.qq.com/s/KMbHwHEstoh_lSvEDN3CwA](https://mp.weixin.qq.com/s/KMbHwHEstoh_lSvEDN3CwA) |
-| 5 | 漏洞挖掘中的组合拳攻击 | Doonsec | [https://mp.weixin.qq.com/s/Az2eMxaNcGRfMSMALDyJSw](https://mp.weixin.qq.com/s/Az2eMxaNcGRfMSMALDyJSw) |
-| 6 | 什么操作魔法？安全漏洞轻松到手 | Doonsec | [https://mp.weixin.qq.com/s/6Nk3utyfCDeN7K_sf9VQ4Q](https://mp.weixin.qq.com/s/6Nk3utyfCDeN7K_sf9VQ4Q) |
-| 7 | CVE-2026-24061：潜伏11年的致命漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s/VdqN_G-hzgikTFCNN_oBsw](https://mp.weixin.qq.com/s/VdqN_G-hzgikTFCNN_oBsw) |
+| 1 | 猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台 | Doonsec | [https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权 | Doonsec | [https://mp.weixin.qq.com/s/LoLQIph9v7DqhAdOOwUZKQ](https://mp.weixin.qq.com/s/LoLQIph9v7DqhAdOOwUZKQ) |
-| 2 | 【红队工具】红队内网后渗透CobaltStrike插件更新 | Doonsec | [https://mp.weixin.qq.com/s/W7TWR4mw8Sx9RCFoJSKPjg](https://mp.weixin.qq.com/s/W7TWR4mw8Sx9RCFoJSKPjg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【免费领】大厂经验成果：DDoS攻击应急响应实战指导手册 | Doonsec | [https://mp.weixin.qq.com/s/PDDpb6mmgswRNer7xyzNjA](https://mp.weixin.qq.com/s/PDDpb6mmgswRNer7xyzNjA) |
+| 1 | 猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台 | Doonsec | [https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) |
+| 2 | 网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权 | Doonsec | [https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA](https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA) |
 
 
 ## 📁 归档路径
@@ -132,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -142,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-25 13:06:03*
+*生成时间: 2026-02-25 17:07:50*
 *报告工具: 微信文章安全归档系统*
