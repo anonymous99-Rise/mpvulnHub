@@ -1,19 +1,21 @@
-# 2026-02-25 安全威胁态势报告
+# 2026-02-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 29
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 5篇
+- **威胁情报**: 2篇
+- **安全运营**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,10 +64,35 @@
 
 ### Doonsec
 
-- [猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) (发布日期: 2026-02-25)
-- [EasyTools渗透测试工具箱V2.1.4更新(优化资源桶遍历功能，支持kkfileview预览，新增空间测绘、AI版域名收集功能等诸多功能)](https://mp.weixin.qq.com/s/xrwbiMyEbRW0Pecd9OONxQ) (发布日期: 2026-02-25)
-- [一个开源的渗透测试辅助平台--Payloader](https://mp.weixin.qq.com/s/MRMx0FpLvWAJVTWDJMm4Ig) (发布日期: 2026-02-25)
-- [网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权](https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA) (发布日期: 2026-02-25)
+- [用 frida 向 React Native 动态注入 js 代码](https://mp.weixin.qq.com/s/UkgLg2efyBuionqSqt-_LQ) (发布日期: 2026-02-26)
+- [记一次抽丝剥茧式的渗透测试](https://mp.weixin.qq.com/s/xu4wIWh0DYT63yfEVYtUTQ) (发布日期: 2026-02-26)
+- [MIMICRAT：一个利用真实网站投递的“精装修”远控木马](https://mp.weixin.qq.com/s/gqWNZ3t7jFx87ygBWWV4Sw) (发布日期: 2026-02-26)
+- [EventLog-in：利用微软Windows事件日志服务进行弱凭证横向移动（CVE-2025-29969）](https://mp.weixin.qq.com/s/R6eEvS4lrouNvcOpgYFUXQ) (发布日期: 2026-02-26)
+- [\'ormar\' Python 库中发现严重 SQL 注入漏洞](https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww) (发布日期: 2026-02-26)
+- [纯数据勒索(不加密只勒索) 成为新趋势](https://mp.weixin.qq.com/s/mQI7giGg1EAU_ytKuUAOlQ) (发布日期: 2026-02-26)
+- [马年！天融信大模型安全网关焕新升级](https://mp.weixin.qq.com/s/qJ4Ui4OOE7QSODRZPEdk8w) (发布日期: 2026-02-26)
+- [伪装成WinRAR解压软件的银狐黑产最新攻击样本分析](https://mp.weixin.qq.com/s/C_FUwYzIHwYMoidY1y1O7A) (发布日期: 2026-02-26)
+- [【密码学】BKZ 的诞生及其在子集和问题中的应用](https://mp.weixin.qq.com/s/JJLZMg8UUoren653n2jRSw) (发布日期: 2026-02-26)
+- [linux安全加固：服务器被打之前和之后，我分别做了什么](https://mp.weixin.qq.com/s/rd72awHdvhCjFEzSpiCzqw) (发布日期: 2026-02-26)
+- [【SRC赏金猎人必备】SRC资产扫描利器(集成四测绘引擎+549 POC)](https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw) (发布日期: 2026-02-26)
+- [全方位内网扫描工具-P1soda](https://mp.weixin.qq.com/s/UvJxGcNlT6b-RNK6Z3WcBw) (发布日期: 2026-02-26)
+- [【SRC赏金猎人必备】一款自动化SRC资产监控与漏洞扫描框架](https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA) (发布日期: 2026-02-26)
+- [VXControl团队出品：AI渗透测试系统PentAGI项目介绍](https://mp.weixin.qq.com/s/PJhgFARV8jB7Uo3pPqSBIg) (发布日期: 2026-02-26)
+- [《一份马年开工数据安全自查清单（附直接可用模板）| 数据安全十讲》](https://mp.weixin.qq.com/s/i2gkW5UhQ5eq-6_tbjKqOw) (发布日期: 2026-02-26)
+- [SolarWinds安全事件回顾：从SUNBURST到Serv-U的持续性威胁](https://mp.weixin.qq.com/s/62682O6Xn8QVYYrBvGXHiw) (发布日期: 2026-02-26)
+- [威努特钢铁行业勒索病毒防御体系构建指南](https://mp.weixin.qq.com/s/NzjxbdjNIPiKU_M-OMRtGg) (发布日期: 2026-02-26)
+- [深扒 npm 恶意包新变种：从“偷 Token”到“AI 注入”，供应链攻击进入 Next Level](https://mp.weixin.qq.com/s/Oae6X2U5r_RUUZx05OSwbQ) (发布日期: 2026-02-26)
+- [Rust后门+Telegram C2，带你扒一扒“浑水”组织的最新攻击链](https://mp.weixin.qq.com/s/P0QhftI7f-UIbOYNTawJTw) (发布日期: 2026-02-26)
+- [内鬼、黑客与替罪羊?L3Harris“核武级”漏洞泄露案拷问西方情报供应链安全](https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A) (发布日期: 2026-02-26)
+- [【转】智能赋能 安全护航 | 2026中国石油石化行业人工智能安全与智能体技术应用研讨会将于3月31日至4月2日在杭州市举办！](https://mp.weixin.qq.com/s/z84rqOXcw_SKwgiNuZ2k3g) (发布日期: 2026-02-26)
+- [【利用难度极低】CVE-2026-25253 OpenClaw漏洞剖析](https://mp.weixin.qq.com/s/K1iLP1PsXk3JHAEG88KjXw) (发布日期: 2026-02-26)
+- [谁才是2026年的渗透测试之王？](https://mp.weixin.qq.com/s/STpJR_zim_teijJuJgqI9Q) (发布日期: 2026-02-26)
+- [开年喜报！炼石中标某百年历史三甲医院数据加密项目](https://mp.weixin.qq.com/s/CLI6SZezj_7prVPevukMiw) (发布日期: 2026-02-26)
+- [BurpSuite 最强辅助插件，全自动 SQL 注入6种注入检测算法|v3.3.0更新全面重构](https://mp.weixin.qq.com/s/GF_svScEPiGll0SP_2GDFg) (发布日期: 2026-02-26)
+- [云原生安全全栈落地指南：CSPM+CWPP双引擎架构与核心风险管控](https://mp.weixin.qq.com/s/NFwbnuqXSrMy--S1Bfuvrg) (发布日期: 2026-02-26)
+- [CAF目标C——C1原理 安全监控](https://mp.weixin.qq.com/s/pdkBFKRI__aA6C4AJhgO6w) (发布日期: 2026-02-26)
+- [ACF插件漏洞使黑客能够获得5万个WordPress网站的管理权限](https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g) (发布日期: 2026-02-26)
+- [[视频]红队攻防-高级LNK快捷方式](https://mp.weixin.qq.com/s/Lu7opO6uwKVWZR9ZUe761g) (发布日期: 2026-02-26)
 
 
 ## 🎯 威胁详情分析
@@ -74,19 +101,49 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台 | Doonsec | [https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) |
+| 1 | EventLog-in：利用微软Windows事件日志服务进行弱凭证横向移动（CVE-2025-29969） | Doonsec | [https://mp.weixin.qq.com/s/R6eEvS4lrouNvcOpgYFUXQ](https://mp.weixin.qq.com/s/R6eEvS4lrouNvcOpgYFUXQ) |
+| 2 | \'ormar\' Python 库中发现严重 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww](https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww) |
+| 3 | 【SRC赏金猎人必备】SRC资产扫描利器(集成四测绘引擎+549 POC) | Doonsec | [https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw](https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw) |
+| 4 | 【SRC赏金猎人必备】一款自动化SRC资产监控与漏洞扫描框架 | Doonsec | [https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA](https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA) |
+| 5 | 内鬼、黑客与替罪羊?L3Harris“核武级”漏洞泄露案拷问西方情报供应链安全 | Doonsec | [https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A](https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A) |
+| 6 | 【利用难度极低】CVE-2026-25253 OpenClaw漏洞剖析 | Doonsec | [https://mp.weixin.qq.com/s/K1iLP1PsXk3JHAEG88KjXw](https://mp.weixin.qq.com/s/K1iLP1PsXk3JHAEG88KjXw) |
+| 7 | ACF插件漏洞使黑客能够获得5万个WordPress网站的管理权限 | Doonsec | [https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g](https://mp.weixin.qq.com/s/BSd_DmVkhLhKh-PS6WiC5g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 猫头鹰 XSS 平台：一个针对XSS漏洞的测试平台 | Doonsec | [https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg](https://mp.weixin.qq.com/s/yjsS7Er173vo9hKvhomcwg) |
-| 2 | 网安社团周报 Week3 - Nullbyte靶机 SQL注入 Linux提权 | Doonsec | [https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA](https://mp.weixin.qq.com/s/q6Acw39CGpLPOp9MTHe9GA) |
+| 1 | 用 frida 向 React Native 动态注入 js 代码 | Doonsec | [https://mp.weixin.qq.com/s/UkgLg2efyBuionqSqt-_LQ](https://mp.weixin.qq.com/s/UkgLg2efyBuionqSqt-_LQ) |
+| 2 | \'ormar\' Python 库中发现严重 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww](https://mp.weixin.qq.com/s/bouwXsLy0QEfsEgh-7x9ww) |
+| 3 | 全方位内网扫描工具-P1soda | Doonsec | [https://mp.weixin.qq.com/s/UvJxGcNlT6b-RNK6Z3WcBw](https://mp.weixin.qq.com/s/UvJxGcNlT6b-RNK6Z3WcBw) |
+| 4 | 深扒 npm 恶意包新变种：从“偷 Token”到“AI 注入”，供应链攻击进入 Next Level | Doonsec | [https://mp.weixin.qq.com/s/Oae6X2U5r_RUUZx05OSwbQ](https://mp.weixin.qq.com/s/Oae6X2U5r_RUUZx05OSwbQ) |
+| 5 | BurpSuite 最强辅助插件，全自动 SQL 注入6种注入检测算法|v3.3.0更新全面重构 | Doonsec | [https://mp.weixin.qq.com/s/GF_svScEPiGll0SP_2GDFg](https://mp.weixin.qq.com/s/GF_svScEPiGll0SP_2GDFg) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 伪装成WinRAR解压软件的银狐黑产最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s/C_FUwYzIHwYMoidY1y1O7A](https://mp.weixin.qq.com/s/C_FUwYzIHwYMoidY1y1O7A) |
+| 2 | 威努特钢铁行业勒索病毒防御体系构建指南 | Doonsec | [https://mp.weixin.qq.com/s/NzjxbdjNIPiKU_M-OMRtGg](https://mp.weixin.qq.com/s/NzjxbdjNIPiKU_M-OMRtGg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【SRC赏金猎人必备】SRC资产扫描利器(集成四测绘引擎+549 POC) | Doonsec | [https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw](https://mp.weixin.qq.com/s/D6z6_0qgpKvrDPQlnde3nw) |
+| 2 | 【SRC赏金猎人必备】一款自动化SRC资产监控与漏洞扫描框架 | Doonsec | [https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA](https://mp.weixin.qq.com/s/6uyZO4tLCIBaZKG6_sKQVA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 深扒 npm 恶意包新变种：从“偷 Token”到“AI 注入”，供应链攻击进入 Next Level | Doonsec | [https://mp.weixin.qq.com/s/Oae6X2U5r_RUUZx05OSwbQ](https://mp.weixin.qq.com/s/Oae6X2U5r_RUUZx05OSwbQ) |
+| 2 | 内鬼、黑客与替罪羊?L3Harris“核武级”漏洞泄露案拷问西方情报供应链安全 | Doonsec | [https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A](https://mp.weixin.qq.com/s/FyKg6H4dkoWHddED970u5A) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-02/2026-W09/2026-02-25/`
+文章已归档到: `doc/2026/2026-02/2026-W09/2026-02-26/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +154,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-02-25 17:07:50*
+*生成时间: 2026-02-26 02:06:19*
 *报告工具: 微信文章安全归档系统*
