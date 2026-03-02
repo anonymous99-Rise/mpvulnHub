@@ -1,18 +1,19 @@
-# 2026-03-01 安全威胁态势报告
+# 2026-03-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 20
 - **数据源分布**:
-  - BruceFeIix: 11篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
+- **漏洞利用**: 10篇
+- **威胁情报**: 2篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
@@ -62,19 +63,28 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [银狐黑产最新变种样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495753&idx=1&sn=23442d22ed819daecd4fced48003e00b) (发布日期: 2026-03-01)
-- [ ] [特斯拉 Model 3 和 Cybertruck 存在多个漏洞，无线连接栈可遭拦截](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=1&sn=d3f966b7d7e8878b93bfd7f39a3ed86b) (发布日期: 2026-03-01)
-- [ ] [美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486711&idx=1&sn=01691784270b9587404a4bf1dc5eee84) (发布日期: 2026-03-01)
-- [ ] [Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390189&idx=1&sn=b0e0e54993897e8fc65d4cf25fca2ea0) (发布日期: 2026-03-01)
-- [ ] [CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa) (发布日期: 2026-03-01)
-- [ ] [【安全圈】ClawJacked 漏洞曝光：网站可远程劫持 OpenClaw AI 代理，开发者需立即升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=1&sn=2f8e4442c9c605c764d28286413dffa2) (发布日期: 2026-03-01)
-- [ ] [【安全圈】恶意npm包“ambar-src”投毒Windows、Linux与macOS](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=3&sn=6bf80090c0a276c836edd13d9b3b63e4) (发布日期: 2026-03-01)
-- [ ] [【安全圈】不用浏览器也能中招：Windows资源管理器成隐秘后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=4&sn=2a4acaa0943a8a81ed7eda038d8f1330) (发布日期: 2026-03-01)
-- [ ] [安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504670&idx=1&sn=598e4ea6c7dc25cee2882cdb3ce26379) (发布日期: 2026-03-01)
-- [ ] [思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83) (发布日期: 2026-03-01)
-- [ ] [AI 智能体正悄然重塑企业安全风险格局](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485975&idx=1&sn=105dc707ce5d9eb3c21291e53ab310b7) (发布日期: 2026-03-01)
+- [共启安全年｜瓜分微信百万奖池！漏洞赏金翻倍，先到先得](https://mp.weixin.qq.com/s/IncToIZsGcTqPNaI0GnyzQ) (发布日期: 2026-03-02)
+- [Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取](https://mp.weixin.qq.com/s/nb6IvxWBLbefiP5azq2zFA) (发布日期: 2026-03-02)
+- [【网络安全】700GB核心数据遭黑客\"撕票\"式泄露网络安全事件分析](https://mp.weixin.qq.com/s/jimB3wXe0P8m3JrM3EQtzg) (发布日期: 2026-03-02)
+- [一款轻量便捷的 Windows 应急响应辅助工具](https://mp.weixin.qq.com/s/b4aHD98AGyjk1qZxKF2JtA) (发布日期: 2026-03-02)
+- [OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent](https://mp.weixin.qq.com/s/Qwwl6KBFUQj2b1SLK_Lvjg) (发布日期: 2026-03-02)
+- [【Java代码审计利器】自动化Java源码与字节码安全审计工具](https://mp.weixin.qq.com/s/zmx3b56YAbYC-EnxSyWpwA) (发布日期: 2026-03-02)
+- [微软警告：有人利用伪造的 Xeno 和 Roblox 工具安装 Windows 远程控制木马](https://mp.weixin.qq.com/s/yGZJp5GE7py3MjQPuMUNaQ) (发布日期: 2026-03-02)
+- [漏洞复现 | 青龙面板最新版存在任意重置密码漏洞](https://mp.weixin.qq.com/s/d2ShFyFUXaI501u9QxRxRQ) (发布日期: 2026-03-02)
+- [云原生架构下，如何实现供应链安全漏洞的闭环管理？](https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A) (发布日期: 2026-03-02)
+- [【已复现】孚盟云AjaxOthers存在SQL注入](https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w) (发布日期: 2026-03-02)
+- [API安全防护](https://mp.weixin.qq.com/s/iGvtZAE_FscniLnSIyA8bQ) (发布日期: 2026-03-02)
+- [伪装成Firefox银狐黑产最新攻击样本分析与威胁情报](https://mp.weixin.qq.com/s/KcwbIL4Q0aVpzIbt9mDp1Q) (发布日期: 2026-03-02)
+- [恒脑安全智能体全面对标Claude Code Security，极速复现3个0day，并横向挖掘10个未知漏洞！](https://mp.weixin.qq.com/s/50zwQIY4xONrVdqCOvhsMA) (发布日期: 2026-03-02)
+- [手搓 C++ 后门，黑入路由器做 C2：解构 UnsolicitedBooker 的进阶“套路”](https://mp.weixin.qq.com/s/mlLn60PQMhzXnm-j48u3hg) (发布日期: 2026-03-02)
+- [从二层到三层：EVPN L3VPN集中式网关配置及四种流量场景深度剖析](https://mp.weixin.qq.com/s/SLk2WZ2dV2oqusifcyMMSA) (发布日期: 2026-03-02)
+- [20家中小银行因网络数据安全违规被罚，仅一家“双罚”](https://mp.weixin.qq.com/s/xNMYZasHGNY-ZbC2M5k_pw) (发布日期: 2026-03-02)
+- [从会话管理模式解读 .NET 身份验证绕过漏洞](https://mp.weixin.qq.com/s/l_FToxsAq1duNOWgnEhp2g) (发布日期: 2026-03-02)
+- [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s/Q3AHCyRBj9h7-2yatCugEQ) (发布日期: 2026-03-02)
+- [紧急预警：OpenClaw惊现\"零点击\"超级漏洞，你的AI Agent可能已被劫持！](https://mp.weixin.qq.com/s/Qq2gVMnGgdgFlwJL5xsWCw) (发布日期: 2026-03-02)
+- [从四起数据泄露事件谈数据安全趋势](https://mp.weixin.qq.com/s/u9puqmqmcifHnBEkeS4Duw) (发布日期: 2026-03-02)
 
 
 ## 🎯 威胁详情分析
@@ -83,36 +93,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [特斯拉 Model 3 和 Cybertruck 存在多个漏洞，无线连接栈可遭拦截 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=1&sn=d3f966b7d7e8878b93bfd7f39a3ed86b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=1&sn=d3f966b7d7e8878b93bfd7f39a3ed86b) |
-| 2 |  ] [美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486711&idx=1&sn=01691784270b9587404a4bf1dc5eee84](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486711&idx=1&sn=01691784270b9587404a4bf1dc5eee84) |
-| 3 |  ] [Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390189&idx=1&sn=b0e0e54993897e8fc65d4cf25fca2ea0](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390189&idx=1&sn=b0e0e54993897e8fc65d4cf25fca2ea0) |
-| 4 |  ] [CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa) |
-| 5 |  ] [【安全圈】ClawJacked 漏洞曝光：网站可远程劫持 OpenClaw AI 代理，开发者需立即升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=1&sn=2f8e4442c9c605c764d28286413dffa2](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=1&sn=2f8e4442c9c605c764d28286413dffa2) |
-| 6 |  ] [安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504670&idx=1&sn=598e4ea6c7dc25cee2882cdb3ce26379](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504670&idx=1&sn=598e4ea6c7dc25cee2882cdb3ce26379) |
-| 7 |  ] [思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83) |
+| 1 | 共启安全年｜瓜分微信百万奖池！漏洞赏金翻倍，先到先得 | Doonsec | [https://mp.weixin.qq.com/s/IncToIZsGcTqPNaI0GnyzQ](https://mp.weixin.qq.com/s/IncToIZsGcTqPNaI0GnyzQ) |
+| 2 | Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取 | Doonsec | [https://mp.weixin.qq.com/s/nb6IvxWBLbefiP5azq2zFA](https://mp.weixin.qq.com/s/nb6IvxWBLbefiP5azq2zFA) |
+| 3 | OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent | Doonsec | [https://mp.weixin.qq.com/s/Qwwl6KBFUQj2b1SLK_Lvjg](https://mp.weixin.qq.com/s/Qwwl6KBFUQj2b1SLK_Lvjg) |
+| 4 | 漏洞复现 | 青龙面板最新版存在任意重置密码漏洞 | Doonsec | [https://mp.weixin.qq.com/s/d2ShFyFUXaI501u9QxRxRQ](https://mp.weixin.qq.com/s/d2ShFyFUXaI501u9QxRxRQ) |
+| 5 | 云原生架构下，如何实现供应链安全漏洞的闭环管理？ | Doonsec | [https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A](https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A) |
+| 6 | 【已复现】孚盟云AjaxOthers存在SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w](https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w) |
+| 7 | 恒脑安全智能体全面对标Claude Code Security，极速复现3个0day，并横向挖掘10个未知漏洞！ | Doonsec | [https://mp.weixin.qq.com/s/50zwQIY4xONrVdqCOvhsMA](https://mp.weixin.qq.com/s/50zwQIY4xONrVdqCOvhsMA) |
+| 8 | 从会话管理模式解读 .NET 身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/l_FToxsAq1duNOWgnEhp2g](https://mp.weixin.qq.com/s/l_FToxsAq1duNOWgnEhp2g) |
+| 9 | 从安全分析视角一文解读 .NET 越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Q3AHCyRBj9h7-2yatCugEQ](https://mp.weixin.qq.com/s/Q3AHCyRBj9h7-2yatCugEQ) |
+| 10 | 紧急预警：OpenClaw惊现\"零点击\"超级漏洞，你的AI Agent可能已被劫持！ | Doonsec | [https://mp.weixin.qq.com/s/Qq2gVMnGgdgFlwJL5xsWCw](https://mp.weixin.qq.com/s/Qq2gVMnGgdgFlwJL5xsWCw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa) |
+| 1 | 【已复现】孚盟云AjaxOthers存在SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w](https://mp.weixin.qq.com/s/Xjh53tHWneU_imiQ-tdB-w) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [银狐黑产最新变种样本分析与威胁情报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495753&idx=1&sn=23442d22ed819daecd4fced48003e00b](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495753&idx=1&sn=23442d22ed819daecd4fced48003e00b) |
+| 1 | 一款轻量便捷的 Windows 应急响应辅助工具 | Doonsec | [https://mp.weixin.qq.com/s/b4aHD98AGyjk1qZxKF2JtA](https://mp.weixin.qq.com/s/b4aHD98AGyjk1qZxKF2JtA) |
+| 2 | 伪装成Firefox银狐黑产最新攻击样本分析与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s/KcwbIL4Q0aVpzIbt9mDp1Q](https://mp.weixin.qq.com/s/KcwbIL4Q0aVpzIbt9mDp1Q) |
 
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】恶意npm包“ambar-src”投毒Windows、Linux与macOS | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=3&sn=6bf80090c0a276c836edd13d9b3b63e4](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=3&sn=6bf80090c0a276c836edd13d9b3b63e4) |
+| 1 | 从四起数据泄露事件谈数据安全趋势 | Doonsec | [https://mp.weixin.qq.com/s/u9puqmqmcifHnBEkeS4Duw](https://mp.weixin.qq.com/s/u9puqmqmcifHnBEkeS4Duw) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 云原生架构下，如何实现供应链安全漏洞的闭环管理？ | Doonsec | [https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A](https://mp.weixin.qq.com/s/avaXE3JQ5l5tHZ-7XnmE5A) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W09/2026-03-01/`
+文章已归档到: `doc/2026/2026-03/2026-W10/2026-03-02/`
 
 ## 🔗 数据源说明
 
@@ -123,7 +143,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -133,5 +153,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-01 05:17:11*
+*生成时间: 2026-03-02 02:08:37*
 *报告工具: 微信文章安全归档系统*
