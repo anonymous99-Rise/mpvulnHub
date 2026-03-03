@@ -1,20 +1,21 @@
-# 2026-03-02 安全威胁态势报告
+# 2026-03-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 28
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 28篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 14篇
+- **攻击技术**: 5篇
+- **信息泄露**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **Web安全**: 4篇
 
 ## 🔍 匹配规则
 
@@ -63,16 +64,34 @@
 
 ### Doonsec
 
-- [vm2沙箱逃逸漏洞（CVE-2026-22709）](https://mp.weixin.qq.com/s/SYV3yXvzXrCnuRo1PaVp8Q) (发布日期: 2026-03-02)
-- [B1ackTide 安全团队 | 技术交流群正式开放](https://mp.weixin.qq.com/s/LtHD7nTzgfePUSZb6pJkCg) (发布日期: 2026-03-02)
-- [航电系统信息安全防护工程培训课程2026](https://mp.weixin.qq.com/s/LCIt5PJ7L_ZGEAIPPmF_Bw) (发布日期: 2026-03-02)
-- [航空工业西安航空计算技术研究所: 航空嵌入式系统信息安全防护技术研究](https://mp.weixin.qq.com/s/Tk62RGcRVOzqWOOhrPUNnQ) (发布日期: 2026-03-02)
-- [从籍籍无名到排行第一：XBOW智能漏洞挖掘的构建](https://mp.weixin.qq.com/s/1ngqPGIKLEqmJfr1ptISXA) (发布日期: 2026-03-02)
-- [免费代发招聘信息第46期：上海 安全运营（14K-15K/月）](https://mp.weixin.qq.com/s/sYU9xs_PkdaDNpxwzYcapw) (发布日期: 2026-03-02)
-- [点个网页就被接管？爆火AI框架OpenClaw曝出致命漏洞，你的电脑正在裸奔！](https://mp.weixin.qq.com/s/LHZPU7pujhzN_Ir-qcvCpw) (发布日期: 2026-03-02)
-- [CyberStrikeAI 小更新：对话支持文件上传啦](https://mp.weixin.qq.com/s/vWJncUaUsJNowksPXq0hPw) (发布日期: 2026-03-02)
-- [谷歌人工智能代码编辑器 Antigravity 中的远程代码执行漏洞 - 10000 美元赏金](https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg) (发布日期: 2026-03-02)
-- [华东师大密码学院两项研究成果被USENIX Security 2026录用](https://mp.weixin.qq.com/s/NBPPnSXQ_L3Qv_wY0iCzcQ) (发布日期: 2026-03-02)
+- [JAVA代码审计书籍](https://mp.weixin.qq.com/s/PLo2-Oa4ABXRdJrLh_bXLw) (发布日期: 2026-03-03)
+- [Linux后门应急-增加超级用户账号（后门账户排查与权限维持手法全解析）|linux取证分析](https://mp.weixin.qq.com/s/nxK_ByfKUYqqp4iCuhlvtg) (发布日期: 2026-03-03)
+- [Go 开发者警惕：GitHub 惊现“套壳”代码投毒，不仅偷密码还留后门！](https://mp.weixin.qq.com/s/DyPiM3BPIA5W-0WWkujSaw) (发布日期: 2026-03-03)
+- [从 WebSocket 劫持到间接指令注入：OpenClaw 连环漏洞背后的架构反思](https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w) (发布日期: 2026-03-03)
+- [谁在电话线上？利用 Windows 电话服务中的远程代码执行漏洞（ CVE-2026-20931）](https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ) (发布日期: 2026-03-03)
+- [专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描](https://mp.weixin.qq.com/s/q_VUL8a-ZVsULxPlMJJN3Q) (发布日期: 2026-03-03)
+- [可视化漏洞扫描器Nuclei_Gui、支持POC管理与生成](https://mp.weixin.qq.com/s/_Q4u37bwDlpzAv---8QVoA) (发布日期: 2026-03-03)
+- [漏洞预警 | Langflow远程代码执行漏洞](https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ) (发布日期: 2026-03-03)
+- [漏洞预警 | 天地伟业Easy7文件上传漏洞](https://mp.weixin.qq.com/s/744SDALyf_zgy2TSRP5Wgg) (发布日期: 2026-03-03)
+- [漏洞预警 | 东胜物流软件SQL注入漏洞](https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA) (发布日期: 2026-03-03)
+- [工具 | CVE-2026-24061-GUI](https://mp.weixin.qq.com/s/0rDVlOT7AltZnK0CuSViuQ) (发布日期: 2026-03-03)
+- [严重漏洞预警 | Microchip TimePictra 存储型 XSS 漏洞影响关键基础设施管理系统](https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ) (发布日期: 2026-03-03)
+- [ASPS – 智能安全运营中心并行仿真平台](https://mp.weixin.qq.com/s/gAbx1dY_vKAdQtxjedHReg) (发布日期: 2026-03-03)
+- [漏洞报告处理平台 - 支持Nuclei/Xray/自定义txt报告导入，AI驱动的安全漏洞管理与分析系统](https://mp.weixin.qq.com/s/PTUKngfyBAlPzef3B4X1mA) (发布日期: 2026-03-03)
+- [EVPN分布式网关实战：Anycast Gateway如何实现网络性能的\"质变\"](https://mp.weixin.qq.com/s/48OHhgabwmNuXUc0GwG3dg) (发布日期: 2026-03-03)
+- [2026年2-3月全球重大数据泄露事件深度监测报告](https://mp.weixin.qq.com/s/CqDrOPLoN4MnBvflo4iFDQ) (发布日期: 2026-03-03)
+- [北京农商行因“数据安全”被罚100万!运维部责任人同时被罚!](https://mp.weixin.qq.com/s/EjuQTpmJ7Lz3MpXtRtYH-Q) (发布日期: 2026-03-03)
+- [数据安全：数据备份与恢复](https://mp.weixin.qq.com/s/wE4FEv48tMGn5MLLbCGvNQ) (发布日期: 2026-03-03)
+- [边缘计算安全技术要求](https://mp.weixin.qq.com/s/cPJp3-jGqMpFjVudGa5McA) (发布日期: 2026-03-03)
+- [为了过个上传漏洞，我换了三个环境：一个安全菜鸟的踩坑实录——Upload-Labs 5-8关排坑记](https://mp.weixin.qq.com/s/cw1gfQOxe4ZSXgUGuIdIoA) (发布日期: 2026-03-03)
+- [【渗透测试】Tabnabbing(标签页劫持)到管理员最终拿下机器](https://mp.weixin.qq.com/s/_rvTsjgjJlB-H_UIlW6bdQ) (发布日期: 2026-03-03)
+- [离谱！知名容器安全工具Trivy 被AI攻陷，直接清空仓库](https://mp.weixin.qq.com/s/B3LhEWG6JDwSkw5__98cHw) (发布日期: 2026-03-03)
+- [欧洲DIY连锁店ManoMano数据泄露事件影响3800万顾客。](https://mp.weixin.qq.com/s/7XlyoHePL910AplOpgYtQg) (发布日期: 2026-03-03)
+- [漏洞管理指标：是时候超越指标幻象了](https://mp.weixin.qq.com/s/yx2i2c0jEqJK_3up7AsJoQ) (发布日期: 2026-03-03)
+- [中标快讯：某省税务局网络安全防护体系优化升级项目，格尔软件108.83万中](https://mp.weixin.qq.com/s/X2s-TqN1CwLJ_JshEL2DvQ) (发布日期: 2026-03-03)
+- [工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器](https://mp.weixin.qq.com/s/RN-_gyA1e5TSSAryfESclg) (发布日期: 2026-03-03)
+- [WEB漏洞扫描器Invicti-Professional-V26.20.0（自动化爬虫扫描漏洞）更新](https://mp.weixin.qq.com/s/FVS0FhG7I_CHVD5U-TW_Gg) (发布日期: 2026-03-03)
+- [数据安全技术 数据分类分级规则](https://mp.weixin.qq.com/s/ozQT2tl9-Lp9JnJI6tC9vw) (发布日期: 2026-03-03)
 
 
 ## 🎯 威胁详情分析
@@ -81,27 +100,48 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | vm2沙箱逃逸漏洞（CVE-2026-22709） | Doonsec | [https://mp.weixin.qq.com/s/SYV3yXvzXrCnuRo1PaVp8Q](https://mp.weixin.qq.com/s/SYV3yXvzXrCnuRo1PaVp8Q) |
-| 2 | 从籍籍无名到排行第一：XBOW智能漏洞挖掘的构建 | Doonsec | [https://mp.weixin.qq.com/s/1ngqPGIKLEqmJfr1ptISXA](https://mp.weixin.qq.com/s/1ngqPGIKLEqmJfr1ptISXA) |
-| 3 | 点个网页就被接管？爆火AI框架OpenClaw曝出致命漏洞，你的电脑正在裸奔！ | Doonsec | [https://mp.weixin.qq.com/s/LHZPU7pujhzN_Ir-qcvCpw](https://mp.weixin.qq.com/s/LHZPU7pujhzN_Ir-qcvCpw) |
-| 4 | 谷歌人工智能代码编辑器 Antigravity 中的远程代码执行漏洞 - 10000 美元赏金 | Doonsec | [https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg](https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg) |
+| 1 | 从 WebSocket 劫持到间接指令注入：OpenClaw 连环漏洞背后的架构反思 | Doonsec | [https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w](https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w) |
+| 2 | 谁在电话线上？利用 Windows 电话服务中的远程代码执行漏洞（ CVE-2026-20931） | Doonsec | [https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ](https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ) |
+| 3 | 专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描 | Doonsec | [https://mp.weixin.qq.com/s/q_VUL8a-ZVsULxPlMJJN3Q](https://mp.weixin.qq.com/s/q_VUL8a-ZVsULxPlMJJN3Q) |
+| 4 | 可视化漏洞扫描器Nuclei_Gui、支持POC管理与生成 | Doonsec | [https://mp.weixin.qq.com/s/_Q4u37bwDlpzAv---8QVoA](https://mp.weixin.qq.com/s/_Q4u37bwDlpzAv---8QVoA) |
+| 5 | 漏洞预警 | Langflow远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ](https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ) |
+| 6 | 漏洞预警 | 天地伟业Easy7文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/744SDALyf_zgy2TSRP5Wgg](https://mp.weixin.qq.com/s/744SDALyf_zgy2TSRP5Wgg) |
+| 7 | 漏洞预警 | 东胜物流软件SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA](https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA) |
+| 8 | 工具 | CVE-2026-24061-GUI | Doonsec | [https://mp.weixin.qq.com/s/0rDVlOT7AltZnK0CuSViuQ](https://mp.weixin.qq.com/s/0rDVlOT7AltZnK0CuSViuQ) |
+| 9 | 严重漏洞预警 | Microchip TimePictra 存储型 XSS 漏洞影响关键基础设施管理系统 | Doonsec | [https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ](https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ) |
+| 10 | 漏洞报告处理平台 - 支持Nuclei/Xray/自定义txt报告导入，AI驱动的安全漏洞管理与分析系统 | Doonsec | [https://mp.weixin.qq.com/s/PTUKngfyBAlPzef3B4X1mA](https://mp.weixin.qq.com/s/PTUKngfyBAlPzef3B4X1mA) |
+| 11 | 为了过个上传漏洞，我换了三个环境：一个安全菜鸟的踩坑实录——Upload-Labs 5-8关排坑记 | Doonsec | [https://mp.weixin.qq.com/s/cw1gfQOxe4ZSXgUGuIdIoA](https://mp.weixin.qq.com/s/cw1gfQOxe4ZSXgUGuIdIoA) |
+| 12 | 漏洞管理指标：是时候超越指标幻象了 | Doonsec | [https://mp.weixin.qq.com/s/yx2i2c0jEqJK_3up7AsJoQ](https://mp.weixin.qq.com/s/yx2i2c0jEqJK_3up7AsJoQ) |
+| 13 | 工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器 | Doonsec | [https://mp.weixin.qq.com/s/RN-_gyA1e5TSSAryfESclg](https://mp.weixin.qq.com/s/RN-_gyA1e5TSSAryfESclg) |
+| 14 | WEB漏洞扫描器Invicti-Professional-V26.20.0（自动化爬虫扫描漏洞）更新 | Doonsec | [https://mp.weixin.qq.com/s/FVS0FhG7I_CHVD5U-TW_Gg](https://mp.weixin.qq.com/s/FVS0FhG7I_CHVD5U-TW_Gg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 谷歌人工智能代码编辑器 Antigravity 中的远程代码执行漏洞 - 10000 美元赏金 | Doonsec | [https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg](https://mp.weixin.qq.com/s/7H5AFeSIpYC2LbJliv6HUg) |
+| 1 | 从 WebSocket 劫持到间接指令注入：OpenClaw 连环漏洞背后的架构反思 | Doonsec | [https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w](https://mp.weixin.qq.com/s/MinEjtdmGKoeb0OupcY62w) |
+| 2 | 谁在电话线上？利用 Windows 电话服务中的远程代码执行漏洞（ CVE-2026-20931） | Doonsec | [https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ](https://mp.weixin.qq.com/s/NR3lN2SBQ7B9B1Wo9vB8DQ) |
+| 3 | 漏洞预警 | Langflow远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ](https://mp.weixin.qq.com/s/M_l3MdtBtug7o4gn7tYnIQ) |
+| 4 | 漏洞预警 | 东胜物流软件SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA](https://mp.weixin.qq.com/s/Fo1GusEly4fEdI4oRXwpHA) |
+| 5 | 严重漏洞预警 | Microchip TimePictra 存储型 XSS 漏洞影响关键基础设施管理系统 | Doonsec | [https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ](https://mp.weixin.qq.com/s/RWmuDVl5cD_jaDshGF8YDQ) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 免费代发招聘信息第46期：上海 安全运营（14K-15K/月） | Doonsec | [https://mp.weixin.qq.com/s/sYU9xs_PkdaDNpxwzYcapw](https://mp.weixin.qq.com/s/sYU9xs_PkdaDNpxwzYcapw) |
+| 1 | ASPS – 智能安全运营中心并行仿真平台 | Doonsec | [https://mp.weixin.qq.com/s/gAbx1dY_vKAdQtxjedHReg](https://mp.weixin.qq.com/s/gAbx1dY_vKAdQtxjedHReg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026年2-3月全球重大数据泄露事件深度监测报告 | Doonsec | [https://mp.weixin.qq.com/s/CqDrOPLoN4MnBvflo4iFDQ](https://mp.weixin.qq.com/s/CqDrOPLoN4MnBvflo4iFDQ) |
+| 2 | 欧洲DIY连锁店ManoMano数据泄露事件影响3800万顾客。 | Doonsec | [https://mp.weixin.qq.com/s/7XlyoHePL910AplOpgYtQg](https://mp.weixin.qq.com/s/7XlyoHePL910AplOpgYtQg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W10/2026-03-02/`
+文章已归档到: `doc/2026/2026-03/2026-W10/2026-03-03/`
 
 ## 🔗 数据源说明
 
@@ -112,8 +152,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +162,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-02 16:50:02*
+*生成时间: 2026-03-03 02:10:07*
 *报告工具: 微信文章安全归档系统*
