@@ -2,17 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **供应链**: 1篇
+- **威胁情报**: 2篇
+- **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,13 +65,14 @@
 
 ### Doonsec
 
-- [思科修复两大CVSS 10分Secure FMC漏洞](https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww) (发布日期: 2026-03-08)
-- [LLM 恶意软件分析实战：正确的使用方式](https://mp.weixin.qq.com/s/ljC0AO50_6P5HQ3Rk-Eh1w) (发布日期: 2026-03-08)
-- [Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅](https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g) (发布日期: 2026-03-08)
-- [云上的ssrf漏洞挖掘技巧](https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA) (发布日期: 2026-03-08)
-- [当 AI 写代码开始帮你引入第三方库，供应链安全该怎么守](https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA) (发布日期: 2026-03-08)
-- [零基础也能分析病毒！Noriben新手入门指南](https://mp.weixin.qq.com/s/GnYS8JMCm74nc4I0f0Z1uQ) (发布日期: 2026-03-08)
-- [36个PDF红队知识笔记知识总结（附下载链接）](https://mp.weixin.qq.com/s/ZksASTVg94uYhyJaNpiTGg) (发布日期: 2026-03-08)
+- [跟着红队笔记打靶：prime](https://mp.weixin.qq.com/s/RUCsm7HD3UQX2wz2SW6YPA) (发布日期: 2026-03-08)
+- [基于Trae的AI自动化安全测试实战总结](https://mp.weixin.qq.com/s/WGbmEj9L2aGB4drXLo2O3Q) (发布日期: 2026-03-08)
+- [针对OpenClaw（龙虾）近期安全漏洞、风险问题的汇总](https://mp.weixin.qq.com/s/VLTRXodn4aYYgpQ3wWZYGQ) (发布日期: 2026-03-08)
+- [银狐黑产最新攻击样本分析与威胁情报](https://mp.weixin.qq.com/s/BtbY4C9EAFi7NhkGjggjIQ) (发布日期: 2026-03-08)
+- [【安全圈】紧急！思科发布最高级别预警，一口气修复48个漏洞](https://mp.weixin.qq.com/s/KpnFpw_pHsYKesAravYOXA) (发布日期: 2026-03-08)
+- [【安全圈】重磅！IBM X-Force报告：AI驱动攻击狂飙，勒索软件激增49%](https://mp.weixin.qq.com/s/qJrvrD2I4vbcB0QqlO9Mog) (发布日期: 2026-03-08)
+- [【安全圈】紧急！游戏平台遭黑客入侵，1500万账户数据泄露，波及PSN/Xbox/Steam/Epic](https://mp.weixin.qq.com/s/uUjKJmLPlBOqVqXlpG7noA) (发布日期: 2026-03-08)
+- [【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备](https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw) (发布日期: 2026-03-08)
 
 
 ## 🎯 威胁详情分析
@@ -76,15 +81,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 思科修复两大CVSS 10分Secure FMC漏洞 | Doonsec | [https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww](https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww) |
-| 2 | Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅 | Doonsec | [https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g](https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g) |
-| 3 | 云上的ssrf漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA](https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA) |
+| 1 | 针对OpenClaw（龙虾）近期安全漏洞、风险问题的汇总 | Doonsec | [https://mp.weixin.qq.com/s/VLTRXodn4aYYgpQ3wWZYGQ](https://mp.weixin.qq.com/s/VLTRXodn4aYYgpQ3wWZYGQ) |
+| 2 | 【安全圈】紧急！思科发布最高级别预警，一口气修复48个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/KpnFpw_pHsYKesAravYOXA](https://mp.weixin.qq.com/s/KpnFpw_pHsYKesAravYOXA) |
+| 3 | 【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备 | Doonsec | [https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw](https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw) |
 
-### 供应链
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 当 AI 写代码开始帮你引入第三方库，供应链安全该怎么守 | Doonsec | [https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA](https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA) |
+| 1 | 【安全圈】重磅！IBM X-Force报告：AI驱动攻击狂飙，勒索软件激增49% | Doonsec | [https://mp.weixin.qq.com/s/qJrvrD2I4vbcB0QqlO9Mog](https://mp.weixin.qq.com/s/qJrvrD2I4vbcB0QqlO9Mog) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐黑产最新攻击样本分析与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s/BtbY4C9EAFi7NhkGjggjIQ](https://mp.weixin.qq.com/s/BtbY4C9EAFi7NhkGjggjIQ) |
+| 2 | 【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备 | Doonsec | [https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw](https://mp.weixin.qq.com/s/IZGjLnMfaBrZY5w2Pmt4Dw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】紧急！游戏平台遭黑客入侵，1500万账户数据泄露，波及PSN/Xbox/Steam/Epic | Doonsec | [https://mp.weixin.qq.com/s/uUjKJmLPlBOqVqXlpG7noA](https://mp.weixin.qq.com/s/uUjKJmLPlBOqVqXlpG7noA) |
 
 
 ## 📁 归档路径
@@ -101,7 +119,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-08 12:50:27*
+*生成时间: 2026-03-08 16:29:21*
 *报告工具: 微信文章安全归档系统*
