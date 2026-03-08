@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **攻击技术**: 2篇
-- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,11 +61,13 @@
 
 ### Doonsec
 
-- [Cognizant TriZetto 数据泄露事件导致 340 万患者健康信息泄露](https://mp.weixin.qq.com/s/D6Xf4dYnD-Ik_pRHJXahTQ) (发布日期: 2026-03-08)
-- [AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持](https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA) (发布日期: 2026-03-08)
-- [【0day】某知名厂商运维安全管理系统 csspost/update 远程命令执行漏洞](https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA) (发布日期: 2026-03-08)
-- [【工具分享】一张照片，揭开图像背后的秘密：GeoSpy Pro 视觉地理情报系统巅峰登场！](https://mp.weixin.qq.com/s/p4P4BSUDbizRMolhPfDXQA) (发布日期: 2026-03-08)
-- [Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析](https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g) (发布日期: 2026-03-08)
+- [思科修复两大CVSS 10分Secure FMC漏洞](https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww) (发布日期: 2026-03-08)
+- [LLM 恶意软件分析实战：正确的使用方式](https://mp.weixin.qq.com/s/ljC0AO50_6P5HQ3Rk-Eh1w) (发布日期: 2026-03-08)
+- [Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅](https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g) (发布日期: 2026-03-08)
+- [云上的ssrf漏洞挖掘技巧](https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA) (发布日期: 2026-03-08)
+- [当 AI 写代码开始帮你引入第三方库，供应链安全该怎么守](https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA) (发布日期: 2026-03-08)
+- [零基础也能分析病毒！Noriben新手入门指南](https://mp.weixin.qq.com/s/GnYS8JMCm74nc4I0f0Z1uQ) (发布日期: 2026-03-08)
+- [36个PDF红队知识笔记知识总结（附下载链接）](https://mp.weixin.qq.com/s/ZksASTVg94uYhyJaNpiTGg) (发布日期: 2026-03-08)
 
 
 ## 🎯 威胁详情分析
@@ -76,22 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持 | Doonsec | [https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA](https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA) |
-| 2 | 【0day】某知名厂商运维安全管理系统 csspost/update 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA](https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA) |
-| 3 | Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g](https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g) |
+| 1 | 思科修复两大CVSS 10分Secure FMC漏洞 | Doonsec | [https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww](https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww) |
+| 2 | Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅 | Doonsec | [https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g](https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g) |
+| 3 | 云上的ssrf漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA](https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA) |
 
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AVideo平台中的关键零点击命令注入漏洞允许流媒体劫持 | Doonsec | [https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA](https://mp.weixin.qq.com/s/iRwMW27c9j_Ikwkq2FoteA) |
-| 2 | 【0day】某知名厂商运维安全管理系统 csspost/update 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA](https://mp.weixin.qq.com/s/xNriR19COmvebQiGvi3uSA) |
-
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Cognizant TriZetto 数据泄露事件导致 340 万患者健康信息泄露 | Doonsec | [https://mp.weixin.qq.com/s/D6Xf4dYnD-Ik_pRHJXahTQ](https://mp.weixin.qq.com/s/D6Xf4dYnD-Ik_pRHJXahTQ) |
+| 1 | 当 AI 写代码开始帮你引入第三方库，供应链安全该怎么守 | Doonsec | [https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA](https://mp.weixin.qq.com/s/fJsS7bGvFxghquXpgfPkVA) |
 
 
 ## 📁 归档路径
@@ -108,7 +101,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -117,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-08 08:32:35*
+*生成时间: 2026-03-08 12:50:27*
 *报告工具: 微信文章安全归档系统*
