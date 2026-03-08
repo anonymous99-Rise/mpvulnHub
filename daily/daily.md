@@ -1,23 +1,20 @@
-# 2026-03-07 安全威胁态势报告
+# 2026-03-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 30
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 30篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 16篇
-- **安全运营**: 4篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 3篇
+- **安全运营**: 2篇
 - **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,36 +63,15 @@
 
 ### Doonsec
 
-- [EasyTools渗透测试工具箱V2.1.6更新(1. 渗透测试模块新增druid利用功能; 2. 修复密码爆破模块部分协议无法直接执行命令的bug)](https://mp.weixin.qq.com/s/WNsMCQdCf5mp3HO-5qT0Zg) (发布日期: 2026-03-07)
-- [跟着红队笔记打靶：sickos](https://mp.weixin.qq.com/s/5DYayr6mgYeS7_dwXuI2nw) (发布日期: 2026-03-07)
-- [AI开始自己修漏洞：Codex Security 如何重构软件安全体系](https://mp.weixin.qq.com/s/U6Cuo9O4zv2J2V_Kq8j3NQ) (发布日期: 2026-03-07)
-- [安天AVL SDK反病毒引擎升级通告（20260307）](https://mp.weixin.qq.com/s/jq0Y_Vbl2PjQPQY-f-Tyzg) (发布日期: 2026-03-07)
-- [【一周安全资讯0307】《信息安全、网络安全和隐私保护 基于零知识证明的隐私保护指南》国际标准发布；维基百科遭JavaScript蠕虫攻击](https://mp.weixin.qq.com/s/ymuPgY_V3xT7oiOeURcoqw) (发布日期: 2026-03-07)
-- [访问控制篇之垂直越权](https://mp.weixin.qq.com/s/jt-yLojrjeWvWjpINLsWkw) (发布日期: 2026-03-07)
-- [Coruna:一个强大iOS漏洞利用工具包的神秘之旅](https://mp.weixin.qq.com/s/jik3V1LPFwnyC3hq1jO1Bg) (发布日期: 2026-03-07)
-- [实时入侵检测利器：基于Spark的实时日志分析系统](https://mp.weixin.qq.com/s/nA1RPge-Xcnr1nLg_LNM0w) (发布日期: 2026-03-07)
-- [Burp 插件：SRC 白帽子资产梳理利器](https://mp.weixin.qq.com/s/4W2d3bFK-NxKgtv4Soe2tg) (发布日期: 2026-03-07)
-- [Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击](https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA) (发布日期: 2026-03-07)
-- [【SRC第九期】课程目录](https://mp.weixin.qq.com/s/kQJQChEUbyEbvxv5Kt_TyA) (发布日期: 2026-03-07)
-- [拆解 Claude 如何利用 CVE-2026-2796 漏洞](https://mp.weixin.qq.com/s/cnzkjn-TdqRBRihMHAbCxw) (发布日期: 2026-03-07)
-- [大多数网络攻击的成功只因1%的漏洞导致](https://mp.weixin.qq.com/s/KrZvN9_VA4s5ifA8BmJkMg) (发布日期: 2026-03-07)
-- [记一次对母校的漏洞挖掘经历](https://mp.weixin.qq.com/s/VzwjCfbHGESk7RwUMQ44cA) (发布日期: 2026-03-07)
-- [漏洞管理平台 | 支持Excel格式的漏洞扫描报告导入、智能关联资产、漏洞可视化管理](https://mp.weixin.qq.com/s/rifObUuyQp-nhtsbcmH53A) (发布日期: 2026-03-07)
-- [并发漏洞核心场景Checklist](https://mp.weixin.qq.com/s/Vfu7lvGPgamG1uyZ2mnqGg) (发布日期: 2026-03-07)
-- [健康医疗信息零信任安全访问控制应用规范](https://mp.weixin.qq.com/s/hHyQBSO5dUUj41UX-alPNg) (发布日期: 2026-03-07)
-- [嵌入式系统的渗透测试](https://mp.weixin.qq.com/s/UxvQ-Lt3J7yn7JBfzSpJcQ) (发布日期: 2026-03-07)
-- [漏洞复现 | Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127)](https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw) (发布日期: 2026-03-07)
-- [报名即将截止 | 关于举办“网络安全技能能手”和 “数据安全技能能手” 2026年第1期培训班的通知](https://mp.weixin.qq.com/s/aGufAttndjM45uOnNxjn-g) (发布日期: 2026-03-07)
-- [台军空军关键设施被曝存在安全漏洞 紧急斥资2680万加固](https://mp.weixin.qq.com/s/Gzi1cMELQIc3S0r_61TN5Q) (发布日期: 2026-03-07)
-- [两次 HTTP 请求拿下网站管理员权限——CVE-2026-1492 漏洞分析](https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA) (发布日期: 2026-03-07)
-- [【已复现】青龙面板身份认证绕过漏洞](https://mp.weixin.qq.com/s/PfWn7dhq8__NAQU5yLQmkw) (发布日期: 2026-03-07)
-- [记录比较有意思的几个漏洞挖掘事件](https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ) (发布日期: 2026-03-07)
-- [Copilot 第一时间上线 GPT-5.4 Thinking，支持国内网络直接访问](https://mp.weixin.qq.com/s/Ybf8vhumbU2U-qXhIP0_hA) (发布日期: 2026-03-07)
-- [伊朗交通摄像头被渗透、法国曝史上最大医疗数据泄露|一周特辑](https://mp.weixin.qq.com/s/TEjQJzz83LBjDlpW77xaAw) (发布日期: 2026-03-07)
-- [CISA 紧急令：联邦机构限期修复 Coruna 漏洞利用链相关 iOS 漏洞](https://mp.weixin.qq.com/s/5_ErYro-nnL7gmSgB620og) (发布日期: 2026-03-07)
-- [五角大楼和欧洲航天局部署的卫星接收器爆超20项安全漏洞](https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ) (发布日期: 2026-03-07)
-- [哈梅内伊斩首行动中大模型和本体论的结合对网络安全运营领域的启示](https://mp.weixin.qq.com/s/eq42QPFZlvV0SaZrwH3r5w) (发布日期: 2026-03-07)
-- [Serein：SRC 发掘漏洞的高效工具](https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg) (发布日期: 2026-03-07)
+- [GitHub 开源 AI 框架挖掘：3个月找到80+高危漏洞的秘密](https://mp.weixin.qq.com/s/yULKp_rBI4qcTIq0_o7LyA) (发布日期: 2026-03-08)
+- [报名即将截止 | 关于举办“网络安全技能能手”和 “数据安全技能能手” 2026年第1期培训班的通知](https://mp.weixin.qq.com/s/wxWesDzxwfqzBKT7-VcPKw) (发布日期: 2026-03-08)
+- [托管安全服务：实操指南--如何外包网络防御而不失控](https://mp.weixin.qq.com/s/SiHq-rRQLKPTVWYVGTi9-g) (发布日期: 2026-03-08)
+- [两个3800万数据泄露事件带来的一点点启示](https://mp.weixin.qq.com/s/ikkVGm3iyXNqJjWQ5H5wKA) (发布日期: 2026-03-08)
+- [供应链漏洞挖掘：从“单点突破”到“全网沦陷”的深度狩猎指南](https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg) (发布日期: 2026-03-08)
+- [自 2023 年起，思科 SD-WAN 的一个严重漏洞已被用于零日攻击。](https://mp.weixin.qq.com/s/3sUgYu0ZJuZJKXbLtUAnIw) (发布日期: 2026-03-08)
+- [中标快讯：山东九州信泰13.8万中标某人民医院网络安全运营服务项目](https://mp.weixin.qq.com/s/zO5cEgBYxG22AyPyU8fxDw) (发布日期: 2026-03-08)
+- [中标快讯：某省税务局网络安全防护体系优化升级项目，格尔软件108.83万中](https://mp.weixin.qq.com/s/LWpTsy0prUL46BnIen8zQg) (发布日期: 2026-03-08)
+- [中标快讯：福建冠盛34.8万中标某医科大学附属第一医院网络安全运营服务项目](https://mp.weixin.qq.com/s/pquo56LX6w2yfF7lalTCAg) (发布日期: 2026-03-08)
 
 
 ## 🎯 威胁详情分析
@@ -104,55 +80,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI开始自己修漏洞：Codex Security 如何重构软件安全体系 | Doonsec | [https://mp.weixin.qq.com/s/U6Cuo9O4zv2J2V_Kq8j3NQ](https://mp.weixin.qq.com/s/U6Cuo9O4zv2J2V_Kq8j3NQ) |
-| 2 | Coruna:一个强大iOS漏洞利用工具包的神秘之旅 | Doonsec | [https://mp.weixin.qq.com/s/jik3V1LPFwnyC3hq1jO1Bg](https://mp.weixin.qq.com/s/jik3V1LPFwnyC3hq1jO1Bg) |
-| 3 | Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA](https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA) |
-| 4 | 拆解 Claude 如何利用 CVE-2026-2796 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cnzkjn-TdqRBRihMHAbCxw](https://mp.weixin.qq.com/s/cnzkjn-TdqRBRihMHAbCxw) |
-| 5 | 大多数网络攻击的成功只因1%的漏洞导致 | Doonsec | [https://mp.weixin.qq.com/s/KrZvN9_VA4s5ifA8BmJkMg](https://mp.weixin.qq.com/s/KrZvN9_VA4s5ifA8BmJkMg) |
-| 6 | 记一次对母校的漏洞挖掘经历 | Doonsec | [https://mp.weixin.qq.com/s/VzwjCfbHGESk7RwUMQ44cA](https://mp.weixin.qq.com/s/VzwjCfbHGESk7RwUMQ44cA) |
-| 7 | 漏洞管理平台 | 支持Excel格式的漏洞扫描报告导入、智能关联资产、漏洞可视化管理 | Doonsec | [https://mp.weixin.qq.com/s/rifObUuyQp-nhtsbcmH53A](https://mp.weixin.qq.com/s/rifObUuyQp-nhtsbcmH53A) |
-| 8 | 并发漏洞核心场景Checklist | Doonsec | [https://mp.weixin.qq.com/s/Vfu7lvGPgamG1uyZ2mnqGg](https://mp.weixin.qq.com/s/Vfu7lvGPgamG1uyZ2mnqGg) |
-| 9 | 漏洞复现 | Cisco Catalyst SD-WAN 身份验证绕过任意文件上传漏洞(CVE-2026-20127) | Doonsec | [https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw](https://mp.weixin.qq.com/s/_1bvND_g96tsnnx-Lhgrdw) |
-| 10 | 台军空军关键设施被曝存在安全漏洞 紧急斥资2680万加固 | Doonsec | [https://mp.weixin.qq.com/s/Gzi1cMELQIc3S0r_61TN5Q](https://mp.weixin.qq.com/s/Gzi1cMELQIc3S0r_61TN5Q) |
-| 11 | 两次 HTTP 请求拿下网站管理员权限——CVE-2026-1492 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA](https://mp.weixin.qq.com/s/CiL6aExyGam5MrYCHOs5gA) |
-| 12 | 【已复现】青龙面板身份认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PfWn7dhq8__NAQU5yLQmkw](https://mp.weixin.qq.com/s/PfWn7dhq8__NAQU5yLQmkw) |
-| 13 | 记录比较有意思的几个漏洞挖掘事件 | Doonsec | [https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ](https://mp.weixin.qq.com/s/N84dkkzp8hT0bp1PiBRdVQ) |
-| 14 | CISA 紧急令：联邦机构限期修复 Coruna 漏洞利用链相关 iOS 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/5_ErYro-nnL7gmSgB620og](https://mp.weixin.qq.com/s/5_ErYro-nnL7gmSgB620og) |
-| 15 | 五角大楼和欧洲航天局部署的卫星接收器爆超20项安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ](https://mp.weixin.qq.com/s/mljxoln_sVJFVxCOP_VTNQ) |
-| 16 | Serein：SRC 发掘漏洞的高效工具 | Doonsec | [https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg](https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA](https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA) |
-| 2 | Copilot 第一时间上线 GPT-5.4 Thinking，支持国内网络直接访问 | Doonsec | [https://mp.weixin.qq.com/s/Ybf8vhumbU2U-qXhIP0_hA](https://mp.weixin.qq.com/s/Ybf8vhumbU2U-qXhIP0_hA) |
+| 1 | GitHub 开源 AI 框架挖掘：3个月找到80+高危漏洞的秘密 | Doonsec | [https://mp.weixin.qq.com/s/yULKp_rBI4qcTIq0_o7LyA](https://mp.weixin.qq.com/s/yULKp_rBI4qcTIq0_o7LyA) |
+| 2 | 供应链漏洞挖掘：从“单点突破”到“全网沦陷”的深度狩猎指南 | Doonsec | [https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg](https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg) |
+| 3 | 自 2023 年起，思科 SD-WAN 的一个严重漏洞已被用于零日攻击。 | Doonsec | [https://mp.weixin.qq.com/s/3sUgYu0ZJuZJKXbLtUAnIw](https://mp.weixin.qq.com/s/3sUgYu0ZJuZJKXbLtUAnIw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Burp 插件：SRC 白帽子资产梳理利器 | Doonsec | [https://mp.weixin.qq.com/s/4W2d3bFK-NxKgtv4Soe2tg](https://mp.weixin.qq.com/s/4W2d3bFK-NxKgtv4Soe2tg) |
-| 2 | 【SRC第九期】课程目录 | Doonsec | [https://mp.weixin.qq.com/s/kQJQChEUbyEbvxv5Kt_TyA](https://mp.weixin.qq.com/s/kQJQChEUbyEbvxv5Kt_TyA) |
-| 3 | 哈梅内伊斩首行动中大模型和本体论的结合对网络安全运营领域的启示 | Doonsec | [https://mp.weixin.qq.com/s/eq42QPFZlvV0SaZrwH3r5w](https://mp.weixin.qq.com/s/eq42QPFZlvV0SaZrwH3r5w) |
-| 4 | Serein：SRC 发掘漏洞的高效工具 | Doonsec | [https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg](https://mp.weixin.qq.com/s/MztVEjwQWPbeHCJ54lZaxg) |
+| 1 | 中标快讯：山东九州信泰13.8万中标某人民医院网络安全运营服务项目 | Doonsec | [https://mp.weixin.qq.com/s/zO5cEgBYxG22AyPyU8fxDw](https://mp.weixin.qq.com/s/zO5cEgBYxG22AyPyU8fxDw) |
+| 2 | 中标快讯：福建冠盛34.8万中标某医科大学附属第一医院网络安全运营服务项目 | Doonsec | [https://mp.weixin.qq.com/s/pquo56LX6w2yfF7lalTCAg](https://mp.weixin.qq.com/s/pquo56LX6w2yfF7lalTCAg) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 伊朗交通摄像头被渗透、法国曝史上最大医疗数据泄露|一周特辑 | Doonsec | [https://mp.weixin.qq.com/s/TEjQJzz83LBjDlpW77xaAw](https://mp.weixin.qq.com/s/TEjQJzz83LBjDlpW77xaAw) |
+| 1 | 两个3800万数据泄露事件带来的一点点启示 | Doonsec | [https://mp.weixin.qq.com/s/ikkVGm3iyXNqJjWQ5H5wKA](https://mp.weixin.qq.com/s/ikkVGm3iyXNqJjWQ5H5wKA) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Pull_request噩梦第二弹：如何通过GitHub Actions漏洞实现RCE和供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA](https://mp.weixin.qq.com/s/njVDgOiQ-BtqV3ClOgx8lA) |
+| 1 | 供应链漏洞挖掘：从“单点突破”到“全网沦陷”的深度狩猎指南 | Doonsec | [https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg](https://mp.weixin.qq.com/s/-S2QUMzzY1IRq5rrQ0VQXg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W10/2026-03-07/`
+文章已归档到: `doc/2026/2026-03/2026-W10/2026-03-08/`
 
 ## 🔗 数据源说明
 
@@ -163,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -173,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-07 16:28:23*
+*生成时间: 2026-03-08 02:09:05*
 *报告工具: 微信文章安全归档系统*
