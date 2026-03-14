@@ -2,14 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
@@ -61,20 +61,8 @@
 
 ### Doonsec
 
-- [跟着红队笔记打靶:holynix](https://mp.weixin.qq.com/s/2i0eWwUq-YQZwOf68ll_Fg) (发布日期: 2026-03-14)
-- [【大洞速修】http协议、chrome浏览器等组件严重漏洞披露](https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw) (发布日期: 2026-03-14)
-- [JsRouteScan：渗透测试中的路由发现利器](https://mp.weixin.qq.com/s/8cEbgFDYgmz9Waqd65LQog) (发布日期: 2026-03-14)
-- [Tuoni：一个功能全面的跨平台红队框架](https://mp.weixin.qq.com/s/LxbbKqAWATd3feVwM-E8Cw) (发布日期: 2026-03-14)
-- [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用](https://mp.weixin.qq.com/s/oaK2D4KUDIzynzoelSOZbw) (发布日期: 2026-03-14)
-- [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平](https://mp.weixin.qq.com/s/0165k-v2sSdn2xy9uPUndg) (发布日期: 2026-03-14)
-- [看见一篇支付宝大厂存在严重漏洞？纯纯搞笑罢了](https://mp.weixin.qq.com/s/P6D3qIFOJSMcq0uKRzhZzw) (发布日期: 2026-03-14)
-- [苹果发布iOS 15.8.7紧急更新以抵御\"Coruna\"漏洞利用工具包](https://mp.weixin.qq.com/s/Hk80EXyFWsd1ypA3eakxow) (发布日期: 2026-03-14)
-- [谷歌紧急发布Chrome浏览器安全更新，修复两个高危零日漏洞](https://mp.weixin.qq.com/s/IHweiTB_-tjD45pb5OzzmA) (发布日期: 2026-03-14)
-- [Metasploit Pro 5.0.0强化红队攻击能力，直击AD CS漏洞](https://mp.weixin.qq.com/s/xEgN3HepCavuRNnWCYMoIA) (发布日期: 2026-03-14)
-- [苹果紧急发布iOS 15.8.7更新以防御“Coruna”漏洞利用工具包](https://mp.weixin.qq.com/s/VSZeNssieCssedz6Im4eLQ) (发布日期: 2026-03-14)
-- [威胁分析风险评估（TARA)影响和攻击可行性评估参考](https://mp.weixin.qq.com/s/g86_53jEJsNgXL_N2cUjQQ) (发布日期: 2026-03-14)
-- [HGAME 2026复现](https://mp.weixin.qq.com/s/f4xaKqwVt6j4rL76F2F3NA) (发布日期: 2026-03-14)
-- [HW| 网络攻防演练手册](https://mp.weixin.qq.com/s/Jd3kvOs40DPMhXB6ZaiX6g) (发布日期: 2026-03-14)
+- [CVE推送服务：零成本实现漏洞情报自动化监控](https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ) (发布日期: 2026-03-14)
+- [RSAC 2026创新沙盒 | Crash Override：从被动扫描走向主动溯源，重塑软件供应链安全底座](https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA) (发布日期: 2026-03-14)
 
 
 ## 🎯 威胁详情分析
@@ -83,21 +71,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【大洞速修】http协议、chrome浏览器等组件严重漏洞披露 | Doonsec | [https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw](https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw) |
-| 2 | 【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用 | Doonsec | [https://mp.weixin.qq.com/s/oaK2D4KUDIzynzoelSOZbw](https://mp.weixin.qq.com/s/oaK2D4KUDIzynzoelSOZbw) |
-| 3 | 【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平 | Doonsec | [https://mp.weixin.qq.com/s/0165k-v2sSdn2xy9uPUndg](https://mp.weixin.qq.com/s/0165k-v2sSdn2xy9uPUndg) |
-| 4 | 看见一篇支付宝大厂存在严重漏洞？纯纯搞笑罢了 | Doonsec | [https://mp.weixin.qq.com/s/P6D3qIFOJSMcq0uKRzhZzw](https://mp.weixin.qq.com/s/P6D3qIFOJSMcq0uKRzhZzw) |
-| 5 | 苹果发布iOS 15.8.7紧急更新以抵御\"Coruna\"漏洞利用工具包 | Doonsec | [https://mp.weixin.qq.com/s/Hk80EXyFWsd1ypA3eakxow](https://mp.weixin.qq.com/s/Hk80EXyFWsd1ypA3eakxow) |
-| 6 | 谷歌紧急发布Chrome浏览器安全更新，修复两个高危零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/IHweiTB_-tjD45pb5OzzmA](https://mp.weixin.qq.com/s/IHweiTB_-tjD45pb5OzzmA) |
-| 7 | Metasploit Pro 5.0.0强化红队攻击能力，直击AD CS漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xEgN3HepCavuRNnWCYMoIA](https://mp.weixin.qq.com/s/xEgN3HepCavuRNnWCYMoIA) |
-| 8 | 苹果紧急发布iOS 15.8.7更新以防御“Coruna”漏洞利用工具包 | Doonsec | [https://mp.weixin.qq.com/s/VSZeNssieCssedz6Im4eLQ](https://mp.weixin.qq.com/s/VSZeNssieCssedz6Im4eLQ) |
-| 9 | HGAME 2026复现 | Doonsec | [https://mp.weixin.qq.com/s/f4xaKqwVt6j4rL76F2F3NA](https://mp.weixin.qq.com/s/f4xaKqwVt6j4rL76F2F3NA) |
+| 1 | CVE推送服务：零成本实现漏洞情报自动化监控 | Doonsec | [https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ](https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【大洞速修】http协议、chrome浏览器等组件严重漏洞披露 | Doonsec | [https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw](https://mp.weixin.qq.com/s/7_irlfOZc6r875ssacXbxw) |
+| 1 | RSAC 2026创新沙盒 | Crash Override：从被动扫描走向主动溯源，重塑软件供应链安全底座 | Doonsec | [https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA](https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA) |
 
 
 ## 📁 归档路径
@@ -113,7 +93,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -123,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-14 12:52:51*
+*生成时间: 2026-03-14 16:33:10*
 *报告工具: 微信文章安全归档系统*
