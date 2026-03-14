@@ -1,20 +1,17 @@
-# 2026-03-13 安全威胁态势报告
+# 2026-03-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 5篇
-- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,48 +60,23 @@
 
 ### Doonsec
 
-- [孚盟云CRM AjaxFormDefault.ashx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw) (发布日期: 2026-03-13)
-- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/Po-lQSm6AEEZ5v5UqYyZgw) (发布日期: 2026-03-13)
-- [【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466）](https://mp.weixin.qq.com/s/H8tVgITjIPOzBGp93q1DMA) (发布日期: 2026-03-13)
-- [【漏洞复现】OpenClaw（“龙虾”）远程代码执行漏洞（CVE-2026-28466）](https://mp.weixin.qq.com/s/XAYNNpCwzU3gTS4VkxUqAA) (发布日期: 2026-03-13)
-- [内网渗透工具--Brutus](https://mp.weixin.qq.com/s/FHFMiwhP2Qs1wmo3NrMUAA) (发布日期: 2026-03-13)
-- [跟着红队笔记打靶：PWNOS1.0](https://mp.weixin.qq.com/s/0c6MiLydSBSlqYEAhT54Lw) (发布日期: 2026-03-13)
-- [新手小白入门SRC漏洞信息收集分享](https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA) (发布日期: 2026-03-13)
-- [【高危漏洞预警】泛微Ecology10未授权远程代码执行漏洞](https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg) (发布日期: 2026-03-13)
+- [护网红队都在偷偷用的“龙虾”攻击流：我们拆解了它把攻击效率拉满的底层逻辑](https://mp.weixin.qq.com/s/ZCMN_mH5IlGti0rYH6DZqA) (发布日期: 2026-03-14)
+- [荷兰电信运营商 Odido 数据泄露事件导致620万客户的个人信息泄露](https://mp.weixin.qq.com/s/lnyk1s_e4MEq-nVUYIDwcQ) (发布日期: 2026-03-14)
+- [六个数据安全事件看数据安全](https://mp.weixin.qq.com/s/oqmK-Ihaxy26UXOFSkKvUg) (发布日期: 2026-03-14)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 孚盟云CRM AjaxFormDefault.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw](https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw) |
-| 2 | 【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466） | Doonsec | [https://mp.weixin.qq.com/s/H8tVgITjIPOzBGp93q1DMA](https://mp.weixin.qq.com/s/H8tVgITjIPOzBGp93q1DMA) |
-| 3 | 【漏洞复现】OpenClaw（“龙虾”）远程代码执行漏洞（CVE-2026-28466） | Doonsec | [https://mp.weixin.qq.com/s/XAYNNpCwzU3gTS4VkxUqAA](https://mp.weixin.qq.com/s/XAYNNpCwzU3gTS4VkxUqAA) |
-| 4 | 新手小白入门SRC漏洞信息收集分享 | Doonsec | [https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA](https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA) |
-| 5 | 【高危漏洞预警】泛微Ecology10未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg](https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 孚盟云CRM AjaxFormDefault.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw](https://mp.weixin.qq.com/s/2tKiLXsB9vW-nBDUvJKrsw) |
-| 2 | 【复现】OpenClaw远程代码执行漏洞（CVE-2026-28466） | Doonsec | [https://mp.weixin.qq.com/s/H8tVgITjIPOzBGp93q1DMA](https://mp.weixin.qq.com/s/H8tVgITjIPOzBGp93q1DMA) |
-| 3 | 【漏洞复现】OpenClaw（“龙虾”）远程代码执行漏洞（CVE-2026-28466） | Doonsec | [https://mp.weixin.qq.com/s/XAYNNpCwzU3gTS4VkxUqAA](https://mp.weixin.qq.com/s/XAYNNpCwzU3gTS4VkxUqAA) |
-| 4 | 内网渗透工具--Brutus | Doonsec | [https://mp.weixin.qq.com/s/FHFMiwhP2Qs1wmo3NrMUAA](https://mp.weixin.qq.com/s/FHFMiwhP2Qs1wmo3NrMUAA) |
-| 5 | 【高危漏洞预警】泛微Ecology10未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg](https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 新手小白入门SRC漏洞信息收集分享 | Doonsec | [https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA](https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA) |
+| 1 | 荷兰电信运营商 Odido 数据泄露事件导致620万客户的个人信息泄露 | Doonsec | [https://mp.weixin.qq.com/s/lnyk1s_e4MEq-nVUYIDwcQ](https://mp.weixin.qq.com/s/lnyk1s_e4MEq-nVUYIDwcQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W11/2026-03-13/`
+文章已归档到: `doc/2026/2026-03/2026-W11/2026-03-14/`
 
 ## 🔗 数据源说明
 
@@ -115,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-13 16:40:27*
+*生成时间: 2026-03-14 02:03:38*
 *报告工具: 微信文章安全归档系统*
