@@ -2,22 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 2篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,22 +63,13 @@
 
 ### Doonsec
 
-- [跟着红队笔记打靶:HackademicRTB1](https://mp.weixin.qq.com/s/FsZRn5BHyu-ghFyDp9ycVw) (发布日期: 2026-03-15)
-- [随笔 | 数据安全的下一个十年（5）](https://mp.weixin.qq.com/s/KB41IpOYIPY4m-tCOanFfQ) (发布日期: 2026-03-15)
-- [700万美元加密钱包被盗事件概览  | 其中的Vshell是什么？手把手带你安装和配置！](https://mp.weixin.qq.com/s/BfE_n-ot7zdJOy9Or0vzgg) (发布日期: 2026-03-15)
-- [代码审计 | 九佳易ERP漏洞分析](https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q) (发布日期: 2026-03-15)
-- [大模型时代安全运营平台(SOC)开发实践](https://mp.weixin.qq.com/s/GnEkbTE_E61aXiXHqk4O4w) (发布日期: 2026-03-15)
-- [360training数据泄露事件：24,594名客户信息遭曝光，在线教育平台安全再引关注](https://mp.weixin.qq.com/s/4dQ-0n4D2a-GUXXV_7UsXw) (发布日期: 2026-03-15)
-- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/daSiYmAO1oxWCl4AIkHr-Q) (发布日期: 2026-03-15)
-- [汽车网络安全 -- SOC和MCU的HSM方案梳理](https://mp.weixin.qq.com/s/AwkJSg3WCWKyAzLJWogETg) (发布日期: 2026-03-15)
-- [OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取](https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ) (发布日期: 2026-03-15)
-- [Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离](https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA) (发布日期: 2026-03-15)
-- [每周PDF资源：网络安全情报和分析；APP风控参数分析和Frida绕过；从CTF中学习PHP反序列化的各种利用方式；](https://mp.weixin.qq.com/s/ka_UsY3WMG_leHRVHZEpfw) (发布日期: 2026-03-15)
-- [记edusrc小程序从信息泄露到任意用户登录挖掘案例](https://mp.weixin.qq.com/s/5Bvf49YuJTDOP9OmZxL-Sg) (发布日期: 2026-03-15)
-- [知识星球xa0|xa0本周新增安全意识资料合集、网安报告、甲乙方优质PPT合集](https://mp.weixin.qq.com/s/x1rxAyCum08qTQw76KEXcA) (发布日期: 2026-03-15)
-- [浙江工业大学网络空间安全研究院文生图模型后门安全领域论文入选CVPR 2026](https://mp.weixin.qq.com/s/kbtH5ppAoUyOeFAncoculQ) (发布日期: 2026-03-15)
-- [记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的](https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ) (发布日期: 2026-03-15)
-- [应急响应实战方案手册，网安人必备！](https://mp.weixin.qq.com/s/r4G8zZ7teIUeU0laI3NhEg) (发布日期: 2026-03-15)
+- [深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC](https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w) (发布日期: 2026-03-15)
+- [轻量级实时探针监控系统(支持性能监控、服务检测,防篡改保护与Linux安全基线检查)](https://mp.weixin.qq.com/s/XVk5mwCMpn01eU6BwRqF7g) (发布日期: 2026-03-15)
+- [Upload Labs 第9关：利用 NTFS $DATA 备用数据流绕过文件上传限制](https://mp.weixin.qq.com/s/Pk8Qy9Mpb7f5QbR3tO80Dw) (发布日期: 2026-03-15)
+- [你的信息正在\"裸奔\"？加密是最后一道防线](https://mp.weixin.qq.com/s/3gUuo9n10WQ8qLPUL25A3Q) (发布日期: 2026-03-15)
+- [C13 启明星辰：OpenClaw类智能应用安全思维总览和措施导引](https://mp.weixin.qq.com/s/K9SULAeBRZpwnelLOyUmGQ) (发布日期: 2026-03-15)
+- [2026 年秋季｜北京航空航天大学博士生招募 （浏览器指纹 / Web安全 /卫星互联网安全）](https://mp.weixin.qq.com/s/k2J58QSxXo6PKJY8oTYkQA) (发布日期: 2026-03-15)
+- [企业赏金大厂SRC实战案例 | 赏金没有那么难](https://mp.weixin.qq.com/s/8JzeIebdypuUegSe6AzRNQ) (发布日期: 2026-03-15)
 
 
 ## 🎯 威胁详情分析
@@ -90,35 +78,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 代码审计 | 九佳易ERP漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q](https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q) |
-| 2 | OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取 | Doonsec | [https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ](https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ) |
-| 3 | Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离 | Doonsec | [https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA](https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA) |
-| 4 | 记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的 | Doonsec | [https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ](https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ) |
+| 1 | 深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC | Doonsec | [https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w](https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取 | Doonsec | [https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ](https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应实战方案手册，网安人必备！ | Doonsec | [https://mp.weixin.qq.com/s/r4G8zZ7teIUeU0laI3NhEg](https://mp.weixin.qq.com/s/r4G8zZ7teIUeU0laI3NhEg) |
+| 1 | 深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC | Doonsec | [https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w](https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大模型时代安全运营平台(SOC)开发实践 | Doonsec | [https://mp.weixin.qq.com/s/GnEkbTE_E61aXiXHqk4O4w](https://mp.weixin.qq.com/s/GnEkbTE_E61aXiXHqk4O4w) |
-| 2 | 记edusrc小程序从信息泄露到任意用户登录挖掘案例 | Doonsec | [https://mp.weixin.qq.com/s/5Bvf49YuJTDOP9OmZxL-Sg](https://mp.weixin.qq.com/s/5Bvf49YuJTDOP9OmZxL-Sg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 360training数据泄露事件：24,594名客户信息遭曝光，在线教育平台安全再引关注 | Doonsec | [https://mp.weixin.qq.com/s/4dQ-0n4D2a-GUXXV_7UsXw](https://mp.weixin.qq.com/s/4dQ-0n4D2a-GUXXV_7UsXw) |
+| 1 | 企业赏金大厂SRC实战案例 | 赏金没有那么难 | Doonsec | [https://mp.weixin.qq.com/s/8JzeIebdypuUegSe6AzRNQ](https://mp.weixin.qq.com/s/8JzeIebdypuUegSe6AzRNQ) |
 
 
 ## 📁 归档路径
@@ -134,8 +106,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +116,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-15 12:54:35*
+*生成时间: 2026-03-15 16:33:09*
 *报告工具: 微信文章安全归档系统*
