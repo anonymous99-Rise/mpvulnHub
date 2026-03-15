@@ -1,18 +1,19 @@
-# 2026-03-14 安全威胁态势报告
+# 2026-03-15 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 2篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 4篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,10 +60,14 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [CVE推送服务：零成本实现漏洞情报自动化监控](https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ) (发布日期: 2026-03-14)
-- [RSAC 2026创新沙盒 | Crash Override：从被动扫描走向主动溯源，重塑软件供应链安全底座](https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA) (发布日期: 2026-03-14)
+- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154819&idx=2&sn=4e6ff8b71d1eb6358c7c3abc8c9e6331) (发布日期: 2026-03-15)
+- [ ] [HGAME 2026复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e) (发布日期: 2026-03-15)
+- [ ] [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5) (发布日期: 2026-03-15)
+- [ ] [“银狐”盯上“小龙虾” | 针对 OpenClaw 热点流量的工业化钓鱼活动](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4) (发布日期: 2026-03-15)
+- [ ] [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e) (发布日期: 2026-03-15)
+- [ ] [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd) (发布日期: 2026-03-15)
 
 
 ## 🎯 威胁详情分析
@@ -71,18 +76,21 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE推送服务：零成本实现漏洞情报自动化监控 | Doonsec | [https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ](https://mp.weixin.qq.com/s/4H2BJWdfiCUVV_tZz9AOUQ) |
+| 1 |  ] [HGAME 2026复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e) |
+| 2 |  ] [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5) |
+| 3 |  ] [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e) |
+| 4 |  ] [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | RSAC 2026创新沙盒 | Crash Override：从被动扫描走向主动溯源，重塑软件供应链安全底座 | Doonsec | [https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA](https://mp.weixin.qq.com/s/qt7dYIU5TEFvsRQVbC8wtA) |
+| 1 |  ] [“银狐”盯上“小龙虾” | 针对 OpenClaw 热点流量的工业化钓鱼活动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W11/2026-03-14/`
+文章已归档到: `doc/2026/2026-03/2026-W11/2026-03-15/`
 
 ## 🔗 数据源说明
 
@@ -93,8 +101,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-14 16:33:10*
+*生成时间: 2026-03-15 05:27:14*
 *报告工具: 微信文章安全归档系统*
