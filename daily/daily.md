@@ -1,21 +1,20 @@
-# 2026-03-16 安全威胁态势报告
+# 2026-03-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 26篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 7篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,32 +63,17 @@
 
 ### Doonsec
 
-- [软件系统安全赛-Thymeleaf 3.0.15 视图名注入 + PRNG 逆向：完整 RCE 到 Root 提权](https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ) (发布日期: 2026-03-16)
-- [为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁](https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw) (发布日期: 2026-03-16)
-- [C13-S04 启明星辰：OpenClaw类智能应用安全思维总览和措施导引](https://mp.weixin.qq.com/s/GBsZsRuviScd781HaDDGRQ) (发布日期: 2026-03-16)
-- [VulnRadar：集成多模块的Chrome浏览器安全渗透测试扩展](https://mp.weixin.qq.com/s/gN_K408O-acsf8LydpDJFw) (发布日期: 2026-03-16)
-- [【Web安全】PHP反序列化漏洞](https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw) (发布日期: 2026-03-16)
-- [JNDI注入攻防全解析：从低版本RCE到高版本绕过分析](https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA) (发布日期: 2026-03-16)
-- [Dejavu(逮虾户)，专逮野生小龙虾：OpenClaw基线安全检测神器来了](https://mp.weixin.qq.com/s/lEeO1ga7EimSGjjN-fVrrA) (发布日期: 2026-03-16)
-- [谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元](https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ) (发布日期: 2026-03-16)
-- [oasys代码审计](https://mp.weixin.qq.com/s/Mnj862x7PedXW-hsct2QTA) (发布日期: 2026-03-16)
-- [CNVD漏洞周报2026年第10期](https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw) (发布日期: 2026-03-16)
-- [CISSP+CCSP：双剑合璧，再赴新征](https://mp.weixin.qq.com/s/-qvMsieq-Fx2r1Hf8JRfzQ) (发布日期: 2026-03-16)
-- [企业内网敏感文件破解：Office/PDF/压缩包/KeePass 爆破实战](https://mp.weixin.qq.com/s/mecG64n99UUngae8upIP-g) (发布日期: 2026-03-16)
-- [一款专业的多协议安全测试工具](https://mp.weixin.qq.com/s/Nk-Q_oMOZeClItE9dr8f8w) (发布日期: 2026-03-16)
-- [内网渗透体系建设（建议收藏）](https://mp.weixin.qq.com/s/4iDiytLnzuqfqo4nhwbTWA) (发布日期: 2026-03-16)
-- [NSFOCUS梅花K战队 实习生招聘 | 应用安全](https://mp.weixin.qq.com/s/9eM8MBRaYiY8dXIs5dWwYA) (发布日期: 2026-03-16)
-- [【已复现】泛微 E-cology10 多个远程代码执行漏洞](https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug) (发布日期: 2026-03-16)
-- [【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910)](https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ) (发布日期: 2026-03-16)
-- [EDR/XDR 绕过与检测规避技术：红队视角下的高级绕过策略研究](https://mp.weixin.qq.com/s/IPPoT9aAlUf5VDhTXyKajw) (发布日期: 2026-03-16)
-- [红队工具--LSA 低语者 BOF](https://mp.weixin.qq.com/s/MdqBin-Z4BjS27rudet3lw) (发布日期: 2026-03-16)
-- [OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台](https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw) (发布日期: 2026-03-16)
-- [Linux权限提升实战指南](https://mp.weixin.qq.com/s/21w1oRmRBCpvFDtQBeq77g) (发布日期: 2026-03-16)
-- [OpenClaw node.invoke Rce(CVE-2026-28466)](https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw) (发布日期: 2026-03-16)
-- [OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单](https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig) (发布日期: 2026-03-16)
-- [某火cai票娱乐城系统存在前台任意文件上传漏洞](https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A) (发布日期: 2026-03-16)
-- [【红队必备】一站式渗透测试工作台](https://mp.weixin.qq.com/s/CFC1pinJ0-doK6NsRP7owg) (发布日期: 2026-03-16)
-- [OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单](https://mp.weixin.qq.com/s/jNYvo5VzlB_stC6ee09UuQ) (发布日期: 2026-03-16)
+- [Linux AppArmor出现CrackArmor漏洞，未授权用户可提升至root权限](https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw) (发布日期: 2026-03-17)
+- [AI 超级外挂发布！安恒VulnPlus让漏洞研究全流程自动跑通](https://mp.weixin.qq.com/s/CwGuQUZjkm28uGFyto4mfw) (发布日期: 2026-03-17)
+- [AI时代，半导体企业如何做好数据安全？](https://mp.weixin.qq.com/s/Hn0NcGzjF0ct17EyALEiOA) (发布日期: 2026-03-17)
+- [CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限](https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A) (发布日期: 2026-03-17)
+- [记某证书站从信息收集到SQL注入](https://mp.weixin.qq.com/s/ZrOahPUzSLiw029eCFftIw) (发布日期: 2026-03-17)
+- [【工具推荐】Rshell全新红队必备跨平台C2框架，平替CS/Vshell](https://mp.weixin.qq.com/s/e4UBteIJ8tlTz6LzyF3dng) (发布日期: 2026-03-17)
+- [一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析](https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg) (发布日期: 2026-03-17)
+- [网络安全运营大模型参考架构](https://mp.weixin.qq.com/s/7S69UdLh-xuQ3nJdREXMXQ) (发布日期: 2026-03-17)
+- [喜报！炼石中标某大湾区三甲妇幼保健院数据加密项目](https://mp.weixin.qq.com/s/2pbwgNdt-dO2VVbgUnDNnA) (发布日期: 2026-03-17)
+- [Upload Labs 第10关：点空格点绕过文件上传限制](https://mp.weixin.qq.com/s/yElsi0IuTVrln6_k98yEyA) (发布日期: 2026-03-17)
+- [本地部署龙虾+攻击工具联动全指南：把红队单兵效率拉满10倍](https://mp.weixin.qq.com/s/FIgoBcesl2Q3EWN2W8jXWg) (发布日期: 2026-03-17)
 
 
 ## 🎯 威胁详情分析
@@ -98,34 +82,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁 | Doonsec | [https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw](https://mp.weixin.qq.com/s/M2Yv6hI9yvQiWMh7AFUHIw) |
-| 2 | 【Web安全】PHP反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw](https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw) |
-| 3 | 谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元 | Doonsec | [https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ](https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ) |
-| 4 | CNVD漏洞周报2026年第10期 | Doonsec | [https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw](https://mp.weixin.qq.com/s/LvfU-s775n5ZgDbZ_0IuPw) |
-| 5 | 【已复现】泛微 E-cology10 多个远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug](https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug) |
-| 6 | 【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910) | Doonsec | [https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ](https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ) |
-| 7 | OpenClaw 满分漏洞：WebSocket 共享认证越权可接管平台 | Doonsec | [https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw](https://mp.weixin.qq.com/s/N_Zw4ij-92O2MeHFRlIoAw) |
-| 8 | OpenClaw node.invoke Rce(CVE-2026-28466) | Doonsec | [https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw](https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw) |
-| 9 | OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单 | Doonsec | [https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig](https://mp.weixin.qq.com/s/PRLdI60J7e52al730pJbig) |
-| 10 | 某火cai票娱乐城系统存在前台任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A](https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A) |
-| 11 | OpenClaw 新型绕过漏洞，上榜企业必修安全漏洞清单 | Doonsec | [https://mp.weixin.qq.com/s/jNYvo5VzlB_stC6ee09UuQ](https://mp.weixin.qq.com/s/jNYvo5VzlB_stC6ee09UuQ) |
+| 1 | Linux AppArmor出现CrackArmor漏洞，未授权用户可提升至root权限 | Doonsec | [https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw](https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw) |
+| 2 | AI 超级外挂发布！安恒VulnPlus让漏洞研究全流程自动跑通 | Doonsec | [https://mp.weixin.qq.com/s/CwGuQUZjkm28uGFyto4mfw](https://mp.weixin.qq.com/s/CwGuQUZjkm28uGFyto4mfw) |
+| 3 | CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限 | Doonsec | [https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A](https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A) |
+| 4 | 一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析 | Doonsec | [https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg](https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 软件系统安全赛-Thymeleaf 3.0.15 视图名注入 + PRNG 逆向：完整 RCE 到 Root 提权 | Doonsec | [https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ](https://mp.weixin.qq.com/s/qwvE_nsegyb7EJkP7eXyxQ) |
-| 2 | JNDI注入攻防全解析：从低版本RCE到高版本绕过分析 | Doonsec | [https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA](https://mp.weixin.qq.com/s/j0ZOcjFFK_6sThi4VdX6gA) |
-| 3 | 企业内网敏感文件破解：Office/PDF/压缩包/KeePass 爆破实战 | Doonsec | [https://mp.weixin.qq.com/s/mecG64n99UUngae8upIP-g](https://mp.weixin.qq.com/s/mecG64n99UUngae8upIP-g) |
-| 4 | 内网渗透体系建设（建议收藏） | Doonsec | [https://mp.weixin.qq.com/s/4iDiytLnzuqfqo4nhwbTWA](https://mp.weixin.qq.com/s/4iDiytLnzuqfqo4nhwbTWA) |
-| 5 | 【已复现】泛微 E-cology10 多个远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug](https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug) |
-| 6 | 【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910) | Doonsec | [https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ](https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ) |
-| 7 | OpenClaw node.invoke Rce(CVE-2026-28466) | Doonsec | [https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw](https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw) |
+| 1 | CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限 | Doonsec | [https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A](https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A) |
+| 2 | 记某证书站从信息收集到SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ZrOahPUzSLiw029eCFftIw](https://mp.weixin.qq.com/s/ZrOahPUzSLiw029eCFftIw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络安全运营大模型参考架构 | Doonsec | [https://mp.weixin.qq.com/s/7S69UdLh-xuQ3nJdREXMXQ](https://mp.weixin.qq.com/s/7S69UdLh-xuQ3nJdREXMXQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-16/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-17/`
 
 ## 🔗 数据源说明
 
@@ -136,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-16 17:01:05*
+*生成时间: 2026-03-17 02:08:53*
 *报告工具: 微信文章安全归档系统*
