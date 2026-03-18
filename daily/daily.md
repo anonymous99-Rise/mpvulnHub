@@ -1,19 +1,22 @@
-# 2026-03-17 安全威胁态势报告
+# 2026-03-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 4篇
-- **漏洞利用**: 3篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 7篇
+- **安全运营**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **Web安全**: 3篇
+- **应用漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +65,26 @@
 
 ### Doonsec
 
-- [CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞](https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g) (发布日期: 2026-03-17)
-- [深度解析：Spring MVC代码审计实战](https://mp.weixin.qq.com/s/eguNMDeMClkV9t7MMoi-Fw) (发布日期: 2026-03-17)
-- [大模型时代的红蓝对抗：Prompt 注入诱导与 RAG 架构的数据投毒实战](https://mp.weixin.qq.com/s/hm17mPMfc90i-6m7iKJOUA) (发布日期: 2026-03-17)
-- [【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708)](https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw) (发布日期: 2026-03-17)
-- [ADPulse：开源的内网渗透和内网安全审计工具](https://mp.weixin.qq.com/s/rF2w1rR1L-ZLhFsD5jFEaw) (发布日期: 2026-03-17)
-- [安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！](https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg) (发布日期: 2026-03-17)
+- [任我行协同CRM系统SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA) (发布日期: 2026-03-18)
+- [某金融官网SQL注入bypass阿里云盾](https://mp.weixin.qq.com/s/74qPV-qVdhs7F2Qjy-XhNg) (发布日期: 2026-03-18)
+- [一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析](https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA) (发布日期: 2026-03-18)
+- [一款专为红蓝工程师和渗透测试人员打造的跨平台安全工具箱](https://mp.weixin.qq.com/s/998bx4GaruVMNxhlxfUxPA) (发布日期: 2026-03-18)
+- [Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行](https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg) (发布日期: 2026-03-18)
+- [实战 IoT 漏洞挖掘—小米 C400 摄像头](https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg) (发布日期: 2026-03-18)
+- [误报率80%→10%、两周100+0day......安恒这场“AI原生代码审计”直播藏满硬核干货](https://mp.weixin.qq.com/s/V2lWrxB2DFf1_ecui3Xo1g) (发布日期: 2026-03-18)
+- [谁动了你的“小龙虾”？AI原生代码审计如何提前嗅出OpenClaw的1-click陷阱？](https://mp.weixin.qq.com/s/Hp-1LylIXouvEzTZYL3yyg) (发布日期: 2026-03-18)
+- [edusrc挖掘技巧汇总+信息收集各种姿势](https://mp.weixin.qq.com/s/e5oHfKCsDVwlrZVxo1G7OA) (发布日期: 2026-03-18)
+- [Spring AI 的关键缺陷使数据库面临 SQL 和 JSONPath 注入攻击的风险](https://mp.weixin.qq.com/s/gIf2zqv2bRNMwmubRN4JEA) (发布日期: 2026-03-18)
+- [[工具教程]提到 Web 安全渗透测试，绝对是绕不开的那个 “它”](https://mp.weixin.qq.com/s/kxCm27f697wgm0dCw-TZKQ) (发布日期: 2026-03-18)
+- [十五五国家规划与数据安全产业发展与数据安全产业](https://mp.weixin.qq.com/s/k2-3uvc1oWaFpAnaPcYIcw) (发布日期: 2026-03-18)
+- [【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证）](https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw) (发布日期: 2026-03-18)
+- [希望厂商回复漏洞清楚点](https://mp.weixin.qq.com/s/yCAHFvdmWO_GoIWF3KAcLg) (发布日期: 2026-03-18)
+- [漏洞预警 | Google Chromium V8 内存越界漏洞](https://mp.weixin.qq.com/s/fmmJcpO-w0cjmMOffNzeNQ) (发布日期: 2026-03-18)
+- [漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞](https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA) (发布日期: 2026-03-18)
+- [Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风](https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ) (发布日期: 2026-03-18)
+- [接口删了也能打！群杰印章物联网平台反序列化漏洞修复绕过思路](https://mp.weixin.qq.com/s/sPkGyqAVgvU-yyIKhppQYA) (发布日期: 2026-03-18)
+- [JNDI注入-rmi篇](https://mp.weixin.qq.com/s/JnrhP4BRSd6fNNhty-cYUA) (发布日期: 2026-03-18)
+- [【SRC实战】实名验证接口滥用漏洞](https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA) (发布日期: 2026-03-18)
 
 
 ## 🎯 威胁详情分析
@@ -76,23 +93,48 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g](https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g) |
-| 2 | 【高危漏洞预警】Libucl UCL输入处理漏洞 (CVE-2026-0708) | Doonsec | [https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw](https://mp.weixin.qq.com/s/HUbkCUNstiF1yUHIe68hrw) |
-| 3 | 安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！ | Doonsec | [https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg](https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg) |
+| 1 | 任我行协同CRM系统SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA](https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA) |
+| 2 | 一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析 | Doonsec | [https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA](https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA) |
+| 3 | Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg](https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg) |
+| 4 | 实战 IoT 漏洞挖掘—小米 C400 摄像头 | Doonsec | [https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg](https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg) |
+| 5 | 误报率80%→10%、两周100+0day......安恒这场“AI原生代码审计”直播藏满硬核干货 | Doonsec | [https://mp.weixin.qq.com/s/V2lWrxB2DFf1_ecui3Xo1g](https://mp.weixin.qq.com/s/V2lWrxB2DFf1_ecui3Xo1g) |
+| 6 | 【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证） | Doonsec | [https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw](https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw) |
+| 7 | 希望厂商回复漏洞清楚点 | Doonsec | [https://mp.weixin.qq.com/s/yCAHFvdmWO_GoIWF3KAcLg](https://mp.weixin.qq.com/s/yCAHFvdmWO_GoIWF3KAcLg) |
+| 8 | 漏洞预警 | Google Chromium V8 内存越界漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fmmJcpO-w0cjmMOffNzeNQ](https://mp.weixin.qq.com/s/fmmJcpO-w0cjmMOffNzeNQ) |
+| 9 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA](https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA) |
+| 10 | Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风 | Doonsec | [https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ](https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ) |
+| 11 | 接口删了也能打！群杰印章物联网平台反序列化漏洞修复绕过思路 | Doonsec | [https://mp.weixin.qq.com/s/sPkGyqAVgvU-yyIKhppQYA](https://mp.weixin.qq.com/s/sPkGyqAVgvU-yyIKhppQYA) |
+| 12 | 【SRC实战】实名验证接口滥用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA](https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-1312: Django order_by结合FilteredRelation使用导致的SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g](https://mp.weixin.qq.com/s/2XeK9bJ9cGCNTJ2N_x_I0g) |
-| 2 | 大模型时代的红蓝对抗：Prompt 注入诱导与 RAG 架构的数据投毒实战 | Doonsec | [https://mp.weixin.qq.com/s/hm17mPMfc90i-6m7iKJOUA](https://mp.weixin.qq.com/s/hm17mPMfc90i-6m7iKJOUA) |
-| 3 | ADPulse：开源的内网渗透和内网安全审计工具 | Doonsec | [https://mp.weixin.qq.com/s/rF2w1rR1L-ZLhFsD5jFEaw](https://mp.weixin.qq.com/s/rF2w1rR1L-ZLhFsD5jFEaw) |
-| 4 | 安全预警｜校园小程序高危 SQL 注入漏洞曝光，师生信息安全需警惕！ | Doonsec | [https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg](https://mp.weixin.qq.com/s/lVWQQUIj7U4AB4c7ZXfAIg) |
+| 1 | 任我行协同CRM系统SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA](https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA) |
+| 2 | 某金融官网SQL注入bypass阿里云盾 | Doonsec | [https://mp.weixin.qq.com/s/74qPV-qVdhs7F2Qjy-XhNg](https://mp.weixin.qq.com/s/74qPV-qVdhs7F2Qjy-XhNg) |
+| 3 | Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg](https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg) |
+| 4 | Spring AI 的关键缺陷使数据库面临 SQL 和 JSONPath 注入攻击的风险 | Doonsec | [https://mp.weixin.qq.com/s/gIf2zqv2bRNMwmubRN4JEA](https://mp.weixin.qq.com/s/gIf2zqv2bRNMwmubRN4JEA) |
+| 5 | 【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证） | Doonsec | [https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw](https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw) |
+| 6 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA](https://mp.weixin.qq.com/s/f1YxrfcFH79sY6rrRcAZbA) |
+| 7 | JNDI注入-rmi篇 | Doonsec | [https://mp.weixin.qq.com/s/JnrhP4BRSd6fNNhty-cYUA](https://mp.weixin.qq.com/s/JnrhP4BRSd6fNNhty-cYUA) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | edusrc挖掘技巧汇总+信息收集各种姿势 | Doonsec | [https://mp.weixin.qq.com/s/e5oHfKCsDVwlrZVxo1G7OA](https://mp.weixin.qq.com/s/e5oHfKCsDVwlrZVxo1G7OA) |
+| 2 | 【SRC实战】实名验证接口滥用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA](https://mp.weixin.qq.com/s/fOqjVNRJzYpsp1qU2LvYuA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风 | Doonsec | [https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ](https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-17/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-18/`
 
 ## 🔗 数据源说明
 
@@ -103,8 +145,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +155,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-17 17:04:25*
+*生成时间: 2026-03-18 02:12:56*
 *报告工具: 微信文章安全归档系统*
