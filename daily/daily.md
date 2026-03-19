@@ -1,19 +1,21 @@
-# 2026-03-18 安全威胁态势报告
+# 2026-03-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -63,11 +65,31 @@
 
 ### Doonsec
 
-- [告别手动排查应急响应一键采集与可视化分析的自动化应急响应利器](https://mp.weixin.qq.com/s/DXNdBHCom1VH5IyblTMsIg) (发布日期: 2026-03-18)
-- [什么是信息安全，网络安全，数据安全](https://mp.weixin.qq.com/s/k886sP6F0sgAhBB-4eKbVw) (发布日期: 2026-03-18)
-- [某CMS XSS漏洞代码审计](https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A) (发布日期: 2026-03-18)
-- [奇安云镜发布：一天不到1毛钱，为中小企业打造专属“智能安全管家”](https://mp.weixin.qq.com/s/wsiPk9WpsSLUGKHEZsi-xg) (发布日期: 2026-03-18)
-- [CTFshow-Pwn入门格式化字符串(91-100)](https://mp.weixin.qq.com/s/ZYNKgcz-vU3avl8brKO19A) (发布日期: 2026-03-18)
+- [小朋友的新一期代码审计来了](https://mp.weixin.qq.com/s/mtrtGRsuRrKpCzAFVsQ01w) (发布日期: 2026-03-19)
+- [Coruna：神秘而强大的iOS漏洞利用工具包分析](https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ) (发布日期: 2026-03-19)
+- [iOS 17.2.1及以下可用了！Coruna越狱工具发布：无需电脑直接注入插件](https://mp.weixin.qq.com/s/k-84s4wIamyPUbQQWW6_Bg) (发布日期: 2026-03-19)
+- [AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块](https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg) (发布日期: 2026-03-19)
+- [2025陕西数据安全决赛](https://mp.weixin.qq.com/s/pf9bQTzjUe8b_Ox3ngMRZg) (发布日期: 2026-03-19)
+- [瑞士体育零售巨头数据泄露？客户姓名、地址、购买记录全曝光](https://mp.weixin.qq.com/s/stwT_WX-npaJ6bYLTkYwfw) (发布日期: 2026-03-19)
+- [常见网络安全事件通报类型与应急处置](https://mp.weixin.qq.com/s/LP_mvtgc82ez2coj23nDPA) (发布日期: 2026-03-19)
+- [漏洞复现 | 用友U8cloud NCCloudGatewayServlet接口存在任意文件上传漏洞](https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag) (发布日期: 2026-03-19)
+- [【SRC实战】挖不到高危？那就去“捡垃圾”](https://mp.weixin.qq.com/s/dmzjHzTvsfDF9tZALm7Z4w) (发布日期: 2026-03-19)
+- [0138.300 美元电子邮件 HTML 注入！](https://mp.weixin.qq.com/s/QbZ9pTpFvBEadVorFjuaGQ) (发布日期: 2026-03-19)
+- [deepseek+burpsuite实现渗透测试大模型](https://mp.weixin.qq.com/s/fsY_2nvvlMPJJB16paUaSQ) (发布日期: 2026-03-19)
+- [OpenClaw（龙虾）安全防护 50 条技巧大汇总！](https://mp.weixin.qq.com/s/1IXMthzsM29yzrJlSc7CHw) (发布日期: 2026-03-19)
+- [关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示](https://mp.weixin.qq.com/s/hHkKZaDS307Ba70ECPkjDg) (发布日期: 2026-03-19)
+- [【WebSocket漏洞漫谈-第一章】别再傻傻只改HTTP包了，WebSocket才是真正的富矿](https://mp.weixin.qq.com/s/f9fMt-fHjroXXkzheRz7Vg) (发布日期: 2026-03-19)
+- [集成 15 000+ PoC 的“万能扫描怪兽”](https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw) (发布日期: 2026-03-19)
+- [公开课 | 区块链安全（第三讲）](https://mp.weixin.qq.com/s/XBiGqyXHusRW_TxK52SygA) (发布日期: 2026-03-19)
+- [挖洞实战｜接口FUZZ+日志泄漏导致大量密码泄漏漏洞](https://mp.weixin.qq.com/s/UAyR0_DookhFv7410uG07A) (发布日期: 2026-03-19)
+- [GA∕T 1390.9-2025 信息安全技术 网络安全等级保护基本要求 第9部分：区块链安全扩展要求](https://mp.weixin.qq.com/s/zuq6JFRZJc0gBYPLJh5MKg) (发布日期: 2026-03-19)
+- [Linux内核的“贴身保镖”：LKRG 1.0如何让零日漏洞无处遁形](https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg) (发布日期: 2026-03-19)
+- [DarkSword：席卷四国的iOS零日攻击链，商业监控与间谍活动的多元威胁](https://mp.weixin.qq.com/s/pM5ib9NRIO8XIyGvy0zoaw) (发布日期: 2026-03-19)
+- [武装你的浏览器-漏洞检测](https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw) (发布日期: 2026-03-19)
+- [安全公司的高管遭遇复杂网络钓鱼攻击](https://mp.weixin.qq.com/s/nooiyA6Fc5Fc7sTZFXXh6Q) (发布日期: 2026-03-19)
+- [CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管](https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA) (发布日期: 2026-03-19)
+- [网站漏洞源码合集（附链接）](https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ) (发布日期: 2026-03-19)
+- [美国和欧洲的货运和物流机构遭网络钓鱼攻击](https://mp.weixin.qq.com/s/WDYZm76UxRQik28XBhhSKA) (发布日期: 2026-03-19)
 
 
 ## 🎯 威胁详情分析
@@ -76,24 +98,41 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某CMS XSS漏洞代码审计 | Doonsec | [https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A](https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A) |
+| 1 | Coruna：神秘而强大的iOS漏洞利用工具包分析 | Doonsec | [https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ](https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ) |
+| 2 | AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块 | Doonsec | [https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg](https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg) |
+| 3 | 漏洞复现 | 用友U8cloud NCCloudGatewayServlet接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag](https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag) |
+| 4 | 关于防范思科Catalyst SD-WAN管理软件多个漏洞的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/hHkKZaDS307Ba70ECPkjDg](https://mp.weixin.qq.com/s/hHkKZaDS307Ba70ECPkjDg) |
+| 5 | 【WebSocket漏洞漫谈-第一章】别再傻傻只改HTTP包了，WebSocket才是真正的富矿 | Doonsec | [https://mp.weixin.qq.com/s/f9fMt-fHjroXXkzheRz7Vg](https://mp.weixin.qq.com/s/f9fMt-fHjroXXkzheRz7Vg) |
+| 6 | 集成 15 000+ PoC 的“万能扫描怪兽” | Doonsec | [https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw](https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw) |
+| 7 | 挖洞实战｜接口FUZZ+日志泄漏导致大量密码泄漏漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UAyR0_DookhFv7410uG07A](https://mp.weixin.qq.com/s/UAyR0_DookhFv7410uG07A) |
+| 8 | Linux内核的“贴身保镖”：LKRG 1.0如何让零日漏洞无处遁形 | Doonsec | [https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg](https://mp.weixin.qq.com/s/6RRZ2MQ_-XvrcR-qr3roQg) |
+| 9 | 武装你的浏览器-漏洞检测 | Doonsec | [https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw](https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw) |
+| 10 | CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管 | Doonsec | [https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA](https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA) |
+| 11 | 网站漏洞源码合集（附链接） | Doonsec | [https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ](https://mp.weixin.qq.com/s/dQbk0U4tKff9YEWafydQKQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某CMS XSS漏洞代码审计 | Doonsec | [https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A](https://mp.weixin.qq.com/s/dkmSXkbDu3z28swYvLta8A) |
+| 1 | iOS 17.2.1及以下可用了！Coruna越狱工具发布：无需电脑直接注入插件 | Doonsec | [https://mp.weixin.qq.com/s/k-84s4wIamyPUbQQWW6_Bg](https://mp.weixin.qq.com/s/k-84s4wIamyPUbQQWW6_Bg) |
+| 2 | 0138.300 美元电子邮件 HTML 注入！ | Doonsec | [https://mp.weixin.qq.com/s/QbZ9pTpFvBEadVorFjuaGQ](https://mp.weixin.qq.com/s/QbZ9pTpFvBEadVorFjuaGQ) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 告别手动排查应急响应一键采集与可视化分析的自动化应急响应利器 | Doonsec | [https://mp.weixin.qq.com/s/DXNdBHCom1VH5IyblTMsIg](https://mp.weixin.qq.com/s/DXNdBHCom1VH5IyblTMsIg) |
+| 1 | 【SRC实战】挖不到高危？那就去“捡垃圾” | Doonsec | [https://mp.weixin.qq.com/s/dmzjHzTvsfDF9tZALm7Z4w](https://mp.weixin.qq.com/s/dmzjHzTvsfDF9tZALm7Z4w) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 瑞士体育零售巨头数据泄露？客户姓名、地址、购买记录全曝光 | Doonsec | [https://mp.weixin.qq.com/s/stwT_WX-npaJ6bYLTkYwfw](https://mp.weixin.qq.com/s/stwT_WX-npaJ6bYLTkYwfw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-18/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-19/`
 
 ## 🔗 数据源说明
 
@@ -104,8 +143,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +153,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-18 17:00:34*
+*生成时间: 2026-03-19 02:21:33*
 *报告工具: 微信文章安全归档系统*
