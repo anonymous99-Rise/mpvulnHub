@@ -1,21 +1,23 @@
-# 2026-03-19 安全威胁态势报告
+# 2026-03-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 26
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 26篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 4篇
 - **安全运营**: 2篇
-- **漏洞利用**: 1篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,13 +66,32 @@
 
 ### Doonsec
 
-- [内网网络审计工具箱（大牛蛙版）](https://mp.weixin.qq.com/s/t9cQvfSBRXTBfo3RGt8h8w) (发布日期: 2026-03-19)
-- [Upload Labs 第10关：点空格点绕过文件上传限制](https://mp.weixin.qq.com/s/fUq5uTDSyF1l3h2IW-B7fw) (发布日期: 2026-03-19)
-- [Windows RCE漏洞EXP - CVE-2025-29969](https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw) (发布日期: 2026-03-19)
-- [安全运营 Agent 的演进：从规则告警到 AI 自动研判](https://mp.weixin.qq.com/s/Pp-tC87LCQFPKuUwTW1SLQ) (发布日期: 2026-03-19)
-- [红队打点利器：太极内网渗透工具(资产梳理与密码喷洒)](https://mp.weixin.qq.com/s/SeKMoJ6vvHZUSsRuI6wfNQ) (发布日期: 2026-03-19)
-- [技战法：基于小龙虾OpenClaw的VPN上网行为溯源取证](https://mp.weixin.qq.com/s/1xFQaT0wInx8DdmamChItA) (发布日期: 2026-03-19)
-- [直播预约 | 顺丰SRC第四届白帽技术沙龙，干货抽奖全都有！](https://mp.weixin.qq.com/s/AZ3PDIlJ5kcodwmWb9F2nA) (发布日期: 2026-03-19)
+- [QFSRC邀您预约 | 顺丰SRC第四届白帽技术沙龙，干货抽奖全都有！](https://mp.weixin.qq.com/s/LqdHSpYFF42V7mlI9e9I1g) (发布日期: 2026-03-20)
+- [支付宝公关忙着删帖，我已经发论文拿到了全球最顶级密码学的入场券](https://mp.weixin.qq.com/s/QEB_z41suxdiCTr69xRavA) (发布日期: 2026-03-20)
+- [OpenClaw基线安全检测神器](https://mp.weixin.qq.com/s/HbblzyBfHTrDKEbzepOaoA) (发布日期: 2026-03-20)
+- [【案例分享】某SRC SSRF漏洞分享](https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w) (发布日期: 2026-03-20)
+- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛火热报名中](https://mp.weixin.qq.com/s/6RMuZCuTZNOnkmP3On7Jpw) (发布日期: 2026-03-20)
+- [关于开展“守护者行动·数字安全”北京市大学生网络和数据安全技能专项竞赛的通知](https://mp.weixin.qq.com/s/0P6JQ1znesagxvVAnhPT8Q) (发布日期: 2026-03-20)
+- [俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰](https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ) (发布日期: 2026-03-20)
+- [基于《电力监控系统安全防护规定》的电力监控系统安全技术要求，附下载地址](https://mp.weixin.qq.com/s/g3Rx3UBBXHH1yEAeAZzcVQ) (发布日期: 2026-03-20)
+- [规则和情报为基础的流量威胁检测设备，应对高级威胁攻击应如何破局](https://mp.weixin.qq.com/s/ZpASujm9s32jk_xONj6Cdg) (发布日期: 2026-03-20)
+- [Jenkins 的严重缺陷使 CI/CD 服务器面临远程代码执行的风险](https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg) (发布日期: 2026-03-20)
+- [恒丰银行AI编码助手项目POC测试供应商征集](https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g) (发布日期: 2026-03-20)
+- [AWS云安全加固Checklist](https://mp.weixin.qq.com/s/z-y6CAXD9ukCAz-quytnlA) (发布日期: 2026-03-20)
+- [“ AI 刺客”漏洞披露：小字等方式伪装实现执行恶意代码](https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA) (发布日期: 2026-03-20)
+- [记一次某大型oa前台0day挖掘](https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw) (发布日期: 2026-03-20)
+- [施耐德 M580 工业控制器固件安全分析与解密研究](https://mp.weixin.qq.com/s/fNeTuozJUoVGkyxu-Osnag) (发布日期: 2026-03-20)
+- [OpenClaw 生态威胁分析报告](https://mp.weixin.qq.com/s/NElbcvGkDAoD3AZEMLwKMg) (发布日期: 2026-03-20)
+- [漏洞预警 | TOA操作系统命令注入漏洞](https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw) (发布日期: 2026-03-20)
+- [漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞](https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig) (发布日期: 2026-03-20)
+- [npm热门包eslint-config-prettier遭劫持，供应链攻击威胁数千项目](https://mp.weixin.qq.com/s/Hwxh-vb5l66tvBQ-5MByoQ) (发布日期: 2026-03-20)
+- [热门开发框架 Neutralinojs 遭到供应链攻击](https://mp.weixin.qq.com/s/cGwZf9WbLvwdbTtvlZgpow) (发布日期: 2026-03-20)
+- [通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword](https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q) (发布日期: 2026-03-20)
+- [安卓应用安全（附链接）](https://mp.weixin.qq.com/s/HVJthZKFHIuVAGBetsXKBA) (发布日期: 2026-03-20)
+- [过卡巴佬的【go二进制逆向反射符号&amp;病毒分析】](https://mp.weixin.qq.com/s/z8zNUBg1XBdKdTxqktl7-Q) (发布日期: 2026-03-20)
+- [Glato：GitLab CI/CD 流水线的渗透测试框架](https://mp.weixin.qq.com/s/F8SeeJXfSmp8RekwrOobyg) (发布日期: 2026-03-20)
+- [OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具](https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA) (发布日期: 2026-03-20)
+- [数据安全合规自查表（Checklist）基于风险评估](https://mp.weixin.qq.com/s/USFiw29TCdntf5KKSKhD3A) (发布日期: 2026-03-20)
 
 
 ## 🎯 威胁详情分析
@@ -79,27 +100,49 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows RCE漏洞EXP - CVE-2025-29969 | Doonsec | [https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw](https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw) |
+| 1 | 【案例分享】某SRC SSRF漏洞分享 | Doonsec | [https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w](https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w) |
+| 2 | 俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰 | Doonsec | [https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ](https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ) |
+| 3 | 恒丰银行AI编码助手项目POC测试供应商征集 | Doonsec | [https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g](https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g) |
+| 4 | “ AI 刺客”漏洞披露：小字等方式伪装实现执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA](https://mp.weixin.qq.com/s/uzkQMCYHN7oIcYQjeiXIrA) |
+| 5 | 记一次某大型oa前台0day挖掘 | Doonsec | [https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw](https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw) |
+| 6 | 漏洞预警 | TOA操作系统命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw](https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw) |
+| 7 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig](https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig) |
+| 8 | 通过攻陷合法网站传播的新型iOS漏洞利用工具包DarkSword | Doonsec | [https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q](https://mp.weixin.qq.com/s/lsJhmUUjdJ_qnMZ1CtXe1Q) |
+| 9 | OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具 | Doonsec | [https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA](https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网网络审计工具箱（大牛蛙版） | Doonsec | [https://mp.weixin.qq.com/s/t9cQvfSBRXTBfo3RGt8h8w](https://mp.weixin.qq.com/s/t9cQvfSBRXTBfo3RGt8h8w) |
-| 2 | Windows RCE漏洞EXP - CVE-2025-29969 | Doonsec | [https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw](https://mp.weixin.qq.com/s/xfPLqb_R5_9Xs24QNDWILw) |
-| 3 | 红队打点利器：太极内网渗透工具(资产梳理与密码喷洒) | Doonsec | [https://mp.weixin.qq.com/s/SeKMoJ6vvHZUSsRuI6wfNQ](https://mp.weixin.qq.com/s/SeKMoJ6vvHZUSsRuI6wfNQ) |
+| 1 | 俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰 | Doonsec | [https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ](https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ) |
+| 2 | Jenkins 的严重缺陷使 CI/CD 服务器面临远程代码执行的风险 | Doonsec | [https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg](https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg) |
+| 3 | 漏洞预警 | TOA操作系统命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw](https://mp.weixin.qq.com/s/WKKqHMW_QzFQAKUmBj7gNw) |
+| 4 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig](https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰 | Doonsec | [https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ](https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全运营 Agent 的演进：从规则告警到 AI 自动研判 | Doonsec | [https://mp.weixin.qq.com/s/Pp-tC87LCQFPKuUwTW1SLQ](https://mp.weixin.qq.com/s/Pp-tC87LCQFPKuUwTW1SLQ) |
-| 2 | 直播预约 | 顺丰SRC第四届白帽技术沙龙，干货抽奖全都有！ | Doonsec | [https://mp.weixin.qq.com/s/AZ3PDIlJ5kcodwmWb9F2nA](https://mp.weixin.qq.com/s/AZ3PDIlJ5kcodwmWb9F2nA) |
+| 1 | QFSRC邀您预约 | 顺丰SRC第四届白帽技术沙龙，干货抽奖全都有！ | Doonsec | [https://mp.weixin.qq.com/s/LqdHSpYFF42V7mlI9e9I1g](https://mp.weixin.qq.com/s/LqdHSpYFF42V7mlI9e9I1g) |
+| 2 | 【案例分享】某SRC SSRF漏洞分享 | Doonsec | [https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w](https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | npm热门包eslint-config-prettier遭劫持，供应链攻击威胁数千项目 | Doonsec | [https://mp.weixin.qq.com/s/Hwxh-vb5l66tvBQ-5MByoQ](https://mp.weixin.qq.com/s/Hwxh-vb5l66tvBQ-5MByoQ) |
+| 2 | 热门开发框架 Neutralinojs 遭到供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/cGwZf9WbLvwdbTtvlZgpow](https://mp.weixin.qq.com/s/cGwZf9WbLvwdbTtvlZgpow) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-19/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-20/`
 
 ## 🔗 数据源说明
 
@@ -110,8 +153,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +163,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-19 16:58:18*
+*生成时间: 2026-03-20 02:07:40*
 *报告工具: 微信文章安全归档系统*
