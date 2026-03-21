@@ -1,19 +1,19 @@
-# 2026-03-20 安全威胁态势报告
+# 2026-03-21 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 4篇
+- **信息泄露**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,11 +62,19 @@
 
 ### Doonsec
 
-- [渗透测试利器：全面升级的 SQLMap WAF 绕过脚本集](https://mp.weixin.qq.com/s/0GnKlBAVK4oa1iIBmWpKJw) (发布日期: 2026-03-20)
-- [【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017)](https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ) (发布日期: 2026-03-20)
-- [PHP-SQL注入代码审计](https://mp.weixin.qq.com/s/tuAJc99RstRQB4yG_jjZeA) (发布日期: 2026-03-20)
-- [「安言AI安全治理」认知觉醒篇：从不敢用到放心用，企业AI安全治理与合规全解读](https://mp.weixin.qq.com/s/ybpGAHE77lj5_wjY5KQHtQ) (发布日期: 2026-03-20)
-- [免费赠送 | 企业办公安全意识培训科普素材（第十九期）](https://mp.weixin.qq.com/s/7IX8MSt19j4fXVERBK_UdA) (发布日期: 2026-03-20)
+- [【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309)](https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w) (发布日期: 2026-03-21)
+- [微窃贼分析：一个检测率低但传播快的窃密木马](https://mp.weixin.qq.com/s/bsRiBlanVA6bWnH7y-CfyA) (发布日期: 2026-03-21)
+- [OpenClaw九个漏洞你必须知道](https://mp.weixin.qq.com/s/fs8no7C7h9Q_6ObLuxw-FQ) (发布日期: 2026-03-21)
+- [「渗透测试工具篇」使用Vshell工具从监听到木马上线教程](https://mp.weixin.qq.com/s/C0ouhlRM9f9dj4VdyywR1Q) (发布日期: 2026-03-21)
+- [[漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017/33309](https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ) (发布日期: 2026-03-21)
+- [基线管理之MariaDB安全配置](https://mp.weixin.qq.com/s/9r1ps3TYTULi_vaTOrBbvw) (发布日期: 2026-03-21)
+- [【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017)](https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q) (发布日期: 2026-03-21)
+- [Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行](https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA) (发布日期: 2026-03-21)
+- [工业AI应用OpenClaw曝多重风险！可致工控系统失控、敏感数据泄露](https://mp.weixin.qq.com/s/hYYBLPNwb3Vc5TcWNEVitA) (发布日期: 2026-03-21)
+- [《密码学》科普讲坛—第七讲：轮密码](https://mp.weixin.qq.com/s/GRwDtaE47dbvRuAFhCrOLQ) (发布日期: 2026-03-21)
+- [一个提示词注入防御简化图](https://mp.weixin.qq.com/s/6dz31WAs-93H9ynszn1P_A) (发布日期: 2026-03-21)
+- [九年未被发现的漏洞影响1260万个企业级Linux系统](https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg) (发布日期: 2026-03-21)
+- [美国数字汽车平 CarGurus 数据泄露事件导致1240万个账户信息曝光](https://mp.weixin.qq.com/s/fECE_mmRY8E8qhehla43iQ) (发布日期: 2026-03-21)
 
 
 ## 🎯 威胁详情分析
@@ -75,19 +83,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ](https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ) |
+| 1 | 【已复现】漏洞通告 | Langflow任意文件写入漏洞(CVE-2026-33309) | Doonsec | [https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w](https://mp.weixin.qq.com/s/C5qIfAuv8-YoCnZBf55q5w) |
+| 2 | OpenClaw九个漏洞你必须知道 | Doonsec | [https://mp.weixin.qq.com/s/fs8no7C7h9Q_6ObLuxw-FQ](https://mp.weixin.qq.com/s/fs8no7C7h9Q_6ObLuxw-FQ) |
+| 3 | [漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017/33309 | Doonsec | [https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ](https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ) |
+| 4 | 【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q](https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q) |
+| 5 | Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA](https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA) |
+| 6 | 九年未被发现的漏洞影响1260万个企业级Linux系统 | Doonsec | [https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg](https://mp.weixin.qq.com/s/ONH4oamY0YmycruWtfu2Kg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危AI漏洞预警】Langflow远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ](https://mp.weixin.qq.com/s/qBKxpIwDVvmiV0gXUJ79nQ) |
-| 2 | PHP-SQL注入代码审计 | Doonsec | [https://mp.weixin.qq.com/s/tuAJc99RstRQB4yG_jjZeA](https://mp.weixin.qq.com/s/tuAJc99RstRQB4yG_jjZeA) |
+| 1 | [漏洞预警]Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017/33309 | Doonsec | [https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ](https://mp.weixin.qq.com/s/tFg0qaVqGNH2m1u8ATqNdQ) |
+| 2 | 【已复现】Langflow 远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q](https://mp.weixin.qq.com/s/EB_MFvXyROs8LXbs0tA_-Q) |
+| 3 | Langflow高危漏洞CVE-2026-33309深度分析：一键拿Token到远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA](https://mp.weixin.qq.com/s/KADb3WS7_D09pxvHx7wZiA) |
+| 4 | 一个提示词注入防御简化图 | Doonsec | [https://mp.weixin.qq.com/s/6dz31WAs-93H9ynszn1P_A](https://mp.weixin.qq.com/s/6dz31WAs-93H9ynszn1P_A) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 工业AI应用OpenClaw曝多重风险！可致工控系统失控、敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/hYYBLPNwb3Vc5TcWNEVitA](https://mp.weixin.qq.com/s/hYYBLPNwb3Vc5TcWNEVitA) |
+| 2 | 美国数字汽车平 CarGurus 数据泄露事件导致1240万个账户信息曝光 | Doonsec | [https://mp.weixin.qq.com/s/fECE_mmRY8E8qhehla43iQ](https://mp.weixin.qq.com/s/fECE_mmRY8E8qhehla43iQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-20/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-21/`
 
 ## 🔗 数据源说明
 
@@ -98,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-20 16:43:17*
+*生成时间: 2026-03-21 02:01:42*
 *报告工具: 微信文章安全归档系统*
