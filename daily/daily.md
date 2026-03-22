@@ -1,17 +1,17 @@
-# 2026-03-21 安全威胁态势报告
+# 2026-03-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
@@ -64,11 +64,23 @@
 
 ### Doonsec
 
-- [Omnissa Workspace ONE UEM存在敏感信息泄漏漏洞（CVE-2025-25231） 附POC](https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg) (发布日期: 2026-03-21)
-- [滥用漏洞驱动 (BYOVD) 实现任意内核读写并绕过 PPL 保护](https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw) (发布日期: 2026-03-21)
-- [Burp Suite 文件上传漏洞自动化测试插件 1000+ payload](https://mp.weixin.qq.com/s/UAh9CjgpmAk-k3FoC0Yrmg) (发布日期: 2026-03-21)
-- [为什么你在顶级SRC挖不到sql注入](https://mp.weixin.qq.com/s/EunSGK5QZxS8ctNplWuxIw) (发布日期: 2026-03-21)
-- [用Agent打败Agent：LLM智能体漏洞，正在进入自动化挖掘阶段（Agentfuzz）](https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg) (发布日期: 2026-03-21)
+- [[EDU]对SQL注入的捡漏](https://mp.weixin.qq.com/s/6GKivFwhy3tqGHihvql0qw) (发布日期: 2026-03-22)
+- [【工具推荐】安全运维工具箱](https://mp.weixin.qq.com/s/3Rg2Pi6Qbnvx_jPcsd8vSQ) (发布日期: 2026-03-22)
+- [明源地产ERP GetErpDept.ashx SQL注入漏洞](https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg) (发布日期: 2026-03-22)
+- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/C1zgncmJc0qMWJxpA8VjkA) (发布日期: 2026-03-22)
+- [0day | 泛微E-cology10 存在远程代码执行漏洞（QVD-2026-14149）](https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q) (发布日期: 2026-03-22)
+- [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s/bqVzCXxGtk4L9UU8o57oMQ) (发布日期: 2026-03-22)
+- [85万！财达证券大模型安全防护模块采购及大模型登记服务项目](https://mp.weixin.qq.com/s/vM2aeZNBN1V_OrZgEuLemQ) (发布日期: 2026-03-22)
+- [基线管理之Windows安全配置](https://mp.weixin.qq.com/s/GzATRpCbD9F4piBm_5oJ_Q) (发布日期: 2026-03-22)
+- [漏洞公开20小时即遭攻击，Trivy安全扫描器一月内两度沦陷](https://mp.weixin.qq.com/s/p95T1QhmbNH67bnVQ50oaw) (发布日期: 2026-03-22)
+- [华为： Al系统的网络安全治理实践](https://mp.weixin.qq.com/s/VoMIBqyF1Dj4y-ftYKJVWA) (发布日期: 2026-03-22)
+- [2026必学：AI时代下的渗透测试新玩法](https://mp.weixin.qq.com/s/O1rE99F1bh32GXFnPCf__w) (发布日期: 2026-03-22)
+- [OpenClaw爆火背后隐忧浮现：开发者追捧“养成系AI”，安全专家警告系统级风险](https://mp.weixin.qq.com/s/aYxbQVGQs9rqmeaCCVPd0g) (发布日期: 2026-03-22)
+- [GhostClaw/GhostLoader恶意软件深度分析：GitHub仓库与AI工作流攻击macOS](https://mp.weixin.qq.com/s/Y5G2MPjqU9Mex0wZMcRWVw) (发布日期: 2026-03-22)
+- [Jar Analyzer：Java 安全审计的瑞士军刀](https://mp.weixin.qq.com/s/hHDNIGpxYr091lwnMTDNLQ) (发布日期: 2026-03-22)
+- [苹果手机国家级黑客工具DarkSword的扩散：iOS漏洞利用链被多个威胁行为者采用](https://mp.weixin.qq.com/s/ytiq_OjlbQXtMo5i25__mA) (发布日期: 2026-03-22)
+- [国外：一周网络安全态势回顾之第142期，一机构数据泄露事件影响270万人](https://mp.weixin.qq.com/s/UbVfDT_aLNOZVRZDiyY3kg) (发布日期: 2026-03-22)
+- [开源人工智能开发框架高危漏洞在公开披露数小时后即被利用](https://mp.weixin.qq.com/s/zg6MQCDO-ylywQzTaASqnQ) (发布日期: 2026-03-22)
 
 
 ## 🎯 威胁详情分析
@@ -77,33 +89,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Omnissa Workspace ONE UEM存在敏感信息泄漏漏洞（CVE-2025-25231） 附POC | Doonsec | [https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg](https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg) |
-| 2 | 滥用漏洞驱动 (BYOVD) 实现任意内核读写并绕过 PPL 保护 | Doonsec | [https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw](https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw) |
-| 3 | Burp Suite 文件上传漏洞自动化测试插件 1000+ payload | Doonsec | [https://mp.weixin.qq.com/s/UAh9CjgpmAk-k3FoC0Yrmg](https://mp.weixin.qq.com/s/UAh9CjgpmAk-k3FoC0Yrmg) |
-| 4 | 用Agent打败Agent：LLM智能体漏洞，正在进入自动化挖掘阶段（Agentfuzz） | Doonsec | [https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg](https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg) |
+| 1 | 明源地产ERP GetErpDept.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg](https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg) |
+| 2 | 0day | 泛微E-cology10 存在远程代码执行漏洞（QVD-2026-14149） | Doonsec | [https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q](https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q) |
+| 3 | 漏洞公开20小时即遭攻击，Trivy安全扫描器一月内两度沦陷 | Doonsec | [https://mp.weixin.qq.com/s/p95T1QhmbNH67bnVQ50oaw](https://mp.weixin.qq.com/s/p95T1QhmbNH67bnVQ50oaw) |
+| 4 | 苹果手机国家级黑客工具DarkSword的扩散：iOS漏洞利用链被多个威胁行为者采用 | Doonsec | [https://mp.weixin.qq.com/s/ytiq_OjlbQXtMo5i25__mA](https://mp.weixin.qq.com/s/ytiq_OjlbQXtMo5i25__mA) |
+| 5 | 开源人工智能开发框架高危漏洞在公开披露数小时后即被利用 | Doonsec | [https://mp.weixin.qq.com/s/zg6MQCDO-ylywQzTaASqnQ](https://mp.weixin.qq.com/s/zg6MQCDO-ylywQzTaASqnQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 为什么你在顶级SRC挖不到sql注入 | Doonsec | [https://mp.weixin.qq.com/s/EunSGK5QZxS8ctNplWuxIw](https://mp.weixin.qq.com/s/EunSGK5QZxS8ctNplWuxIw) |
+| 1 | [EDU]对SQL注入的捡漏 | Doonsec | [https://mp.weixin.qq.com/s/6GKivFwhy3tqGHihvql0qw](https://mp.weixin.qq.com/s/6GKivFwhy3tqGHihvql0qw) |
+| 2 | 明源地产ERP GetErpDept.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg](https://mp.weixin.qq.com/s/7PNzRZMg7Xy59fwMslddgg) |
+| 3 | 0day | 泛微E-cology10 存在远程代码执行漏洞（QVD-2026-14149） | Doonsec | [https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q](https://mp.weixin.qq.com/s/zCg_9V-WTz7j0Hyni7NO3Q) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 为什么你在顶级SRC挖不到sql注入 | Doonsec | [https://mp.weixin.qq.com/s/EunSGK5QZxS8ctNplWuxIw](https://mp.weixin.qq.com/s/EunSGK5QZxS8ctNplWuxIw) |
+| 1 | 2026年安全团队必备的顶级威胁情报平台 | Doonsec | [https://mp.weixin.qq.com/s/bqVzCXxGtk4L9UU8o57oMQ](https://mp.weixin.qq.com/s/bqVzCXxGtk4L9UU8o57oMQ) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Omnissa Workspace ONE UEM存在敏感信息泄漏漏洞（CVE-2025-25231） 附POC | Doonsec | [https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg](https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg) |
+| 1 | 国外：一周网络安全态势回顾之第142期，一机构数据泄露事件影响270万人 | Doonsec | [https://mp.weixin.qq.com/s/UbVfDT_aLNOZVRZDiyY3kg](https://mp.weixin.qq.com/s/UbVfDT_aLNOZVRZDiyY3kg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-21/`
+文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-22/`
 
 ## 🔗 数据源说明
 
@@ -114,7 +129,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -124,5 +139,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-21 16:30:46*
+*生成时间: 2026-03-22 02:21:52*
 *报告工具: 微信文章安全归档系统*
