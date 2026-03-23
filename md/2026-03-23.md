@@ -2,21 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 19篇
-  - BruceFeIix: 3篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 8篇
-- **攻击技术**: 5篇
+- **攻击技术**: 2篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,31 +63,21 @@
 
 ### Doonsec
 
-- [红队全裁了！](https://mp.weixin.qq.com/s/6c05JFkhcl-yFJOD14SbTA) (发布日期: 2026-03-23)
-- [数据安全风险评估实施经验（第一番）](https://mp.weixin.qq.com/s/lgmBIz6hGWuMo-9ElYk2Lw) (发布日期: 2026-03-23)
-- [具身智能安全入门](https://mp.weixin.qq.com/s/ThSdOqOtc3NwBYA_2eBmoQ) (发布日期: 2026-03-23)
-- [CVE-2026-22812：我是如何在一个 7.1 万 Star 的 AI 编码工具上实现“零认证 RCE”的](https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw) (发布日期: 2026-03-23)
-- [绕过 Tomcat 证书吊销：CVE-2026-24734 详解（含实战 PoC）](https://mp.weixin.qq.com/s/Xh1p9_R2EKNAEotgHBgZHg) (发布日期: 2026-03-23)
-- [AI渗透 | 重塑渗透测试与漏洞挖掘新策略！](https://mp.weixin.qq.com/s/jIsj7HbpYxkK9MYGcOhOCA) (发布日期: 2026-03-23)
-- [2026年AI安全攻防战：从Agent漏洞到深度伪造](https://mp.weixin.qq.com/s/5HfawGWrG4T4oVpRI6GNAg) (发布日期: 2026-03-23)
-- [第103天-Java安全攻防：JNDI注入高版本JDK绕过Bypass深度解析](https://mp.weixin.qq.com/s/TljMH0rVbVgZBbBKFDgOTQ) (发布日期: 2026-03-23)
-- [实战：我如何用AI分析Coruna iOS漏洞利用工具包？](https://mp.weixin.qq.com/s/f8MmkHhkHGgMANz78r7Qqg) (发布日期: 2026-03-23)
-- [手把手教你筑牢sql注入防线](https://mp.weixin.qq.com/s/w209qpYhnHWvuItItHFxjw) (发布日期: 2026-03-23)
-- [来源于国外的AI时代渗透测试、红队攻击全景展示](https://mp.weixin.qq.com/s/GeBFDo9DDJd8upfOnn-iEw) (发布日期: 2026-03-23)
-- [“十五五” | 健全云计算服务安全评估制度](https://mp.weixin.qq.com/s/LZz8kROUG6jBIHTpYF0UvA) (发布日期: 2026-03-23)
-- [AI赋能，实战为王！CCRC-CSERE、CISAW-LPT培训正在火热招生中！](https://mp.weixin.qq.com/s/-zZoVKGsFvCLkQcRq-cMaw) (发布日期: 2026-03-23)
-- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛火热报名中](https://mp.weixin.qq.com/s/Tfst0Ir-XQVxWQYyGT3Ymw) (发布日期: 2026-03-23)
-- [关于开展“守护者行动·数字安全”北京市大学生网络和数据安全技能专项竞赛的通知](https://mp.weixin.qq.com/s/RWDAZCuZfP50O_0aAeBbdA) (发布日期: 2026-03-23)
-- [孚盟云 upload.ashx showImgss SQL注入漏洞](https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw) (发布日期: 2026-03-23)
-- [2026-03-23 最新CVE漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s/vGTlvT3kOjaPbNf_UBxYRQ) (发布日期: 2026-03-23)
-- [Docker Remote API未授权访问与逃逸RCE 分析](https://mp.weixin.qq.com/s/T-hht3kxX0WRogDTIDyR0Q) (发布日期: 2026-03-23)
-- [施耐德M580固件加密被破解，电力石化工控系统密钥硬编码暗门洞开](https://mp.weixin.qq.com/s/zdCcWvhLyT_ix8KFej9MlQ) (发布日期: 2026-03-23)
-
-### BruceFeIix
-
-- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154887&idx=2&sn=454d4d4259a2dd05fba692ffe5b2c935) (发布日期: 2026-03-23)
-- [ ] [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8) (发布日期: 2026-03-23)
-- [ ] [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f) (发布日期: 2026-03-23)
+- [红队实战指南，AI融合攻防实战的时代来了](https://mp.weixin.qq.com/s/8gc2Cn-F8LjMNh1xtgqu7g) (发布日期: 2026-03-23)
+- [【漏洞通告】Langflow 未授权远程代码执行漏洞(CVE-2026-33017)](https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA) (发布日期: 2026-03-23)
+- [AI辅助漏洞挖掘：四种方法的实测与挫败](https://mp.weixin.qq.com/s/Wh34-IDbQzyNZ2QxzkbBhg) (发布日期: 2026-03-23)
+- [【案例分享】某社交平台并发签到漏洞：白帽子如何用一个接口刷21天签到？](https://mp.weixin.qq.com/s/6LRGhtyc6jYlxazYWEfBUw) (发布日期: 2026-03-23)
+- [红队渗透工具 -- epgo（3月22日更新）](https://mp.weixin.qq.com/s/fKvbF2KRRvWXN1f4FNKLGg) (发布日期: 2026-03-23)
+- [EDU某两个证书站的任意用户覆盖漏洞](https://mp.weixin.qq.com/s/xi8mVaS37jJq6KWA8WUIxA) (发布日期: 2026-03-23)
+- [3月社区投稿活动 | 漏洞挖掘](https://mp.weixin.qq.com/s/P1aaa10JCsniV2eLf6ojhA) (发布日期: 2026-03-23)
+- [2026-Solar应急响应公益月赛！文末可参与抽奖活动！](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA) (发布日期: 2026-03-23)
+- [DudeSuite 漏洞播报 全网漏洞早知道【20260323】](https://mp.weixin.qq.com/s/dvWPswiY2FMK7LdJicRXYw) (发布日期: 2026-03-23)
+- [某盟云AjaxMethod.ashx存在SQL注入漏洞](https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw) (发布日期: 2026-03-23)
+- [Certi-Audit-Agent：多链智能合约混合区块链安全审计工具](https://mp.weixin.qq.com/s/jA69w739LHjLIX9NkxjyRg) (发布日期: 2026-03-23)
+- [嘶吼安全动态｜国家级电力AI中试基地启用，华为、百度入驻筑牢能源AI安全 OpenWebUI服务器遭攻击，被植入挖矿与信息窃取恶意代码](https://mp.weixin.qq.com/s/RG96XPqrdycFz9NmDvHvLA) (发布日期: 2026-03-23)
+- [【玲珑安全】第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”](https://mp.weixin.qq.com/s/pDK-92iGqKqdALxHUuqaYQ) (发布日期: 2026-03-23)
+- [大模型安全深度学习指南：数据隐私泄露专题(1)](https://mp.weixin.qq.com/s/qlw-mUnBQ1rcERGFXO3iEg) (发布日期: 2026-03-23)
+- [招聘安全渗透测试岗位](https://mp.weixin.qq.com/s/W8Suhc9lRqtkmIws2MpXsw) (发布日期: 2026-03-23)
 
 
 ## 🎯 威胁详情分析
@@ -98,30 +86,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-22812：我是如何在一个 7.1 万 Star 的 AI 编码工具上实现“零认证 RCE”的 | Doonsec | [https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw](https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw) |
-| 2 | 绕过 Tomcat 证书吊销：CVE-2026-24734 详解（含实战 PoC） | Doonsec | [https://mp.weixin.qq.com/s/Xh1p9_R2EKNAEotgHBgZHg](https://mp.weixin.qq.com/s/Xh1p9_R2EKNAEotgHBgZHg) |
-| 3 | AI渗透 | 重塑渗透测试与漏洞挖掘新策略！ | Doonsec | [https://mp.weixin.qq.com/s/jIsj7HbpYxkK9MYGcOhOCA](https://mp.weixin.qq.com/s/jIsj7HbpYxkK9MYGcOhOCA) |
-| 4 | 2026年AI安全攻防战：从Agent漏洞到深度伪造 | Doonsec | [https://mp.weixin.qq.com/s/5HfawGWrG4T4oVpRI6GNAg](https://mp.weixin.qq.com/s/5HfawGWrG4T4oVpRI6GNAg) |
-| 5 | 实战：我如何用AI分析Coruna iOS漏洞利用工具包？ | Doonsec | [https://mp.weixin.qq.com/s/f8MmkHhkHGgMANz78r7Qqg](https://mp.weixin.qq.com/s/f8MmkHhkHGgMANz78r7Qqg) |
-| 6 | 孚盟云 upload.ashx showImgss SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw](https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw) |
-| 7 | 2026-03-23 最新CVE漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s/vGTlvT3kOjaPbNf_UBxYRQ](https://mp.weixin.qq.com/s/vGTlvT3kOjaPbNf_UBxYRQ) |
-| 8 |  ] [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8) |
+| 1 | 【漏洞通告】Langflow 未授权远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA](https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA) |
+| 2 | AI辅助漏洞挖掘：四种方法的实测与挫败 | Doonsec | [https://mp.weixin.qq.com/s/Wh34-IDbQzyNZ2QxzkbBhg](https://mp.weixin.qq.com/s/Wh34-IDbQzyNZ2QxzkbBhg) |
+| 3 | 【案例分享】某社交平台并发签到漏洞：白帽子如何用一个接口刷21天签到？ | Doonsec | [https://mp.weixin.qq.com/s/6LRGhtyc6jYlxazYWEfBUw](https://mp.weixin.qq.com/s/6LRGhtyc6jYlxazYWEfBUw) |
+| 4 | EDU某两个证书站的任意用户覆盖漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xi8mVaS37jJq6KWA8WUIxA](https://mp.weixin.qq.com/s/xi8mVaS37jJq6KWA8WUIxA) |
+| 5 | 3月社区投稿活动 | 漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/P1aaa10JCsniV2eLf6ojhA](https://mp.weixin.qq.com/s/P1aaa10JCsniV2eLf6ojhA) |
+| 6 | DudeSuite 漏洞播报 全网漏洞早知道【20260323】 | Doonsec | [https://mp.weixin.qq.com/s/dvWPswiY2FMK7LdJicRXYw](https://mp.weixin.qq.com/s/dvWPswiY2FMK7LdJicRXYw) |
+| 7 | 某盟云AjaxMethod.ashx存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw](https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw) |
+| 8 | 【玲珑安全】第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会” | Doonsec | [https://mp.weixin.qq.com/s/pDK-92iGqKqdALxHUuqaYQ](https://mp.weixin.qq.com/s/pDK-92iGqKqdALxHUuqaYQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-22812：我是如何在一个 7.1 万 Star 的 AI 编码工具上实现“零认证 RCE”的 | Doonsec | [https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw](https://mp.weixin.qq.com/s/wa46FgQ5AnYYGsv7OSbAJw) |
-| 2 | 第103天-Java安全攻防：JNDI注入高版本JDK绕过Bypass深度解析 | Doonsec | [https://mp.weixin.qq.com/s/TljMH0rVbVgZBbBKFDgOTQ](https://mp.weixin.qq.com/s/TljMH0rVbVgZBbBKFDgOTQ) |
-| 3 | 手把手教你筑牢sql注入防线 | Doonsec | [https://mp.weixin.qq.com/s/w209qpYhnHWvuItItHFxjw](https://mp.weixin.qq.com/s/w209qpYhnHWvuItItHFxjw) |
-| 4 | 孚盟云 upload.ashx showImgss SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw](https://mp.weixin.qq.com/s/mKng7Qpf_oeHouYmvybWTw) |
-| 5 | Docker Remote API未授权访问与逃逸RCE 分析 | Doonsec | [https://mp.weixin.qq.com/s/T-hht3kxX0WRogDTIDyR0Q](https://mp.weixin.qq.com/s/T-hht3kxX0WRogDTIDyR0Q) |
+| 1 | 【漏洞通告】Langflow 未授权远程代码执行漏洞(CVE-2026-33017) | Doonsec | [https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA](https://mp.weixin.qq.com/s/prXa8S7vaDAjsQblfmLgsA) |
+| 2 | 某盟云AjaxMethod.ashx存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw](https://mp.weixin.qq.com/s/J0ju0ftBZOhbt9PzJHrELw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [2026年安全团队必备的顶级威胁情报平台 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f) |
+| 1 | 2026-Solar应急响应公益月赛！文末可参与抽奖活动！ | Doonsec | [https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA) |
 
 
 ## 📁 归档路径
@@ -138,7 +123,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -147,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-23 05:39:31*
+*生成时间: 2026-03-23 08:57:09*
 *报告工具: 微信文章安全归档系统*
