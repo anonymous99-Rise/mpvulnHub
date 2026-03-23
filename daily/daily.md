@@ -1,17 +1,21 @@
-# 2026-03-22 安全威胁态势报告
+# 2026-03-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 6篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 5篇
+- **网络攻击**: 4篇
 
 ## 🔍 匹配规则
 
@@ -60,14 +64,25 @@
 
 ### Doonsec
 
-- [[漏洞播报]突发！OpenClaw爆致命0Day漏洞](https://mp.weixin.qq.com/s/SQJ_0wKzsuN8SNfNqK7aCQ) (发布日期: 2026-03-22)
-- [[漏洞播报]突发！OpenClaw爆致命0Day漏洞](https://mp.weixin.qq.com/s/pxx9oBQ_R_iqROjNz0FlEQ) (发布日期: 2026-03-22)
-- [手把手教你用OpenClaw搞渗透测试：从配置到实战挖洞，我踩过的坑都在这了](https://mp.weixin.qq.com/s/WxU6OwapW545q5cKkCEYzQ) (发布日期: 2026-03-22)
-- [SiYuan SQL漏洞 | CVE-2026-29073复现&amp;研究](https://mp.weixin.qq.com/s/Dmxu0I_bQL24p6qRJMebQw) (发布日期: 2026-03-22)
-- [基线管理之Windows安全配置](https://mp.weixin.qq.com/s/YQiIqmnx7Wn9QX5uXKSxVQ) (发布日期: 2026-03-22)
-- [Jar Analyzer：Java 安全审计的瑞士军刀](https://mp.weixin.qq.com/s/YGGNDNdjFo6fcM-1ZcFh3Q) (发布日期: 2026-03-22)
-- [热搜第一！OpenClaw被360揪出0Day漏洞，创始人回应](https://mp.weixin.qq.com/s/cob4zzuYEw6an2rAxbXNrw) (发布日期: 2026-03-22)
-- [Kali Linux + OpenClaw：让安全工具真正「活」过来](https://mp.weixin.qq.com/s/-Spq-8oBekwFgQ4jb06VpA) (发布日期: 2026-03-22)
+- [金和OA-C6系统SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w) (发布日期: 2026-03-23)
+- [红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s/Uk5u5N03_89Hzp2L67j0eQ) (发布日期: 2026-03-23)
+- [FBI警告：俄罗斯黑客大规模钓鱼攻击 WhatsApp/Signal 用户](https://mp.weixin.qq.com/s/AsmYg35Xx9ge_zLykTIAzw) (发布日期: 2026-03-23)
+- [身份保护服务商Aura也中招：90万客户数据遭钓鱼攻击泄露](https://mp.weixin.qq.com/s/HfMs-mzdU1Mhlu3Kl61ryQ) (发布日期: 2026-03-23)
+- [AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块](https://mp.weixin.qq.com/s/EjQI8lwxwiFwUcxG601XTQ) (发布日期: 2026-03-23)
+- [日常工具，高级犯罪：勒索软件数据窃取“剧本”揭底](https://mp.weixin.qq.com/s/07287qZKsjttZCq1hy1Llw) (发布日期: 2026-03-23)
+- [【0day】深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL注入漏洞](https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q) (发布日期: 2026-03-23)
+- [某火cai票娱乐城系统存在前台任意文件上传漏洞](https://mp.weixin.qq.com/s/sArNXjFuoHCh3TQYZ0cqNA) (发布日期: 2026-03-23)
+- [美国、德国和加拿大联合打击僵尸网络基础设施](https://mp.weixin.qq.com/s/wqgEvNBWQvDt2sMG3sy9HA) (发布日期: 2026-03-23)
+- [漏洞复现 | 三汇SMG网关管理软件 9-2radius.php 存在远程命令执行漏洞](https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA) (发布日期: 2026-03-23)
+- [威胁情报日报 2026-03-23](https://mp.weixin.qq.com/s/4BW6fBES1ey5fFnaDq2HoA) (发布日期: 2026-03-23)
+- [招商局检测车辆技术研究院：智能网联汽车网络恶意软件数据篡改攻击检测方法](https://mp.weixin.qq.com/s/O0xqKTQSLFqcjLtqatupyw) (发布日期: 2026-03-23)
+- [中汽数据：基于分层检测架构与动态演进机制车联网车载信息安全入侵检测范式研究](https://mp.weixin.qq.com/s/HXVuy73q86aMMolKtYrP_w) (发布日期: 2026-03-23)
+- [漏洞预警 | TOTOLINK A7000R命令注入漏洞](https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q) (发布日期: 2026-03-23)
+- [漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞](https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ) (发布日期: 2026-03-23)
+- [【WebSocket漏洞漫谈-第五章】实战｜WebSocket-CSRF劫持漏洞从发现到利用，手把手教你复现](https://mp.weixin.qq.com/s/Xq1nMKhusmwPcePspFoZrg) (发布日期: 2026-03-23)
+- [黑客组织“Cardinal”宣称入侵英国MI6内网并泄露部分特工信息](https://mp.weixin.qq.com/s/0xwbDoyDKEv0RduVsjZmOw) (发布日期: 2026-03-23)
+- [[安全周报] 当安全工具自己成为武器——Trivy被投毒、Langflow 20小时沦陷、Cisco防火墙被勒索软件零日打穿](https://mp.weixin.qq.com/s/-11TJgmH5tfaTeL7TST4Wg) (发布日期: 2026-03-23)
+- [中标快讯：某2026年度网络安全服务采购项目，绿盟科技138万中](https://mp.weixin.qq.com/s/eUX0LEahiJPxRzsj4U6BMw) (发布日期: 2026-03-23)
 
 
 ## 🎯 威胁详情分析
@@ -76,15 +91,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [漏洞播报]突发！OpenClaw爆致命0Day漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SQJ_0wKzsuN8SNfNqK7aCQ](https://mp.weixin.qq.com/s/SQJ_0wKzsuN8SNfNqK7aCQ) |
-| 2 | [漏洞播报]突发！OpenClaw爆致命0Day漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pxx9oBQ_R_iqROjNz0FlEQ](https://mp.weixin.qq.com/s/pxx9oBQ_R_iqROjNz0FlEQ) |
-| 3 | SiYuan SQL漏洞 | CVE-2026-29073复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/Dmxu0I_bQL24p6qRJMebQw](https://mp.weixin.qq.com/s/Dmxu0I_bQL24p6qRJMebQw) |
-| 4 | 热搜第一！OpenClaw被360揪出0Day漏洞，创始人回应 | Doonsec | [https://mp.weixin.qq.com/s/cob4zzuYEw6an2rAxbXNrw](https://mp.weixin.qq.com/s/cob4zzuYEw6an2rAxbXNrw) |
+| 1 | 金和OA-C6系统SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w](https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w) |
+| 2 | 红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/Uk5u5N03_89Hzp2L67j0eQ](https://mp.weixin.qq.com/s/Uk5u5N03_89Hzp2L67j0eQ) |
+| 3 | AK47  | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块 | Doonsec | [https://mp.weixin.qq.com/s/EjQI8lwxwiFwUcxG601XTQ](https://mp.weixin.qq.com/s/EjQI8lwxwiFwUcxG601XTQ) |
+| 4 | 【0day】深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q](https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q) |
+| 5 | 某火cai票娱乐城系统存在前台任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/sArNXjFuoHCh3TQYZ0cqNA](https://mp.weixin.qq.com/s/sArNXjFuoHCh3TQYZ0cqNA) |
+| 6 | 漏洞复现 | 三汇SMG网关管理软件 9-2radius.php 存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA](https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA) |
+| 7 | 漏洞预警 | TOTOLINK A7000R命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q](https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q) |
+| 8 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ](https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ) |
+| 9 | 【WebSocket漏洞漫谈-第五章】实战｜WebSocket-CSRF劫持漏洞从发现到利用，手把手教你复现 | Doonsec | [https://mp.weixin.qq.com/s/Xq1nMKhusmwPcePspFoZrg](https://mp.weixin.qq.com/s/Xq1nMKhusmwPcePspFoZrg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 金和OA-C6系统SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w](https://mp.weixin.qq.com/s/z2jMS1OyYuGeqrXtLzX85w) |
+| 2 | 【0day】深科特 LEAN MES系统 ChooseLineAndRes.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q](https://mp.weixin.qq.com/s/LvglH-z2uEZoaHFnvrbH3Q) |
+| 3 | 漏洞复现 | 三汇SMG网关管理软件 9-2radius.php 存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA](https://mp.weixin.qq.com/s/PyepoFSuQ63E3RnpQa9nsA) |
+| 4 | 漏洞预警 | TOTOLINK A7000R命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q](https://mp.weixin.qq.com/s/41KwMKw7Z0cbJIFIevRL-Q) |
+| 5 | 漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ](https://mp.weixin.qq.com/s/7dDD6FJ5GYWKWzr_XowZJQ) |
+| 6 | 黑客组织“Cardinal”宣称入侵英国MI6内网并泄露部分特工信息 | Doonsec | [https://mp.weixin.qq.com/s/0xwbDoyDKEv0RduVsjZmOw](https://mp.weixin.qq.com/s/0xwbDoyDKEv0RduVsjZmOw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 威胁情报日报 2026-03-23 | Doonsec | [https://mp.weixin.qq.com/s/4BW6fBES1ey5fFnaDq2HoA](https://mp.weixin.qq.com/s/4BW6fBES1ey5fFnaDq2HoA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W12/2026-03-22/`
+文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-23/`
 
 ## 🔗 数据源说明
 
@@ -95,8 +132,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 5 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -105,5 +142,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-22 16:31:33*
+*生成时间: 2026-03-23 02:22:44*
 *报告工具: 微信文章安全归档系统*
