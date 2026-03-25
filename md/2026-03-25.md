@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,12 +61,8 @@
 
 ### Doonsec
 
-- [红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg) (发布日期: 2026-03-25)
-- [想监控内网传输的文件？用Suricata这个功能就够了](https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ) (发布日期: 2026-03-25)
-- [26年1月到3月威胁情报IOC](https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw) (发布日期: 2026-03-25)
-- [LiteLLM 供应链攻击事件始末](https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw) (发布日期: 2026-03-25)
-- [第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路](https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA) (发布日期: 2026-03-25)
-- [第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！](https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw) (发布日期: 2026-03-25)
+- [Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台](https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg) (发布日期: 2026-03-25)
+- [泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC](https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ) (发布日期: 2026-03-25)
 
 
 ## 🎯 威胁详情分析
@@ -78,27 +71,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg](https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg) |
-| 2 | 第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！ | Doonsec | [https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw](https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw) |
+| 1 | 泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC | Doonsec | [https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ](https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 想监控内网传输的文件？用Suricata这个功能就够了 | Doonsec | [https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ](https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ) |
-| 2 | 第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路 | Doonsec | [https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA](https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 26年1月到3月威胁情报IOC | Doonsec | [https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw](https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | LiteLLM 供应链攻击事件始末 | Doonsec | [https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw](https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw) |
+| 1 | Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台 | Doonsec | [https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg](https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg) |
 
 
 ## 📁 归档路径
@@ -114,8 +93,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-25 17:02:22*
+*生成时间: 2026-03-25 20:39:09*
 *报告工具: 微信文章安全归档系统*
