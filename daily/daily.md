@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 23篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **供应链**: 3篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,29 +64,12 @@
 
 ### Doonsec
 
-- [[漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106)](https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ) (发布日期: 2026-03-25)
-- [【免费送！】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s/4L2-OpUZg0ywKGssj6kVxQ) (发布日期: 2026-03-25)
-- [Butter Cookie——web多功能渗透测试浏览器插件](https://mp.weixin.qq.com/s/FZy2gRQTudabTiC0HFkzCA) (发布日期: 2026-03-25)
-- [跟着红队笔记打靶：nullbyte](https://mp.weixin.qq.com/s/278ROlvOHTMuP2c8hROdnQ) (发布日期: 2026-03-25)
-- [高级免杀对抗&amp;红队武器化开发 第七期来袭](https://mp.weixin.qq.com/s/85svgxPBqw3HLzl7Q-MMzQ) (发布日期: 2026-03-25)
-- [一场关于AI和安全度量产品的发布直播](https://mp.weixin.qq.com/s/xcwhwLDrP-2r_hcBGAht3A) (发布日期: 2026-03-25)
-- [基于Firefox的Claude Code Security实测漏洞发掘](https://mp.weixin.qq.com/s/VRT-KXKSzwWupH6JdqQIUA) (发布日期: 2026-03-25)
-- [抢占职场竞争力先机！4月CISP、CISSP、CISA开班倒计时](https://mp.weixin.qq.com/s/Q9Sq5gCtN8mBHmOjxyuThQ) (发布日期: 2026-03-25)
-- [【漏洞预警】LiteLLM 投毒、Apifox 后门连发，敲响供应链安全警钟](https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw) (发布日期: 2026-03-25)
-- [针锋相对：Cardinal黑客的指控，安全分析师的质疑，谁将定义“真相”？](https://mp.weixin.qq.com/s/kgGrLMxuu-0VgQii3v2fGQ) (发布日期: 2026-03-25)
-- [AI驱动的“OpenClaw陷阱”活动通过植入木马的GitHub仓库攻击开发者和游戏玩家](https://mp.weixin.qq.com/s/JRV_MmwjosBUeHzr14rsQg) (发布日期: 2026-03-25)
-- [【安全圈】HackerOne 披露员工数据泄露事件：第三方服务商 Navia 遭入侵](https://mp.weixin.qq.com/s/ex0tBqqvowS9FvpvOJCx6A) (发布日期: 2026-03-25)
-- [【0day】深科特 LEAN MES系统 /Handler/FileSync.ashx 任意文件读取/上传/删除/SSRF等多个漏洞](https://mp.weixin.qq.com/s/zGBOXjoCwRpb2_652tufXg) (发布日期: 2026-03-25)
-- [0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！](https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA) (发布日期: 2026-03-25)
-- [最新版深信服官方网络安全培训课程（80集完整版）](https://mp.weixin.qq.com/s/Kj_IL5rBqzX5PPaDAZf2Ww) (发布日期: 2026-03-25)
-- [WEB渗透安全工程师精英培养计划班（全阶段课程目录）](https://mp.weixin.qq.com/s/Bnvf_AoscY4Lrlbm6CC4nA) (发布日期: 2026-03-25)
-- [苹果漏洞利用工具遭公开，数亿台iPhone随时可被静默入侵窃密](https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g) (发布日期: 2026-03-25)
-- [【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177)](https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ) (发布日期: 2026-03-25)
-- [CISP-PTE考试综合靶场简单模拟测试](https://mp.weixin.qq.com/s/egfb9L9LBUuL3TJvOkC5qw) (发布日期: 2026-03-25)
-- [从靶场到实战--双一流高校多个高危漏洞](https://mp.weixin.qq.com/s/yZ_LVi21yVVvTewMcct3sw) (发布日期: 2026-03-25)
-- [深度解析：LiteLLM 供应链投毒事件——TeamPCP 三阶段后门全链路分析](https://mp.weixin.qq.com/s/LDxc2AU_8_650Qso70qyNA) (发布日期: 2026-03-25)
-- [OpenSSH漏洞列举及防范建议](https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg) (发布日期: 2026-03-25)
-- [Wazuh 实战：为什么 OOM 告警不该进 SOC 主通道](https://mp.weixin.qq.com/s/7iadUm9neChKwYx-2ayMQA) (发布日期: 2026-03-25)
+- [红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg) (发布日期: 2026-03-25)
+- [想监控内网传输的文件？用Suricata这个功能就够了](https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ) (发布日期: 2026-03-25)
+- [26年1月到3月威胁情报IOC](https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw) (发布日期: 2026-03-25)
+- [LiteLLM 供应链攻击事件始末](https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw) (发布日期: 2026-03-25)
+- [第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路](https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA) (发布日期: 2026-03-25)
+- [第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！](https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw) (发布日期: 2026-03-25)
 
 
 ## 🎯 威胁详情分析
@@ -96,43 +78,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106) | Doonsec | [https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ](https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ) |
-| 2 | 【免费送！】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/4L2-OpUZg0ywKGssj6kVxQ](https://mp.weixin.qq.com/s/4L2-OpUZg0ywKGssj6kVxQ) |
-| 3 | 基于Firefox的Claude Code Security实测漏洞发掘 | Doonsec | [https://mp.weixin.qq.com/s/VRT-KXKSzwWupH6JdqQIUA](https://mp.weixin.qq.com/s/VRT-KXKSzwWupH6JdqQIUA) |
-| 4 | 【漏洞预警】LiteLLM 投毒、Apifox 后门连发，敲响供应链安全警钟 | Doonsec | [https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw](https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw) |
-| 5 | 【0day】深科特 LEAN MES系统 /Handler/FileSync.ashx 任意文件读取/上传/删除/SSRF等多个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zGBOXjoCwRpb2_652tufXg](https://mp.weixin.qq.com/s/zGBOXjoCwRpb2_652tufXg) |
-| 6 | 0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！ | Doonsec | [https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA](https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA) |
-| 7 | 苹果漏洞利用工具遭公开，数亿台iPhone随时可被静默入侵窃密 | Doonsec | [https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g](https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g) |
-| 8 | 【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177) | Doonsec | [https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ](https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ) |
-| 9 | 从靶场到实战--双一流高校多个高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yZ_LVi21yVVvTewMcct3sw](https://mp.weixin.qq.com/s/yZ_LVi21yVVvTewMcct3sw) |
-| 10 | OpenSSH漏洞列举及防范建议 | Doonsec | [https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg](https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg) |
+| 1 | 红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg](https://mp.weixin.qq.com/s/gwZC9ARf1tgEhemc5Fiydg) |
+| 2 | 第107天-Shiro 550 漏洞深度解析：无 CC 依赖？CB 链一招制敌！ | Doonsec | [https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw](https://mp.weixin.qq.com/s/2MjqRDp3BHZEn4x5Hpzhjw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [漏洞复现]全程云OA QCHMS.asmx SQL注入漏洞(VEID-2026-11106) | Doonsec | [https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ](https://mp.weixin.qq.com/s/ZMDSNOwPbwCIj8ARhG3MOQ) |
-| 2 | 【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177) | Doonsec | [https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ](https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ) |
+| 1 | 想监控内网传输的文件？用Suricata这个功能就够了 | Doonsec | [https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ](https://mp.weixin.qq.com/s/lSL4-CkXuygO2IQqm3jOkQ) |
+| 2 | 第108天-Shiro安全攻防：从JRMP到CC1，揭秘无利用链下的RCE新思路 | Doonsec | [https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA](https://mp.weixin.qq.com/s/JCDXK_QtzQelqJtxqCEXRA) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 0基础挖src最先要了解的三大经典漏洞详解，东西不多相信你能吃下！ | Doonsec | [https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA](https://mp.weixin.qq.com/s/4xdtc_uGeCtkGuaS01ATxA) |
-
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】HackerOne 披露员工数据泄露事件：第三方服务商 Navia 遭入侵 | Doonsec | [https://mp.weixin.qq.com/s/ex0tBqqvowS9FvpvOJCx6A](https://mp.weixin.qq.com/s/ex0tBqqvowS9FvpvOJCx6A) |
+| 1 | 26年1月到3月威胁情报IOC | Doonsec | [https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw](https://mp.weixin.qq.com/s/mDWfFkqQPYQDsT8pl1FyHw) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞预警】LiteLLM 投毒、Apifox 后门连发，敲响供应链安全警钟 | Doonsec | [https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw](https://mp.weixin.qq.com/s/foeEgdzYWGhZKb4DZC9Gfw) |
-| 2 | 【安全圈】HackerOne 披露员工数据泄露事件：第三方服务商 Navia 遭入侵 | Doonsec | [https://mp.weixin.qq.com/s/ex0tBqqvowS9FvpvOJCx6A](https://mp.weixin.qq.com/s/ex0tBqqvowS9FvpvOJCx6A) |
-| 3 | 深度解析：LiteLLM 供应链投毒事件——TeamPCP 三阶段后门全链路分析 | Doonsec | [https://mp.weixin.qq.com/s/LDxc2AU_8_650Qso70qyNA](https://mp.weixin.qq.com/s/LDxc2AU_8_650Qso70qyNA) |
+| 1 | LiteLLM 供应链攻击事件始末 | Doonsec | [https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw](https://mp.weixin.qq.com/s/PVPM9ClI4Eb0hBu9zymOfw) |
 
 
 ## 📁 归档路径
@@ -148,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -158,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-25 13:11:55*
+*生成时间: 2026-03-25 17:02:22*
 *报告工具: 微信文章安全归档系统*
