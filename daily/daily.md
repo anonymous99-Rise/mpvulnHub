@@ -1,18 +1,24 @@
-# 2026-03-24 安全威胁态势报告
+# 2026-03-25 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 14篇
+- **攻击技术**: 4篇
+- **安全运营**: 2篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 - **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,15 +67,31 @@
 
 ### Doonsec
 
-- [启明星辰天清汉马USG AI智能防火墙首家通过信通院标准检验](https://mp.weixin.qq.com/s/xdSbsDyEdYQ150QhbmoUsg) (发布日期: 2026-03-24)
-- [AI挖洞已是现在时：企业用它跑渗透，白帽用它抢漏洞，你还在手动？](https://mp.weixin.qq.com/s/0KBtIJHvDtAWz0uv8v1Pgg) (发布日期: 2026-03-24)
-- [红队攻防-多阶段感染链](https://mp.weixin.qq.com/s/kRGAVrCpqOSv9k36rAU-qQ) (发布日期: 2026-03-24)
-- [Iphone漏洞利用工具包 已公开23个CVE](https://mp.weixin.qq.com/s/fJyIpOq2Pu5J8uNOO0dTyA) (发布日期: 2026-03-24)
-- [四款文件上传绕过工具](https://mp.weixin.qq.com/s/LHsyF1JXN03bxzkt8CPGGw) (发布日期: 2026-03-24)
-- [等保标准扩展丨数据安全系列公安行标解析（一）](https://mp.weixin.qq.com/s/DJRWZZKgOLd5vzhu_SJuKw) (发布日期: 2026-03-24)
-- [焦糖布丁v4.0：OpenClaw AI安全基线与漏洞检测工具](https://mp.weixin.qq.com/s/wSKnqjgJGhrxyOmv8PRpyQ) (发布日期: 2026-03-24)
-- [B1ackTide 安全团队出品｜56 课时 Web 安全全体系课，团队竞赛大神亲授，从入门到实战（进群方式在文末哦！）](https://mp.weixin.qq.com/s/b3A6XyApXB9nCM90fOP9IQ) (发布日期: 2026-03-24)
-- [手把手拆解：小程序/Web端加密鉴权绕过案例全复现](https://mp.weixin.qq.com/s/gJU7m_XbvfBzGaaVDzsZLg) (发布日期: 2026-03-24)
+- [CNVD漏洞周报2026年第11期](https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw) (发布日期: 2026-03-25)
+- [Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限](https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q) (发布日期: 2026-03-25)
+- [AI Agent 自动化渗透测试实战分享](https://mp.weixin.qq.com/s/EUCPTj8joSCMfdLogJiSXg) (发布日期: 2026-03-25)
+- [BeforeDawn 漏洞管理平台 | 致敬每一个在黎明前守夜的安全人员](https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ) (发布日期: 2026-03-25)
+- [近270万人受波及！Navia医疗数据泄露事件详情曝光](https://mp.weixin.qq.com/s/XtFGMNpMy-QGlIE0vddbJQ) (发布日期: 2026-03-25)
+- [朝鲜关联组织滥用VS Code功能传播恶意软件](https://mp.weixin.qq.com/s/Ls99azhpQrMEMSYbr9DhGQ) (发布日期: 2026-03-25)
+- [CVE-2026-22733｜Spring Boot存在认证绕过漏洞](https://mp.weixin.qq.com/s/BUbp9LpDyPUhRAdOdVuiLw) (发布日期: 2026-03-25)
+- [CVE-2026-33371｜Zimbra存在XML外部实体（XXE）漏洞](https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw) (发布日期: 2026-03-25)
+- [推荐一款攻防演练中会用到的连接工具](https://mp.weixin.qq.com/s/fgJFx1yhaMeEVi3egBthuw) (发布日期: 2026-03-25)
+- [网安每日干货分享《SQL注入-数据库基础操作》](https://mp.weixin.qq.com/s/g3l5ovG1qN3pAcKLZl6bPg) (发布日期: 2026-03-25)
+- [点赞漏洞](https://mp.weixin.qq.com/s/C5TWY9B9pZ-ZQN7DXgeHkQ) (发布日期: 2026-03-25)
+- [EDR killer已成为勒索软件攻击的标准配置](https://mp.weixin.qq.com/s/bmXmcECDk_wscJBYweLaCw) (发布日期: 2026-03-25)
+- [PolyShell 警报：Magento REST API 严重漏洞面临大规模全球利用](https://mp.weixin.qq.com/s/cdvx5cZsr6LWTZ3KnghLAQ) (发布日期: 2026-03-25)
+- [从目录删除到RCE：GCP Looker漏洞剖析](https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw) (发布日期: 2026-03-25)
+- [泛微Ecology10未授权远程代码执行漏洞](https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w) (发布日期: 2026-03-25)
+- [CVE-2026-32051：OpenClaw授权绕过漏洞与复现](https://mp.weixin.qq.com/s/B_mA0fHXlE2RScURPjVo_Q) (发布日期: 2026-03-25)
+- [OpenClaw的风险隔离与管控应对，以及渗透测试的报备合规探讨｜总第312周](https://mp.weixin.qq.com/s/lc4d0SCDTW3I78TipOSFmQ) (发布日期: 2026-03-25)
+- [100页 网络安全运营](https://mp.weixin.qq.com/s/arJd4nukznwjZZfJwKOQSw) (发布日期: 2026-03-25)
+- [【SRC实战】一文玩转Minio存储桶漏洞挖掘](https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A) (发布日期: 2026-03-25)
+- [一个综合性的Web安全学习平台 | 涵盖16大类Web安全漏洞，共80+个实战场景](https://mp.weixin.qq.com/s/1LmbFxfGmTmNnOPO363GLA) (发布日期: 2026-03-25)
+- [开发者注意！Litellm遭遇供应链攻击 火绒已可全面拦截](https://mp.weixin.qq.com/s/Ck3iqEYBJYoIoZmdYRatag) (发布日期: 2026-03-25)
+- [火绒小问答--「个人版」漏洞驱动拦截](https://mp.weixin.qq.com/s/BY8bgFI1cEvLulN49Nu-Ew) (发布日期: 2026-03-25)
+- [逍遥安全实验室：我们决定开源一切——从CMS到AI工具再到安全工具，持续更新中](https://mp.weixin.qq.com/s/xjmWPHKT19yDTOIIl1bGpw) (发布日期: 2026-03-25)
+- [二开MDUT-Pro多功能数据库综合漏洞利用工具，助力高效拿下内网权限（2026-03-17）更新](https://mp.weixin.qq.com/s/aFBz_Qm6nAOiBIHUFxHqNQ) (发布日期: 2026-03-25)
+- [西班牙逮捕涉嫌对政府网站进行DDoS攻击的黑客行动主义者](https://mp.weixin.qq.com/s/p_u8rTc4VGuDPAJr45Mn6A) (发布日期: 2026-03-25)
 
 
 ## 🎯 威胁详情分析
@@ -78,15 +100,53 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI挖洞已是现在时：企业用它跑渗透，白帽用它抢漏洞，你还在手动？ | Doonsec | [https://mp.weixin.qq.com/s/0KBtIJHvDtAWz0uv8v1Pgg](https://mp.weixin.qq.com/s/0KBtIJHvDtAWz0uv8v1Pgg) |
-| 2 | Iphone漏洞利用工具包 已公开23个CVE | Doonsec | [https://mp.weixin.qq.com/s/fJyIpOq2Pu5J8uNOO0dTyA](https://mp.weixin.qq.com/s/fJyIpOq2Pu5J8uNOO0dTyA) |
-| 3 | 焦糖布丁v4.0：OpenClaw AI安全基线与漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s/wSKnqjgJGhrxyOmv8PRpyQ](https://mp.weixin.qq.com/s/wSKnqjgJGhrxyOmv8PRpyQ) |
-| 4 | 手把手拆解：小程序/Web端加密鉴权绕过案例全复现 | Doonsec | [https://mp.weixin.qq.com/s/gJU7m_XbvfBzGaaVDzsZLg](https://mp.weixin.qq.com/s/gJU7m_XbvfBzGaaVDzsZLg) |
+| 1 | CNVD漏洞周报2026年第11期 | Doonsec | [https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw](https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw) |
+| 2 | Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q](https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q) |
+| 3 | BeforeDawn 漏洞管理平台 | 致敬每一个在黎明前守夜的安全人员 | Doonsec | [https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ](https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ) |
+| 4 | CVE-2026-22733｜Spring Boot存在认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BUbp9LpDyPUhRAdOdVuiLw](https://mp.weixin.qq.com/s/BUbp9LpDyPUhRAdOdVuiLw) |
+| 5 | CVE-2026-33371｜Zimbra存在XML外部实体（XXE）漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw](https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw) |
+| 6 | 点赞漏洞 | Doonsec | [https://mp.weixin.qq.com/s/C5TWY9B9pZ-ZQN7DXgeHkQ](https://mp.weixin.qq.com/s/C5TWY9B9pZ-ZQN7DXgeHkQ) |
+| 7 | PolyShell 警报：Magento REST API 严重漏洞面临大规模全球利用 | Doonsec | [https://mp.weixin.qq.com/s/cdvx5cZsr6LWTZ3KnghLAQ](https://mp.weixin.qq.com/s/cdvx5cZsr6LWTZ3KnghLAQ) |
+| 8 | 从目录删除到RCE：GCP Looker漏洞剖析 | Doonsec | [https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw](https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw) |
+| 9 | 泛微Ecology10未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w](https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w) |
+| 10 | CVE-2026-32051：OpenClaw授权绕过漏洞与复现 | Doonsec | [https://mp.weixin.qq.com/s/B_mA0fHXlE2RScURPjVo_Q](https://mp.weixin.qq.com/s/B_mA0fHXlE2RScURPjVo_Q) |
+| 11 | 【SRC实战】一文玩转Minio存储桶漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A](https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A) |
+| 12 | 一个综合性的Web安全学习平台 | 涵盖16大类Web安全漏洞，共80+个实战场景 | Doonsec | [https://mp.weixin.qq.com/s/1LmbFxfGmTmNnOPO363GLA](https://mp.weixin.qq.com/s/1LmbFxfGmTmNnOPO363GLA) |
+| 13 | 火绒小问答--「个人版」漏洞驱动拦截 | Doonsec | [https://mp.weixin.qq.com/s/BY8bgFI1cEvLulN49Nu-Ew](https://mp.weixin.qq.com/s/BY8bgFI1cEvLulN49Nu-Ew) |
+| 14 | 二开MDUT-Pro多功能数据库综合漏洞利用工具，助力高效拿下内网权限（2026-03-17）更新 | Doonsec | [https://mp.weixin.qq.com/s/aFBz_Qm6nAOiBIHUFxHqNQ](https://mp.weixin.qq.com/s/aFBz_Qm6nAOiBIHUFxHqNQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网安每日干货分享《SQL注入-数据库基础操作》 | Doonsec | [https://mp.weixin.qq.com/s/g3l5ovG1qN3pAcKLZl6bPg](https://mp.weixin.qq.com/s/g3l5ovG1qN3pAcKLZl6bPg) |
+| 2 | 从目录删除到RCE：GCP Looker漏洞剖析 | Doonsec | [https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw](https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw) |
+| 3 | 泛微Ecology10未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w](https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w) |
+| 4 | 二开MDUT-Pro多功能数据库综合漏洞利用工具，助力高效拿下内网权限（2026-03-17）更新 | Doonsec | [https://mp.weixin.qq.com/s/aFBz_Qm6nAOiBIHUFxHqNQ](https://mp.weixin.qq.com/s/aFBz_Qm6nAOiBIHUFxHqNQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 100页 网络安全运营 | Doonsec | [https://mp.weixin.qq.com/s/arJd4nukznwjZZfJwKOQSw](https://mp.weixin.qq.com/s/arJd4nukznwjZZfJwKOQSw) |
+| 2 | 【SRC实战】一文玩转Minio存储桶漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A](https://mp.weixin.qq.com/s/sjUV0jwPWs09EKuR7Laj4A) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 近270万人受波及！Navia医疗数据泄露事件详情曝光 | Doonsec | [https://mp.weixin.qq.com/s/XtFGMNpMy-QGlIE0vddbJQ](https://mp.weixin.qq.com/s/XtFGMNpMy-QGlIE0vddbJQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 开发者注意！Litellm遭遇供应链攻击 火绒已可全面拦截 | Doonsec | [https://mp.weixin.qq.com/s/Ck3iqEYBJYoIoZmdYRatag](https://mp.weixin.qq.com/s/Ck3iqEYBJYoIoZmdYRatag) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-24/`
+文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-25/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +157,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +167,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-24 16:59:55*
+*生成时间: 2026-03-25 02:12:30*
 *报告工具: 微信文章安全归档系统*
