@@ -2,23 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 35
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 22篇
-  - BruceFeIix: 13篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 6篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 4篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,44 +63,20 @@
 
 ### Doonsec
 
-- [一款面向实战的渗透测试浏览器插件：信息收集｜XSS/SQL｜端点扫描｜JS 逆向｜Fuzz｜指纹识别｜Shodan](https://mp.weixin.qq.com/s/6sUwlzhW5anHwSSOaDDDbQ) (发布日期: 2026-03-25)
-- [网络安全运营中 Workflow与 Skills智能体架构的差异与选择策略](https://mp.weixin.qq.com/s/KLyoWEUmsWk9A49LuylhVw) (发布日期: 2026-03-25)
-- [LiteLLM PyPI供应链攻击事件](https://mp.weixin.qq.com/s/nQ7UTZNEXKbpuSJMX2GDVw) (发布日期: 2026-03-25)
-- [深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE）](https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA) (发布日期: 2026-03-25)
-- [3月社区投稿活动 | 漏洞挖掘](https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg) (发布日期: 2026-03-25)
-- [谷歌15年累计发放了8160万美元漏洞赏金](https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw) (发布日期: 2026-03-25)
-- [【即将开赛】2026数字中国创新大赛·数字安全赛道-网络和数据安全产业赛](https://mp.weixin.qq.com/s/XbU7KGkDDssasrph379BPg) (发布日期: 2026-03-25)
-- [可信数据空间来了，数据安全防护准备好了吗？](https://mp.weixin.qq.com/s/--fm9hIQ48hsayqcHyUdkA) (发布日期: 2026-03-25)
-- [渗透测试（CTF）小工具 -- LSB_steganography（3月25日更新）](https://mp.weixin.qq.com/s/Qe8lEPzXqMoDaz1DAZwQ1g) (发布日期: 2026-03-25)
-- [关于开展商用密码应用安全性评估从业人员考核的公告](https://mp.weixin.qq.com/s/BYdgwCmJCfo8UWd0dhz3aA) (发布日期: 2026-03-25)
-- [深度剖析 Node.js 环境下的 SSRF 漏洞：从原理挖掘到防御体系构建](https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w) (发布日期: 2026-03-25)
-- [关于征集2026数字中国创新大赛数字安全赛道网络和数据安全产业赛优秀案例征集赛专家的通知](https://mp.weixin.qq.com/s/84zx5b5LorR2ZCyUPH1Sng) (发布日期: 2026-03-25)
-- [第三届“数信杯”数据安全大赛圆满落幕！](https://mp.weixin.qq.com/s/Jq9WJA5fD6eozm-JwQBViA) (发布日期: 2026-03-25)
-- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛火热报名中](https://mp.weixin.qq.com/s/V6BR2NlR_pn7btblBxkOCg) (发布日期: 2026-03-25)
-- [关于开展“守护者行动·数字安全”北京市大学生网络和数据安全技能专项竞赛的通知](https://mp.weixin.qq.com/s/yItiIuKQGVfwkteKECOIfQ) (发布日期: 2026-03-25)
-- [天融信联合广东电信获“数信杯”数据安全大赛银奖#大模型数据安全#](https://mp.weixin.qq.com/s/JDFhWxH6T-AK4yzl1Jihsw) (发布日期: 2026-03-25)
-- [喜报｜信通公司在第三届“数信杯”数据安全大赛总决赛斩获佳绩](https://mp.weixin.qq.com/s/M7qZG4RUctTn7-ruQXm4cw) (发布日期: 2026-03-25)
-- [【荣誉榜单】热烈祝贺云中台/数字集成部运营支撑中心刘于杰荣获第三届“数信杯”数据安全大赛决赛个人赛银奖](https://mp.weixin.qq.com/s/kO10VRUL7vsSpscR2fr4Eg) (发布日期: 2026-03-25)
-- [大华ICC智能物联综合管理平台存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w) (发布日期: 2026-03-25)
-- [0 基础也能看懂！红队大佬的成长路线图，太干货了](https://mp.weixin.qq.com/s/0rJOdebnVVPv4jslHrvJSg) (发布日期: 2026-03-25)
-- [全球顶流大厂的网络安全意识培训实战打法，直接抄作业](https://mp.weixin.qq.com/s/gfIrYyrEC17oga7OqdY0fA) (发布日期: 2026-03-25)
-- [一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析](https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA) (发布日期: 2026-03-25)
-
-### BruceFeIix
-
-- [ ] [雷神众测漏洞周报2026.3.16-2026.3.22](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503735&idx=1&sn=2f1ae3388f3a9c703a7606d6b2ca7d44) (发布日期: 2026-03-25)
-- [ ] [QNAP QVR Pro 严重漏洞可导致系统遭远程访问](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=1&sn=374ba844d9e8b8936f3ab544ef312259) (发布日期: 2026-03-25)
-- [ ] [AI Coding Agent最新攻击总结：7大漏洞利用手法](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508389&idx=1&sn=a3afdb49432f816d071a103ec98add35) (发布日期: 2026-03-25)
-- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班（有邀请函）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154922&idx=2&sn=3cf0de4738a14e2e5dcd9ba14ea178e2) (发布日期: 2026-03-25)
-- [ ] [2026年勒索软件攻击深度解析：根源、新威胁与务实防御策略](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140856&idx=2&sn=33f19cf47c6fe2e562939b629846c5d3) (发布日期: 2026-03-25)
-- [ ] [进程操作技术（下）——进程注入与线程劫持](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496574&idx=1&sn=a55d02786deb520a03241f5f019cd889) (发布日期: 2026-03-25)
-- [ ] [RSAC 2026创新沙盒 | Geordie AI：企业 AI Agent 安全治理体系的构建者](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499664&idx=1&sn=c95bffce592edd62621c0c667a7f0eef) (发布日期: 2026-03-25)
-- [ ] [【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9) (发布日期: 2026-03-25)
-- [ ] [【安全圈】马自达通报安全事件：员工和合作伙伴数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=1&sn=ae9e793a53a8639e64c1a2ab362f1677) (发布日期: 2026-03-25)
-- [ ] [【安全圈】朝鲜黑客滥用 VS Code 自动运行任务部署 StoatWaffle 恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=2&sn=5ef9c2fe6a9380067fe867df753048fc) (发布日期: 2026-03-25)
-- [ ] [多模型、多平台协同下的国家安全威胁识别研究：单一平台治理为何不足](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567216&idx=3&sn=5d27885e552a924e893bd5f2b8826c2f) (发布日期: 2026-03-25)
-- [ ] [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683) (发布日期: 2026-03-25)
-- [ ] [RSAC 2026 | Agent安全与AI SOC引领变革](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585522&idx=1&sn=f4653049ed5af9346555762657456353) (发布日期: 2026-03-25)
+- [命令执行：突破Shell命令过滤限制](https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg) (发布日期: 2026-03-25)
+- [CVE-2026-23673 ReFS 越界读分析](https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ) (发布日期: 2026-03-25)
+- [OSCP/OSEP一对一私教直通车：协议保障，直通高级渗透测试专家](https://mp.weixin.qq.com/s/oNqSBl-n112jnbEEUWrICA) (发布日期: 2026-03-25)
+- [受人工智能影响最大的工作之一：威胁情报](https://mp.weixin.qq.com/s/8H-86Jjjo7cuYTPVV--NnQ) (发布日期: 2026-03-25)
+- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛全面开启](https://mp.weixin.qq.com/s/vk2whNQbcBzePx55BRADkQ) (发布日期: 2026-03-25)
+- [【漏洞预警】Litellm 2026.3.24 供应链投毒事件](https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw) (发布日期: 2026-03-25)
+- [liteLLM 供应链投毒事件：溯源分析与技术拆解](https://mp.weixin.qq.com/s/w8CLpMenRr9AfWbyiaaVVA) (发布日期: 2026-03-25)
+- [《数据出境安全评估申报指南（第三版）》](https://mp.weixin.qq.com/s/BisWp12hHfbD_s4JMxf-fA) (发布日期: 2026-03-25)
+- [国家密码管理局关于开展商用密码应用安全性评估从业人员考核的公告](https://mp.weixin.qq.com/s/0luXp4qznnlwrotcm3rqMQ) (发布日期: 2026-03-25)
+- [苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击](https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA) (发布日期: 2026-03-25)
+- [山石安全能力中心｜警惕OpenClaw Skill注入风险](https://mp.weixin.qq.com/s/o_GQ4EI-h6tadSsb5F47qw) (发布日期: 2026-03-25)
+- [[被忽略的漏洞]sqli-labs之Less-29的另一种玩法](https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ) (发布日期: 2026-03-25)
+- [litellm 1.82.7 和 1.82.8 后门自查指南](https://mp.weixin.qq.com/s/k-xVrkrvMoWIo1pljtx8HA) (发布日期: 2026-03-25)
+- [2026年商用密码应用安全性评估从业人员考核备考指导](https://mp.weixin.qq.com/s/FWN-e8YGxOFda97Mcjq2mw) (发布日期: 2026-03-25)
 
 
 ## 🎯 威胁详情分析
@@ -113,40 +85,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE） | Doonsec | [https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA](https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA) |
-| 2 | 3月社区投稿活动 | 漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg](https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg) |
-| 3 | 谷歌15年累计发放了8160万美元漏洞赏金 | Doonsec | [https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw](https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw) |
-| 4 | 深度剖析 Node.js 环境下的 SSRF 漏洞：从原理挖掘到防御体系构建 | Doonsec | [https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w](https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w) |
-| 5 | 大华ICC智能物联综合管理平台存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w](https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w) |
-| 6 | 一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析 | Doonsec | [https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA](https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA) |
-| 7 |  ] [雷神众测漏洞周报2026.3.16-2026.3.22 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503735&idx=1&sn=2f1ae3388f3a9c703a7606d6b2ca7d44](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503735&idx=1&sn=2f1ae3388f3a9c703a7606d6b2ca7d44) |
-| 8 |  ] [QNAP QVR Pro 严重漏洞可导致系统遭远程访问 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=1&sn=374ba844d9e8b8936f3ab544ef312259](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=1&sn=374ba844d9e8b8936f3ab544ef312259) |
-| 9 |  ] [AI Coding Agent最新攻击总结：7大漏洞利用手法 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508389&idx=1&sn=a3afdb49432f816d071a103ec98add35](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508389&idx=1&sn=a3afdb49432f816d071a103ec98add35) |
-| 10 |  ] [【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9) |
-| 11 |  ] [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683) |
+| 1 | CVE-2026-23673 ReFS 越界读分析 | Doonsec | [https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ](https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ) |
+| 2 | 【漏洞预警】Litellm 2026.3.24 供应链投毒事件 | Doonsec | [https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw](https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw) |
+| 3 | 苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击 | Doonsec | [https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA](https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA) |
+| 4 | [被忽略的漏洞]sqli-labs之Less-29的另一种玩法 | Doonsec | [https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ](https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一款面向实战的渗透测试浏览器插件：信息收集｜XSS/SQL｜端点扫描｜JS 逆向｜Fuzz｜指纹识别｜Shodan | Doonsec | [https://mp.weixin.qq.com/s/6sUwlzhW5anHwSSOaDDDbQ](https://mp.weixin.qq.com/s/6sUwlzhW5anHwSSOaDDDbQ) |
-| 2 | 深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE） | Doonsec | [https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA](https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA) |
-| 3 | 大华ICC智能物联综合管理平台存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w](https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w) |
-| 4 | 一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析 | Doonsec | [https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA](https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA) |
-| 5 |  ] [进程操作技术（下）——进程注入与线程劫持 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496574&idx=1&sn=a55d02786deb520a03241f5f019cd889](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496574&idx=1&sn=a55d02786deb520a03241f5f019cd889) |
-| 6 |  ] [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683) |
+| 1 | 命令执行：突破Shell命令过滤限制 | Doonsec | [https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg](https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg) |
+| 2 | 山石安全能力中心｜警惕OpenClaw Skill注入风险 | Doonsec | [https://mp.weixin.qq.com/s/o_GQ4EI-h6tadSsb5F47qw](https://mp.weixin.qq.com/s/o_GQ4EI-h6tadSsb5F47qw) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 网络安全运营中 Workflow与 Skills智能体架构的差异与选择策略 | Doonsec | [https://mp.weixin.qq.com/s/KLyoWEUmsWk9A49LuylhVw](https://mp.weixin.qq.com/s/KLyoWEUmsWk9A49LuylhVw) |
+| 1 | 受人工智能影响最大的工作之一：威胁情报 | Doonsec | [https://mp.weixin.qq.com/s/8H-86Jjjo7cuYTPVV--NnQ](https://mp.weixin.qq.com/s/8H-86Jjjo7cuYTPVV--NnQ) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LiteLLM PyPI供应链攻击事件 | Doonsec | [https://mp.weixin.qq.com/s/nQ7UTZNEXKbpuSJMX2GDVw](https://mp.weixin.qq.com/s/nQ7UTZNEXKbpuSJMX2GDVw) |
+| 1 | 【漏洞预警】Litellm 2026.3.24 供应链投毒事件 | Doonsec | [https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw](https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw) |
+| 2 | liteLLM 供应链投毒事件：溯源分析与技术拆解 | Doonsec | [https://mp.weixin.qq.com/s/w8CLpMenRr9AfWbyiaaVVA](https://mp.weixin.qq.com/s/w8CLpMenRr9AfWbyiaaVVA) |
 
 
 ## 📁 归档路径
@@ -162,8 +124,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -172,5 +134,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-25 05:23:08*
+*生成时间: 2026-03-25 08:52:36*
 *报告工具: 微信文章安全归档系统*
