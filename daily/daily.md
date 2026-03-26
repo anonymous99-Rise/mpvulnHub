@@ -1,16 +1,16 @@
-# 2026-03-25 安全威胁态势报告
+# 2026-03-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,28 +61,31 @@
 
 ### Doonsec
 
-- [Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台](https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg) (发布日期: 2026-03-25)
-- [泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC](https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ) (发布日期: 2026-03-25)
+- [工信部两项汽车数据安全国标征求意见，明确密码技术保护](https://mp.weixin.qq.com/s/bvB2c5sPIgIHhPqopo50xQ) (发布日期: 2026-03-26)
+- [暗网泄露:28亿推特数据泄露](https://mp.weixin.qq.com/s/ueBDUqHlSNJ2kSnb9r_S4Q) (发布日期: 2026-03-26)
+- [企业赏金SRC实战中危案例｜收费视频资源突破](https://mp.weixin.qq.com/s/Qu18Ml1OaS3P8sKcOKe2LQ) (发布日期: 2026-03-26)
+- [中标快讯：某学校计算机网络及网络安全系统(第二期)采购项目，浙江万事达225.66万中](https://mp.weixin.qq.com/s/aBUhlRK6pqyJBPlsWpCqkg) (发布日期: 2026-03-26)
+- [数据安全技术 数据接口安全风险监测方法](https://mp.weixin.qq.com/s/taJqUHEtyhkTKcmjYJUfgg) (发布日期: 2026-03-26)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 泛微E-cology10 getEmDsList接口存在敏感信息泄露 附POC | Doonsec | [https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ](https://mp.weixin.qq.com/s/tZvq6vlbDO1_eQHvX-bQbQ) |
+| 1 | 企业赏金SRC实战中危案例｜收费视频资源突破 | Doonsec | [https://mp.weixin.qq.com/s/Qu18Ml1OaS3P8sKcOKe2LQ](https://mp.weixin.qq.com/s/Qu18Ml1OaS3P8sKcOKe2LQ) |
 
-### 攻击技术
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Kali Code Executor：三层Agent驱动的Kali容器渗透代码执行平台 | Doonsec | [https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg](https://mp.weixin.qq.com/s/9-dEbCf-fPa8FxjknE9svg) |
+| 1 | 暗网泄露:28亿推特数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/ueBDUqHlSNJ2kSnb9r_S4Q](https://mp.weixin.qq.com/s/ueBDUqHlSNJ2kSnb9r_S4Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-25/`
+文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-26/`
 
 ## 🔗 数据源说明
 
@@ -93,7 +96,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -103,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-25 20:39:09*
+*生成时间: 2026-03-26 02:26:29*
 *报告工具: 微信文章安全归档系统*
