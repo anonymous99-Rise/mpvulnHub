@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,12 +63,16 @@
 
 ### Doonsec
 
-- [灾难公式：串联EspoCRM脚本引擎实现远程代码执行](https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ) (发布日期: 2026-03-28)
-- [喜报｜B1ackTide安全团队双队出征，拿下第十九届全国大学生信息安全竞赛（CISCN）暨第三届“长城杯”网数智安全大赛半决赛一等奖、三等奖](https://mp.weixin.qq.com/s/vmsKQpbc34i4P91__qjm-A) (发布日期: 2026-03-28)
-- [WordPress CMS Commander 插件SQL漏洞  | CVE-2026-3334概念复现&amp;研究](https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w) (发布日期: 2026-03-28)
-- [【红队工具】VShell v4.9.3 高级版](https://mp.weixin.qq.com/s/59bNN2vLx2J8HEFOOCdeWA) (发布日期: 2026-03-28)
-- [内推 | 南京某金融驻场代码审计岗，速投！](https://mp.weixin.qq.com/s/j-BJuWv8zGkLd8hOfi9F0g) (发布日期: 2026-03-28)
-- [银狐新攻势携税务主题钓鱼诱饵袭击日本企业](https://mp.weixin.qq.com/s/vBK6NUML-q-laU0v6dqpKg) (发布日期: 2026-03-28)
+- [NIST网络安全白皮书 应用5G网络安全与隐私能力](https://mp.weixin.qq.com/s/9tI03w9K3hVl5xIfHnkqTA) (发布日期: 2026-03-28)
+- [【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管](https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg) (发布日期: 2026-03-28)
+- [反思您的分层模型：CVE-2025-33073 和单跳问题](https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA) (发布日期: 2026-03-28)
+- [安全警报 |  黑客Telegram兜售5700万条中国医疗数据！附样本验证，数据安全警报拉响](https://mp.weixin.qq.com/s/ONasvlZuKVjQlKK9lj0EyQ) (发布日期: 2026-03-28)
+- [引入AI做代码安全审查，反而让供应链攻击成功率暴涨到88%](https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A) (发布日期: 2026-03-28)
+- [CISP全版本课件，非常齐全](https://mp.weixin.qq.com/s/e54N6XUZ9DtTJcnsAjNaeA) (发布日期: 2026-03-28)
+- [CISP全套资源包](https://mp.weixin.qq.com/s/YLbOwUpVsdMUyyNsX0MMiw) (发布日期: 2026-03-28)
+- [CISP八天课件（含串讲）](https://mp.weixin.qq.com/s/hpN_WhQORQT4zWBF4Gr2tQ) (发布日期: 2026-03-28)
+- [edusrc小程序通杀找找资产方法](https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA) (发布日期: 2026-03-28)
+- [太原理工大学计算机科学与技术学院（大数据学院）青年教师赵智慧具身智能安全研究成果被CCF A类会议WWW 2026录用](https://mp.weixin.qq.com/s/tAtaTcyu6HeGunkq5rdKiQ) (发布日期: 2026-03-28)
 
 
 ## 🎯 威胁详情分析
@@ -77,20 +81,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 灾难公式：串联EspoCRM脚本引擎实现远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ](https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ) |
-| 2 | WordPress CMS Commander 插件SQL漏洞  | CVE-2026-3334概念复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w](https://mp.weixin.qq.com/s/p0RnEz3kbzArFt-QAz6C2w) |
+| 1 | 反思您的分层模型：CVE-2025-33073 和单跳问题 | Doonsec | [https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA](https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 灾难公式：串联EspoCRM脚本引擎实现远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ](https://mp.weixin.qq.com/s/T4wlMRg5aoMY2_lQ5-kXPQ) |
+| 1 | 【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管 | Doonsec | [https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg](https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 银狐新攻势携税务主题钓鱼诱饵袭击日本企业 | Doonsec | [https://mp.weixin.qq.com/s/vBK6NUML-q-laU0v6dqpKg](https://mp.weixin.qq.com/s/vBK6NUML-q-laU0v6dqpKg) |
+| 1 | edusrc小程序通杀找找资产方法 | Doonsec | [https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA](https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 引入AI做代码安全审查，反而让供应链攻击成功率暴涨到88% | Doonsec | [https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A](https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A) |
 
 
 ## 📁 归档路径
@@ -106,8 +115,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +125,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-28 08:40:02*
+*生成时间: 2026-03-28 12:56:24*
 *报告工具: 微信文章安全归档系统*
