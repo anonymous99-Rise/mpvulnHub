@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,16 +63,14 @@
 
 ### Doonsec
 
-- [NIST网络安全白皮书 应用5G网络安全与隐私能力](https://mp.weixin.qq.com/s/9tI03w9K3hVl5xIfHnkqTA) (发布日期: 2026-03-28)
-- [【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管](https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg) (发布日期: 2026-03-28)
-- [反思您的分层模型：CVE-2025-33073 和单跳问题](https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA) (发布日期: 2026-03-28)
-- [安全警报 |  黑客Telegram兜售5700万条中国医疗数据！附样本验证，数据安全警报拉响](https://mp.weixin.qq.com/s/ONasvlZuKVjQlKK9lj0EyQ) (发布日期: 2026-03-28)
-- [引入AI做代码安全审查，反而让供应链攻击成功率暴涨到88%](https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A) (发布日期: 2026-03-28)
-- [CISP全版本课件，非常齐全](https://mp.weixin.qq.com/s/e54N6XUZ9DtTJcnsAjNaeA) (发布日期: 2026-03-28)
-- [CISP全套资源包](https://mp.weixin.qq.com/s/YLbOwUpVsdMUyyNsX0MMiw) (发布日期: 2026-03-28)
-- [CISP八天课件（含串讲）](https://mp.weixin.qq.com/s/hpN_WhQORQT4zWBF4Gr2tQ) (发布日期: 2026-03-28)
-- [edusrc小程序通杀找找资产方法](https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA) (发布日期: 2026-03-28)
-- [太原理工大学计算机科学与技术学院（大数据学院）青年教师赵智慧具身智能安全研究成果被CCF A类会议WWW 2026录用](https://mp.weixin.qq.com/s/tAtaTcyu6HeGunkq5rdKiQ) (发布日期: 2026-03-28)
+- [FBI局长个人邮箱遭伊朗黑客攻击事件分析｜蓝队防御指南](https://mp.weixin.qq.com/s/fcxBOzve36jDToeWGCpuUg) (发布日期: 2026-03-28)
+- [渗透测试和红队的关键差别](https://mp.weixin.qq.com/s/8EdEMIdxZckbWc7gMYGGcQ) (发布日期: 2026-03-28)
+- [二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用](https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA) (发布日期: 2026-03-28)
+- [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg) (发布日期: 2026-03-28)
+- [Linux安全加固-主机运维](https://mp.weixin.qq.com/s/5QqdUPf4sRcUhszNMo70FQ) (发布日期: 2026-03-28)
+- [把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘](https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA) (发布日期: 2026-03-28)
+- [浅谈语义安全检测](https://mp.weixin.qq.com/s/cx7ugGD10qbNaJ4IyG6gMA) (发布日期: 2026-03-28)
+- [【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) (发布日期: 2026-03-28)
 
 
 ## 🎯 威胁详情分析
@@ -81,25 +79,21 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 反思您的分层模型：CVE-2025-33073 和单跳问题 | Doonsec | [https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA](https://mp.weixin.qq.com/s/r2A63tHTN8z2DulvZ7D9PA) |
+| 1 | 二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用 | Doonsec | [https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA](https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA) |
+| 2 | 把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA](https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA) |
+| 3 | 【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【代码审计】客户端代码执行之WebView JavaScript桥接劫持token账号接管 | Doonsec | [https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg](https://mp.weixin.qq.com/s/ulas1Qk6irDwAGJGSeatEg) |
+| 1 | 【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | edusrc小程序通杀找找资产方法 | Doonsec | [https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA](https://mp.weixin.qq.com/s/9zF0VlC1ngBPndlm7VKYeA) |
-
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 引入AI做代码安全审查，反而让供应链攻击成功率暴涨到88% | Doonsec | [https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A](https://mp.weixin.qq.com/s/rAicdqnPpY0Y5G10fKHn_A) |
+| 1 | ProcIR-面向安全工程师的一键式应急响应工具 | Doonsec | [https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg](https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg) |
 
 
 ## 📁 归档路径
@@ -115,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-28 12:56:24*
+*生成时间: 2026-03-28 16:35:11*
 *报告工具: 微信文章安全归档系统*
