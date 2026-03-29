@@ -1,20 +1,18 @@
-# 2026-03-28 安全威胁态势报告
+# 2026-03-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - BruceFeIix: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
 - **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,44 +59,31 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [FBI局长个人邮箱遭伊朗黑客攻击事件分析｜蓝队防御指南](https://mp.weixin.qq.com/s/fcxBOzve36jDToeWGCpuUg) (发布日期: 2026-03-28)
-- [渗透测试和红队的关键差别](https://mp.weixin.qq.com/s/8EdEMIdxZckbWc7gMYGGcQ) (发布日期: 2026-03-28)
-- [二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用](https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA) (发布日期: 2026-03-28)
-- [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg) (发布日期: 2026-03-28)
-- [Linux安全加固-主机运维](https://mp.weixin.qq.com/s/5QqdUPf4sRcUhszNMo70FQ) (发布日期: 2026-03-28)
-- [把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘](https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA) (发布日期: 2026-03-28)
-- [浅谈语义安全检测](https://mp.weixin.qq.com/s/cx7ugGD10qbNaJ4IyG6gMA) (发布日期: 2026-03-28)
-- [【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) (发布日期: 2026-03-28)
+- [ ] [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d) (发布日期: 2026-03-29)
+- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班（有邀请函）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154958&idx=2&sn=691e21bd695233eaccb6948ab0c43e40) (发布日期: 2026-03-29)
+- [ ] [【安全圈】24小时68起数据泄露！攻击者单日狂扫10家巴西企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec) (发布日期: 2026-03-29)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 二开MDUT-Pro数据库综合漏洞利用工具，新增Redis CVE-2025-49844和CVE-2022-0543利用，Mssql的Godpotato等提权，MongoDB类型数据库利用 | Doonsec | [https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA](https://mp.weixin.qq.com/s/sIoF8S4hq0m39nLz-6hcdA) |
-| 2 | 把小程序当Web测 || 实战案例深度拆解路由跳转中的权限漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA](https://mp.weixin.qq.com/s/bHhudgL_P2Fqb9lW8-E2TA) |
-| 3 | 【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【0day】深科特 LEAN MES系统 TestManagePlatform.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA](https://mp.weixin.qq.com/s/RE-omcco3wN8bPOu4FQwpA) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ProcIR-面向安全工程师的一键式应急响应工具 | Doonsec | [https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg](https://mp.weixin.qq.com/s/cnqN8cvHK5O1CckTp4UsEg) |
+| 1 |  ] [ProcIR-面向安全工程师的一键式应急响应工具 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】24小时68起数据泄露！攻击者单日狂扫10家巴西企业 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-28/`
+文章已归档到: `doc/2026/2026-03/2026-W13/2026-03-29/`
 
 ## 🔗 数据源说明
 
@@ -109,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-28 16:35:11*
+*生成时间: 2026-03-29 05:43:08*
 *报告工具: 微信文章安全归档系统*
