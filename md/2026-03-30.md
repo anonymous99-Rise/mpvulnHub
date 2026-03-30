@@ -2,17 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 5篇
-  - BruceFeIix: 1篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,15 +60,9 @@
 
 ### Doonsec
 
-- [Supermap iServer历史漏洞浅析(上)](https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw) (发布日期: 2026-03-30)
-- [LiteLLM 供应链攻击事件始末](https://mp.weixin.qq.com/s/mYPNVkYrsFpWRMT947JlLQ) (发布日期: 2026-03-30)
-- [【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017）](https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg) (发布日期: 2026-03-30)
-- [苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险](https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg) (发布日期: 2026-03-30)
-- [手把手CNVD从资产收集到通杀漏洞挖掘](https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g) (发布日期: 2026-03-30)
-
-### BruceFeIix
-
-- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班（有邀请函）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154970&idx=2&sn=910a060f11ceae83d1ae1ca73e759647) (发布日期: 2026-03-30)
+- [【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055](https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w) (发布日期: 2026-03-30)
+- [等保合规再升级！6月1日起，“数据安全”成硬指标](https://mp.weixin.qq.com/s/UR_i59G02gPH77JZdIsTXw) (发布日期: 2026-03-30)
+- [《天津市网络安全和信息化条例》通过 自2026年5月1日起施行，更加强化密评和数据安全](https://mp.weixin.qq.com/s/ZW4yf0Id3p_2iegp1MPHeA) (发布日期: 2026-03-30)
 
 
 ## 🎯 威胁详情分析
@@ -80,22 +71,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Supermap iServer历史漏洞浅析(上) | Doonsec | [https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw](https://mp.weixin.qq.com/s/00ZeX0Ks8aGMBwcjtvuItw) |
-| 2 | 【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017） | Doonsec | [https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg](https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg) |
-| 3 | 苹果 DarkSword 漏洞工具公开，数亿 iPhone 面临窃密风险 | Doonsec | [https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg](https://mp.weixin.qq.com/s/6o24iCVMgFntuACVFOLzcg) |
-| 4 | 手把手CNVD从资产收集到通杀漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g](https://mp.weixin.qq.com/s/RVb-ai_ZrfWTyWdY6jjl0g) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞复现】Langflow 未授权远程代码执行（CVE-2026-33017） | Doonsec | [https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg](https://mp.weixin.qq.com/s/XowWtYcv49e-LVwOLKCxzg) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | LiteLLM 供应链攻击事件始末 | Doonsec | [https://mp.weixin.qq.com/s/mYPNVkYrsFpWRMT947JlLQ](https://mp.weixin.qq.com/s/mYPNVkYrsFpWRMT947JlLQ) |
+| 1 | 【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055 | Doonsec | [https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w](https://mp.weixin.qq.com/s/cXyy1DJEUyJgoYke87id7w) |
 
 
 ## 📁 归档路径
@@ -111,7 +87,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -121,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-30 05:58:04*
+*生成时间: 2026-03-30 09:12:58*
 *报告工具: 微信文章安全归档系统*
