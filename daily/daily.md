@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +63,11 @@
 
 ### Doonsec
 
-- [央行要求：2026进一步提高网络安全、数据安全韧性](https://mp.weixin.qq.com/s/7A9JK9QJBaNgB7RkEWiCDA) (发布日期: 2026-03-30)
-- [信息安全——DES加密算法原理以及3DES](https://mp.weixin.qq.com/s/qjoSY2da50R3b6vK0SvLRg) (发布日期: 2026-03-30)
-- [议程揭晓！第九届CSA大中华区大会暨前沿人工智能安全峰会](https://mp.weixin.qq.com/s/3Z3Ekw9sl33bGONZ-HMgAQ) (发布日期: 2026-03-30)
-- [应对iOS安全威胁新挑战，梆梆安全 “源到源” 加固全面护航移动应用安全](https://mp.weixin.qq.com/s/op-jk5X2mAN_zrA75HpneA) (发布日期: 2026-03-30)
-- [【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876）](https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA) (发布日期: 2026-03-30)
-- [等保标准 | 数据安全系列公安行标解析（一）（二）](https://mp.weixin.qq.com/s/8E1GUySPEjGVlVBCtVpLog) (发布日期: 2026-03-30)
+- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/kZ45pfh5L_H1Ncvzl58MNA) (发布日期: 2026-03-30)
+- [亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ) (发布日期: 2026-03-30)
+- [AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) (发布日期: 2026-03-30)
+- [阿贾克斯足球俱乐部遭黑客攻击，球迷数据泄露，球票被盗](https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg) (发布日期: 2026-03-30)
+- [工具推荐 |  UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描](https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA) (发布日期: 2026-03-30)
 
 
 ## 🎯 威胁详情分析
@@ -76,13 +76,21 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876） | Doonsec | [https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA](https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA) |
+| 1 | 亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ](https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ) |
+| 2 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) |
+| 3 | 工具推荐 |  UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描 | Doonsec | [https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA](https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Grafana SQL表达式任意文件写入导致RCE（CVE-2026-27876） | Doonsec | [https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA](https://mp.weixin.qq.com/s/Q6TKTDQT_zJba4VnysTFrA) |
+| 1 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 阿贾克斯足球俱乐部遭黑客攻击，球迷数据泄露，球票被盗 | Doonsec | [https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg](https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg) |
 
 
 ## 📁 归档路径
@@ -98,8 +106,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +116,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-30 13:21:20*
+*生成时间: 2026-03-30 20:44:51*
 *报告工具: 微信文章安全归档系统*
