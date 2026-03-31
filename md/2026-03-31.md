@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 10篇
+- **供应链**: 5篇
+- **攻击技术**: 2篇
+- **信息泄露**: 2篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,15 +65,30 @@
 
 ### Doonsec
 
-- [国家计算机病毒应急处理中心通报71款应用违规背后：隐私合规风险全面下沉，合规审计刻不容缓](https://mp.weixin.qq.com/s/wRR36yU1c-CsUa44XCWXFA) (发布日期: 2026-03-31)
-- [动态｜全国网安标委组建人工智能安全标准工作组（WG9）和网络安全国际标准研究组（SG1）](https://mp.weixin.qq.com/s/RpcQuDMDtn_O4OHUrlM6VQ) (发布日期: 2026-03-31)
-- [Cisco 9200交换机剖析](https://mp.weixin.qq.com/s/YkCQzsBtxTRO7m0pFk8d9w) (发布日期: 2026-03-31)
-- [NPM热门HTTP请求库 Axios 被投毒，攻击者植入后门](https://mp.weixin.qq.com/s/tEs1O3LufXunhWsf3F6cTQ) (发布日期: 2026-03-31)
-- [VoidStealer恶意软件利用调试器漏洞窃取Chrome主密钥](https://mp.weixin.qq.com/s/9wab2S8bha51qXauAohTnQ) (发布日期: 2026-03-31)
-- [嘶吼安全动态｜全国网安标委发布关于征集个人信息保护标准应用实践案例的通知 AI工作流工具Langflow曝未授权RCE漏洞](https://mp.weixin.qq.com/s/qAnRER3wyvAW0pPigwp9XA) (发布日期: 2026-03-31)
-- [AI已颠覆漏洞研究：这不是预言，这是正在发生的事](https://mp.weixin.qq.com/s/PFv4b1LA_Ire3gwOkbxbgA) (发布日期: 2026-03-31)
-- [OpenClaw又又又危！Axios npm被投毒，植入全平台木马](https://mp.weixin.qq.com/s/RlDHkCSp_CzOzP2gt7jyQg) (发布日期: 2026-03-31)
-- [紧急预警！Axios 遭供应链攻击，恶意版本植入跨平台 RAT，手把手教你排查修复](https://mp.weixin.qq.com/s/ogKyXgdVXFczHXGXIW1zNw) (发布日期: 2026-03-31)
+- [第159篇：原创工具-WiFi弱口令审计与暴力猜解工具 v0.25](https://mp.weixin.qq.com/s/8yRanj6Hg1qglX81-PJ3rg) (发布日期: 2026-03-31)
+- [Axios npm供应链攻击威胁分析报告](https://mp.weixin.qq.com/s/vEdfRB0iKon0uMXOdfxb-Q) (发布日期: 2026-03-31)
+- [CareCloud 数据泄露事件——黑客入侵 IT 基础设施并窃取患者数据](https://mp.weixin.qq.com/s/cWi1T3JhBSJ7Z6C2mUS0lA) (发布日期: 2026-03-31)
+- [ChatGPT漏洞允许攻击者静默窃取用户提示和其他敏感数据](https://mp.weixin.qq.com/s/H7cmOrQrOSS0okqLPRL5Ow) (发布日期: 2026-03-31)
+- [WordPress插件漏洞导致超过80万个网站的敏感数据泄露](https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ) (发布日期: 2026-03-31)
+- [【安全圈】360漏洞挖掘智能体发现OpenClaw高危漏洞，或波及全球17万实例](https://mp.weixin.qq.com/s/9cYnq44HEq2P8qbIp9Lqhw) (发布日期: 2026-03-31)
+- [【安全事件】axios前端库npm供应链投毒预警通告](https://mp.weixin.qq.com/s/8XnfHONr9xHj5hmmqApe9A) (发布日期: 2026-03-31)
+- [Nicholas Carlini：当 AI 比所有人都更擅长找漏洞，安全行业还剩几个月？](https://mp.weixin.qq.com/s/-IlkOX3V6Lhj_2kyjP3sUw) (发布日期: 2026-03-31)
+- [通知 | 网安标委发布《网络安全标准实践指南——工业企业数据安全能力成熟度模型》](https://mp.weixin.qq.com/s/Ni4fDP9cmBRZE4RvxpJs-w) (发布日期: 2026-03-31)
+- [【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）](https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q) (发布日期: 2026-03-31)
+- [《商用密码应用安全性评估FAQ》（第四版）正式发布！](https://mp.weixin.qq.com/s/jrlzzGIPEma4ysSJFCtltA) (发布日期: 2026-03-31)
+- [Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认](https://mp.weixin.qq.com/s/FRj3m8Nqv2x5KNK5pSQadg) (发布日期: 2026-03-31)
+- [OpenClaw智能体安全防护方案护航企业智改](https://mp.weixin.qq.com/s/NUu4dnI6JWLhFj-UpHwovw) (发布日期: 2026-03-31)
+- [OpenClaw依赖包Axios遭供应链投毒：恶意版本植入远控木马](https://mp.weixin.qq.com/s/Kb1o9MMlhL4DUxb-N9VVdg) (发布日期: 2026-03-31)
+- [【高危漏洞预警】vim存在RCE漏洞（CVE-2026-34714）](https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg) (发布日期: 2026-03-31)
+- [【已复现】漏洞通告 | Vim 代码执行漏洞(CVE-2026-34714)](https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g) (发布日期: 2026-03-31)
+- [中欧盛会 | AutoSec Europe 2026第二届欧洲汽车网络安全与数据安全峰会在德国圆满落幕](https://mp.weixin.qq.com/s/E5MJnTNbRryHrW9AiMHYpQ) (发布日期: 2026-03-31)
+- [OpenAI 紧急修复：ChatGPT 暗藏数据外泄漏洞](https://mp.weixin.qq.com/s/GxEpuuXko9C-LTrNRN8e4g) (发布日期: 2026-03-31)
+- [《商用密码应用安全性评估FAQ》（第四版）](https://mp.weixin.qq.com/s/WgacaEgoNrR4O2aVL_d8qw) (发布日期: 2026-03-31)
+- [国家计算机病毒应急处理中心通报71款App违法违规收集使用个人信息](https://mp.weixin.qq.com/s/ma9_TRwiwGytS_WWLOtxSw) (发布日期: 2026-03-31)
+- [《网络安全标准实践指南——工业企业数据安全能力成熟度模型》发布](https://mp.weixin.qq.com/s/xmMK23FW-dDervTi29j5Aw) (发布日期: 2026-03-31)
+- [Axios npm 供应链投毒事件：跨平台 RAT 木马攻击分析与处置建议](https://mp.weixin.qq.com/s/wVaX9Uqpv1dSjRznBOqWQQ) (发布日期: 2026-03-31)
+- [CVE-2025-33073与“一跳”问题：重新审视你的分层模型](https://mp.weixin.qq.com/s/mN88lh-hIDXWSlT2wrXTgg) (发布日期: 2026-03-31)
+- [PyPI 包 telnyx 又一次被 TeamPCP 在供应链攻击中攻破](https://mp.weixin.qq.com/s/SZ77feEbRHsiBgQG3duOPQ) (发布日期: 2026-03-31)
 
 
 ## 🎯 威胁详情分析
@@ -80,21 +97,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | VoidStealer恶意软件利用调试器漏洞窃取Chrome主密钥 | Doonsec | [https://mp.weixin.qq.com/s/9wab2S8bha51qXauAohTnQ](https://mp.weixin.qq.com/s/9wab2S8bha51qXauAohTnQ) |
-| 2 | 嘶吼安全动态｜全国网安标委发布关于征集个人信息保护标准应用实践案例的通知 AI工作流工具Langflow曝未授权RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qAnRER3wyvAW0pPigwp9XA](https://mp.weixin.qq.com/s/qAnRER3wyvAW0pPigwp9XA) |
-| 3 | AI已颠覆漏洞研究：这不是预言，这是正在发生的事 | Doonsec | [https://mp.weixin.qq.com/s/PFv4b1LA_Ire3gwOkbxbgA](https://mp.weixin.qq.com/s/PFv4b1LA_Ire3gwOkbxbgA) |
+| 1 | ChatGPT漏洞允许攻击者静默窃取用户提示和其他敏感数据 | Doonsec | [https://mp.weixin.qq.com/s/H7cmOrQrOSS0okqLPRL5Ow](https://mp.weixin.qq.com/s/H7cmOrQrOSS0okqLPRL5Ow) |
+| 2 | WordPress插件漏洞导致超过80万个网站的敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ](https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ) |
+| 3 | 【安全圈】360漏洞挖掘智能体发现OpenClaw高危漏洞，或波及全球17万实例 | Doonsec | [https://mp.weixin.qq.com/s/9cYnq44HEq2P8qbIp9Lqhw](https://mp.weixin.qq.com/s/9cYnq44HEq2P8qbIp9Lqhw) |
+| 4 | Nicholas Carlini：当 AI 比所有人都更擅长找漏洞，安全行业还剩几个月？ | Doonsec | [https://mp.weixin.qq.com/s/-IlkOX3V6Lhj_2kyjP3sUw](https://mp.weixin.qq.com/s/-IlkOX3V6Lhj_2kyjP3sUw) |
+| 5 | 【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程） | Doonsec | [https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q](https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q) |
+| 6 | Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认 | Doonsec | [https://mp.weixin.qq.com/s/FRj3m8Nqv2x5KNK5pSQadg](https://mp.weixin.qq.com/s/FRj3m8Nqv2x5KNK5pSQadg) |
+| 7 | 【高危漏洞预警】vim存在RCE漏洞（CVE-2026-34714） | Doonsec | [https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg](https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg) |
+| 8 | 【已复现】漏洞通告 | Vim 代码执行漏洞(CVE-2026-34714) | Doonsec | [https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g](https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g) |
+| 9 | OpenAI 紧急修复：ChatGPT 暗藏数据外泄漏洞 | Doonsec | [https://mp.weixin.qq.com/s/GxEpuuXko9C-LTrNRN8e4g](https://mp.weixin.qq.com/s/GxEpuuXko9C-LTrNRN8e4g) |
+| 10 | CVE-2025-33073与“一跳”问题：重新审视你的分层模型 | Doonsec | [https://mp.weixin.qq.com/s/mN88lh-hIDXWSlT2wrXTgg](https://mp.weixin.qq.com/s/mN88lh-hIDXWSlT2wrXTgg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 嘶吼安全动态｜全国网安标委发布关于征集个人信息保护标准应用实践案例的通知 AI工作流工具Langflow曝未授权RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qAnRER3wyvAW0pPigwp9XA](https://mp.weixin.qq.com/s/qAnRER3wyvAW0pPigwp9XA) |
+| 1 | 【高危漏洞预警】vim存在RCE漏洞（CVE-2026-34714） | Doonsec | [https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg](https://mp.weixin.qq.com/s/ZYs0Oqgd3TURi17Df7tmBg) |
+| 2 | 【已复现】漏洞通告 | Vim 代码执行漏洞(CVE-2026-34714) | Doonsec | [https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g](https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CareCloud 数据泄露事件——黑客入侵 IT 基础设施并窃取患者数据 | Doonsec | [https://mp.weixin.qq.com/s/cWi1T3JhBSJ7Z6C2mUS0lA](https://mp.weixin.qq.com/s/cWi1T3JhBSJ7Z6C2mUS0lA) |
+| 2 | WordPress插件漏洞导致超过80万个网站的敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ](https://mp.weixin.qq.com/s/6AoUwPytQ979s4LptEdfLQ) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急预警！Axios 遭供应链攻击，恶意版本植入跨平台 RAT，手把手教你排查修复 | Doonsec | [https://mp.weixin.qq.com/s/ogKyXgdVXFczHXGXIW1zNw](https://mp.weixin.qq.com/s/ogKyXgdVXFczHXGXIW1zNw) |
+| 1 | Axios npm供应链攻击威胁分析报告 | Doonsec | [https://mp.weixin.qq.com/s/vEdfRB0iKon0uMXOdfxb-Q](https://mp.weixin.qq.com/s/vEdfRB0iKon0uMXOdfxb-Q) |
+| 2 | 【安全事件】axios前端库npm供应链投毒预警通告 | Doonsec | [https://mp.weixin.qq.com/s/8XnfHONr9xHj5hmmqApe9A](https://mp.weixin.qq.com/s/8XnfHONr9xHj5hmmqApe9A) |
+| 3 | OpenClaw依赖包Axios遭供应链投毒：恶意版本植入远控木马 | Doonsec | [https://mp.weixin.qq.com/s/Kb1o9MMlhL4DUxb-N9VVdg](https://mp.weixin.qq.com/s/Kb1o9MMlhL4DUxb-N9VVdg) |
+| 4 | Axios npm 供应链投毒事件：跨平台 RAT 木马攻击分析与处置建议 | Doonsec | [https://mp.weixin.qq.com/s/wVaX9Uqpv1dSjRznBOqWQQ](https://mp.weixin.qq.com/s/wVaX9Uqpv1dSjRznBOqWQQ) |
+| 5 | PyPI 包 telnyx 又一次被 TeamPCP 在供应链攻击中攻破 | Doonsec | [https://mp.weixin.qq.com/s/SZ77feEbRHsiBgQG3duOPQ](https://mp.weixin.qq.com/s/SZ77feEbRHsiBgQG3duOPQ) |
 
 
 ## 📁 归档路径
@@ -110,7 +146,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -120,5 +156,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-31 09:00:29*
+*生成时间: 2026-03-31 13:19:54*
 *报告工具: 微信文章安全归档系统*
