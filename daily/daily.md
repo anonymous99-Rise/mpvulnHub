@@ -2,18 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 32
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 12篇
+  - BruceFeIix: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 15篇
+- **威胁情报**: 2篇
 - **攻击技术**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 4篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,17 +65,41 @@
 
 ### Doonsec
 
-- [中间人攻击的基本原理](https://mp.weixin.qq.com/s/SyC9_SlTncbWNGt8H4PlBQ) (发布日期: 2026-03-31)
-- [OVHcloud遭史上最大云端入侵？590TB数据泄露，近600万网站“裸奔”](https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ) (发布日期: 2026-03-31)
-- [RSAC 2026创新沙盒 | Clearly AI：打造AI赋能的自动化软件安全平台](https://mp.weixin.qq.com/s/fJQKlaE6Y6VB34MNz1mbYg) (发布日期: 2026-03-31)
-- [金融安全再升级！兴业银行率先建成跨省量子金融专线环网](https://mp.weixin.qq.com/s/H7OhV6lX4DtEtf8dScAhYA) (发布日期: 2026-03-31)
-- [安全岗位大揭秘——“安全专家”](https://mp.weixin.qq.com/s/D979XeVnHeGt5U-QOt3nvw) (发布日期: 2026-03-31)
-- [Telegram零点击0Day官方否认但漏洞当场被验证，你的聊天记录已在别人手里](https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ) (发布日期: 2026-03-31)
-- [Coruna：针对 iOS 的国家级/商业级 Web 驱动型漏洞利用工具包，注意看文章细节内容有不同收获](https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg) (发布日期: 2026-03-31)
-- [记母校漏洞测试一次waf绕过经历](https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ) (发布日期: 2026-03-31)
-- [一站式渗透测试工具|自动识别微信小程序、反编译分析、提取敏感信息，搭配多引擎测绘](https://mp.weixin.qq.com/s/vuIbfX_RQkfCcL0Ptn8xcw) (发布日期: 2026-03-31)
-- [工具推荐 | Payloader 渗透测试辅助平台，集成了300+ 条涵盖Web与内网的攻防载荷。](https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q) (发布日期: 2026-03-31)
-- [《高级红队》](https://mp.weixin.qq.com/s/Lb7OJJrVBJa4fFgOezeoSg) (发布日期: 2026-03-31)
+- [CNVD发布上周关注度较高的产品安全漏洞；伊朗黑客组织 Handala 宣称入侵 FBI 局长邮箱 | 牛览](https://mp.weixin.qq.com/s/-UihXBhOT0TMXRsE5bUHyw) (发布日期: 2026-03-31)
+- [全球使用最广泛的 AI Agent 编排框架爆三个高危/严重漏洞｜蓝队防御指南](https://mp.weixin.qq.com/s/UuGKD7KX4edvboCe9sgqvw) (发布日期: 2026-03-31)
+- [创信关注丨《商用密码应用安全性评估FAQ》（第四版）正式发布！创信华通二度参与修订！](https://mp.weixin.qq.com/s/Q2d86WNUmVEo0Avz-5WXXA) (发布日期: 2026-03-31)
+- [当我们对自己的 AI 实施社会工程学攻击，结果出乎意料](https://mp.weixin.qq.com/s/1tyzrt766zRe4cAy4yXswA) (发布日期: 2026-03-31)
+- [网络安全培训机构常见套路与谎言](https://mp.weixin.qq.com/s/ElU2AtnrmsSN_cLxKRcvkA) (发布日期: 2026-03-31)
+- [【实战复现】常见企业系统漏洞合集——从监控系统到ERP平台](https://mp.weixin.qq.com/s/pH3SgeoeLZl923zZc9Pmig) (发布日期: 2026-03-31)
+- [《商用密码应用安全性评估FAQ》（第四版）发布！](https://mp.weixin.qq.com/s/V6sTdgxbhUWfKYVyhav7NA) (发布日期: 2026-03-31)
+- [《商用密码应用安全性评估FAQ》（第四版）发布](https://mp.weixin.qq.com/s/ClEVePjw1ob_YGySHEdB9g) (发布日期: 2026-03-31)
+- [护网攻防演练红蓝对抗全套资料，包含6大模块](https://mp.weixin.qq.com/s/QSu4nN2rGxkgvoMXLzPNAQ) (发布日期: 2026-03-31)
+- [安全岗位大揭秘——“安全专家”](https://mp.weixin.qq.com/s/puEMWM6qhKhbQhgAj4ySCg) (发布日期: 2026-03-31)
+- [Supermap iServer历史漏洞浅析(下)](https://mp.weixin.qq.com/s/HHeGa9WyG7sH5dXygL0Jvw) (发布日期: 2026-03-31)
+- [俄罗斯关联APT TA446利用DarkSword iOS漏洞发起针对iPhone用户的网络钓鱼攻击](https://mp.weixin.qq.com/s/2XAnkq3SxTBCOHgVa0p-Cg) (发布日期: 2026-03-31)
+
+### BruceFeIix
+
+- [ ] [4月好课推荐：CISP、CISSP、CISA开班倒计时](https://mp.weixin.qq.com/s/bPMeB-RojFsNxORI4EIJOg) (发布日期: 2026-03-31)
+- [ ] [Anthropic专攻漏洞挖掘的秘密模型Claude Mythos泄露，AI安全攻防格局突变](https://mp.weixin.qq.com/s/9pkBn5-z4CI5J4U42ezoHA) (发布日期: 2026-03-31)
+- [ ] [CISA要求三天内修复这个严重的 F5 BIG-IP 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=1&sn=3596dc720ddc3cfdb3245a4b7597f249) (发布日期: 2026-03-31)
+- [ ] [n8n 两个严重 RCE 漏洞利用使工作流沦为后门](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf) (发布日期: 2026-03-31)
+- [ ] [威努特全流程数据安全方案，多重防线守护企业数据](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141157&idx=1&sn=033a4949885bef931f03bc3d5c2c297c) (发布日期: 2026-03-31)
+- [ ] [新型“Infinity”恶意软件正在通过假验证页面疯狂传播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612768&idx=2&sn=7e7083b23eb659baa047e16744af935d) (发布日期: 2026-03-31)
+- [ ] [Telegram 9.8 分零日漏洞警示：富媒体时代，即时通讯的安全红线在哪？](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165759&idx=1&sn=7f3fe29c27a207f74884508598380179) (发布日期: 2026-03-31)
+- [ ] [大模型对威胁情报来说可能并不可靠](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488555&idx=1&sn=7fae151c7499b47740586e1522637552) (发布日期: 2026-03-31)
+- [ ] [等保标准 | 数据安全系列公安行标解析（一）（二）](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503292&idx=1&sn=70bddc999cc325b8af391e4fd9753793) (发布日期: 2026-03-31)
+- [ ] [黑客不攻你的防火墙，他们攻你的摄像头](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851058&idx=1&sn=942eac1dc5b3183e52274b44ada50db5) (发布日期: 2026-03-31)
+- [ ] [Odaily专访余弦：Anthropic核弹级新模型泄漏，如何影响加密安全攻防？](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504594&idx=1&sn=88d0a2ea27ea5f4bd87967e3411848f6) (发布日期: 2026-03-31)
+- [ ] [《AI模型安全评估及围栏技术应用指南》 调研正式启动，诚邀厂商共筑AI安全生态！](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140919&idx=2&sn=17b07074b85e47bf4a954cbc8232c1d7) (发布日期: 2026-03-31)
+- [ ] [【安全圈】Telegram 遭遇严重 0-day 漏洞，CVSS 评分高达 9.8 分](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075204&idx=2&sn=f5c0bfeaf0614eabe75d0b22d42892c3) (发布日期: 2026-03-31)
+- [ ] [攻击者滥用.arpa特殊域名与IPv6反向DNS实施钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587454&idx=1&sn=11f0a32adb34bfb9df987464c6ac1976) (发布日期: 2026-03-31)
+- [ ] [【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525189&idx=1&sn=2458d6bc7b6b65d61cd8c40e38e13933) (发布日期: 2026-03-31)
+- [ ] [PrivLLM 协变混淆：隐私保护的 LLM 推理高效实现](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519070&idx=1&sn=618c4ef1446e49a86377277a9d200b4e) (发布日期: 2026-03-31)
+- [ ] [34万星系统破防！360漏洞挖掘智能体揪出OpenClaw高危漏洞](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585581&idx=1&sn=0b75e5a0293241e114a4f9a5165ab903) (发布日期: 2026-03-31)
+- [ ] [CNVD漏洞周报2026年第12期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=1&sn=2db62d67bc97271b6af9bf9845928dc2) (发布日期: 2026-03-31)
+- [ ] [上周关注度较高的产品安全漏洞(20260323-20260329)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=2&sn=bfe39e048853c801b423b3c8d8b6b845) (发布日期: 2026-03-31)
+- [ ] [Apache ActiveMQ漏洞导致LockBit勒索软件攻击事件分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489546&idx=1&sn=c5c6a044f6ddc321b2897d9ce70a3c9b) (发布日期: 2026-03-31)
 
 
 ## 🎯 威胁详情分析
@@ -81,21 +108,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Telegram零点击0Day官方否认但漏洞当场被验证，你的聊天记录已在别人手里 | Doonsec | [https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ](https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ) |
-| 2 | Coruna：针对 iOS 的国家级/商业级 Web 驱动型漏洞利用工具包，注意看文章细节内容有不同收获 | Doonsec | [https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg](https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg) |
-| 3 | 记母校漏洞测试一次waf绕过经历 | Doonsec | [https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ](https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ) |
+| 1 | CNVD发布上周关注度较高的产品安全漏洞；伊朗黑客组织 Handala 宣称入侵 FBI 局长邮箱 | 牛览 | Doonsec | [https://mp.weixin.qq.com/s/-UihXBhOT0TMXRsE5bUHyw](https://mp.weixin.qq.com/s/-UihXBhOT0TMXRsE5bUHyw) |
+| 2 | 全球使用最广泛的 AI Agent 编排框架爆三个高危/严重漏洞｜蓝队防御指南 | Doonsec | [https://mp.weixin.qq.com/s/UuGKD7KX4edvboCe9sgqvw](https://mp.weixin.qq.com/s/UuGKD7KX4edvboCe9sgqvw) |
+| 3 | 【实战复现】常见企业系统漏洞合集——从监控系统到ERP平台 | Doonsec | [https://mp.weixin.qq.com/s/pH3SgeoeLZl923zZc9Pmig](https://mp.weixin.qq.com/s/pH3SgeoeLZl923zZc9Pmig) |
+| 4 | Supermap iServer历史漏洞浅析(下) | Doonsec | [https://mp.weixin.qq.com/s/HHeGa9WyG7sH5dXygL0Jvw](https://mp.weixin.qq.com/s/HHeGa9WyG7sH5dXygL0Jvw) |
+| 5 | 俄罗斯关联APT TA446利用DarkSword iOS漏洞发起针对iPhone用户的网络钓鱼攻击 | Doonsec | [https://mp.weixin.qq.com/s/2XAnkq3SxTBCOHgVa0p-Cg](https://mp.weixin.qq.com/s/2XAnkq3SxTBCOHgVa0p-Cg) |
+| 6 |  ] [Anthropic专攻漏洞挖掘的秘密模型Claude Mythos泄露，AI安全攻防格局突变 | BruceFeIix | [https://mp.weixin.qq.com/s/9pkBn5-z4CI5J4U42ezoHA](https://mp.weixin.qq.com/s/9pkBn5-z4CI5J4U42ezoHA) |
+| 7 |  ] [CISA要求三天内修复这个严重的 F5 BIG-IP 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=1&sn=3596dc720ddc3cfdb3245a4b7597f249](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=1&sn=3596dc720ddc3cfdb3245a4b7597f249) |
+| 8 |  ] [n8n 两个严重 RCE 漏洞利用使工作流沦为后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf) |
+| 9 |  ] [Telegram 9.8 分零日漏洞警示：富媒体时代，即时通讯的安全红线在哪？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165759&idx=1&sn=7f3fe29c27a207f74884508598380179](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165759&idx=1&sn=7f3fe29c27a207f74884508598380179) |
+| 10 |  ] [【安全圈】Telegram 遭遇严重 0-day 漏洞，CVSS 评分高达 9.8 分 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075204&idx=2&sn=f5c0bfeaf0614eabe75d0b22d42892c3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075204&idx=2&sn=f5c0bfeaf0614eabe75d0b22d42892c3) |
+| 11 |  ] [【漏洞通告】Citrix NetScaler ADC和NetScaler Gateway越界读取漏洞 CVE-2026-3055 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525189&idx=1&sn=2458d6bc7b6b65d61cd8c40e38e13933](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525189&idx=1&sn=2458d6bc7b6b65d61cd8c40e38e13933) |
+| 12 |  ] [34万星系统破防！360漏洞挖掘智能体揪出OpenClaw高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585581&idx=1&sn=0b75e5a0293241e114a4f9a5165ab903](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585581&idx=1&sn=0b75e5a0293241e114a4f9a5165ab903) |
+| 13 |  ] [CNVD漏洞周报2026年第12期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=1&sn=2db62d67bc97271b6af9bf9845928dc2](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=1&sn=2db62d67bc97271b6af9bf9845928dc2) |
+| 14 |  ] [上周关注度较高的产品安全漏洞(20260323-20260329) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=2&sn=bfe39e048853c801b423b3c8d8b6b845](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496809&idx=2&sn=bfe39e048853c801b423b3c8d8b6b845) |
+| 15 |  ] [Apache ActiveMQ漏洞导致LockBit勒索软件攻击事件分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489546&idx=1&sn=c5c6a044f6ddc321b2897d9ce70a3c9b](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489546&idx=1&sn=c5c6a044f6ddc321b2897d9ce70a3c9b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 工具推荐 | Payloader 渗透测试辅助平台，集成了300+ 条涵盖Web与内网的攻防载荷。 | Doonsec | [https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q](https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q) |
+| 1 |  ] [n8n 两个严重 RCE 漏洞利用使工作流沦为后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525571&idx=2&sn=eae427dd1fadd452e77ca0ed22f49ddf) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OVHcloud遭史上最大云端入侵？590TB数据泄露，近600万网站“裸奔” | Doonsec | [https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ](https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ) |
+| 1 | 俄罗斯关联APT TA446利用DarkSword iOS漏洞发起针对iPhone用户的网络钓鱼攻击 | Doonsec | [https://mp.weixin.qq.com/s/2XAnkq3SxTBCOHgVa0p-Cg](https://mp.weixin.qq.com/s/2XAnkq3SxTBCOHgVa0p-Cg) |
+| 2 |  ] [大模型对威胁情报来说可能并不可靠 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488555&idx=1&sn=7fae151c7499b47740586e1522637552](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488555&idx=1&sn=7fae151c7499b47740586e1522637552) |
 
 
 ## 📁 归档路径
@@ -111,8 +151,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 15 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +161,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-31 02:28:02*
+*生成时间: 2026-03-31 05:43:48*
 *报告工具: 微信文章安全归档系统*
