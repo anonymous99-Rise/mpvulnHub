@@ -1,10 +1,10 @@
-# 2026-03-30 安全威胁态势报告
+# 2026-03-31 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
@@ -14,7 +14,6 @@
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,11 +62,17 @@
 
 ### Doonsec
 
-- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/kZ45pfh5L_H1Ncvzl58MNA) (发布日期: 2026-03-30)
-- [亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ) (发布日期: 2026-03-30)
-- [AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) (发布日期: 2026-03-30)
-- [阿贾克斯足球俱乐部遭黑客攻击，球迷数据泄露，球票被盗](https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg) (发布日期: 2026-03-30)
-- [工具推荐 |  UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描](https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA) (发布日期: 2026-03-30)
+- [中间人攻击的基本原理](https://mp.weixin.qq.com/s/SyC9_SlTncbWNGt8H4PlBQ) (发布日期: 2026-03-31)
+- [OVHcloud遭史上最大云端入侵？590TB数据泄露，近600万网站“裸奔”](https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ) (发布日期: 2026-03-31)
+- [RSAC 2026创新沙盒 | Clearly AI：打造AI赋能的自动化软件安全平台](https://mp.weixin.qq.com/s/fJQKlaE6Y6VB34MNz1mbYg) (发布日期: 2026-03-31)
+- [金融安全再升级！兴业银行率先建成跨省量子金融专线环网](https://mp.weixin.qq.com/s/H7OhV6lX4DtEtf8dScAhYA) (发布日期: 2026-03-31)
+- [安全岗位大揭秘——“安全专家”](https://mp.weixin.qq.com/s/D979XeVnHeGt5U-QOt3nvw) (发布日期: 2026-03-31)
+- [Telegram零点击0Day官方否认但漏洞当场被验证，你的聊天记录已在别人手里](https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ) (发布日期: 2026-03-31)
+- [Coruna：针对 iOS 的国家级/商业级 Web 驱动型漏洞利用工具包，注意看文章细节内容有不同收获](https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg) (发布日期: 2026-03-31)
+- [记母校漏洞测试一次waf绕过经历](https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ) (发布日期: 2026-03-31)
+- [一站式渗透测试工具|自动识别微信小程序、反编译分析、提取敏感信息，搭配多引擎测绘](https://mp.weixin.qq.com/s/vuIbfX_RQkfCcL0Ptn8xcw) (发布日期: 2026-03-31)
+- [工具推荐 | Payloader 渗透测试辅助平台，集成了300+ 条涵盖Web与内网的攻防载荷。](https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q) (发布日期: 2026-03-31)
+- [《高级红队》](https://mp.weixin.qq.com/s/Lb7OJJrVBJa4fFgOezeoSg) (发布日期: 2026-03-31)
 
 
 ## 🎯 威胁详情分析
@@ -76,26 +81,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 亿赛通-电子文档安全管理系统DecryptApplication;Servicelogin接口存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ](https://mp.weixin.qq.com/s/JCHVW8jnw3cYOLUv2gcoSQ) |
-| 2 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) |
-| 3 | 工具推荐 |  UploadRanger专业级文件上传漏洞检测：全面支持263种绕过技术、代理抓包与动态深度扫描 | Doonsec | [https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA](https://mp.weixin.qq.com/s/hyYPCLvVr_1d__jsGa9-lA) |
+| 1 | Telegram零点击0Day官方否认但漏洞当场被验证，你的聊天记录已在别人手里 | Doonsec | [https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ](https://mp.weixin.qq.com/s/KwFUYDHeleoon4NcZt41AQ) |
+| 2 | Coruna：针对 iOS 的国家级/商业级 Web 驱动型漏洞利用工具包，注意看文章细节内容有不同收获 | Doonsec | [https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg](https://mp.weixin.qq.com/s/xcrowsWRs10luZsO6TGyXg) |
+| 3 | 记母校漏洞测试一次waf绕过经历 | Doonsec | [https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ](https://mp.weixin.qq.com/s/jtGtD-wTgjVM8xjxWbDnxQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ](https://mp.weixin.qq.com/s/uV1rgNsk8FuDYRk06ZWsMQ) |
+| 1 | 工具推荐 | Payloader 渗透测试辅助平台，集成了300+ 条涵盖Web与内网的攻防载荷。 | Doonsec | [https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q](https://mp.weixin.qq.com/s/9mYkSJf79UKeI30D1hml8Q) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 阿贾克斯足球俱乐部遭黑客攻击，球迷数据泄露，球票被盗 | Doonsec | [https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg](https://mp.weixin.qq.com/s/EUXRSrwgWYREYmRfawm8zg) |
+| 1 | OVHcloud遭史上最大云端入侵？590TB数据泄露，近600万网站“裸奔” | Doonsec | [https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ](https://mp.weixin.qq.com/s/wPRJlu-shzyi7FdFS2dxRQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-03/2026-W14/2026-03-30/`
+文章已归档到: `doc/2026/2026-03/2026-W14/2026-03-31/`
 
 ## 🔗 数据源说明
 
@@ -107,7 +112,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-03-30 20:44:51*
+*生成时间: 2026-03-31 02:28:02*
 *报告工具: 微信文章安全归档系统*
