@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **供应链**: 4篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,21 +65,26 @@
 
 ### Doonsec
 
-- [今晚开始，查询XVI扩展漏洞情报免费了](https://mp.weixin.qq.com/s/MejtNOZLPG2zJq2FtqtL1A) (发布日期: 2026-04-01)
-- [三大升级！安星威胁检测智能体开启自主威胁防御新范式](https://mp.weixin.qq.com/s/G78g9LIqVUGvhrl7Tpqtiw) (发布日期: 2026-04-01)
-- [TeamPCP 组织再度攻击：Telnyx 供应链攻击事件总结](https://mp.weixin.qq.com/s/_gtGwH7i03Hd1x7JSavoUg) (发布日期: 2026-04-01)
-- [【在野漏洞预警】Chrome浏览器沙箱逃逸漏洞（CVE-2026-5281）](https://mp.weixin.qq.com/s/C93W5Hlmn6YWxWDgNZj4Qw) (发布日期: 2026-04-01)
-- [利用邮箱漏洞寻找突破口打穿目标内网](https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw) (发布日期: 2026-04-01)
-- [4月社区投稿活动 | 漏洞挖掘](https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w) (发布日期: 2026-04-01)
-- [基于 DOM 的 XSS 攻击](https://mp.weixin.qq.com/s/2Qi5MXCgZNS7Q82ep9hXJw) (发布日期: 2026-04-01)
-- [PHP代码审计实战：两个经典漏洞的深度剖析](https://mp.weixin.qq.com/s/FQcKOdbFQclYK1kMXqnQsg) (发布日期: 2026-04-01)
-- [动态｜《商用密码应用安全性评估FAQ》（第四版）正式发布！](https://mp.weixin.qq.com/s/S45JwZjCbAqucO2K84KhHg) (发布日期: 2026-04-01)
-- [《网安标准实践指南-工业企业数据安全能力成熟度模型》发布](https://mp.weixin.qq.com/s/epoFjY5PnHafWZnkXzUJlA) (发布日期: 2026-04-01)
-- [警惕 axios 供应链投毒风险！永信至诚「数字风洞」守护软件供应链安全](https://mp.weixin.qq.com/s/pFpmj1QkT0AMX41jBgDsew) (发布日期: 2026-04-01)
-- [【安全月报】| 3 月加密货币领域因安全事件损失约 1.98 亿美元](https://mp.weixin.qq.com/s/ZPVdplg1XrzOduZvqhpAQA) (发布日期: 2026-04-01)
-- [安全实战：Apifox 供应链投毒事件与企业安全闭环实践](https://mp.weixin.qq.com/s/4Yx2Mk2kCk6am3S4vmFHKw) (发布日期: 2026-04-01)
-- [【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！](https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ) (发布日期: 2026-04-01)
-- [紧急！npm严重供应链攻击，Axios恶意版本速自查](https://mp.weixin.qq.com/s/OXtESeDxqEHA-GLIcwnNWQ) (发布日期: 2026-04-01)
+- [等保标准再扩新篇，数据安全系列公安行标解析（三）](https://mp.weixin.qq.com/s/mH6IzxB3XfSP-cwcQCr3ZA) (发布日期: 2026-04-01)
+- [Axios供应链攻击事件再追踪：线索直指Lazarus组织](https://mp.weixin.qq.com/s/RvykbFFq-zCaZOOax_ofCg) (发布日期: 2026-04-01)
+- [AI 驱动的自动化安全测试与多前端工作台](https://mp.weixin.qq.com/s/4nb4XgjXLv-B1Toe4ZA8mA) (发布日期: 2026-04-01)
+- [百家 | 李维春：企业安全架构的设计与迭代思考](https://mp.weixin.qq.com/s/VRhu6Vtv1D8DvXdox5HV3w) (发布日期: 2026-04-01)
+- [守内安 &amp; ASRC 2026xa0第一季电子邮件安全观察报告](https://mp.weixin.qq.com/s/2u-jaIwUk3RmithjQujNuA) (发布日期: 2026-04-01)
+- [【安全圈】请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑](https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ) (发布日期: 2026-04-01)
+- [进阶：Chisel 隧道技术与内网穿透防护绕过实战](https://mp.weixin.qq.com/s/XuiAIYrDbIpvCM4bE7W-Gg) (发布日期: 2026-04-01)
+- [【公益译文】2026年国际AI安全报告（三）](https://mp.weixin.qq.com/s/Xx6LfKCbphLhOrTe7OIQeA) (发布日期: 2026-04-01)
+- [成华区网络安全政策宣贯与意识培训会顺利召开，工信安创作工业信息安全防护体系专题分享](https://mp.weixin.qq.com/s/TuG_Ql0XAAGj6z66kidUVg) (发布日期: 2026-04-01)
+- [专题·具身智能安全 | 具身智能安全：数字与物理世界安全风险的重构与防御革新](https://mp.weixin.qq.com/s/wIV9e7o39BkvC-AcftGEOQ) (发布日期: 2026-04-01)
+- [[工具推荐]多协议连接&amp;未授权测试&amp;弱口令测试工具MPET](https://mp.weixin.qq.com/s/n3UA-cI8im6nPI021xRUFQ) (发布日期: 2026-04-01)
+- [2026，企事业单位网络安全意识宣贯怎么做？](https://mp.weixin.qq.com/s/ac-LwvBXQ3fCsNtsSBejzA) (发布日期: 2026-04-01)
+- [Axios投毒事件：阿里云安全复盘分析与关键防护建议](https://mp.weixin.qq.com/s/tLBU500ur-kAvLe1CJcQ6g) (发布日期: 2026-04-01)
+- [网络安全标准实践指南丨工业企业数据安全能力成熟度模型（附下载）](https://mp.weixin.qq.com/s/ZiM4LP5qErG3b95y8c-qBA) (发布日期: 2026-04-01)
+- [今晚开始，查询XVI扩展漏洞情报免费了](https://mp.weixin.qq.com/s/zdHEer2yS9sLHXt4G6HbGQ) (发布日期: 2026-04-01)
+- [从单次 LLM Call 到 Learning Loop - HUB 在安全运营的实践](https://mp.weixin.qq.com/s/Mn8iGkA6LGtLE4Rytl3Qjw) (发布日期: 2026-04-01)
+- [一款先进的跨平台红队演练框架](https://mp.weixin.qq.com/s/yfK5duFBmOTTRDpCMXOB1A) (发布日期: 2026-04-01)
+- [应急响应详解，非常详细！（附PDF）](https://mp.weixin.qq.com/s/wQnu6nDYZBbixtBFOEQJkQ) (发布日期: 2026-04-01)
+- [【附POC及复现环境】Vim 1-click代码执行漏洞复现 (CVE-2026-34714)](https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw) (发布日期: 2026-04-01)
+- [【在野利用】Google Chrome Dawn 释放后重用漏洞(CVE-2026-5281)安全风险通告](https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA) (发布日期: 2026-04-01)
 
 
 ## 🎯 威胁详情分析
@@ -87,29 +93,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 今晚开始，查询XVI扩展漏洞情报免费了 | Doonsec | [https://mp.weixin.qq.com/s/MejtNOZLPG2zJq2FtqtL1A](https://mp.weixin.qq.com/s/MejtNOZLPG2zJq2FtqtL1A) |
-| 2 | 【在野漏洞预警】Chrome浏览器沙箱逃逸漏洞（CVE-2026-5281） | Doonsec | [https://mp.weixin.qq.com/s/C93W5Hlmn6YWxWDgNZj4Qw](https://mp.weixin.qq.com/s/C93W5Hlmn6YWxWDgNZj4Qw) |
-| 3 | 利用邮箱漏洞寻找突破口打穿目标内网 | Doonsec | [https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw](https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw) |
-| 4 | 4月社区投稿活动 | 漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w](https://mp.weixin.qq.com/s/i1AJHN9Kx_a3bHAI41PH2w) |
-| 5 | PHP代码审计实战：两个经典漏洞的深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/FQcKOdbFQclYK1kMXqnQsg](https://mp.weixin.qq.com/s/FQcKOdbFQclYK1kMXqnQsg) |
-| 6 | 【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！ | Doonsec | [https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ](https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ) |
+| 1 | 【安全圈】请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑 | Doonsec | [https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ](https://mp.weixin.qq.com/s/VdSos730ImjZLFc25x-ucQ) |
+| 2 | 今晚开始，查询XVI扩展漏洞情报免费了 | Doonsec | [https://mp.weixin.qq.com/s/zdHEer2yS9sLHXt4G6HbGQ](https://mp.weixin.qq.com/s/zdHEer2yS9sLHXt4G6HbGQ) |
+| 3 | 【附POC及复现环境】Vim 1-click代码执行漏洞复现 (CVE-2026-34714) | Doonsec | [https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw](https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw) |
+| 4 | 【在野利用】Google Chrome Dawn 释放后重用漏洞(CVE-2026-5281)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA](https://mp.weixin.qq.com/s/bfHI4LsGicJiSJKGVq9RrA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 利用邮箱漏洞寻找突破口打穿目标内网 | Doonsec | [https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw](https://mp.weixin.qq.com/s/K2W-Hfk90VakfG5gMwM5Aw) |
-| 2 | 基于 DOM 的 XSS 攻击 | Doonsec | [https://mp.weixin.qq.com/s/2Qi5MXCgZNS7Q82ep9hXJw](https://mp.weixin.qq.com/s/2Qi5MXCgZNS7Q82ep9hXJw) |
-| 3 | 【CVE-2026-4747】疯了！Claude 直接写内核 RCE，成功获得 Root Shell！ | Doonsec | [https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ](https://mp.weixin.qq.com/s/PUNGfi1A6Y3RP1rO3BihAQ) |
+| 1 | 进阶：Chisel 隧道技术与内网穿透防护绕过实战 | Doonsec | [https://mp.weixin.qq.com/s/XuiAIYrDbIpvCM4bE7W-Gg](https://mp.weixin.qq.com/s/XuiAIYrDbIpvCM4bE7W-Gg) |
+| 2 | 【附POC及复现环境】Vim 1-click代码执行漏洞复现 (CVE-2026-34714) | Doonsec | [https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw](https://mp.weixin.qq.com/s/44s-ls6WCYqzm36akr3wYw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 应急响应详解，非常详细！（附PDF） | Doonsec | [https://mp.weixin.qq.com/s/wQnu6nDYZBbixtBFOEQJkQ](https://mp.weixin.qq.com/s/wQnu6nDYZBbixtBFOEQJkQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 守内安 &amp; ASRC 2026xa0第一季电子邮件安全观察报告 | Doonsec | [https://mp.weixin.qq.com/s/2u-jaIwUk3RmithjQujNuA](https://mp.weixin.qq.com/s/2u-jaIwUk3RmithjQujNuA) |
+| 2 | 从单次 LLM Call 到 Learning Loop - HUB 在安全运营的实践 | Doonsec | [https://mp.weixin.qq.com/s/Mn8iGkA6LGtLE4Rytl3Qjw](https://mp.weixin.qq.com/s/Mn8iGkA6LGtLE4Rytl3Qjw) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | TeamPCP 组织再度攻击：Telnyx 供应链攻击事件总结 | Doonsec | [https://mp.weixin.qq.com/s/_gtGwH7i03Hd1x7JSavoUg](https://mp.weixin.qq.com/s/_gtGwH7i03Hd1x7JSavoUg) |
-| 2 | 警惕 axios 供应链投毒风险！永信至诚「数字风洞」守护软件供应链安全 | Doonsec | [https://mp.weixin.qq.com/s/pFpmj1QkT0AMX41jBgDsew](https://mp.weixin.qq.com/s/pFpmj1QkT0AMX41jBgDsew) |
-| 3 | 安全实战：Apifox 供应链投毒事件与企业安全闭环实践 | Doonsec | [https://mp.weixin.qq.com/s/4Yx2Mk2kCk6am3S4vmFHKw](https://mp.weixin.qq.com/s/4Yx2Mk2kCk6am3S4vmFHKw) |
-| 4 | 紧急！npm严重供应链攻击，Axios恶意版本速自查 | Doonsec | [https://mp.weixin.qq.com/s/OXtESeDxqEHA-GLIcwnNWQ](https://mp.weixin.qq.com/s/OXtESeDxqEHA-GLIcwnNWQ) |
+| 1 | Axios供应链攻击事件再追踪：线索直指Lazarus组织 | Doonsec | [https://mp.weixin.qq.com/s/RvykbFFq-zCaZOOax_ofCg](https://mp.weixin.qq.com/s/RvykbFFq-zCaZOOax_ofCg) |
 
 
 ## 📁 归档路径
@@ -125,8 +138,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -135,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-01 09:05:06*
+*生成时间: 2026-04-01 13:23:25*
 *报告工具: 微信文章安全归档系统*
