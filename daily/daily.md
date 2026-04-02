@@ -1,15 +1,16 @@
-# 2026-04-01 安全威胁态势报告
+# 2026-04-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
@@ -62,10 +63,16 @@
 
 ### Doonsec
 
-- [LinIR-Linux下的应急响应采集工具](https://mp.weixin.qq.com/s/KhlXC1Oxu37xr_3fjAncWg) (发布日期: 2026-04-01)
-- [某985证书站被扫到后台以及若依弱口令拿下管理员](https://mp.weixin.qq.com/s/Lng2Ss4ZthbcL36ABc_vrQ) (发布日期: 2026-04-01)
-- [AI 赋能安全测试：MinIO存储桶环境搭建与自动化测试实践](https://mp.weixin.qq.com/s/RSHlnPwsT7dc-YqxMUEW4w) (发布日期: 2026-04-01)
-- [Smart Slider 3 WordPress 插件任意文件读取漏洞 | CVE-2026-3098复现&amp;研究](https://mp.weixin.qq.com/s/Y8lidlMnLlL1uwsEUGaxzw) (发布日期: 2026-04-01)
+- [权限收了，功能还在漏洞](https://mp.weixin.qq.com/s/DrUecwWUSW-A0WTg7vWggw) (发布日期: 2026-04-02)
+- [干货 | HOST碰撞漏洞挖掘技巧](https://mp.weixin.qq.com/s/LZ_9OruWH0AVSQjLVX6wZQ) (发布日期: 2026-04-02)
+- [等保标准再扩新篇，数据安全系列公安行标解析（一）](https://mp.weixin.qq.com/s/k_1Gj9oNg2yWHIheHqAv6g) (发布日期: 2026-04-02)
+- [威胁情报日报 2026-04-02](https://mp.weixin.qq.com/s/AcKMX4Hv_nHZxGtFNLTv0Q) (发布日期: 2026-04-02)
+- [蓝队警惕！硬核拆解DeepLoad木马的免杀、APC注入与横向移动黑科技](https://mp.weixin.qq.com/s/hIO81YhErs1dPuBGpWySOA) (发布日期: 2026-04-02)
+- [第三届“数信杯”数据安全大赛wp之数据恢复](https://mp.weixin.qq.com/s/2b2c7R2_RdD1maZBKDNmKA) (发布日期: 2026-04-02)
+- [警惕弱口令，否则你的账号会“门户大开”！](https://mp.weixin.qq.com/s/wYDcsDykfI3eVHITXdhc2A) (发布日期: 2026-04-02)
+- [【登录背后的秘密-第五章】2FA 绕过漏洞详解：半登录状态的致命缺陷](https://mp.weixin.qq.com/s/336CcmNzC50-mYvAxppZGA) (发布日期: 2026-04-02)
+- [别再乱选VPN了！实测数据告诉你：为什么L2TP是个“坑”](https://mp.weixin.qq.com/s/dmWS_sYhgUc3Cq4DvHSmqw) (发布日期: 2026-04-02)
+- [工具推荐 | AegisScan “自动化”的“渗透测试”扫描工具](https://mp.weixin.qq.com/s/g-aXDjBt72J3aDblBJ3wmw) (发布日期: 2026-04-02)
 
 
 ## 🎯 威胁详情分析
@@ -74,18 +81,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Smart Slider 3 WordPress 插件任意文件读取漏洞 | CVE-2026-3098复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/Y8lidlMnLlL1uwsEUGaxzw](https://mp.weixin.qq.com/s/Y8lidlMnLlL1uwsEUGaxzw) |
+| 1 | 权限收了，功能还在漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DrUecwWUSW-A0WTg7vWggw](https://mp.weixin.qq.com/s/DrUecwWUSW-A0WTg7vWggw) |
+| 2 | 干货 | HOST碰撞漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s/LZ_9OruWH0AVSQjLVX6wZQ](https://mp.weixin.qq.com/s/LZ_9OruWH0AVSQjLVX6wZQ) |
+| 3 | 【登录背后的秘密-第五章】2FA 绕过漏洞详解：半登录状态的致命缺陷 | Doonsec | [https://mp.weixin.qq.com/s/336CcmNzC50-mYvAxppZGA](https://mp.weixin.qq.com/s/336CcmNzC50-mYvAxppZGA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 蓝队警惕！硬核拆解DeepLoad木马的免杀、APC注入与横向移动黑科技 | Doonsec | [https://mp.weixin.qq.com/s/hIO81YhErs1dPuBGpWySOA](https://mp.weixin.qq.com/s/hIO81YhErs1dPuBGpWySOA) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LinIR-Linux下的应急响应采集工具 | Doonsec | [https://mp.weixin.qq.com/s/KhlXC1Oxu37xr_3fjAncWg](https://mp.weixin.qq.com/s/KhlXC1Oxu37xr_3fjAncWg) |
+| 1 | 威胁情报日报 2026-04-02 | Doonsec | [https://mp.weixin.qq.com/s/AcKMX4Hv_nHZxGtFNLTv0Q](https://mp.weixin.qq.com/s/AcKMX4Hv_nHZxGtFNLTv0Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-01/`
+文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-02/`
 
 ## 🔗 数据源说明
 
@@ -96,7 +111,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -106,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-01 16:55:45*
+*生成时间: 2026-04-02 02:24:39*
 *报告工具: 微信文章安全归档系统*
