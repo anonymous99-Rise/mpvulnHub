@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 26
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 26篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 3篇
-- **供应链**: 2篇
+- **漏洞利用**: 14篇
+- **供应链**: 4篇
+- **安全运营**: 3篇
+- **攻击技术**: 2篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +65,32 @@
 
 ### Doonsec
 
-- [苹果扩展iOS 18.7.7更新到更多设备以阻止暗剑漏洞](https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw) (发布日期: 2026-04-03)
-- [2026-3月Solar应急响应公益月赛排名及官方题解](https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q) (发布日期: 2026-04-03)
-- [信息安全漏洞周报【第068期】](https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug) (发布日期: 2026-04-03)
-- [人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA) (发布日期: 2026-04-03)
-- [借\"码\"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓](https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw) (发布日期: 2026-04-03)
-- [常规测绘都扫不到的“孤岛资产”怎么找？安全运营进阶实战手册](https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w) (发布日期: 2026-04-03)
-- [CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) (发布日期: 2026-04-03)
-- [CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8)](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) (发布日期: 2026-04-03)
-- [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) (发布日期: 2026-04-03)
-- [嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为](https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg) (发布日期: 2026-04-03)
-- [某米C400智能摄像头的逆向分析与漏洞利用](https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q) (发布日期: 2026-04-03)
-- [资产测绘在漏洞挖掘中的应用](https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w) (发布日期: 2026-04-03)
+- [黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器](https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ) (发布日期: 2026-04-03)
+- [国内网络监管升级，“机场”频频被查，灰色产业收紧，从“翻墙整治”到互联网生态重塑，一次讲清背后的逻辑](https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ) (发布日期: 2026-04-03)
+- [TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃](https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw) (发布日期: 2026-04-03)
+- [员工未授权访问客户数据超2年，银行巨头被罚超2.5亿元](https://mp.weixin.qq.com/s/26sKNKyYiNiT9kJKUTGHYQ) (发布日期: 2026-04-03)
+- [苹果发布iOS 18.7.7更新以防御DarkSword漏洞](https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q) (发布日期: 2026-04-03)
+- [星巴克漏洞事件](https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA) (发布日期: 2026-04-03)
+- [记某edusrc相同站点相同打法的二次高危挖掘](https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q) (发布日期: 2026-04-03)
+- [专题·具身智能安全 | 具身智能保险箍：从风险感知到风险熔断](https://mp.weixin.qq.com/s/kbFn3dzEiPstTGMBZL2PBQ) (发布日期: 2026-04-03)
+- [安全争锋・QFSRC 众测挑战](https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw) (发布日期: 2026-04-03)
+- [Web前端组件漏洞总结，安服水洞必备](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) (发布日期: 2026-04-03)
+- [【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812)](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) (发布日期: 2026-04-03)
+- [React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃](https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ) (发布日期: 2026-04-03)
+- [BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29）](https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w) (发布日期: 2026-04-03)
+- [有赞SRC清明活动](https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA) (发布日期: 2026-04-03)
+- [图解安全意识：OpenClaw平台深度安全体系建设](https://mp.weixin.qq.com/s/nI5d08KWScM2kPhKmHDK0A) (发布日期: 2026-04-03)
+- [免费赠送 | 企业办公安全意识培训科普素材（第二十一期）](https://mp.weixin.qq.com/s/acae9Cy-f93H-5bijS6BYQ) (发布日期: 2026-04-03)
+- [【免费领】SQL Server最佳安全配置实操教程（含检测及修复）](https://mp.weixin.qq.com/s/VoFqz0S_fk2FrDiS3V6wMw) (发布日期: 2026-04-03)
+- [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) (发布日期: 2026-04-03)
+- [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) (发布日期: 2026-04-03)
+- [警惕弱口令，否则你的账号会“门户大开”！](https://mp.weixin.qq.com/s/V6ilHr4jyerW52Uba5OyPA) (发布日期: 2026-04-03)
+- [Mercor 卷入 LiteLLM 供应链攻击，Lapsus$ 叫卖 4TB 招聘数据](https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg) (发布日期: 2026-04-03)
+- [安全热点周报：谷歌修复了第四个在 2026 年被利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA) (发布日期: 2026-04-03)
+- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（03/30-04/03）](https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ) (发布日期: 2026-04-03)
+- [告别\"假闭环\"，看大型央企的漏洞管理真实践](https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw) (发布日期: 2026-04-03)
+- [CNNVD | 通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg) (发布日期: 2026-04-03)
+- [安全预警丨OpenClaw 多项高危安全漏洞预警](https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw) (发布日期: 2026-04-03)
 
 
 ## 🎯 威胁详情分析
@@ -84,41 +99,50 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 苹果扩展iOS 18.7.7更新到更多设备以阻止暗剑漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw](https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw) |
-| 2 | 信息安全漏洞周报【第068期】 | Doonsec | [https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug](https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug) |
-| 3 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA](https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA) |
-| 4 | CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) |
-| 5 | CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8) | Doonsec | [https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) |
-| 6 | PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) |
-| 7 | 某米C400智能摄像头的逆向分析与漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q](https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q) |
-| 8 | 资产测绘在漏洞挖掘中的应用 | Doonsec | [https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w](https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w) |
+| 1 | 黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器 | Doonsec | [https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ](https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ) |
+| 2 | TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃 | Doonsec | [https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw](https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw) |
+| 3 | 苹果发布iOS 18.7.7更新以防御DarkSword漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q](https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q) |
+| 4 | 星巴克漏洞事件 | Doonsec | [https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA](https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA) |
+| 5 | Web前端组件漏洞总结，安服水洞必备 | Doonsec | [https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) |
+| 6 | 【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812) | Doonsec | [https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) |
+| 7 | React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃 | Doonsec | [https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ](https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ) |
+| 8 | BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29） | Doonsec | [https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w](https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w) |
+| 9 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) |
+| 10 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) |
+| 11 | 安全热点周报：谷歌修复了第四个在 2026 年被利用的 Chrome 零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA](https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA) |
+| 12 | 告别\"假闭环\"，看大型央企的漏洞管理真实践 | Doonsec | [https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw](https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw) |
+| 13 | CNNVD | 通报OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg](https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg) |
+| 14 | 安全预警丨OpenClaw 多项高危安全漏洞预警 | Doonsec | [https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw](https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) |
-| 2 | CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8) | Doonsec | [https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) |
-| 3 | PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) |
+| 1 | 国内网络监管升级，“机场”频频被查，灰色产业收紧，从“翻墙整治”到互联网生态重塑，一次讲清背后的逻辑 | Doonsec | [https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ](https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ) |
+| 2 | 【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812) | Doonsec | [https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2026-3月Solar应急响应公益月赛排名及官方题解 | Doonsec | [https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q](https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q) |
+| 1 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（03/30-04/03） | Doonsec | [https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ](https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 常规测绘都扫不到的“孤岛资产”怎么找？安全运营进阶实战手册 | Doonsec | [https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w](https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w) |
+| 1 | 记某edusrc相同站点相同打法的二次高危挖掘 | Doonsec | [https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q](https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q) |
+| 2 | 安全争锋・QFSRC 众测挑战 | Doonsec | [https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw](https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw) |
+| 3 | 有赞SRC清明活动 | Doonsec | [https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA](https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 借\"码\"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓 | Doonsec | [https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw](https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw) |
-| 2 | 嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为 | Doonsec | [https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg](https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg) |
+| 1 | Web前端组件漏洞总结，安服水洞必备 | Doonsec | [https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) |
+| 2 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) |
+| 3 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) |
+| 4 | Mercor 卷入 LiteLLM 供应链攻击，Lapsus$ 叫卖 4TB 招聘数据 | Doonsec | [https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg](https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg) |
 
 
 ## 📁 归档路径
@@ -134,8 +158,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +168,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-03 08:54:53*
+*生成时间: 2026-04-03 13:05:09*
 *报告工具: 微信文章安全归档系统*
