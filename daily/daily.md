@@ -1,4 +1,4 @@
-# 2026-04-02 安全威胁态势报告
+# 2026-04-03 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -9,13 +9,16 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 5篇
-- **安全运营**: 3篇
+- **漏洞利用**: 6篇
+- **威胁情报**: 3篇
+- **信息泄露**: 3篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **网络攻击**: 2篇
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,29 +67,29 @@
 
 ### Doonsec
 
-- [【红队必备】：渗透综合性安全检测工具无影](https://mp.weixin.qq.com/s/9Gjv3yXl3_xybhkZsnZmpA) (发布日期: 2026-04-02)
-- [HackingTool——渗透测试工具箱集成185+ 款安全工具](https://mp.weixin.qq.com/s/RXN1jmNqE2f87HG56MGM_Q) (发布日期: 2026-04-02)
-- [SRC 实战技巧指南](https://mp.weixin.qq.com/s/dMfhyFnwnLbJSbsFxJvGkQ) (发布日期: 2026-04-02)
-- [2026polarisctf-Broken Trust（SQLite注入 任意文件读取）](https://mp.weixin.qq.com/s/APPE6GbW9FPGrI_GskThZQ) (发布日期: 2026-04-02)
-- [Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开](https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ) (发布日期: 2026-04-02)
-- [赛门铁克DLP代理漏洞允许攻击者提升权限](https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ) (发布日期: 2026-04-02)
-- [Cisco IMC 存在严重漏洞，攻击者可绕过身份验证](https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg) (发布日期: 2026-04-02)
-- [首家安全厂商！奇安信龙虾安全伴侣通过中国信通院OpenClaw类智能体安全防护产品能力评测](https://mp.weixin.qq.com/s/eWXRCwU4z46VIbuR_uolVg) (发布日期: 2026-04-02)
-- [[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞](https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q) (发布日期: 2026-04-02)
-- [记某edusrc从小程序xss到web未授权再到任意用户登录简单挖掘](https://mp.weixin.qq.com/s/XxTPtZbnEh8FTvyf-Jq9Zw) (发布日期: 2026-04-02)
-- [Vertex AI 漏洞暴露谷歌云数据和非公开制品](https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg) (发布日期: 2026-04-02)
-- [libpng 官方参考库中的这两个严重漏洞已存在30年之久](https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ) (发布日期: 2026-04-02)
-- [Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞](https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA) (发布日期: 2026-04-02)
-- [Telegram零日漏洞可零点击接管设备，官方否认存在](https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q) (发布日期: 2026-04-02)
-- [AI Agent狂飙突进，数据安全断层成企业生死线](https://mp.weixin.qq.com/s/CkNQIBedz0Ey1Njzs1luaw) (发布日期: 2026-04-02)
-- [Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统](https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg) (发布日期: 2026-04-02)
-- [请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑](https://mp.weixin.qq.com/s/DvqG__lhTNz8YWouGAwNUw) (发布日期: 2026-04-02)
-- [【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982](https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg) (发布日期: 2026-04-02)
-- [Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714）](https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ) (发布日期: 2026-04-02)
-- [FLUX-Web安全扫描工具v5.4 更新~](https://mp.weixin.qq.com/s/zRcjNCgt48JSAYKuTg5fyg) (发布日期: 2026-04-02)
-- [技术拉满，荣誉加冕！顺丰SRC白帽技术沙龙 + 年度颁奖高能回顾](https://mp.weixin.qq.com/s/ZkMi7lcg_E98BIbsMdZabw) (发布日期: 2026-04-02)
-- [今晚开始，查询XVI扩展漏洞情报免费了](https://mp.weixin.qq.com/s/RJRB2yeUHy3A2jfPCKjZZw) (发布日期: 2026-04-02)
-- [猎影渗透测试平台 - 公开测试上线-重点说清楚：这是测试版。](https://mp.weixin.qq.com/s/21QaeKdBnFe8U237e3GBag) (发布日期: 2026-04-02)
+- [记一次某实训系统域控攻击过程wp](https://mp.weixin.qq.com/s/mpjyptrXYYHHRi6in0Ka9A) (发布日期: 2026-04-03)
+- [威胁情报日报 2026-04-03](https://mp.weixin.qq.com/s/K-zxsji8UuGufmglKwOWkw) (发布日期: 2026-04-03)
+- [2026 内网渗透隧道技术全解：从 Chisel 到 ICMP，一篇吃透](https://mp.weixin.qq.com/s/epWlzeKvQYTU55joH2v3KQ) (发布日期: 2026-04-03)
+- [最后通牒：思科再陷数据泄露风暴 FBI NASA 等政府机构信息或已外泄](https://mp.weixin.qq.com/s/t4vNhjsrEIdnGZ08GQidsA) (发布日期: 2026-04-03)
+- [Chrome 再曝高危0day漏洞：CVE-2026-5281 ！](https://mp.weixin.qq.com/s/PqTzkGsuXoWExXVEbJf6IA) (发布日期: 2026-04-03)
+- [LinIR-Linux下的应急响应采集工具](https://mp.weixin.qq.com/s/QmK9uqidty-0rEQydeQE5A) (发布日期: 2026-04-03)
+- [渗透测试迎来巨变！AWS Security Agent正式发布](https://mp.weixin.qq.com/s/nam_dzv1maIldkVddnwFeQ) (发布日期: 2026-04-03)
+- [Chrome 再曝高危0day漏洞：CVE-2026-5281 ！](https://mp.weixin.qq.com/s/4z41CoSHRR0StQ2BG8HCvQ) (发布日期: 2026-04-03)
+- [Joomla! 发布安全补丁：关键文件删除和 Web 服务漏洞暴露](https://mp.weixin.qq.com/s/TO88zsQvbOvSeAyaJ5TCRg) (发布日期: 2026-04-03)
+- [思科修复了高危及严重级别的漏洞](https://mp.weixin.qq.com/s/NHwvmyrUxU5lR4DXzd8TyA) (发布日期: 2026-04-03)
+- [恶意组织 UAC‑0255 冒充乌克兰国家计算机应急响应小组 CERT‑UA，通过网络钓鱼传播 AGEWHEEZE 恶意软件](https://mp.weixin.qq.com/s/euSe-r028KJR0kjhzB1E6Q) (发布日期: 2026-04-03)
+- [孩之宝遭网络攻击，公司正调查是否发生数据泄露](https://mp.weixin.qq.com/s/aLE1cwFVpLiPwVy77jR4ag) (发布日期: 2026-04-03)
+- [【工具分享】弱口令爆破及字典生成工具整理，可免费下载！](https://mp.weixin.qq.com/s/B5dvDy7ol5xr6S6QcIE_Og) (发布日期: 2026-04-03)
+- [UAC绕过技术——权限提升的艺术](https://mp.weixin.qq.com/s/Furkh9Wd1EKnj3ZedLE_JQ) (发布日期: 2026-04-03)
+- [智能网联汽车车载CAN网络入侵检测方法综述](https://mp.weixin.qq.com/s/2MxI5DdygT6iVtXNuVx0yQ) (发布日期: 2026-04-03)
+- [基于证据深度学习的CAN网络入侵检测框架](https://mp.weixin.qq.com/s/nyHuCdTcIQooss8xeMp7Nw) (发布日期: 2026-04-03)
+- [2026年4月2日 数据泄露日报](https://mp.weixin.qq.com/s/o4n9S1c59H0XMwh-1cDItg) (发布日期: 2026-04-03)
+- [【登录背后的秘密-第五章第一节】SRC高价值漏洞思路：从2FA绕过到账户接管，仅需一次URL替换](https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg) (发布日期: 2026-04-03)
+- [麒麟勒索软件几乎摧毁所有EDR解决方案](https://mp.weixin.qq.com/s/HQvLtRtrbS6wfdz9Y9O1wA) (发布日期: 2026-04-03)
+- [数据安全等级测评，一种全新玩法](https://mp.weixin.qq.com/s/Mavc54TxzNiKZFFRCNhm2A) (发布日期: 2026-04-03)
+- [黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究](https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw) (发布日期: 2026-04-03)
+- [新型webshell免杀 | 哥斯拉 Websocket型 webshell](https://mp.weixin.qq.com/s/_6dqlZej1TzScISyKSnabQ) (发布日期: 2026-04-03)
+- [黑客在电信网络中植入隐蔽的 BPFdoor 后门，以实现长期访问](https://mp.weixin.qq.com/s/t9UVILS8kEJoCsY0tvez5w) (发布日期: 2026-04-03)
 
 
 ## 🎯 威胁详情分析
@@ -95,42 +98,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开 | Doonsec | [https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ](https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ) |
-| 2 | 赛门铁克DLP代理漏洞允许攻击者提升权限 | Doonsec | [https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ](https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ) |
-| 3 | Cisco IMC 存在严重漏洞，攻击者可绕过身份验证 | Doonsec | [https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg](https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg) |
-| 4 | [漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q](https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q) |
-| 5 | Vertex AI 漏洞暴露谷歌云数据和非公开制品 | Doonsec | [https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg](https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg) |
-| 6 | libpng 官方参考库中的这两个严重漏洞已存在30年之久 | Doonsec | [https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ](https://mp.weixin.qq.com/s/4fycSuE1mqanf8MFqWlrEQ) |
-| 7 | Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA](https://mp.weixin.qq.com/s/srC7Md79V2wmLMBg4Dj4CA) |
-| 8 | Telegram零日漏洞可零点击接管设备，官方否认存在 | Doonsec | [https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q](https://mp.weixin.qq.com/s/_7UCIkcTUwXKUMKfXUSq5Q) |
-| 9 | Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统 | Doonsec | [https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg](https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg) |
-| 10 | 请升级：技嘉控制中心曝 9.2 分高危漏洞，黑客可远程接管电脑 | Doonsec | [https://mp.weixin.qq.com/s/DvqG__lhTNz8YWouGAwNUw](https://mp.weixin.qq.com/s/DvqG__lhTNz8YWouGAwNUw) |
-| 11 | 【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982 | Doonsec | [https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg](https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg) |
-| 12 | Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714） | Doonsec | [https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ](https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ) |
-| 13 | 今晚开始，查询XVI扩展漏洞情报免费了 | Doonsec | [https://mp.weixin.qq.com/s/RJRB2yeUHy3A2jfPCKjZZw](https://mp.weixin.qq.com/s/RJRB2yeUHy3A2jfPCKjZZw) |
+| 1 | Chrome 再曝高危0day漏洞：CVE-2026-5281 ！ | Doonsec | [https://mp.weixin.qq.com/s/PqTzkGsuXoWExXVEbJf6IA](https://mp.weixin.qq.com/s/PqTzkGsuXoWExXVEbJf6IA) |
+| 2 | Chrome 再曝高危0day漏洞：CVE-2026-5281 ！ | Doonsec | [https://mp.weixin.qq.com/s/4z41CoSHRR0StQ2BG8HCvQ](https://mp.weixin.qq.com/s/4z41CoSHRR0StQ2BG8HCvQ) |
+| 3 | Joomla! 发布安全补丁：关键文件删除和 Web 服务漏洞暴露 | Doonsec | [https://mp.weixin.qq.com/s/TO88zsQvbOvSeAyaJ5TCRg](https://mp.weixin.qq.com/s/TO88zsQvbOvSeAyaJ5TCRg) |
+| 4 | 思科修复了高危及严重级别的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NHwvmyrUxU5lR4DXzd8TyA](https://mp.weixin.qq.com/s/NHwvmyrUxU5lR4DXzd8TyA) |
+| 5 | 【登录背后的秘密-第五章第一节】SRC高价值漏洞思路：从2FA绕过到账户接管，仅需一次URL替换 | Doonsec | [https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg](https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg) |
+| 6 | 黑客的蜜罐：针对近期 CVE-2026-21962 及其他关键 WebLogic 漏洞在高度交互式 Oracle 蜜罐上的攻击研究 | Doonsec | [https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw](https://mp.weixin.qq.com/s/8F1C__iMIqun-IwfSiYBSw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2026polarisctf-Broken Trust（SQLite注入 任意文件读取） | Doonsec | [https://mp.weixin.qq.com/s/APPE6GbW9FPGrI_GskThZQ](https://mp.weixin.qq.com/s/APPE6GbW9FPGrI_GskThZQ) |
-| 2 | 记某edusrc从小程序xss到web未授权再到任意用户登录简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s/XxTPtZbnEh8FTvyf-Jq9Zw](https://mp.weixin.qq.com/s/XxTPtZbnEh8FTvyf-Jq9Zw) |
-| 3 | Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统 | Doonsec | [https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg](https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg) |
-| 4 | 【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982 | Doonsec | [https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg](https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg) |
-| 5 | Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714） | Doonsec | [https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ](https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ) |
+| 1 | 记一次某实训系统域控攻击过程wp | Doonsec | [https://mp.weixin.qq.com/s/mpjyptrXYYHHRi6in0Ka9A](https://mp.weixin.qq.com/s/mpjyptrXYYHHRi6in0Ka9A) |
+| 2 | 2026 内网渗透隧道技术全解：从 Chisel 到 ICMP，一篇吃透 | Doonsec | [https://mp.weixin.qq.com/s/epWlzeKvQYTU55joH2v3KQ](https://mp.weixin.qq.com/s/epWlzeKvQYTU55joH2v3KQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 威胁情报日报 2026-04-03 | Doonsec | [https://mp.weixin.qq.com/s/K-zxsji8UuGufmglKwOWkw](https://mp.weixin.qq.com/s/K-zxsji8UuGufmglKwOWkw) |
+| 2 | LinIR-Linux下的应急响应采集工具 | Doonsec | [https://mp.weixin.qq.com/s/QmK9uqidty-0rEQydeQE5A](https://mp.weixin.qq.com/s/QmK9uqidty-0rEQydeQE5A) |
+| 3 | 恶意组织 UAC‑0255 冒充乌克兰国家计算机应急响应小组 CERT‑UA，通过网络钓鱼传播 AGEWHEEZE 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/euSe-r028KJR0kjhzB1E6Q](https://mp.weixin.qq.com/s/euSe-r028KJR0kjhzB1E6Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC 实战技巧指南 | Doonsec | [https://mp.weixin.qq.com/s/dMfhyFnwnLbJSbsFxJvGkQ](https://mp.weixin.qq.com/s/dMfhyFnwnLbJSbsFxJvGkQ) |
-| 2 | 记某edusrc从小程序xss到web未授权再到任意用户登录简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s/XxTPtZbnEh8FTvyf-Jq9Zw](https://mp.weixin.qq.com/s/XxTPtZbnEh8FTvyf-Jq9Zw) |
-| 3 | 技术拉满，荣誉加冕！顺丰SRC白帽技术沙龙 + 年度颁奖高能回顾 | Doonsec | [https://mp.weixin.qq.com/s/ZkMi7lcg_E98BIbsMdZabw](https://mp.weixin.qq.com/s/ZkMi7lcg_E98BIbsMdZabw) |
+| 1 | 【登录背后的秘密-第五章第一节】SRC高价值漏洞思路：从2FA绕过到账户接管，仅需一次URL替换 | Doonsec | [https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg](https://mp.weixin.qq.com/s/VBslJx7PZWnhL7q1qr8nYg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 最后通牒：思科再陷数据泄露风暴 FBI NASA 等政府机构信息或已外泄 | Doonsec | [https://mp.weixin.qq.com/s/t4vNhjsrEIdnGZ08GQidsA](https://mp.weixin.qq.com/s/t4vNhjsrEIdnGZ08GQidsA) |
+| 2 | 孩之宝遭网络攻击，公司正调查是否发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/aLE1cwFVpLiPwVy77jR4ag](https://mp.weixin.qq.com/s/aLE1cwFVpLiPwVy77jR4ag) |
+| 3 | 2026年4月2日 数据泄露日报 | Doonsec | [https://mp.weixin.qq.com/s/o4n9S1c59H0XMwh-1cDItg](https://mp.weixin.qq.com/s/o4n9S1c59H0XMwh-1cDItg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-02/`
+文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-03/`
 
 ## 🔗 数据源说明
 
@@ -141,8 +148,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -151,5 +158,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-02 16:56:35*
+*生成时间: 2026-04-03 02:26:11*
 *报告工具: 微信文章安全归档系统*
