@@ -2,22 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 9篇
-  - BruceFeIix: 15篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **威胁情报**: 3篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 3篇
 - **供应链**: 2篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,33 +64,18 @@
 
 ### Doonsec
 
-- [第九届云安全联盟大中华区大会成功举办：AI安全进入“原生”时代，构建韧性的数字未来](https://mp.weixin.qq.com/s/eXXKrc9W-w38WSsjXXsVvA) (发布日期: 2026-04-03)
-- [OpenSSH 10.3 修复了 Shell 注入和多个 SSH 安全问题](https://mp.weixin.qq.com/s/we8H9oPVl8GLiCuxFXL5DQ) (发布日期: 2026-04-03)
-- [白帽挖漏洞，看这1篇就够了，12年老司机的经验](https://mp.weixin.qq.com/s/f0xTHde1OM6IysrOZDyW9Q) (发布日期: 2026-04-03)
-- [首发自动化渗透、代码审计、CTF、流量分析等安全相关的skills收集仓库](https://mp.weixin.qq.com/s/u98qj6MNNslUJ-SU5Kaq4w) (发布日期: 2026-04-03)
-- [使用burpsuite插件如何无脑挖的第一个公益漏洞（小白挖洞）](https://mp.weixin.qq.com/s/lAAppfkpz9Kzm9ivM7oVDg) (发布日期: 2026-04-03)
-- [【2026最新版】全网最全网络攻防教程（0基础到进阶、漏洞挖掘、CTF比赛、护网行动、就业等等）](https://mp.weixin.qq.com/s/wNRCf72FjXkpzxX-TfYEHQ) (发布日期: 2026-04-03)
-- [人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/PQvOEWHzxckHnsLmowzcXg) (发布日期: 2026-04-03)
-- [场景端口漏洞组件 | 信息安全实战干货分享](https://mp.weixin.qq.com/s/2lOHY_4DJmRGGMZcif9K6Q) (发布日期: 2026-04-03)
-- [LinIR-Linux下的应急响应采集工具](https://mp.weixin.qq.com/s/tAzLdD5u58X0jcpWYRFwzA) (发布日期: 2026-04-03)
-
-### BruceFeIix
-
-- [ ] [Vertex AI 漏洞暴露谷歌云数据和非公开制品](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=1&sn=c92b1cfa77120afb058a49b0490a079b) (发布日期: 2026-04-03)
-- [ ] [libpng 官方参考库中的这两个严重漏洞已存在30年之久](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=2&sn=5b4bcf1e200cad3b1abc1fb6e2e578d6) (发布日期: 2026-04-03)
-- [ ] [深度剖析大模型驱动的开源软件供应链安全审计系统](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908885&idx=1&sn=b1b9205861365df29ba7153992a748fb) (发布日期: 2026-04-03)
-- [ ] [康考迪亚大学 | OCR-APT：基于子图异常检测与大语言模型的审计日志APT攻击事件重构](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495175&idx=1&sn=bb079ef94385e793ef1adfcde60c5539) (发布日期: 2026-04-03)
-- [ ] [等保标准 | 数据安全系列公安行标解析（三）](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503374&idx=1&sn=4e73d371bd935ab69b6303a5a6a96138) (发布日期: 2026-04-03)
-- [ ] [专题·具身智能安全 | 以“共享智造”构建具身智能产业生态安全体系，推动可靠规模化落地](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260968&idx=1&sn=66747a3d0d38f2b7b87b5d6854155c28) (发布日期: 2026-04-03)
-- [ ] [高萌预警！“银狐”的疯狂星期四是咋过的？](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185814&idx=1&sn=073eb981d5223178331a107c6e5d3016) (发布日期: 2026-04-03)
-- [ ] [欢迎「追觅科技」入驻补天专属SRC！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510625&idx=1&sn=6ed5d15e5f22aa66fd8cc776f692af01) (发布日期: 2026-04-03)
-- [ ] [代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587521&idx=1&sn=14494dcb432adab394c111df7172d184) (发布日期: 2026-04-03)
-- [ ] [嘶吼安全动态｜国家市场监管总局推动网络食品安全“协同共治”，AI算法参与合规审核 加密平台Drift发生重大安全事故](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587521&idx=2&sn=87fd8e2092baf0946c6bc8e0a5666a49) (发布日期: 2026-04-03)
-- [ ] [今晚开始，查询XVI扩展漏洞情报免费了](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495359&idx=1&sn=3b8689b390d9732455daa904ba659532) (发布日期: 2026-04-03)
-- [ ] [慢雾：如何评估加密反洗钱工具的有效性](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504616&idx=1&sn=95677483334baedb3127bdc0911fa2f8) (发布日期: 2026-04-03)
-- [ ] [日本自卫队员冲闯我驻日大使馆事件深度情报分析报告](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567414&idx=2&sn=8af453e8815595b3387563e533c59024) (发布日期: 2026-04-03)
-- [ ] [【漏洞通告】Google Chrome Dawn 释放后重用漏洞（CVE-2026-5281）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525235&idx=1&sn=563a4d108e95fcc2e7dc4594454957e2) (发布日期: 2026-04-03)
-- [ ] [html注入导致的高危](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499255&idx=1&sn=c9e57b5d0211701f479e338a3a7b162f) (发布日期: 2026-04-03)
+- [苹果扩展iOS 18.7.7更新到更多设备以阻止暗剑漏洞](https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw) (发布日期: 2026-04-03)
+- [2026-3月Solar应急响应公益月赛排名及官方题解](https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q) (发布日期: 2026-04-03)
+- [信息安全漏洞周报【第068期】](https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug) (发布日期: 2026-04-03)
+- [人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA) (发布日期: 2026-04-03)
+- [借\"码\"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓](https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw) (发布日期: 2026-04-03)
+- [常规测绘都扫不到的“孤岛资产”怎么找？安全运营进阶实战手册](https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w) (发布日期: 2026-04-03)
+- [CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) (发布日期: 2026-04-03)
+- [CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8)](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) (发布日期: 2026-04-03)
+- [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) (发布日期: 2026-04-03)
+- [嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为](https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg) (发布日期: 2026-04-03)
+- [某米C400智能摄像头的逆向分析与漏洞利用](https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q) (发布日期: 2026-04-03)
+- [资产测绘在漏洞挖掘中的应用](https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w) (发布日期: 2026-04-03)
 
 
 ## 🎯 威胁详情分析
@@ -101,44 +84,41 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 白帽挖漏洞，看这1篇就够了，12年老司机的经验 | Doonsec | [https://mp.weixin.qq.com/s/f0xTHde1OM6IysrOZDyW9Q](https://mp.weixin.qq.com/s/f0xTHde1OM6IysrOZDyW9Q) |
-| 2 | 使用burpsuite插件如何无脑挖的第一个公益漏洞（小白挖洞） | Doonsec | [https://mp.weixin.qq.com/s/lAAppfkpz9Kzm9ivM7oVDg](https://mp.weixin.qq.com/s/lAAppfkpz9Kzm9ivM7oVDg) |
-| 3 | 【2026最新版】全网最全网络攻防教程（0基础到进阶、漏洞挖掘、CTF比赛、护网行动、就业等等） | Doonsec | [https://mp.weixin.qq.com/s/wNRCf72FjXkpzxX-TfYEHQ](https://mp.weixin.qq.com/s/wNRCf72FjXkpzxX-TfYEHQ) |
-| 4 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PQvOEWHzxckHnsLmowzcXg](https://mp.weixin.qq.com/s/PQvOEWHzxckHnsLmowzcXg) |
-| 5 | 场景端口漏洞组件 | 信息安全实战干货分享 | Doonsec | [https://mp.weixin.qq.com/s/2lOHY_4DJmRGGMZcif9K6Q](https://mp.weixin.qq.com/s/2lOHY_4DJmRGGMZcif9K6Q) |
-| 6 |  ] [Vertex AI 漏洞暴露谷歌云数据和非公开制品 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=1&sn=c92b1cfa77120afb058a49b0490a079b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=1&sn=c92b1cfa77120afb058a49b0490a079b) |
-| 7 |  ] [libpng 官方参考库中的这两个严重漏洞已存在30年之久 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=2&sn=5b4bcf1e200cad3b1abc1fb6e2e578d6](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525630&idx=2&sn=5b4bcf1e200cad3b1abc1fb6e2e578d6) |
-| 8 |  ] [代码钟馗启动AI漏洞雷达，OpenClaw隐秘漏洞浮出水面 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587521&idx=1&sn=14494dcb432adab394c111df7172d184](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587521&idx=1&sn=14494dcb432adab394c111df7172d184) |
-| 9 |  ] [今晚开始，查询XVI扩展漏洞情报免费了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495359&idx=1&sn=3b8689b390d9732455daa904ba659532](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495359&idx=1&sn=3b8689b390d9732455daa904ba659532) |
-| 10 |  ] [【漏洞通告】Google Chrome Dawn 释放后重用漏洞（CVE-2026-5281） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525235&idx=1&sn=563a4d108e95fcc2e7dc4594454957e2](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525235&idx=1&sn=563a4d108e95fcc2e7dc4594454957e2) |
+| 1 | 苹果扩展iOS 18.7.7更新到更多设备以阻止暗剑漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw](https://mp.weixin.qq.com/s/BWaW2zk5MtJSFOl5KOfOzw) |
+| 2 | 信息安全漏洞周报【第068期】 | Doonsec | [https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug](https://mp.weixin.qq.com/s/e3Alv9ruS5kHS_A0YOjjug) |
+| 3 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA](https://mp.weixin.qq.com/s/7Sm4XdD-by4z0ijr4cxcPA) |
+| 4 | CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) |
+| 5 | CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8) | Doonsec | [https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) |
+| 6 | PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) |
+| 7 | 某米C400智能摄像头的逆向分析与漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q](https://mp.weixin.qq.com/s/5TAxg8bdfSCmsyKxHSkC0Q) |
+| 8 | 资产测绘在漏洞挖掘中的应用 | Doonsec | [https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w](https://mp.weixin.qq.com/s/jClK3tYOWByjt8997ksO2w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OpenSSH 10.3 修复了 Shell 注入和多个 SSH 安全问题 | Doonsec | [https://mp.weixin.qq.com/s/we8H9oPVl8GLiCuxFXL5DQ](https://mp.weixin.qq.com/s/we8H9oPVl8GLiCuxFXL5DQ) |
-| 2 |  ] [html注入导致的高危 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499255&idx=1&sn=c9e57b5d0211701f479e338a3a7b162f](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499255&idx=1&sn=c9e57b5d0211701f479e338a3a7b162f) |
+| 1 | CVE-2026-22738 — Spring AI SimpleVectorStore 中的 SpEL 注入远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA](https://mp.weixin.qq.com/s/HKAIN387haD0C39luHujtA) |
+| 2 | CVE-2026-5027 - Langflow 路径遍历导致远程代码执行漏洞 (CVSS 8.8) | Doonsec | [https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw](https://mp.weixin.qq.com/s/AFRg4pMmVPr4NPkx1LkYjw) |
+| 3 | PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ](https://mp.weixin.qq.com/s/5VSMKCry4KkYYTusIES7CQ) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LinIR-Linux下的应急响应采集工具 | Doonsec | [https://mp.weixin.qq.com/s/tAzLdD5u58X0jcpWYRFwzA](https://mp.weixin.qq.com/s/tAzLdD5u58X0jcpWYRFwzA) |
-| 2 |  ] [康考迪亚大学 | OCR-APT：基于子图异常检测与大语言模型的审计日志APT攻击事件重构 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495175&idx=1&sn=bb079ef94385e793ef1adfcde60c5539](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495175&idx=1&sn=bb079ef94385e793ef1adfcde60c5539) |
-| 3 |  ] [高萌预警！“银狐”的疯狂星期四是咋过的？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185814&idx=1&sn=073eb981d5223178331a107c6e5d3016](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185814&idx=1&sn=073eb981d5223178331a107c6e5d3016) |
+| 1 | 2026-3月Solar应急响应公益月赛排名及官方题解 | Doonsec | [https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q](https://mp.weixin.qq.com/s/2mnpzKlVuQi-AhszjZ642Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [欢迎「追觅科技」入驻补天专属SRC！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510625&idx=1&sn=6ed5d15e5f22aa66fd8cc776f692af01](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510625&idx=1&sn=6ed5d15e5f22aa66fd8cc776f692af01) |
+| 1 | 常规测绘都扫不到的“孤岛资产”怎么找？安全运营进阶实战手册 | Doonsec | [https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w](https://mp.weixin.qq.com/s/oZvqBIV12CpaDrjUFxHB4w) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 场景端口漏洞组件 | 信息安全实战干货分享 | Doonsec | [https://mp.weixin.qq.com/s/2lOHY_4DJmRGGMZcif9K6Q](https://mp.weixin.qq.com/s/2lOHY_4DJmRGGMZcif9K6Q) |
-| 2 |  ] [深度剖析大模型驱动的开源软件供应链安全审计系统 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908885&idx=1&sn=b1b9205861365df29ba7153992a748fb](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908885&idx=1&sn=b1b9205861365df29ba7153992a748fb) |
+| 1 | 借\"码\"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓 | Doonsec | [https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw](https://mp.weixin.qq.com/s/A453NsiQ8mz7cyb-0O0Pzw) |
+| 2 | 嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为 | Doonsec | [https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg](https://mp.weixin.qq.com/s/T68dCRYqc-HhRqZJkOJUQg) |
 
 
 ## 📁 归档路径
@@ -154,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -164,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-03 05:42:03*
+*生成时间: 2026-04-03 08:54:53*
 *报告工具: 微信文章安全归档系统*
