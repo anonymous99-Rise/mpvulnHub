@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,37 +60,12 @@
 
 ### Doonsec
 
-- [【0day】最新RuoYi-Vue-v3.9.2存储型xss](https://mp.weixin.qq.com/s/htP3VzHu8jfx-7YQiZx6Pw) (发布日期: 2026-04-04)
-- [Red-Run：一个指挥 AI 团队进行安全评估的作战平台](https://mp.weixin.qq.com/s/_ZQ2JdUpZDayY4Wyx06zag) (发布日期: 2026-04-04)
-- [SecOC加密报文分析](https://mp.weixin.qq.com/s/pRJ6tYzh8DgB5FVwot56_w) (发布日期: 2026-04-04)
-- [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s/xd9ghHCiI6oDBTCnYGVDVg) (发布日期: 2026-04-04)
-- [【提权基础入门第十一节】UAC绕过：Windows那道总被找到后门的“安全锁”](https://mp.weixin.qq.com/s/jCQlAujEwurDdXAF1JGelA) (发布日期: 2026-04-04)
-- [从小白到“挖洞达人”：SRC漏洞挖掘全流程实战指南（附学习路线和工具）](https://mp.weixin.qq.com/s/WvQCPuwBpNSWi__B6ZzosA) (发布日期: 2026-04-04)
-- [全链路Java代码审计工作流实践指北](https://mp.weixin.qq.com/s/0xkDQOZhaB5QDJsxIRvmpA) (发布日期: 2026-04-04)
-- [苹果用户注意！及时更新iOS特定版本 防范漏洞攻击利用风险](https://mp.weixin.qq.com/s/TsMgrmbzHibv5xDnf4OgWg) (发布日期: 2026-04-04)
+- [以色列军事情报机构地理空间情报部门9900部队50名高级官员信息泄露](https://mp.weixin.qq.com/s/lDyfFkvlzHZVQAY7SjRLtA) (发布日期: 2026-04-04)
+- [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s/a-8Vt0nSEdHEi6M7kZw37g) (发布日期: 2026-04-04)
+- [当大模型拿起键盘：AI渗透测试实战技巧](https://mp.weixin.qq.com/s/Pngaf_wiwMfaSIbvel1MPw) (发布日期: 2026-04-04)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【0day】最新RuoYi-Vue-v3.9.2存储型xss | Doonsec | [https://mp.weixin.qq.com/s/htP3VzHu8jfx-7YQiZx6Pw](https://mp.weixin.qq.com/s/htP3VzHu8jfx-7YQiZx6Pw) |
-| 2 | 从小白到“挖洞达人”：SRC漏洞挖掘全流程实战指南（附学习路线和工具） | Doonsec | [https://mp.weixin.qq.com/s/WvQCPuwBpNSWi__B6ZzosA](https://mp.weixin.qq.com/s/WvQCPuwBpNSWi__B6ZzosA) |
-| 3 | 苹果用户注意！及时更新iOS特定版本 防范漏洞攻击利用风险 | Doonsec | [https://mp.weixin.qq.com/s/TsMgrmbzHibv5xDnf4OgWg](https://mp.weixin.qq.com/s/TsMgrmbzHibv5xDnf4OgWg) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【0day】最新RuoYi-Vue-v3.9.2存储型xss | Doonsec | [https://mp.weixin.qq.com/s/htP3VzHu8jfx-7YQiZx6Pw](https://mp.weixin.qq.com/s/htP3VzHu8jfx-7YQiZx6Pw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 从小白到“挖洞达人”：SRC漏洞挖掘全流程实战指南（附学习路线和工具） | Doonsec | [https://mp.weixin.qq.com/s/WvQCPuwBpNSWi__B6ZzosA](https://mp.weixin.qq.com/s/WvQCPuwBpNSWi__B6ZzosA) |
 
 
 ## 📁 归档路径
@@ -109,8 +81,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +91,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-04 12:56:45*
+*生成时间: 2026-04-04 16:36:17*
 *报告工具: 微信文章安全归档系统*
