@@ -2,19 +2,25 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 31
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 12篇
+  - BruceFeIix: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **供应链**: 1篇
+- **漏洞利用**: 11篇
+- **供应链**: 6篇
+- **攻击技术**: 5篇
+- **威胁情报**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
 - **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +69,40 @@
 
 ### Doonsec
 
-- [漏洞复现 | 天地伟业Easy7 uploadCheckImg 文件上传漏洞](https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ) (发布日期: 2026-04-04)
-- [Claude Code 源代码泄露数天后发现高危漏洞](https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw) (发布日期: 2026-04-04)
-- [2025邮箱安全报告解读｜境外攻击激增、弱口令成命门，2026企业如何破局？](https://mp.weixin.qq.com/s/218lqWDf-gsDM-aOy6T73Q) (发布日期: 2026-04-04)
-- [iOS 18也未能幸免！暗剑(DarkSword)与Coruna漏洞利用工具链深度剖析](https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw) (发布日期: 2026-04-04)
-- [湖南银行xa0湖南蓝天支付因“违反数据安全管理规定“等被罚](https://mp.weixin.qq.com/s/4yLEDaD_M7KE39GfrSn8OA) (发布日期: 2026-04-04)
-- [慢雾：如何评估加密反洗钱工具的有效性](https://mp.weixin.qq.com/s/Q4L5Cbyv3JUhmor5BagrJg) (发布日期: 2026-04-04)
-- [《软件供应链安全报告2026》](https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw) (发布日期: 2026-04-04)
+- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/_wUppxHrGe0iLI0N-kdeGw) (发布日期: 2026-04-04)
+- [喜报丨江西神舟信息安全评估中心有限公司神舟网络空间安全学院荣获“江西省工人先锋号”称号](https://mp.weixin.qq.com/s/6r-Kgu2sXZWndwRp0chGAA) (发布日期: 2026-04-04)
+- [工业安全周报-2026年第13期](https://mp.weixin.qq.com/s/vCp_ZhBFTRW-5pbyBgsz0w) (发布日期: 2026-04-04)
+- [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s/c439JsWpCP8voKuUauLuKA) (发布日期: 2026-04-04)
+- [伊朗APT组织再出手！新型恶意工具组合精准狙杀美以加，云基础设施成隐身利器](https://mp.weixin.qq.com/s/kuxEeamUAGGi4f2rBnulpg) (发布日期: 2026-04-04)
+- [2026 红队必备！50 个内网横向移动实战案例，EDR 绕过率 90%+](https://mp.weixin.qq.com/s/SUlfX9Ngl_ySHlInfk--Gg) (发布日期: 2026-04-04)
+- [Kimsuky部署恶意LNK文件，在多阶段攻击中植入基于Python的后门程序](https://mp.weixin.qq.com/s/blpOMhYb7X4gwj8FGcBeQA) (发布日期: 2026-04-04)
+- [20小时武器化：Langflow漏洞CVE-2026-33017的深度复盘与个人知识库防御实战](https://mp.weixin.qq.com/s/rxI8C7pl9uU3jSpMDSjiQQ) (发布日期: 2026-04-04)
+- [紧急预警！OpenClaw AI 代理框架曝高危漏洞](https://mp.weixin.qq.com/s/l15wP4FfjqmZ1-WUd06vEQ) (发布日期: 2026-04-04)
+- [真正危险的，不是假新闻，而是带方向的真信息！舆论场里最可怕的武器，情报分析如何识别操纵性叙事](https://mp.weixin.qq.com/s/whxlEbY01G3EjG58N2ooCw) (发布日期: 2026-04-04)
+- [Progress ShareFile漏洞深度剖析：一次无需认证的远程代码执行之旅](https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ) (发布日期: 2026-04-04)
+- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛比赛报名倒计时3天！](https://mp.weixin.qq.com/s/6mFOYwGc0OLNQFDvkEGiwA) (发布日期: 2026-04-04)
+
+### BruceFeIix
+
+- [ ] [Chrome浏览器的Dawn组件0day漏洞已被利用](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30) (发布日期: 2026-04-04)
+- [ ] [UAC绕过技术——权限提升的艺术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496629&idx=1&sn=79875d7e69a1376f0252ce5b7847f2f8) (发布日期: 2026-04-04)
+- [ ] [定义第三代防火墙：AI智能体安全网关（ASG）](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141198&idx=1&sn=d5076738948a98420f9fab8b57f82a14) (发布日期: 2026-04-04)
+- [ ] [员工未授权访问客户数据超2年，银行巨头被罚超2.5亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515763&idx=1&sn=313b34af1fe1654de2abbcc963179a3d) (发布日期: 2026-04-04)
+- [ ] [思科 IMC 中存在严重的认证绕过漏洞，可用于获取管理员权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=1&sn=123aa4e38d29ce29d7107d5e7378e00f) (发布日期: 2026-04-04)
+- [ ] [Progress ShareFile 漏洞可用于发动预认证 RCE 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8) (发布日期: 2026-04-04)
+- [ ] [React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613033&idx=3&sn=1dc818bb4a6a1e53f68c6deb22fc2203) (发布日期: 2026-04-04)
+- [ ] [【安全圈】星巴克数据泄露事件：攻击者宣称窃取10GB源代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=1&sn=0bc8efb18594b6c441a0f0fcef0d2774) (发布日期: 2026-04-04)
+- [ ] [【安全圈】AI 招聘公司 Mercor 遭 LiteLLM 供应链攻击，Lapsus$ 声称窃取 4TB 数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=2&sn=dbadb06af4cbcead4607dad3e6b107c7) (发布日期: 2026-04-04)
+- [ ] [【安全圈】研究人员发现利用 ISO 诱饵传播远控木马和挖矿程序的运营活动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=3&sn=eb6020644ffc58453b6ccf59fadf2b77) (发布日期: 2026-04-04)
+- [ ] [每周高级威胁情报解读(2026.03.27~04.02)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518221&idx=1&sn=e9b865330e1af38784b1daa277fe74e9) (发布日期: 2026-04-04)
+- [ ] [CNNVD | 通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260988&idx=2&sn=04b93b54c595b4abaaf01d91d7660ff5) (发布日期: 2026-04-04)
+- [ ] [借"码"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511607&idx=1&sn=67a18e00bf624c50e18463ca7ca4f5b5) (发布日期: 2026-04-04)
+- [ ] [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb) (发布日期: 2026-04-04)
+- [ ] [嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=2&sn=9de4541ee0948f4548e8f43dd0f63a27) (发布日期: 2026-04-04)
+- [ ] [白帽成长培养体系上线！BSRC奖励规则v9.0来咯！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544011&idx=1&sn=c26d9ef7d9354ac880aafdfc2001664f) (发布日期: 2026-04-04)
+- [ ] [sql注入新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499277&idx=1&sn=087a81e9901dc3ee269d85b1e7c889ba) (发布日期: 2026-04-04)
+- [ ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e) (发布日期: 2026-04-04)
+- [ ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84) (发布日期: 2026-04-04)
 
 
 ## 🎯 威胁详情分析
@@ -78,15 +111,57 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | 天地伟业Easy7 uploadCheckImg 文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ](https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ) |
-| 2 | Claude Code 源代码泄露数天后发现高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw](https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw) |
-| 3 | iOS 18也未能幸免！暗剑(DarkSword)与Coruna漏洞利用工具链深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw](https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw) |
+| 1 | 20小时武器化：Langflow漏洞CVE-2026-33017的深度复盘与个人知识库防御实战 | Doonsec | [https://mp.weixin.qq.com/s/rxI8C7pl9uU3jSpMDSjiQQ](https://mp.weixin.qq.com/s/rxI8C7pl9uU3jSpMDSjiQQ) |
+| 2 | 紧急预警！OpenClaw AI 代理框架曝高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/l15wP4FfjqmZ1-WUd06vEQ](https://mp.weixin.qq.com/s/l15wP4FfjqmZ1-WUd06vEQ) |
+| 3 | Progress ShareFile漏洞深度剖析：一次无需认证的远程代码执行之旅 | Doonsec | [https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ](https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ) |
+| 4 |  ] [Chrome浏览器的Dawn组件0day漏洞已被利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30) |
+| 5 |  ] [思科 IMC 中存在严重的认证绕过漏洞，可用于获取管理员权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=1&sn=123aa4e38d29ce29d7107d5e7378e00f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=1&sn=123aa4e38d29ce29d7107d5e7378e00f) |
+| 6 |  ] [Progress ShareFile 漏洞可用于发动预认证 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8) |
+| 7 |  ] [React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613033&idx=3&sn=1dc818bb4a6a1e53f68c6deb22fc2203](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613033&idx=3&sn=1dc818bb4a6a1e53f68c6deb22fc2203) |
+| 8 |  ] [CNNVD | 通报OpenClaw多个安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260988&idx=2&sn=04b93b54c595b4abaaf01d91d7660ff5](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260988&idx=2&sn=04b93b54c595b4abaaf01d91d7660ff5) |
+| 9 |  ] [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb) |
+| 10 |  ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e) |
+| 11 |  ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026 红队必备！50 个内网横向移动实战案例，EDR 绕过率 90%+ | Doonsec | [https://mp.weixin.qq.com/s/SUlfX9Ngl_ySHlInfk--Gg](https://mp.weixin.qq.com/s/SUlfX9Ngl_ySHlInfk--Gg) |
+| 2 | Progress ShareFile漏洞深度剖析：一次无需认证的远程代码执行之旅 | Doonsec | [https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ](https://mp.weixin.qq.com/s/wxvBv7UcVvFYQLhsKeerVQ) |
+| 3 |  ] [Progress ShareFile 漏洞可用于发动预认证 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525643&idx=2&sn=46f21b64114594cdb5db7473129e09a8) |
+| 4 |  ] [PolyShell高危漏洞可致电商Magento系统遭遇未授权远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=1&sn=3f0d70d2c23c4a658381dbc97ef1e3fb) |
+| 5 |  ] [sql注入新思路 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499277&idx=1&sn=087a81e9901dc3ee269d85b1e7c889ba](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499277&idx=1&sn=087a81e9901dc3ee269d85b1e7c889ba) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 伊朗APT组织再出手！新型恶意工具组合精准狙杀美以加，云基础设施成隐身利器 | Doonsec | [https://mp.weixin.qq.com/s/kuxEeamUAGGi4f2rBnulpg](https://mp.weixin.qq.com/s/kuxEeamUAGGi4f2rBnulpg) |
+| 2 |  ] [每周高级威胁情报解读(2026.03.27~04.02) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518221&idx=1&sn=e9b865330e1af38784b1daa277fe74e9](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518221&idx=1&sn=e9b865330e1af38784b1daa277fe74e9) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [白帽成长培养体系上线！BSRC奖励规则v9.0来咯！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544011&idx=1&sn=c26d9ef7d9354ac880aafdfc2001664f](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544011&idx=1&sn=c26d9ef7d9354ac880aafdfc2001664f) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】星巴克数据泄露事件：攻击者宣称窃取10GB源代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=1&sn=0bc8efb18594b6c441a0f0fcef0d2774](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=1&sn=0bc8efb18594b6c441a0f0fcef0d2774) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 《软件供应链安全报告2026》 | Doonsec | [https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw](https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw) |
+| 1 |  ] [Chrome浏览器的Dawn组件0day漏洞已被利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186162&idx=1&sn=a68cfdbb6be44e191236f85fbff0cd30) |
+| 2 |  ] [【安全圈】AI 招聘公司 Mercor 遭 LiteLLM 供应链攻击，Lapsus$ 声称窃取 4TB 数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=2&sn=dbadb06af4cbcead4607dad3e6b107c7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075319&idx=2&sn=dbadb06af4cbcead4607dad3e6b107c7) |
+| 3 |  ] [借"码"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511607&idx=1&sn=67a18e00bf624c50e18463ca7ca4f5b5](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511607&idx=1&sn=67a18e00bf624c50e18463ca7ca4f5b5) |
+| 4 |  ] [嘶吼安全动态｜中央网信办等三部门开展2026年个人信息保护系列专项行动 Axios供应链攻击事件系朝鲜黑客组织所为 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=2&sn=9de4541ee0948f4548e8f43dd0f63a27](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587535&idx=2&sn=9de4541ee0948f4548e8f43dd0f63a27) |
+| 5 |  ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497433&idx=1&sn=77d0db9bdf75c8d28f231e0cdfc7be9e) |
+| 6 |  ] [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485145&idx=1&sn=a715bdf057310c8fa51676cfd6976a84) |
 
 
 ## 📁 归档路径
@@ -102,8 +177,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -112,5 +187,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-04 02:10:53*
+*生成时间: 2026-04-04 05:21:14*
 *报告工具: 微信文章安全归档系统*
