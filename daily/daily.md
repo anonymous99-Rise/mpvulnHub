@@ -1,21 +1,19 @@
-# 2026-04-03 安全威胁态势报告
+# 2026-04-04 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 26篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 14篇
-- **供应链**: 4篇
-- **安全运营**: 3篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 3篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 - **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -65,32 +63,13 @@
 
 ### Doonsec
 
-- [黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器](https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ) (发布日期: 2026-04-03)
-- [国内网络监管升级，“机场”频频被查，灰色产业收紧，从“翻墙整治”到互联网生态重塑，一次讲清背后的逻辑](https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ) (发布日期: 2026-04-03)
-- [TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃](https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw) (发布日期: 2026-04-03)
-- [员工未授权访问客户数据超2年，银行巨头被罚超2.5亿元](https://mp.weixin.qq.com/s/26sKNKyYiNiT9kJKUTGHYQ) (发布日期: 2026-04-03)
-- [苹果发布iOS 18.7.7更新以防御DarkSword漏洞](https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q) (发布日期: 2026-04-03)
-- [星巴克漏洞事件](https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA) (发布日期: 2026-04-03)
-- [记某edusrc相同站点相同打法的二次高危挖掘](https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q) (发布日期: 2026-04-03)
-- [专题·具身智能安全 | 具身智能保险箍：从风险感知到风险熔断](https://mp.weixin.qq.com/s/kbFn3dzEiPstTGMBZL2PBQ) (发布日期: 2026-04-03)
-- [安全争锋・QFSRC 众测挑战](https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw) (发布日期: 2026-04-03)
-- [Web前端组件漏洞总结，安服水洞必备](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) (发布日期: 2026-04-03)
-- [【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812)](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) (发布日期: 2026-04-03)
-- [React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃](https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ) (发布日期: 2026-04-03)
-- [BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29）](https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w) (发布日期: 2026-04-03)
-- [有赞SRC清明活动](https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA) (发布日期: 2026-04-03)
-- [图解安全意识：OpenClaw平台深度安全体系建设](https://mp.weixin.qq.com/s/nI5d08KWScM2kPhKmHDK0A) (发布日期: 2026-04-03)
-- [免费赠送 | 企业办公安全意识培训科普素材（第二十一期）](https://mp.weixin.qq.com/s/acae9Cy-f93H-5bijS6BYQ) (发布日期: 2026-04-03)
-- [【免费领】SQL Server最佳安全配置实操教程（含检测及修复）](https://mp.weixin.qq.com/s/VoFqz0S_fk2FrDiS3V6wMw) (发布日期: 2026-04-03)
-- [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) (发布日期: 2026-04-03)
-- [「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) (发布日期: 2026-04-03)
-- [警惕弱口令，否则你的账号会“门户大开”！](https://mp.weixin.qq.com/s/V6ilHr4jyerW52Uba5OyPA) (发布日期: 2026-04-03)
-- [Mercor 卷入 LiteLLM 供应链攻击，Lapsus$ 叫卖 4TB 招聘数据](https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg) (发布日期: 2026-04-03)
-- [安全热点周报：谷歌修复了第四个在 2026 年被利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA) (发布日期: 2026-04-03)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（03/30-04/03）](https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ) (发布日期: 2026-04-03)
-- [告别\"假闭环\"，看大型央企的漏洞管理真实践](https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw) (发布日期: 2026-04-03)
-- [CNNVD | 通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg) (发布日期: 2026-04-03)
-- [安全预警丨OpenClaw 多项高危安全漏洞预警](https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw) (发布日期: 2026-04-03)
+- [漏洞复现 | 天地伟业Easy7 uploadCheckImg 文件上传漏洞](https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ) (发布日期: 2026-04-04)
+- [Claude Code 源代码泄露数天后发现高危漏洞](https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw) (发布日期: 2026-04-04)
+- [2025邮箱安全报告解读｜境外攻击激增、弱口令成命门，2026企业如何破局？](https://mp.weixin.qq.com/s/218lqWDf-gsDM-aOy6T73Q) (发布日期: 2026-04-04)
+- [iOS 18也未能幸免！暗剑(DarkSword)与Coruna漏洞利用工具链深度剖析](https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw) (发布日期: 2026-04-04)
+- [湖南银行xa0湖南蓝天支付因“违反数据安全管理规定“等被罚](https://mp.weixin.qq.com/s/4yLEDaD_M7KE39GfrSn8OA) (发布日期: 2026-04-04)
+- [慢雾：如何评估加密反洗钱工具的有效性](https://mp.weixin.qq.com/s/Q4L5Cbyv3JUhmor5BagrJg) (发布日期: 2026-04-04)
+- [《软件供应链安全报告2026》](https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw) (发布日期: 2026-04-04)
 
 
 ## 🎯 威胁详情分析
@@ -99,55 +78,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客利用 React2Shell 漏洞入侵了 700 多台 Next.js 服务器 | Doonsec | [https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ](https://mp.weixin.qq.com/s/FLJ69EfeBYuFCV5UxwbGVQ) |
-| 2 | TP-Link 多个漏洞使攻击者能够触发拒绝服务攻击并导致路由器崩溃 | Doonsec | [https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw](https://mp.weixin.qq.com/s/Pkn3e0RZ3ZNYV7iPhWPLmw) |
-| 3 | 苹果发布iOS 18.7.7更新以防御DarkSword漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q](https://mp.weixin.qq.com/s/hseKSGXo2ZfqwM3eY6IX3Q) |
-| 4 | 星巴克漏洞事件 | Doonsec | [https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA](https://mp.weixin.qq.com/s/Msagzh8x7ftnUewe_CTXWA) |
-| 5 | Web前端组件漏洞总结，安服水洞必备 | Doonsec | [https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) |
-| 6 | 【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812) | Doonsec | [https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) |
-| 7 | React2Shell漏洞被批量利用：超700台Next.js服务器凭证大规模失窃 | Doonsec | [https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ](https://mp.weixin.qq.com/s/Sl224HcVcNLF5Ou9LTCMMQ) |
-| 8 | BlockSec 安全周报｜八起攻击，漏洞都藏在哪？（3.23–3.29） | Doonsec | [https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w](https://mp.weixin.qq.com/s/4VRmCfM6um2mRGIe5mSy5w) |
-| 9 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) |
-| 10 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) |
-| 11 | 安全热点周报：谷歌修复了第四个在 2026 年被利用的 Chrome 零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA](https://mp.weixin.qq.com/s/bUv7mo9dhg-rNUe8ZEyvTA) |
-| 12 | 告别\"假闭环\"，看大型央企的漏洞管理真实践 | Doonsec | [https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw](https://mp.weixin.qq.com/s/gCiTbTuIfp-HTth53D6fBw) |
-| 13 | CNNVD | 通报OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg](https://mp.weixin.qq.com/s/VZe-2EuXfVCHlivqLqZrLg) |
-| 14 | 安全预警丨OpenClaw 多项高危安全漏洞预警 | Doonsec | [https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw](https://mp.weixin.qq.com/s/et3YPRYda6D2CciWuHXyrw) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 国内网络监管升级，“机场”频频被查，灰色产业收紧，从“翻墙整治”到互联网生态重塑，一次讲清背后的逻辑 | Doonsec | [https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ](https://mp.weixin.qq.com/s/9UYM1qYVCtVPQDfspbb1BQ) |
-| 2 | 【成功复现】OpenCode远程代码执行漏洞(CVE-2026-22812) | Doonsec | [https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw](https://mp.weixin.qq.com/s/L86RCrNlpz6LGqQSlcCMVw) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（03/30-04/03） | Doonsec | [https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ](https://mp.weixin.qq.com/s/yXaDnsslTpvpu_7grOzYVQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记某edusrc相同站点相同打法的二次高危挖掘 | Doonsec | [https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q](https://mp.weixin.qq.com/s/0P2-L6acwNt5fyrjOpsB0Q) |
-| 2 | 安全争锋・QFSRC 众测挑战 | Doonsec | [https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw](https://mp.weixin.qq.com/s/zyRt6-s7vzWxO8Rax77Maw) |
-| 3 | 有赞SRC清明活动 | Doonsec | [https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA](https://mp.weixin.qq.com/s/zuFyDtuthzp209vgZOdRgA) |
+| 1 | 漏洞复现 | 天地伟业Easy7 uploadCheckImg 文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ](https://mp.weixin.qq.com/s/UF8Yu8O3yuN035kpa2gVtQ) |
+| 2 | Claude Code 源代码泄露数天后发现高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw](https://mp.weixin.qq.com/s/uBXEx-nkeFOdRI3VjTJicw) |
+| 3 | iOS 18也未能幸免！暗剑(DarkSword)与Coruna漏洞利用工具链深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw](https://mp.weixin.qq.com/s/9gOtnyozYUIeu8um1FNJQw) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Web前端组件漏洞总结，安服水洞必备 | Doonsec | [https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg](https://mp.weixin.qq.com/s/JJPKbDIW90AIB4gdafBhNg) |
-| 2 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw](https://mp.weixin.qq.com/s/Ce-w-wYgWE0MgND9bpDGjw) |
-| 3 | 「AI开源组件安全风险」系列二：VulnAgent发现 NVIDIA 3个AI基础设施漏洞，并获官方致谢 | Doonsec | [https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w](https://mp.weixin.qq.com/s/XEp4P3hxLCny3Ii1FWqP0w) |
-| 4 | Mercor 卷入 LiteLLM 供应链攻击，Lapsus$ 叫卖 4TB 招聘数据 | Doonsec | [https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg](https://mp.weixin.qq.com/s/ZOh9I1yWKfsqvevos1MPAg) |
+| 1 | 《软件供应链安全报告2026》 | Doonsec | [https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw](https://mp.weixin.qq.com/s/hHNFww8hM99JTfICNTBdTw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-03/`
+文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-04/`
 
 ## 🔗 数据源说明
 
@@ -158,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -168,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-03 13:05:09*
+*生成时间: 2026-04-04 02:10:53*
 *报告工具: 微信文章安全归档系统*
