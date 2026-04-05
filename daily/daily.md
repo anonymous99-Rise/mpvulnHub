@@ -2,17 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 29
 - **数据源分布**:
-  - BruceFeIix: 6篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **威胁情报**: 2篇
 - **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **网络攻击**: 4篇
+- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -59,23 +64,81 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=2&sn=ad5a9194675c2f37619735324b25ccff) (发布日期: 2026-04-05)
-- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155047&idx=2&sn=d560f9d89a5949ba2e655de9c29b99e3) (发布日期: 2026-04-05)
-- [ ] [【安全圈】欧盟官网遭入侵致 350GB 数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd) (发布日期: 2026-04-05)
-- [ ] [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f) (发布日期: 2026-04-05)
-- [ ] [真正危险的，不是假新闻，而是带方向的真信息！舆论场里最可怕的武器，情报分析如何识别操纵性叙事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567444&idx=1&sn=31dc4faa744551439c78f643a4e49e62) (发布日期: 2026-04-05)
-- [ ] [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=2&sn=29aa882d0eb41dc812d8864aaf4426cd) (发布日期: 2026-04-05)
+- [第160篇：AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密](https://mp.weixin.qq.com/s/amEDR8m979QXlgtj6iaC9w) (发布日期: 2026-04-05)
+- [【红队】一个高性能、准确的命令行指纹识别工具](https://mp.weixin.qq.com/s/DMLrjxI3cn_cEGQ-TM7Klg) (发布日期: 2026-04-05)
+- [【云安全】当点击“接受”就是引狼入室：OAuth应用程序的隐秘攻击与防御实战](https://mp.weixin.qq.com/s/djm5KQAYv4YRYdYukYhBVQ) (发布日期: 2026-04-05)
+- [Axios证实遭入侵源自“社会工程学”欺骗](https://mp.weixin.qq.com/s/fYrL78fCuA0edA4V05xzrg) (发布日期: 2026-04-05)
+- [14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用](https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ) (发布日期: 2026-04-05)
+- [多维度漏洞挖掘突破与实践探索](https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg) (发布日期: 2026-04-05)
+- [WEB安全手册（红队安全技能栈），漏洞理解，漏洞利用，代码审计和渗透测试总结](https://mp.weixin.qq.com/s/sG5deE3tbzja_ok-ulZemA) (发布日期: 2026-04-05)
+- [2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛比赛报名倒计时2天！](https://mp.weixin.qq.com/s/Wmzee2cFtXDzMt_e76InFg) (发布日期: 2026-04-05)
+- [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s/EEF1t1I2do6JqGo7jDglgw) (发布日期: 2026-04-05)
+- [工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞](https://mp.weixin.qq.com/s/4kk8UKGglxXTCOfHI3Rncw) (发布日期: 2026-04-05)
+- [小朋友的新一期代码审计来了](https://mp.weixin.qq.com/s/p8is9i465oRXbqTVUb9xmg) (发布日期: 2026-04-05)
+- [Emulat3：拆解恶意软件的“显微镜”](https://mp.weixin.qq.com/s/JtklPLlTx3ZV_fDJEaYAfw) (发布日期: 2026-04-05)
+- [苹果用户一定要看看！工信部紧急通报：iOS 13.0-17.2.1 Coruna多漏洞链工具包主动利用路径深度解析](https://mp.weixin.qq.com/s/85UkeJBf62NeZKmG2xS0Pw) (发布日期: 2026-04-05)
+- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/-2a-j2BS9bzIVeFHjJbrjw) (发布日期: 2026-04-05)
+- [起底“沙虫”俄罗斯APT组织：你的电脑，可能正被“合法”软件远程接管](https://mp.weixin.qq.com/s/nQqZV-fCsuJcnPfRBIBR9g) (发布日期: 2026-04-05)
+- [凌晨 3 点，医院系统全瘫！2026 年勒索软件卷土重来](https://mp.weixin.qq.com/s/6LisfHlPkOI01rJ9NDfJzA) (发布日期: 2026-04-05)
+- [小朋友的新一期代码审计来了](https://mp.weixin.qq.com/s/b4O4Ngq9_8IVThBgHejLwA) (发布日期: 2026-04-05)
+- [威胁通缉令 · 红桃9丨Redis Lua RCE漏洞（新增）](https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg) (发布日期: 2026-04-05)
+- [安全警报 | 两大国内平台疑似遭遇数据泄露，超1.3亿条记录在暗网叫卖](https://mp.weixin.qq.com/s/U6nR9B75QcsYTfonfrob7g) (发布日期: 2026-04-05)
+- [Axios npm供应链攻击威胁分析](https://mp.weixin.qq.com/s/hMgM8MrcQDa0uj4CvhvEmg) (发布日期: 2026-04-05)
+- [【工具推荐】高危漏洞EXP实用性工具](https://mp.weixin.qq.com/s/OugrJ7T7ue53MMdsU4angQ) (发布日期: 2026-04-05)
+- [AWS CodeConnections 权限透视：一扇控制源代码的全局后门](https://mp.weixin.qq.com/s/QO31c2ATqSqKU8G8TUzA0w) (发布日期: 2026-04-05)
+- [AI漏洞演示：从路径遍历到 Root 夺权 —— Langflow CVE-2026-5027 漏洞全解析](https://mp.weixin.qq.com/s/tCSZp_u-zQqezbi6Sm74ZQ) (发布日期: 2026-04-05)
+- [1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链](https://mp.weixin.qq.com/s/89LDe-rHPpKO6wQw-wvZHQ) (发布日期: 2026-04-05)
+- [外包仔 → 红队专家 → 甲方安全负责人：护网行动的阶级跃迁链](https://mp.weixin.qq.com/s/6xL5CvsV5TDPEXYCkui7Zg) (发布日期: 2026-04-05)
+- [中科院：中美网络安全漏洞披露与共享政策研究](https://mp.weixin.qq.com/s/GcID-KzaMoLTF9NhxzZDhg) (发布日期: 2026-04-05)
+- [中汽研：欧美汽车网络与数据安全监管方式的研究](https://mp.weixin.qq.com/s/l5xOZgLZZf9OyAVUX1Oj_w) (发布日期: 2026-04-05)
+- [专为网络侦查设计的自动化信息泄露侦察工具](https://mp.weixin.qq.com/s/FvMovrOqj9_uK51V50Lu0g) (发布日期: 2026-04-05)
+- [清明节｜慎终追远清明至，加密无声保安然](https://mp.weixin.qq.com/s/4T7Nts31yLqDXG1Ge5rMzA) (发布日期: 2026-04-05)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用 | Doonsec | [https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ](https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ) |
+| 2 | 多维度漏洞挖掘突破与实践探索 | Doonsec | [https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg](https://mp.weixin.qq.com/s/4UER9vNsWEmErEh_WR3Hyg) |
+| 3 | WEB安全手册（红队安全技能栈），漏洞理解，漏洞利用，代码审计和渗透测试总结 | Doonsec | [https://mp.weixin.qq.com/s/sG5deE3tbzja_ok-ulZemA](https://mp.weixin.qq.com/s/sG5deE3tbzja_ok-ulZemA) |
+| 4 | 工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4kk8UKGglxXTCOfHI3Rncw](https://mp.weixin.qq.com/s/4kk8UKGglxXTCOfHI3Rncw) |
+| 5 | 苹果用户一定要看看！工信部紧急通报：iOS 13.0-17.2.1 Coruna多漏洞链工具包主动利用路径深度解析 | Doonsec | [https://mp.weixin.qq.com/s/85UkeJBf62NeZKmG2xS0Pw](https://mp.weixin.qq.com/s/85UkeJBf62NeZKmG2xS0Pw) |
+| 6 | 威胁通缉令 · 红桃9丨Redis Lua RCE漏洞（新增） | Doonsec | [https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg](https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg) |
+| 7 | 【工具推荐】高危漏洞EXP实用性工具 | Doonsec | [https://mp.weixin.qq.com/s/OugrJ7T7ue53MMdsU4angQ](https://mp.weixin.qq.com/s/OugrJ7T7ue53MMdsU4angQ) |
+| 8 | AI漏洞演示：从路径遍历到 Root 夺权 —— Langflow CVE-2026-5027 漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s/tCSZp_u-zQqezbi6Sm74ZQ](https://mp.weixin.qq.com/s/tCSZp_u-zQqezbi6Sm74ZQ) |
+| 9 | 中科院：中美网络安全漏洞披露与共享政策研究 | Doonsec | [https://mp.weixin.qq.com/s/GcID-KzaMoLTF9NhxzZDhg](https://mp.weixin.qq.com/s/GcID-KzaMoLTF9NhxzZDhg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用 | Doonsec | [https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ](https://mp.weixin.qq.com/s/GMm9Kggk-68BhwVkT0XLqQ) |
+| 2 | 威胁通缉令 · 红桃9丨Redis Lua RCE漏洞（新增） | Doonsec | [https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg](https://mp.weixin.qq.com/s/eFopMuxvt0yzVFYN8EFSwg) |
+| 3 | 1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链 | Doonsec | [https://mp.weixin.qq.com/s/89LDe-rHPpKO6wQw-wvZHQ](https://mp.weixin.qq.com/s/89LDe-rHPpKO6wQw-wvZHQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira | Doonsec | [https://mp.weixin.qq.com/s/EEF1t1I2do6JqGo7jDglgw](https://mp.weixin.qq.com/s/EEF1t1I2do6JqGo7jDglgw) |
+| 2 | 起底“沙虫”俄罗斯APT组织：你的电脑，可能正被“合法”软件远程接管 | Doonsec | [https://mp.weixin.qq.com/s/nQqZV-fCsuJcnPfRBIBR9g](https://mp.weixin.qq.com/s/nQqZV-fCsuJcnPfRBIBR9g) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】欧盟官网遭入侵致 350GB 数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd) |
+| 1 | 安全警报 | 两大国内平台疑似遭遇数据泄露，超1.3亿条记录在暗网叫卖 | Doonsec | [https://mp.weixin.qq.com/s/U6nR9B75QcsYTfonfrob7g](https://mp.weixin.qq.com/s/U6nR9B75QcsYTfonfrob7g) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Axios npm供应链攻击威胁分析 | Doonsec | [https://mp.weixin.qq.com/s/hMgM8MrcQDa0uj4CvhvEmg](https://mp.weixin.qq.com/s/hMgM8MrcQDa0uj4CvhvEmg) |
 
 
 ## 📁 归档路径
@@ -91,8 +154,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -101,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-05 05:44:30*
+*生成时间: 2026-04-05 12:58:34*
 *报告工具: 微信文章安全归档系统*
