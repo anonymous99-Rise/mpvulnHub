@@ -1,14 +1,15 @@
-# 2026-04-04 安全威胁态势报告
+# 2026-04-05 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 3篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **网络攻击**: 1篇
@@ -58,19 +59,28 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [以色列军事情报机构地理空间情报部门9900部队50名高级官员信息泄露](https://mp.weixin.qq.com/s/lDyfFkvlzHZVQAY7SjRLtA) (发布日期: 2026-04-04)
-- [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s/a-8Vt0nSEdHEi6M7kZw37g) (发布日期: 2026-04-04)
-- [当大模型拿起键盘：AI渗透测试实战技巧](https://mp.weixin.qq.com/s/Pngaf_wiwMfaSIbvel1MPw) (发布日期: 2026-04-04)
+- [ ] [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=2&sn=ad5a9194675c2f37619735324b25ccff) (发布日期: 2026-04-05)
+- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155047&idx=2&sn=d560f9d89a5949ba2e655de9c29b99e3) (发布日期: 2026-04-05)
+- [ ] [【安全圈】欧盟官网遭入侵致 350GB 数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd) (发布日期: 2026-04-05)
+- [ ] [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f) (发布日期: 2026-04-05)
+- [ ] [真正危险的，不是假新闻，而是带方向的真信息！舆论场里最可怕的武器，情报分析如何识别操纵性叙事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567444&idx=1&sn=31dc4faa744551439c78f643a4e49e62) (发布日期: 2026-04-05)
+- [ ] [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=2&sn=29aa882d0eb41dc812d8864aaf4426cd) (发布日期: 2026-04-05)
 
 
 ## 🎯 威胁详情分析
 
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】欧盟官网遭入侵致 350GB 数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-04/`
+文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-05/`
 
 ## 🔗 数据源说明
 
@@ -81,7 +91,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
 - **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -91,5 +101,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-04 16:36:17*
+*生成时间: 2026-04-05 05:44:30*
 *报告工具: 微信文章安全归档系统*
