@@ -2,17 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
+- **网络攻击**: 2篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,8 +67,30 @@
 
 ### Doonsec
 
-- [Fastjson漏洞复现上](https://mp.weixin.qq.com/s/GpHSIDyccZ71fPSbvVy_0g) (发布日期: 2026-04-06)
-- [皮皮宋渗透日记19｜JNDI 注入避坑指南，别再被面试问懵了！](https://mp.weixin.qq.com/s/0VQQ4y5_DtsGxUW8at5keg) (发布日期: 2026-04-06)
+- [GandCrab和REvil勒索软件团伙头目被锁定](https://mp.weixin.qq.com/s/bcZvmLanIzly97ThvP4h2g) (发布日期: 2026-04-06)
+- [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s/y8sQt4wlKjXTKXHJSMfW3A) (发布日期: 2026-04-06)
+- [究极无敌的srcAI-xss手法（快看过来）](https://mp.weixin.qq.com/s/VhsWE5aoQ5-epKVaQ6aCMg) (发布日期: 2026-04-06)
+- [新一代数据安全架构 | AI时代，数据安全到底应该怎么做？如何落地？](https://mp.weixin.qq.com/s/Zd-M9uIgHf5yEACSbMeiUQ) (发布日期: 2026-04-06)
+- [渗透测试：多功能网络信息扫描工具](https://mp.weixin.qq.com/s/PSgRlL-Lo87Cqqp7rMlg-g) (发布日期: 2026-04-06)
+- [Sqlmap-FluX：强化WAF规避能力的SQL注入安全测试工具](https://mp.weixin.qq.com/s/CqWBA9xeHCL1QujFtCpCyQ) (发布日期: 2026-04-06)
+- [集合多种渗透测试常用的功能和工具的安全测试工具](https://mp.weixin.qq.com/s/hSfNtfmqrGw1Mce_WAeeuQ) (发布日期: 2026-04-06)
+- [图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞](https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ) (发布日期: 2026-04-06)
+- [CVE-2026-24291-Windows权限提升漏洞“RegPwn”复现分析](https://mp.weixin.qq.com/s/rULYChYHUKd8TZJW8nBFfQ) (发布日期: 2026-04-06)
+- [全球威胁情报周报（2026年3月30日–4月5日）](https://mp.weixin.qq.com/s/5W7GlhY6jsmW6FIR0_BO_g) (发布日期: 2026-04-06)
+- [Dgraph 数据库存在严重漏洞，攻击者可绕过身份验证](https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA) (发布日期: 2026-04-06)
+- [【安全圈】俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s/5zRfXCVqRPB2wg8gbuBifg) (发布日期: 2026-04-06)
+- [【安全圈】3月勒索软件攻势创纪录](https://mp.weixin.qq.com/s/iCrqx1X3o7hoqPX18VkpOA) (发布日期: 2026-04-06)
+- [Apache 流量服务器漏洞使攻击者能够触发拒绝服务攻击](https://mp.weixin.qq.com/s/toUWdwleS-4MT-LMKnM9og) (发布日期: 2026-04-06)
+- [OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞](https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw) (发布日期: 2026-04-06)
+- [AI 渗透测试工具 - shannon](https://mp.weixin.qq.com/s/fDQ_AZCal8jv0xlluOsMFg) (发布日期: 2026-04-06)
+- [FortiClient EMS 重大零日漏洞已被在野利用](https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ) (发布日期: 2026-04-06)
+- [天才程序员上线：AI 逆向与安全开发全栈实战](https://mp.weixin.qq.com/s/CTzWYU-B0PakolN-W1kLZA) (发布日期: 2026-04-06)
+- [大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案](https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g) (发布日期: 2026-04-06)
+- [[工具推荐]安全测试工具集Onyx](https://mp.weixin.qq.com/s/oijf5BILBPxaQpotBNZvNw) (发布日期: 2026-04-06)
+- [2025年网络安全意识培训统计数据启示(基于100+项研究)](https://mp.weixin.qq.com/s/fXRx8m8kMDL_jT1ShxeGQg) (发布日期: 2026-04-06)
+- [今日（2026年4月6日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q) (发布日期: 2026-04-06)
+- [PHP反序列化__toString ()](https://mp.weixin.qq.com/s/uigR21AnFKDeHC5zI67lsg) (发布日期: 2026-04-06)
+- [漏洞#13   CORS 泄露 Token 结合 CSRF 实现无感账号接管](https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg) (发布日期: 2026-04-06)
 
 
 ## 🎯 威胁详情分析
@@ -71,13 +99,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Fastjson漏洞复现上 | Doonsec | [https://mp.weixin.qq.com/s/GpHSIDyccZ71fPSbvVy_0g](https://mp.weixin.qq.com/s/GpHSIDyccZ71fPSbvVy_0g) |
+| 1 | 图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ](https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ) |
+| 2 | CVE-2026-24291-Windows权限提升漏洞“RegPwn”复现分析 | Doonsec | [https://mp.weixin.qq.com/s/rULYChYHUKd8TZJW8nBFfQ](https://mp.weixin.qq.com/s/rULYChYHUKd8TZJW8nBFfQ) |
+| 3 | Dgraph 数据库存在严重漏洞，攻击者可绕过身份验证 | Doonsec | [https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA](https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA) |
+| 4 | Apache 流量服务器漏洞使攻击者能够触发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/toUWdwleS-4MT-LMKnM9og](https://mp.weixin.qq.com/s/toUWdwleS-4MT-LMKnM9og) |
+| 5 | OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw](https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw) |
+| 6 | FortiClient EMS 重大零日漏洞已被在野利用 | Doonsec | [https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ](https://mp.weixin.qq.com/s/2_iivzfMZppd9n-9r8JyoQ) |
+| 7 | 大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案 | Doonsec | [https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g](https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g) |
+| 8 | 今日（2026年4月6日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q](https://mp.weixin.qq.com/s/u6ILXE87wjp1d1Kbj0Oo8Q) |
+| 9 | 漏洞#13   CORS 泄露 Token 结合 CSRF 实现无感账号接管 | Doonsec | [https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg](https://mp.weixin.qq.com/s/VPTSmhTbEABYInFZ89HCVg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 皮皮宋渗透日记19｜JNDI 注入避坑指南，别再被面试问懵了！ | Doonsec | [https://mp.weixin.qq.com/s/0VQQ4y5_DtsGxUW8at5keg](https://mp.weixin.qq.com/s/0VQQ4y5_DtsGxUW8at5keg) |
+| 1 | 究极无敌的srcAI-xss手法（快看过来） | Doonsec | [https://mp.weixin.qq.com/s/VhsWE5aoQ5-epKVaQ6aCMg](https://mp.weixin.qq.com/s/VhsWE5aoQ5-epKVaQ6aCMg) |
+| 2 | Sqlmap-FluX：强化WAF规避能力的SQL注入安全测试工具 | Doonsec | [https://mp.weixin.qq.com/s/CqWBA9xeHCL1QujFtCpCyQ](https://mp.weixin.qq.com/s/CqWBA9xeHCL1QujFtCpCyQ) |
+| 3 | OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw](https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球威胁情报周报（2026年3月30日–4月5日） | Doonsec | [https://mp.weixin.qq.com/s/5W7GlhY6jsmW6FIR0_BO_g](https://mp.weixin.qq.com/s/5W7GlhY6jsmW6FIR0_BO_g) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 究极无敌的srcAI-xss手法（快看过来） | Doonsec | [https://mp.weixin.qq.com/s/VhsWE5aoQ5-epKVaQ6aCMg](https://mp.weixin.qq.com/s/VhsWE5aoQ5-epKVaQ6aCMg) |
 
 
 ## 📁 归档路径
@@ -93,8 +143,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +153,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-06 09:09:26*
+*生成时间: 2026-04-06 16:49:39*
 *报告工具: 微信文章安全归档系统*
