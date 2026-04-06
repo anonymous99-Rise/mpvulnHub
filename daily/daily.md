@@ -1,17 +1,20 @@
-# 2026-04-05 安全威胁态势报告
+# 2026-04-06 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -61,25 +64,41 @@
 
 ### Doonsec
 
-- [一个账密在TSRC获得5W赏金，NAZ.API — ULP数据集来龙去脉](https://mp.weixin.qq.com/s/N4lvdX460UMQLDxt5_eItQ) (发布日期: 2026-04-05)
-- [未授权访问的“上帝视角” || 从功能性路由看权限菜单绕过技巧（全网首发）](https://mp.weixin.qq.com/s/mcWvFIB28e4BJbgLP2NJDg) (发布日期: 2026-04-05)
-- [安全锐见：从离职勒索前东家数据来看企业数据安全防线的短板](https://mp.weixin.qq.com/s/Lx49B761pIF44gYjJU5iHA) (发布日期: 2026-04-05)
-- [网络扫描与安全评估工具箱](https://mp.weixin.qq.com/s/UPF3ohKjeH_b7gi52NQh6A) (发布日期: 2026-04-05)
-- [2026年4月5日 勒索软件日报](https://mp.weixin.qq.com/s/letRAY28QMzSZKGo3mvXMw) (发布日期: 2026-04-05)
+- [漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) (发布日期: 2026-04-06)
+- [从微信小程序打点到后台文件上传getshell](https://mp.weixin.qq.com/s/qgVhbjF4RCKTbjvQ-PhTbA) (发布日期: 2026-04-06)
+- [从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网](https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw) (发布日期: 2026-04-06)
+- [智能网联汽车密码应用安全研究](https://mp.weixin.qq.com/s/-_QfNqkVVu3s3axhwDnVZg) (发布日期: 2026-04-06)
+- [Metatron是一款基于 CLI 的 AI 渗透测试助手，完全在您的本地计算机上运行——无需云服务、无需 API 密钥、无需订阅。](https://mp.weixin.qq.com/s/VuoyLrWuMYYML-swaxunnw) (发布日期: 2026-04-06)
+- [APT28风暴再起：隐写术武装的APTxa0攻击与针对基础设施的深度威胁分析](https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w) (发布日期: 2026-04-06)
+- [AI 免杀 Skill，多层加密 + 指令混淆，轻松过 Defender / 火绒 / 360](https://mp.weixin.qq.com/s/cjG787L6X4u6HoUbLHQXdg) (发布日期: 2026-04-06)
+- [GlassWorm恶意软件利用Solana信箱传播远程访问木马并窃取浏览器和加密数据。](https://mp.weixin.qq.com/s/hFTXXF8vR3Bdj_IztS_Gcw) (发布日期: 2026-04-06)
 
 
 ## 🎯 威胁详情分析
 
-### 安全运营
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一个账密在TSRC获得5W赏金，NAZ.API — ULP数据集来龙去脉 | Doonsec | [https://mp.weixin.qq.com/s/N4lvdX460UMQLDxt5_eItQ](https://mp.weixin.qq.com/s/N4lvdX460UMQLDxt5_eItQ) |
+| 1 | 漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) |
+| 2 | 从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网 | Doonsec | [https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw](https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | APT28风暴再起：隐写术武装的APTxa0攻击与针对基础设施的深度威胁分析 | Doonsec | [https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w](https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W14/2026-04-05/`
+文章已归档到: `doc/2026/2026-04/2026-W15/2026-04-06/`
 
 ## 🔗 数据源说明
 
@@ -90,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -100,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-05 16:37:14*
+*生成时间: 2026-04-06 02:33:56*
 *报告工具: 微信文章安全归档系统*
