@@ -2,20 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 12篇
+  - BruceFeIix: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 7篇
+- **威胁情报**: 3篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +66,25 @@
 
 ### Doonsec
 
-- [漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) (发布日期: 2026-04-06)
-- [从微信小程序打点到后台文件上传getshell](https://mp.weixin.qq.com/s/qgVhbjF4RCKTbjvQ-PhTbA) (发布日期: 2026-04-06)
-- [从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网](https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw) (发布日期: 2026-04-06)
-- [智能网联汽车密码应用安全研究](https://mp.weixin.qq.com/s/-_QfNqkVVu3s3axhwDnVZg) (发布日期: 2026-04-06)
-- [Metatron是一款基于 CLI 的 AI 渗透测试助手，完全在您的本地计算机上运行——无需云服务、无需 API 密钥、无需订阅。](https://mp.weixin.qq.com/s/VuoyLrWuMYYML-swaxunnw) (发布日期: 2026-04-06)
-- [APT28风暴再起：隐写术武装的APTxa0攻击与针对基础设施的深度威胁分析](https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w) (发布日期: 2026-04-06)
-- [AI 免杀 Skill，多层加密 + 指令混淆，轻松过 Defender / 火绒 / 360](https://mp.weixin.qq.com/s/cjG787L6X4u6HoUbLHQXdg) (发布日期: 2026-04-06)
-- [GlassWorm恶意软件利用Solana信箱传播远程访问木马并窃取浏览器和加密数据。](https://mp.weixin.qq.com/s/hFTXXF8vR3Bdj_IztS_Gcw) (发布日期: 2026-04-06)
+- [Universal-POC Validator || 万能POC验证器](https://mp.weixin.qq.com/s/H0-ogtipSCBX0iHpzu4QRg) (发布日期: 2026-04-06)
+- [墨西哥海军港口智能安全系统遭黑客攻击,64 万港口操作员信息泄露](https://mp.weixin.qq.com/s/88mHMRatGHWKMRlkX7JdzQ) (发布日期: 2026-04-06)
+- [JS逆向沙箱化补环境框架｜一站式「采集→注入→监控→AI补全」工作台](https://mp.weixin.qq.com/s/IgyEA34YGqnoEAbW0w7wDA) (发布日期: 2026-04-06)
+- [基于SAST+AI代码审计 架构与功能详解](https://mp.weixin.qq.com/s/OyaZkFJJ_IbMNdpfp4OThQ) (发布日期: 2026-04-06)
+- [星盟安全直播课：JS 挖掘工作流与 vue 站点、供应链安全通用解法](https://mp.weixin.qq.com/s/LcecwIgEWXuX5iFJ6-jjnw) (发布日期: 2026-04-06)
+- [警惕！Edge浏览器竟成黑客窃密工具，俄罗斯APT组织Laundry Bear专盯乌克兰搞渗透](https://mp.weixin.qq.com/s/dl-DRjtV3YfrQsPKe-9Haw) (发布日期: 2026-04-06)
+- [【SRC实战】IOT漏洞挖掘实战](https://mp.weixin.qq.com/s/IetO3WTgksnLyO3S8nbPZA) (发布日期: 2026-04-06)
+- [这个浏览器，不需要开代理也能访问网外内容，内置加密隧道](https://mp.weixin.qq.com/s/qsRX95mPADXbV6mSuG3iAQ) (发布日期: 2026-04-06)
+- [【安全研究】通过银狐源码学习C/C++开发](https://mp.weixin.qq.com/s/IV-2tBJzYd5aDhh8F3u9gA) (发布日期: 2026-04-06)
+- [155个OpenClaw漏洞列表！速看！](https://mp.weixin.qq.com/s/yjWkxoJUAoiBzFWy68-M3g) (发布日期: 2026-04-06)
+- [手机漏洞无所谓？黑客说：谢了](https://mp.weixin.qq.com/s/73ScbKZRzxXxIfoczHbnDg) (发布日期: 2026-04-06)
+- [反向支付漏洞](https://mp.weixin.qq.com/s/OMglDUZbVIWn92hWukIaAg) (发布日期: 2026-04-06)
+
+### BruceFeIix
+
+- [ ] [【培训】开源情报分析师实战能力培训班-4月成都开班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=2&sn=0b22b0cab74750b5d771333fa0fd8408) (发布日期: 2026-04-06)
+- [ ] [工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=1&sn=0e642eac58fd18e6e2f843afd9e37717) (发布日期: 2026-04-06)
+- [ ] [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d) (发布日期: 2026-04-06)
+- [ ] [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0) (发布日期: 2026-04-06)
 
 
 ## 🎯 威胁详情分析
@@ -80,20 +93,39 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) |
-| 2 | 从沙箱逃逸到系统主宰：解析 2026 年首个重大 Windows 内核提权漏洞-华盟网 | Doonsec | [https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw](https://mp.weixin.qq.com/s/fJ5n5v1IxYSeRxyfgzJOFw) |
+| 1 | Universal-POC Validator || 万能POC验证器 | Doonsec | [https://mp.weixin.qq.com/s/H0-ogtipSCBX0iHpzu4QRg](https://mp.weixin.qq.com/s/H0-ogtipSCBX0iHpzu4QRg) |
+| 2 | 【SRC实战】IOT漏洞挖掘实战 | Doonsec | [https://mp.weixin.qq.com/s/IetO3WTgksnLyO3S8nbPZA](https://mp.weixin.qq.com/s/IetO3WTgksnLyO3S8nbPZA) |
+| 3 | 155个OpenClaw漏洞列表！速看！ | Doonsec | [https://mp.weixin.qq.com/s/yjWkxoJUAoiBzFWy68-M3g](https://mp.weixin.qq.com/s/yjWkxoJUAoiBzFWy68-M3g) |
+| 4 | 手机漏洞无所谓？黑客说：谢了 | Doonsec | [https://mp.weixin.qq.com/s/73ScbKZRzxXxIfoczHbnDg](https://mp.weixin.qq.com/s/73ScbKZRzxXxIfoczHbnDg) |
+| 5 | 反向支付漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OMglDUZbVIWn92hWukIaAg](https://mp.weixin.qq.com/s/OMglDUZbVIWn92hWukIaAg) |
+| 6 |  ] [工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=1&sn=0e642eac58fd18e6e2f843afd9e37717](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=1&sn=0e642eac58fd18e6e2f843afd9e37717) |
+| 7 |  ] [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | Arris VAP2500 diag_s 存在命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg](https://mp.weixin.qq.com/s/vxQUAcVosXJ4ueFDhT_uAg) |
+| 1 | JS逆向沙箱化补环境框架｜一站式「采集→注入→监控→AI补全」工作台 | Doonsec | [https://mp.weixin.qq.com/s/IgyEA34YGqnoEAbW0w7wDA](https://mp.weixin.qq.com/s/IgyEA34YGqnoEAbW0w7wDA) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | APT28风暴再起：隐写术武装的APTxa0攻击与针对基础设施的深度威胁分析 | Doonsec | [https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w](https://mp.weixin.qq.com/s/tAJUC9UekWODeE9Aj4oW9w) |
+| 1 | 警惕！Edge浏览器竟成黑客窃密工具，俄罗斯APT组织Laundry Bear专盯乌克兰搞渗透 | Doonsec | [https://mp.weixin.qq.com/s/dl-DRjtV3YfrQsPKe-9Haw](https://mp.weixin.qq.com/s/dl-DRjtV3YfrQsPKe-9Haw) |
+| 2 | 【安全研究】通过银狐源码学习C/C++开发 | Doonsec | [https://mp.weixin.qq.com/s/IV-2tBJzYd5aDhh8F3u9gA](https://mp.weixin.qq.com/s/IV-2tBJzYd5aDhh8F3u9gA) |
+| 3 |  ] [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【SRC实战】IOT漏洞挖掘实战 | Doonsec | [https://mp.weixin.qq.com/s/IetO3WTgksnLyO3S8nbPZA](https://mp.weixin.qq.com/s/IetO3WTgksnLyO3S8nbPZA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 星盟安全直播课：JS 挖掘工作流与 vue 站点、供应链安全通用解法 | Doonsec | [https://mp.weixin.qq.com/s/LcecwIgEWXuX5iFJ6-jjnw](https://mp.weixin.qq.com/s/LcecwIgEWXuX5iFJ6-jjnw) |
 
 
 ## 📁 归档路径
@@ -109,8 +141,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-06 02:33:56*
+*生成时间: 2026-04-06 05:58:54*
 *报告工具: 微信文章安全归档系统*
