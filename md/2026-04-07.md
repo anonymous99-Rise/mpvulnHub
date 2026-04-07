@@ -2,24 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 19篇
-  - BruceFeIix: 5篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **威胁情报**: 3篇
-- **安全运营**: 2篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 5篇
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,33 +62,12 @@
 
 ### Doonsec
 
-- [《船山院士网络安全团队×白帽江湖 | 四家企业SRC赏金翻倍争霸赛开启！》](https://mp.weixin.qq.com/s/7aSJTp-g9YBeBWo9o_H5Sg) (发布日期: 2026-04-07)
-- [【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494）](https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA) (发布日期: 2026-04-07)
-- [【威胁情报】2026年4月7日 APT热点威胁样本采集（含HASH IOC）](https://mp.weixin.qq.com/s/_I48_mYveJtZLXyfcRsRLg) (发布日期: 2026-04-07)
-- [一次报复式 0day 漏洞披露背后的 MSRC 信任危机](https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw) (发布日期: 2026-04-07)
-- [【1 day 在野】博硕BGM系统存在敏感信息泄露 附Payload](https://mp.weixin.qq.com/s/_yQPtROjRtw0H3rIbuDKVw) (发布日期: 2026-04-07)
-- [Fortinet发布紧急补丁修复FortiClient零日漏洞](https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ) (发布日期: 2026-04-07)
-- [对用于攻击 CrowdStrike EDR 的 0day 漏洞进行逆向工程](https://mp.weixin.qq.com/s/Wedx3iYuT8vq7D5Z6RVyVw) (发布日期: 2026-04-07)
-- [CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览](https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w) (发布日期: 2026-04-07)
-- [一场利用了AI的新型钓鱼攻击，让我们近距离看看他们的「剧本」](https://mp.weixin.qq.com/s/p-8iKxgSTcI4NXc0sn7gXA) (发布日期: 2026-04-07)
-- [等保标准再扩新篇，数据安全系列公安行标解析（三）](https://mp.weixin.qq.com/s/BFW7-aLbsGJJnZP-AGaOkw) (发布日期: 2026-04-07)
-- [“龙虾”再曝安全漏洞，天融信专家对话央视支招如何做好安全防护](https://mp.weixin.qq.com/s/ZK8P83J6XmDUI1ar3yVL8A) (发布日期: 2026-04-07)
-- [2026 红队实战：AI辅助Web消融打点与Java内存生存艺术](https://mp.weixin.qq.com/s/TXI9XofowV4szw3aHjj2Iw) (发布日期: 2026-04-07)
-- [2026-04-07 最新CVE漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s/_G7VML5rbrw8xsBWjHj6dg) (发布日期: 2026-04-07)
-- [勒索软件”羞辱式”攻击愈演愈烈：2026年已有超2000家企业数据被公开](https://mp.weixin.qq.com/s/tKqTxiQn6eFfpN5DEfoGEA) (发布日期: 2026-04-07)
-- [攻击者利用 Outlook 365 漏洞强制截获 NTLM 哈希](https://mp.weixin.qq.com/s/Vd0GfbodXmvweO5I8CJp5Q) (发布日期: 2026-04-07)
-- [图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞](https://mp.weixin.qq.com/s/2T-79_19Orn9ujAukNePRA) (发布日期: 2026-04-07)
-- [银狐远程桌面优化思路分享（一）——借鉴VNC的远程屏幕实现](https://mp.weixin.qq.com/s/mG4aEL5rrhbUs01C27Irtg) (发布日期: 2026-04-07)
-- [Chamilo存在命令注入漏洞（CNVD-2026-14971、CVE-2025-50196）](https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA) (发布日期: 2026-04-07)
-- [俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s/n0eoWzDSPboGqTS9rJd6Yw) (发布日期: 2026-04-07)
-
-### BruceFeIix
-
-- [ ] [GandCrab和REvil勒索软件团伙头目被锁定](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186234&idx=1&sn=1dd8691df07acc0fbf10899d0fd078b4) (发布日期: 2026-04-07)
-- [ ] [今日（2026年4月6日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92) (发布日期: 2026-04-07)
-- [ ] [【安全圈】俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=1&sn=c6085f131fdc450df2a07abfce2b968b) (发布日期: 2026-04-07)
-- [ ] [【安全圈】3月勒索软件攻势创纪录](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=3&sn=bb43052532ab728e0182f7d8751ce43d) (发布日期: 2026-04-07)
-- [ ] [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa) (发布日期: 2026-04-07)
+- [DudeSuite 漏洞播报 全网漏洞早知道【20260407】](https://mp.weixin.qq.com/s/isveVZn78xSRDmjErKp9ug) (发布日期: 2026-04-07)
+- [暗战利器：16款APT与红队都在用的C2框架，你的防线认识几个？](https://mp.weixin.qq.com/s/5y4frkAieScw-HFcz52Fjg) (发布日期: 2026-04-07)
+- [【专题征稿】智密信道：大语言模型赋能信道加密与安全传输技术](https://mp.weixin.qq.com/s/0Q1kyuGQu5s9t3711_RqMw) (发布日期: 2026-04-07)
+- [先知通用软件漏洞收集及奖励计划第十一期 正式开始！](https://mp.weixin.qq.com/s/ld2uSh1yBMwhdKC30ZN60Q) (发布日期: 2026-04-07)
+- [多国联合行动捣毁全球最大DDoS僵尸网络团伙](https://mp.weixin.qq.com/s/i0-2Vb8OKsvza4Vk3j_ypA) (发布日期: 2026-04-07)
+- [嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动](https://mp.weixin.qq.com/s/b_udKvis2KisM6rDCQKx5Q) (发布日期: 2026-04-07)
 
 
 ## 🎯 威胁详情分析
@@ -103,44 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494） | Doonsec | [https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA](https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA) |
-| 2 | 一次报复式 0day 漏洞披露背后的 MSRC 信任危机 | Doonsec | [https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw](https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw) |
-| 3 | Fortinet发布紧急补丁修复FortiClient零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ](https://mp.weixin.qq.com/s/S7sD1d1VS_ZK-7AjxcZRFQ) |
-| 4 | 对用于攻击 CrowdStrike EDR 的 0day 漏洞进行逆向工程 | Doonsec | [https://mp.weixin.qq.com/s/Wedx3iYuT8vq7D5Z6RVyVw](https://mp.weixin.qq.com/s/Wedx3iYuT8vq7D5Z6RVyVw) |
-| 5 | CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w](https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w) |
-| 6 | “龙虾”再曝安全漏洞，天融信专家对话央视支招如何做好安全防护 | Doonsec | [https://mp.weixin.qq.com/s/ZK8P83J6XmDUI1ar3yVL8A](https://mp.weixin.qq.com/s/ZK8P83J6XmDUI1ar3yVL8A) |
-| 7 | 2026-04-07 最新CVE漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s/_G7VML5rbrw8xsBWjHj6dg](https://mp.weixin.qq.com/s/_G7VML5rbrw8xsBWjHj6dg) |
-| 8 | 攻击者利用 Outlook 365 漏洞强制截获 NTLM 哈希 | Doonsec | [https://mp.weixin.qq.com/s/Vd0GfbodXmvweO5I8CJp5Q](https://mp.weixin.qq.com/s/Vd0GfbodXmvweO5I8CJp5Q) |
-| 9 | 图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2T-79_19Orn9ujAukNePRA](https://mp.weixin.qq.com/s/2T-79_19Orn9ujAukNePRA) |
-| 10 | Chamilo存在命令注入漏洞（CNVD-2026-14971、CVE-2025-50196） | Doonsec | [https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA](https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA) |
-| 11 |  ] [今日（2026年4月6日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Chamilo存在命令注入漏洞（CNVD-2026-14971、CVE-2025-50196） | Doonsec | [https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA](https://mp.weixin.qq.com/s/2IpwEFCCgjtkKUV7JmSvAA) |
+| 1 | DudeSuite 漏洞播报 全网漏洞早知道【20260407】 | Doonsec | [https://mp.weixin.qq.com/s/isveVZn78xSRDmjErKp9ug](https://mp.weixin.qq.com/s/isveVZn78xSRDmjErKp9ug) |
+| 2 | 先知通用软件漏洞收集及奖励计划第十一期 正式开始！ | Doonsec | [https://mp.weixin.qq.com/s/ld2uSh1yBMwhdKC30ZN60Q](https://mp.weixin.qq.com/s/ld2uSh1yBMwhdKC30ZN60Q) |
+| 3 | 嘶吼安全动态｜工信部NVDB平台发布风险提示：利用苹果iOS漏洞的攻击活动激增 黑客利用React2Shell发起自动化凭证窃取活动 | Doonsec | [https://mp.weixin.qq.com/s/b_udKvis2KisM6rDCQKx5Q](https://mp.weixin.qq.com/s/b_udKvis2KisM6rDCQKx5Q) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【威胁情报】CVE-2025-62215 Windows内核本地权限提升 PoC公开（Exploit-DB 52494） | Doonsec | [https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA](https://mp.weixin.qq.com/s/qO5x45u9ZzcOhcElTlIIXA) |
-| 2 | 【威胁情报】2026年4月7日 APT热点威胁样本采集（含HASH IOC） | Doonsec | [https://mp.weixin.qq.com/s/_I48_mYveJtZLXyfcRsRLg](https://mp.weixin.qq.com/s/_I48_mYveJtZLXyfcRsRLg) |
-| 3 | 银狐远程桌面优化思路分享（一）——借鉴VNC的远程屏幕实现 | Doonsec | [https://mp.weixin.qq.com/s/mG4aEL5rrhbUs01C27Irtg](https://mp.weixin.qq.com/s/mG4aEL5rrhbUs01C27Irtg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 《船山院士网络安全团队×白帽江湖 | 四家企业SRC赏金翻倍争霸赛开启！》 | Doonsec | [https://mp.weixin.qq.com/s/7aSJTp-g9YBeBWo9o_H5Sg](https://mp.weixin.qq.com/s/7aSJTp-g9YBeBWo9o_H5Sg) |
-| 2 | 一次报复式 0day 漏洞披露背后的 MSRC 信任危机 | Doonsec | [https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw](https://mp.weixin.qq.com/s/sCljuPajewd5FldFBBcGhw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CNNVD 通报：OpenClaw 高危漏洞集中爆发，未授权可远程控机；ChatGPT 惊现 DNS 隧道数据泄露漏洞，敏感信息可被静默窃取| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w](https://mp.weixin.qq.com/s/Eyuh_bSLVucsumY2_efy7w) |
+| 1 | 暗战利器：16款APT与红队都在用的C2框架，你的防线认识几个？ | Doonsec | [https://mp.weixin.qq.com/s/5y4frkAieScw-HFcz52Fjg](https://mp.weixin.qq.com/s/5y4frkAieScw-HFcz52Fjg) |
 
 
 ## 📁 归档路径
@@ -156,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -166,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-07 05:46:45*
+*生成时间: 2026-04-07 09:02:51*
 *报告工具: 微信文章安全归档系统*
