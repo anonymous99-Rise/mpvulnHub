@@ -2,23 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 27篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 15篇
-- **攻击技术**: 5篇
-- **威胁情报**: 3篇
-- **安全运营**: 2篇
-- **供应链**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,33 +62,13 @@
 
 ### Doonsec
 
-- [《2026年安全圈必看：Keygraph 开源 Shannon，AI 驱动的白盒渗透测试进入新时代》](https://mp.weixin.qq.com/s/qI6jN_6esu3yc5whu3ebTw) (发布日期: 2026-04-08)
-- [AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密](https://mp.weixin.qq.com/s/Jhm87oUYwhY19sQ9aV-Qrw) (发布日期: 2026-04-08)
-- [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/6N5-YS3cslZFSWnqI3N55Q) (发布日期: 2026-04-08)
-- [暗网线报 | 海信美国（Hisense USA）疑遭黑客攻击，顾客数据泄露](https://mp.weixin.qq.com/s/-MShTJrOx2d8jsbqujmHOg) (发布日期: 2026-04-08)
-- [我利用阿里云的JVS Claw自动化完成漏洞发现、利用、验证和专业报告生成](https://mp.weixin.qq.com/s/q9ORxsure0LM3CLr-zThIg) (发布日期: 2026-04-08)
-- [【已复现】漏洞预警 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197)](https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw) (发布日期: 2026-04-08)
-- [CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码](https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA) (发布日期: 2026-04-08)
-- [Docker授权绕过漏洞使主机暴露于潜在攻击者之下](https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw) (发布日期: 2026-04-08)
-- [OpenSSL 多个漏洞暴露 RSA KEM 处理中的敏感数据](https://mp.weixin.qq.com/s/V_g-AuLrA_ouHPjFIFhm5w) (发布日期: 2026-04-08)
-- [【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363](https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ) (发布日期: 2026-04-08)
-- [【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197](https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg) (发布日期: 2026-04-08)
-- [Anthropic的Claude Mythos在主要系统中发现了数千个0day](https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg) (发布日期: 2026-04-08)
-- [【支付漏洞】金额溢出导致的0元购-网络安全](https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A) (发布日期: 2026-04-08)
-- [[工具推荐]BurpSuite 多漏洞自动化探测插件xia_tan (瞎探)](https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA) (发布日期: 2026-04-08)
-- [1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险](https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw) (发布日期: 2026-04-08)
-- [【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）](https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg) (发布日期: 2026-04-08)
-- [直播回顾 | 网安产业一线的AI安全分享：AI原生时代的安全运营、AI需要能“谋”善“断”](https://mp.weixin.qq.com/s/4uz3KAnYy-2ntbNv9jb5Ig) (发布日期: 2026-04-08)
-- [李强签署国务院令 公布《国务院关于产业链供应链安全的规定》（附全文）](https://mp.weixin.qq.com/s/NZRcNOwdqPSSd1hxjNrrkA) (发布日期: 2026-04-08)
-- [李强签署国务院令 公布《国务院关于产业链供应链安全的规定》（附全文）](https://mp.weixin.qq.com/s/xpKRV4L6PbS3ryw4HGeCDw) (发布日期: 2026-04-08)
-- [AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化](https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg) (发布日期: 2026-04-08)
-- [紧急告警？Everything 1.4.1.1022版本存在银狐木马](https://mp.weixin.qq.com/s/Fd6mgN3OjtQLCHl0l6oEvA) (发布日期: 2026-04-08)
-- [速查！Everything疑似存在银狐木马](https://mp.weixin.qq.com/s/u6fOlWhgX9uiHlFy9WJrXg) (发布日期: 2026-04-08)
-- [Nacos 漏洞大起底：你的微服务可能正在\"裸奔\"！](https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A) (发布日期: 2026-04-08)
-- [全民国家安全教育日（4-15）将至，企业安全防线别输在\"人\"这一环](https://mp.weixin.qq.com/s/bc9CHC2zeb_QaIiKnJGjeg) (发布日期: 2026-04-08)
-- [OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安”](https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw) (发布日期: 2026-04-08)
-- [网络安全应急响应工程师(CSERE)白皮书](https://mp.weixin.qq.com/s/8hlB1quJO9ETQ60niVOyHw) (发布日期: 2026-04-08)
-- [注入攻击：一行代码，就能攻破系统？](https://mp.weixin.qq.com/s/PlAvLPj6TTapQ2ElIekw6Q) (发布日期: 2026-04-08)
+- [迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC](https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg) (发布日期: 2026-04-08)
+- [蓝队应急响应工具箱](https://mp.weixin.qq.com/s/64OD5B6TE3Q7A2QrY7EaGw) (发布日期: 2026-04-08)
+- [Vite 任意文件读取漏洞 | CVE-2026-39363复现&amp;研究](https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA) (发布日期: 2026-04-08)
+- [【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)](https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q) (发布日期: 2026-04-08)
+- [【高危漏洞预警】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)](https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw) (发布日期: 2026-04-08)
+- [68个防火墙术语大全，入门基础必须收藏](https://mp.weixin.qq.com/s/00QmC8UzT2pQaKEdFNpgZA) (发布日期: 2026-04-08)
+- [J.a.k.o.b -如何更好的进行漏洞和**研究？](https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g) (发布日期: 2026-04-08)
 
 
 ## 🎯 威胁详情分析
@@ -102,59 +77,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 我利用阿里云的JVS Claw自动化完成漏洞发现、利用、验证和专业报告生成 | Doonsec | [https://mp.weixin.qq.com/s/q9ORxsure0LM3CLr-zThIg](https://mp.weixin.qq.com/s/q9ORxsure0LM3CLr-zThIg) |
-| 2 | 【已复现】漏洞预警 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197) | Doonsec | [https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw](https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw) |
-| 3 | CUPS漏洞链使远程攻击者能够以root用户身份执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA](https://mp.weixin.qq.com/s/Wxubco1gpR9_ESvdn3g3YA) |
-| 4 | Docker授权绕过漏洞使主机暴露于潜在攻击者之下 | Doonsec | [https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw](https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw) |
-| 5 | OpenSSL 多个漏洞暴露 RSA KEM 处理中的敏感数据 | Doonsec | [https://mp.weixin.qq.com/s/V_g-AuLrA_ouHPjFIFhm5w](https://mp.weixin.qq.com/s/V_g-AuLrA_ouHPjFIFhm5w) |
-| 6 | 【漏洞通告】Vite WebSocket 任意文件读取漏洞 CVE-2026-39363 | Doonsec | [https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ](https://mp.weixin.qq.com/s/UWMkSyAAoM00d4-SPSV4XQ) |
-| 7 | 【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197 | Doonsec | [https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg](https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg) |
-| 8 | Anthropic的Claude Mythos在主要系统中发现了数千个0day | Doonsec | [https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg](https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg) |
-| 9 | 【支付漏洞】金额溢出导致的0元购-网络安全 | Doonsec | [https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A](https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A) |
-| 10 | [工具推荐]BurpSuite 多漏洞自动化探测插件xia_tan (瞎探) | Doonsec | [https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA](https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA) |
-| 11 | 1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险 | Doonsec | [https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw](https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw) |
-| 12 | 【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439） | Doonsec | [https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg](https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg) |
-| 13 | AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化 | Doonsec | [https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg](https://mp.weixin.qq.com/s/O-67Av9QgLXzdL56rddHUg) |
-| 14 | Nacos 漏洞大起底：你的微服务可能正在\"裸奔\"！ | Doonsec | [https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A](https://mp.weixin.qq.com/s/FlHyynSyUwdpVZMIxQiB-A) |
-| 15 | OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安” | Doonsec | [https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw](https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw) |
+| 1 | 迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg](https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg) |
+| 2 | Vite 任意文件读取漏洞 | CVE-2026-39363复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA](https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA) |
+| 3 | 【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197) | Doonsec | [https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q](https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q) |
+| 4 | 【高危漏洞预警】Vite WebSocket任意文件读取漏洞(CVE-2026-39363) | Doonsec | [https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw](https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw) |
+| 5 | J.a.k.o.b -如何更好的进行漏洞和**研究？ | Doonsec | [https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g](https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】漏洞预警 | Apache ActiveMQ 远程代码执行漏洞(CVE-2026-34197) | Doonsec | [https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw](https://mp.weixin.qq.com/s/OS0_2yiZBzLXuoiFdjv2pw) |
-| 2 | 【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197 | Doonsec | [https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg](https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg) |
-| 3 | 1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险 | Doonsec | [https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw](https://mp.weixin.qq.com/s/vT_UWVZBSLn6YgMinZRTjw) |
-| 4 | 【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439） | Doonsec | [https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg](https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg) |
-| 5 | 注入攻击：一行代码，就能攻破系统？ | Doonsec | [https://mp.weixin.qq.com/s/PlAvLPj6TTapQ2ElIekw6Q](https://mp.weixin.qq.com/s/PlAvLPj6TTapQ2ElIekw6Q) |
+| 1 | 【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197) | Doonsec | [https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q](https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急告警？Everything 1.4.1.1022版本存在银狐木马 | Doonsec | [https://mp.weixin.qq.com/s/Fd6mgN3OjtQLCHl0l6oEvA](https://mp.weixin.qq.com/s/Fd6mgN3OjtQLCHl0l6oEvA) |
-| 2 | 速查！Everything疑似存在银狐木马 | Doonsec | [https://mp.weixin.qq.com/s/u6fOlWhgX9uiHlFy9WJrXg](https://mp.weixin.qq.com/s/u6fOlWhgX9uiHlFy9WJrXg) |
-| 3 | 网络安全应急响应工程师(CSERE)白皮书 | Doonsec | [https://mp.weixin.qq.com/s/8hlB1quJO9ETQ60niVOyHw](https://mp.weixin.qq.com/s/8hlB1quJO9ETQ60niVOyHw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 挖了半年SRC颗粒无收 | Doonsec | [https://mp.weixin.qq.com/s/6N5-YS3cslZFSWnqI3N55Q](https://mp.weixin.qq.com/s/6N5-YS3cslZFSWnqI3N55Q) |
-| 2 | 直播回顾 | 网安产业一线的AI安全分享：AI原生时代的安全运营、AI需要能“谋”善“断” | Doonsec | [https://mp.weixin.qq.com/s/4uz3KAnYy-2ntbNv9jb5Ig](https://mp.weixin.qq.com/s/4uz3KAnYy-2ntbNv9jb5Ig) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 暗网线报 | 海信美国（Hisense USA）疑遭黑客攻击，顾客数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/-MShTJrOx2d8jsbqujmHOg](https://mp.weixin.qq.com/s/-MShTJrOx2d8jsbqujmHOg) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 李强签署国务院令 公布《国务院关于产业链供应链安全的规定》（附全文） | Doonsec | [https://mp.weixin.qq.com/s/NZRcNOwdqPSSd1hxjNrrkA](https://mp.weixin.qq.com/s/NZRcNOwdqPSSd1hxjNrrkA) |
-| 2 | 李强签署国务院令 公布《国务院关于产业链供应链安全的规定》（附全文） | Doonsec | [https://mp.weixin.qq.com/s/xpKRV4L6PbS3ryw4HGeCDw](https://mp.weixin.qq.com/s/xpKRV4L6PbS3ryw4HGeCDw) |
+| 1 | 蓝队应急响应工具箱 | Doonsec | [https://mp.weixin.qq.com/s/64OD5B6TE3Q7A2QrY7EaGw](https://mp.weixin.qq.com/s/64OD5B6TE3Q7A2QrY7EaGw) |
 
 
 ## 📁 归档路径
@@ -170,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 15 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -180,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-08 13:21:02*
+*生成时间: 2026-04-08 17:02:29*
 *报告工具: 微信文章安全归档系统*
