@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **威胁情报**: 3篇
-- **攻击技术**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **供应链**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,25 +65,21 @@
 
 ### Doonsec
 
-- [CodeScan代码审计平台(认真写的版本）](https://mp.weixin.qq.com/s/yC9Mrv-K4hePbH5S_RX2BQ) (发布日期: 2026-04-10)
-- [CodeScan代码审计平台(认真写的版本）](https://mp.weixin.qq.com/s/_ZPjOndxqZSGwjVlH8t2zA) (发布日期: 2026-04-10)
-- [【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径-物理过程影响攻击](https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ) (发布日期: 2026-04-10)
-- [每周高级威胁情报解读(2026.04.03~04.09)](https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA) (发布日期: 2026-04-10)
-- [AI 驱动的自动化代码安全审计：技术、工具与开放挑战](https://mp.weixin.qq.com/s/l3CG3BfXh7VdZaRf-U97Sg) (发布日期: 2026-04-10)
-- [内网渗透实战靶场lab18｜从Web打点到域控提权，解锁ATT&amp;CK全链路](https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q) (发布日期: 2026-04-10)
-- [论文研读与思考|一种具有前向与后向隐私保护的动态数据集可验证高效对称可搜索加密方案](https://mp.weixin.qq.com/s/kCdci-TZBVHvnBtIdbJ-Dw) (发布日期: 2026-04-10)
-- [【公益译文】2026年国际AI安全报告（四）](https://mp.weixin.qq.com/s/SMJBuBfEivB0zuIeJ7PJYQ) (发布日期: 2026-04-10)
-- [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现](https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q) (发布日期: 2026-04-10)
-- [常见Web漏洞攻击分析](https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA) (发布日期: 2026-04-10)
-- [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现](https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q) (发布日期: 2026-04-10)
-- [360实锤银狐木马新套路！合法远控工具成“帮凶”](https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw) (发布日期: 2026-04-10)
-- [手机“看一眼就死”：CVE-2026-0049 零点击 DoS 实战全复现](https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw) (发布日期: 2026-04-10)
-- [专题·具身智能安全 | 构建全链路防御护航具身智能范式跨越与安全落地](https://mp.weixin.qq.com/s/E5GbzNpiC1JAozLDS2VGMw) (发布日期: 2026-04-10)
-- [【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439)](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) (发布日期: 2026-04-10)
-- [【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616)](https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ) (发布日期: 2026-04-10)
-- [AI提效供应商被黑，致使十余家企业遭数据泄露和勒索攻击](https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g) (发布日期: 2026-04-10)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/06-04/10）](https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA) (发布日期: 2026-04-10)
-- [美国财政部强化数字资产安全治理，推动网络威胁信息共享机制落地](https://mp.weixin.qq.com/s/-E1wpiKwQ75agwEa_j80Ow) (发布日期: 2026-04-10)
+- [一个会规避美国执法监控的僵尸网络](https://mp.weixin.qq.com/s/ntZCqhUWgs5fYb5Cm6rlZA) (发布日期: 2026-04-10)
+- [免费赠送 | 企业办公安全意识培训科普素材（第二十二期）](https://mp.weixin.qq.com/s/87MtWOqnh--jaJFvqdmQAQ) (发布日期: 2026-04-10)
+- [代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) (发布日期: 2026-04-10)
+- [信息安全漏洞周报【第069期】](https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ) (发布日期: 2026-04-10)
+- [CNNVD | 关于Apache ActiveMQ安全漏洞的通报](https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ) (发布日期: 2026-04-10)
+- [React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) (发布日期: 2026-04-10)
+- [TP-Link 设备面临风险，多个安全漏洞可能导致设备被恶意控制](https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA) (发布日期: 2026-04-10)
+- [IRGC旗下组织CyberAv3ngers：从默认密码到ICS网络武器的四年演进](https://mp.weixin.qq.com/s/lvVVBd6O4wSyD-_hJ2NEGg) (发布日期: 2026-04-10)
+- [RDP密码喷洒到全网沦陷：RansomHub勒索软件六日入侵全链路](https://mp.weixin.qq.com/s/X3RUM0T_DATHdnsAJE_geA) (发布日期: 2026-04-10)
+- [等保标准再扩新篇，数据安全系列公安行标解析（一）](https://mp.weixin.qq.com/s/5emy0ya3nl6LwrdxBYh0QQ) (发布日期: 2026-04-10)
+- [GA/T 2394网络安全等级保护数据安全测评要求解析](https://mp.weixin.qq.com/s/HLGeVGdtxanJfwOaOL2YgA) (发布日期: 2026-04-10)
+- [数据安全专辑 | 捷普数据审计与风险控制系统](https://mp.weixin.qq.com/s/k24KgfMO_lHo7oBtQROrmg) (发布日期: 2026-04-10)
+- [数据安全专辑  | 捷普数据库防火墙系统](https://mp.weixin.qq.com/s/swKs97GrrHAWXDLIfWFWiQ) (发布日期: 2026-04-10)
+- [CVE-2026-39363：Vite Dev Server WebSocket 任意文件读取漏洞深度剖析](https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg) (发布日期: 2026-04-10)
+- [提速15倍，穿透120层依赖！悬镜多模态SCA筑牢AI数字供应链安全底座!](https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q) (发布日期: 2026-04-10)
 
 
 ## 🎯 威胁详情分析
@@ -90,34 +88,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径-物理过程影响攻击 | Doonsec | [https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ](https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ) |
-| 2 | 行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现 | Doonsec | [https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q](https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q) |
-| 3 | 常见Web漏洞攻击分析 | Doonsec | [https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA](https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA) |
-| 4 | 行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现 | Doonsec | [https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q](https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q) |
-| 5 | 手机“看一眼就死”：CVE-2026-0049 零点击 DoS 实战全复现 | Doonsec | [https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw](https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw) |
-| 6 | 【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439) | Doonsec | [https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) |
-| 7 | 【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616) | Doonsec | [https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ](https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ) |
+| 1 | 代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) |
+| 2 | 信息安全漏洞周报【第069期】 | Doonsec | [https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ](https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ) |
+| 3 | CNNVD | 关于Apache ActiveMQ安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ](https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ) |
+| 4 | React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) |
+| 5 | TP-Link 设备面临风险，多个安全漏洞可能导致设备被恶意控制 | Doonsec | [https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA](https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA) |
+| 6 | CVE-2026-39363：Vite Dev Server WebSocket 任意文件读取漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg](https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透实战靶场lab18｜从Web打点到域控提权，解锁ATT&amp;CK全链路 | Doonsec | [https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q](https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q) |
-| 2 | 【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439) | Doonsec | [https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) |
+| 1 | 代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 每周高级威胁情报解读(2026.04.03~04.09) | Doonsec | [https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA](https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA) |
-| 2 | 360实锤银狐木马新套路！合法远控工具成“帮凶” | Doonsec | [https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw](https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw) |
-| 3 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/06-04/10） | Doonsec | [https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA](https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA) |
-
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI提效供应商被黑，致使十余家企业遭数据泄露和勒索攻击 | Doonsec | [https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g](https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g) |
+| 1 | React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) |
+| 2 | 提速15倍，穿透120层依赖！悬镜多模态SCA筑牢AI数字供应链安全底座! | Doonsec | [https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q](https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q) |
 
 
 ## 📁 归档路径
@@ -133,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-10 13:12:04*
+*生成时间: 2026-04-10 16:52:25*
 *报告工具: 微信文章安全归档系统*
