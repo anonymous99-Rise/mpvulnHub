@@ -2,17 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 7篇
+- **威胁情报**: 3篇
+- **攻击技术**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,24 +63,25 @@
 
 ### Doonsec
 
-- [生物医药案例｜CDG守护科研数据安全，助力业务发展](https://mp.weixin.qq.com/s/puxq7ldJq0gUU3tiymCUgQ) (发布日期: 2026-04-10)
-- [安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞](https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A) (发布日期: 2026-04-10)
-- [【漏洞通告】Progress ShareFile 远程代码执行漏洞(CVE-2026-2701)](https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A) (发布日期: 2026-04-10)
-- [【漏洞通告】CUPS 本地令牌泄露漏洞(CVE-2026-34990)](https://mp.weixin.qq.com/s/DedNUBMF2z5NGP89tBS4zw) (发布日期: 2026-04-10)
-- [等保2.0数据安全新规，天融信一站式护航合规通关](https://mp.weixin.qq.com/s/Vjj2w1VIX5mO8DB3jzf2MA) (发布日期: 2026-04-10)
-- [一文搞懂内网渗透核心：PTH 哈希传递攻击从原理到攻防](https://mp.weixin.qq.com/s/2erzVvknr65tUvvATKbJeQ) (发布日期: 2026-04-10)
-- [谷歌不再接受AI提交的漏洞检测报告](https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA) (发布日期: 2026-04-10)
-- [能信安：漏洞通告](https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA) (发布日期: 2026-04-10)
-- [梆梆安全汽车信息安全测试系统：让车企合规上路、能力落地](https://mp.weixin.qq.com/s/m8msMgYfkJzpjMYFG-MjaQ) (发布日期: 2026-04-10)
-- [【工具推荐】红队渗透必备｜LeakDetector 自动化信息泄露侦察工具，一键扒出全网敏感数据](https://mp.weixin.qq.com/s/Sb2OCqLcejnK_ru3fCPtdw) (发布日期: 2026-04-10)
-- [AD委派攻击三部曲：从非约束委派到RBCD，一条被低估的域控攻击路径](https://mp.weixin.qq.com/s/62pQpfMEJBcnZ7nSA1GgsA) (发布日期: 2026-04-10)
-- [IBM 报告：2026 年企业安全面临的最大挑战不是 AI，而是它](https://mp.weixin.qq.com/s/1DNBvbSj44d6qoZm_9dz8A) (发布日期: 2026-04-10)
-- [【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周](https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ) (发布日期: 2026-04-10)
-- [Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行](https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA) (发布日期: 2026-04-10)
-- [嘶吼安全动态|八部门联合发布《 科技数据安全管理暂行规定》，4月10日起实施 黑客利用像素级SVG技巧隐藏信用卡窃密代码](https://mp.weixin.qq.com/s/9EKQAzeQbQUN7mV8rjcFsg) (发布日期: 2026-04-10)
-- [你的WinRAR还在“裸奔”？——近三年高危漏洞大盘点](https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ) (发布日期: 2026-04-10)
-- [安全运营一体机，让安全更高效](https://mp.weixin.qq.com/s/8q8nFyBpiKSZ7djtrZy7Og) (发布日期: 2026-04-10)
-- [银狐针对国人伪造Telegram中文语言包传播ValleyRAT](https://mp.weixin.qq.com/s/F606_xZNYkW5FQ57IkyVeg) (发布日期: 2026-04-10)
+- [CodeScan代码审计平台(认真写的版本）](https://mp.weixin.qq.com/s/yC9Mrv-K4hePbH5S_RX2BQ) (发布日期: 2026-04-10)
+- [CodeScan代码审计平台(认真写的版本）](https://mp.weixin.qq.com/s/_ZPjOndxqZSGwjVlH8t2zA) (发布日期: 2026-04-10)
+- [【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径-物理过程影响攻击](https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ) (发布日期: 2026-04-10)
+- [每周高级威胁情报解读(2026.04.03~04.09)](https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA) (发布日期: 2026-04-10)
+- [AI 驱动的自动化代码安全审计：技术、工具与开放挑战](https://mp.weixin.qq.com/s/l3CG3BfXh7VdZaRf-U97Sg) (发布日期: 2026-04-10)
+- [内网渗透实战靶场lab18｜从Web打点到域控提权，解锁ATT&amp;CK全链路](https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q) (发布日期: 2026-04-10)
+- [论文研读与思考|一种具有前向与后向隐私保护的动态数据集可验证高效对称可搜索加密方案](https://mp.weixin.qq.com/s/kCdci-TZBVHvnBtIdbJ-Dw) (发布日期: 2026-04-10)
+- [【公益译文】2026年国际AI安全报告（四）](https://mp.weixin.qq.com/s/SMJBuBfEivB0zuIeJ7PJYQ) (发布日期: 2026-04-10)
+- [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现](https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q) (发布日期: 2026-04-10)
+- [常见Web漏洞攻击分析](https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA) (发布日期: 2026-04-10)
+- [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现](https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q) (发布日期: 2026-04-10)
+- [360实锤银狐木马新套路！合法远控工具成“帮凶”](https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw) (发布日期: 2026-04-10)
+- [手机“看一眼就死”：CVE-2026-0049 零点击 DoS 实战全复现](https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw) (发布日期: 2026-04-10)
+- [专题·具身智能安全 | 构建全链路防御护航具身智能范式跨越与安全落地](https://mp.weixin.qq.com/s/E5GbzNpiC1JAozLDS2VGMw) (发布日期: 2026-04-10)
+- [【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439)](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) (发布日期: 2026-04-10)
+- [【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616)](https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ) (发布日期: 2026-04-10)
+- [AI提效供应商被黑，致使十余家企业遭数据泄露和勒索攻击](https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g) (发布日期: 2026-04-10)
+- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/06-04/10）](https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA) (发布日期: 2026-04-10)
+- [美国财政部强化数字资产安全治理，推动网络威胁信息共享机制落地](https://mp.weixin.qq.com/s/-E1wpiKwQ75agwEa_j80Ow) (发布日期: 2026-04-10)
 
 
 ## 🎯 威胁详情分析
@@ -89,35 +90,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A](https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A) |
-| 2 | 【漏洞通告】Progress ShareFile 远程代码执行漏洞(CVE-2026-2701) | Doonsec | [https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A](https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A) |
-| 3 | 【漏洞通告】CUPS 本地令牌泄露漏洞(CVE-2026-34990) | Doonsec | [https://mp.weixin.qq.com/s/DedNUBMF2z5NGP89tBS4zw](https://mp.weixin.qq.com/s/DedNUBMF2z5NGP89tBS4zw) |
-| 4 | 谷歌不再接受AI提交的漏洞检测报告 | Doonsec | [https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA](https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA) |
-| 5 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA](https://mp.weixin.qq.com/s/FJSroX2VyFFxKZ9buhoIBA) |
-| 6 | 【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周 | Doonsec | [https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ](https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ) |
-| 7 | Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA](https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA) |
-| 8 | 你的WinRAR还在“裸奔”？——近三年高危漏洞大盘点 | Doonsec | [https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ](https://mp.weixin.qq.com/s/YdumXnNsmZqwOgIQ2BmfaQ) |
+| 1 | 【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（二）典型漏洞利用路径-物理过程影响攻击 | Doonsec | [https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ](https://mp.weixin.qq.com/s/BcNCj5AorloAfZ3EFFTeLQ) |
+| 2 | 行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现 | Doonsec | [https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q](https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q) |
+| 3 | 常见Web漏洞攻击分析 | Doonsec | [https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA](https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA) |
+| 4 | 行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现 | Doonsec | [https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q](https://mp.weixin.qq.com/s/PjNXBFe8Eona3ep1vAqm9Q) |
+| 5 | 手机“看一眼就死”：CVE-2026-0049 零点击 DoS 实战全复现 | Doonsec | [https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw](https://mp.weixin.qq.com/s/Pao6vUWx8uSUnrcJ5vYtCw) |
+| 6 | 【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439) | Doonsec | [https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) |
+| 7 | 【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616) | Doonsec | [https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ](https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】Progress ShareFile 远程代码执行漏洞(CVE-2026-2701) | Doonsec | [https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A](https://mp.weixin.qq.com/s/yn04i5qZJ89mv_9cOkKE4A) |
-| 2 | 一文搞懂内网渗透核心：PTH 哈希传递攻击从原理到攻防 | Doonsec | [https://mp.weixin.qq.com/s/2erzVvknr65tUvvATKbJeQ](https://mp.weixin.qq.com/s/2erzVvknr65tUvvATKbJeQ) |
-| 3 | AD委派攻击三部曲：从非约束委派到RBCD，一条被低估的域控攻击路径 | Doonsec | [https://mp.weixin.qq.com/s/62pQpfMEJBcnZ7nSA1GgsA](https://mp.weixin.qq.com/s/62pQpfMEJBcnZ7nSA1GgsA) |
-| 4 | Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA](https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA) |
+| 1 | 内网渗透实战靶场lab18｜从Web打点到域控提权，解锁ATT&amp;CK全链路 | Doonsec | [https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q](https://mp.weixin.qq.com/s/7HzCV7YnDXhK8tpEYyaF2Q) |
+| 2 | 【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439) | Doonsec | [https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g](https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 银狐针对国人伪造Telegram中文语言包传播ValleyRAT | Doonsec | [https://mp.weixin.qq.com/s/F606_xZNYkW5FQ57IkyVeg](https://mp.weixin.qq.com/s/F606_xZNYkW5FQ57IkyVeg) |
+| 1 | 每周高级威胁情报解读(2026.04.03~04.09) | Doonsec | [https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA](https://mp.weixin.qq.com/s/5SY64RmMRbTxl_ttEi4KbA) |
+| 2 | 360实锤银狐木马新套路！合法远控工具成“帮凶” | Doonsec | [https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw](https://mp.weixin.qq.com/s/s9O15olMRl4WUZRYYTdGMw) |
+| 3 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/06-04/10） | Doonsec | [https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA](https://mp.weixin.qq.com/s/Xtd769w9A4k2smHOiQRmDA) |
 
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全运营一体机，让安全更高效 | Doonsec | [https://mp.weixin.qq.com/s/8q8nFyBpiKSZ7djtrZy7Og](https://mp.weixin.qq.com/s/8q8nFyBpiKSZ7djtrZy7Og) |
+| 1 | AI提效供应商被黑，致使十余家企业遭数据泄露和勒索攻击 | Doonsec | [https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g](https://mp.weixin.qq.com/s/vQKr0YIi1rB0yY3vWJYo5g) |
 
 
 ## 📁 归档路径
@@ -133,7 +133,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -143,5 +143,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-10 09:10:24*
+*生成时间: 2026-04-10 13:12:04*
 *报告工具: 微信文章安全归档系统*
