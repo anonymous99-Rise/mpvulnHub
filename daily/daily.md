@@ -2,21 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 12篇
+  - BruceFeIix: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 11篇
+- **威胁情报**: 3篇
+- **攻击技术**: 1篇
 - **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
+- **供应链**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,20 +64,28 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [Linux应急响应脚本--Ashro_linux](https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q) (发布日期: 2026-04-11)
-- [CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘](https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA) (发布日期: 2026-04-11)
-- [28.7亿条！X平台史上最大规模数据泄露，根源何在？](https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ) (发布日期: 2026-04-11)
-- [【提示词注入】AI 安全护栏场景下的绕过实战](https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg) (发布日期: 2026-04-11)
-- [Microsoft Defender权限提升](https://mp.weixin.qq.com/s/d3egoxwDcvllOuu_PU6x_Q) (发布日期: 2026-04-11)
-- [工具分享-Ligolo-MP-内网穿透、端口转发-169](https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A) (发布日期: 2026-04-11)
-- [【真强】勒索软件工具包分析](https://mp.weixin.qq.com/s/azjSN5Rl5cm3nwA7lBiztA) (发布日期: 2026-04-11)
-- [真实环境-顽固挖矿病毒如何处理(从应急-溯源-反打)](https://mp.weixin.qq.com/s/zP14685AGNf7I1CWXdlFsQ) (发布日期: 2026-04-11)
-- [TC260-TR-001-2026《智能驾驶网络和数据安全标准化研究》](https://mp.weixin.qq.com/s/ajjFhLRYT2fAWdQXYBUYFw) (发布日期: 2026-04-11)
-- [谷歌威胁情报小组vCenter 和 ESXi 防御者指南](https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw) (发布日期: 2026-04-11)
-- [霍格沃茨漏洞赏金学院开学啦！BBTI分院帽说：戴上我，让我看透你的挖洞之魂。](https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og) (发布日期: 2026-04-11)
-- [麒麟勒索软件几乎摧毁所有EDR解决方案](https://mp.weixin.qq.com/s/-j9TEuFqws0KmiOQ4ttgzg) (发布日期: 2026-04-11)
+- [ ] [一个会规避美国执法监控的僵尸网络](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186326&idx=1&sn=5ee8f9a64e8bf56763ba180a2a29a84e) (发布日期: 2026-04-11)
+- [ ] [AI编程月产代码从2.5万到25万行：一场被忽视的"漏洞危机"](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=1&sn=25b2c6b4e1fa57bb09f2dda0e8b95549) (发布日期: 2026-04-11)
+- [ ] [AI漏洞发现量激增，HackerOne 宣布暂停开源漏洞奖励计划](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=2&sn=4776ef6ac621cacfac94cd6c25ca0452) (发布日期: 2026-04-11)
+- [ ] [Grafana 修复可泄露用户数据的 AI 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=3&sn=bc8793597b56f124d19e242d87e8273d) (发布日期: 2026-04-11)
+- [ ] [安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505190&idx=1&sn=caf54cd235dbb15d2bb14d2894aae2fa) (发布日期: 2026-04-11)
+- [ ] [AI提效供应商被黑，至少十余家客户遭数据泄露及勒索攻击](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515798&idx=1&sn=3b10077e36ccc546bbf5853acd7c252d) (发布日期: 2026-04-11)
+- [ ] [【公益译文】2026年国际AI安全报告（四）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499813&idx=1&sn=9779aa497940b239063c8e9cabd8b9d0) (发布日期: 2026-04-11)
+- [ ] [D-Link 摄像头栈溢出漏洞复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613208&idx=1&sn=96da0d35d2c028fe1709a7648f2e98aa) (发布日期: 2026-04-11)
+- [ ] [【安全圈】Adobe Acrobat Reader 零日漏洞已被黑客利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075510&idx=3&sn=01f56607f2697cadf824b6f6f3136a1b) (发布日期: 2026-04-11)
+- [ ] [Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=1&sn=814883a513ca83c6f66df42c560504ba) (发布日期: 2026-04-11)
+- [ ] [嘶吼安全动态|八部门联合发布《 科技数据安全管理暂行规定》，4月10日起实施 黑客利用像素级SVG技巧隐藏信用卡窃密代码](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=2&sn=c1a6c4c368bfdd1cfbe5bd92293eaa9d) (发布日期: 2026-04-11)
+- [ ] [每周高级威胁情报解读(2026.04.03 ~04.09)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518318&idx=1&sn=16c8aadedaebd27f33769be4064e6416) (发布日期: 2026-04-11)
+- [ ] [大疆 Pocket 4 将在 4 月 16 日发布；Claude 推出新版 Agent 管理工具；曝 Red Hat 裁撤 500 名中国区员工｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103702&idx=1&sn=45049b7a562568016a3cc2bcdf92bd48) (发布日期: 2026-04-11)
+- [ ] [威胁情报： CPU-Z 软件供应链投毒攻击事件预警](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850812&idx=1&sn=e4f2f189c62ce4727791d6f844968940) (发布日期: 2026-04-11)
+- [ ] [谷歌不再接受AI提交的漏洞检测报告](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542523&idx=1&sn=f43e597f1e4496e6cf39bb4cba48b0b2) (发布日期: 2026-04-11)
+- [ ] [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=1&sn=a7adca59046dbf877ee9430df574890e) (发布日期: 2026-04-11)
+- [ ] [360实锤银狐木马新套路！合法远控工具成“帮凶”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=2&sn=c0c9ce270d492c105fc88257128ae088) (发布日期: 2026-04-11)
+- [ ] [IRGC旗下组织CyberAv3ngers：从默认密码到ICS网络武器的四年演进](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489938&idx=2&sn=57453aac5561da8abcb789f0ebdb22f2) (发布日期: 2026-04-11)
+- [ ] [RDP密码喷洒到全网沦陷：RansomHub勒索软件六日入侵全链路](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489938&idx=3&sn=df1c8847f2e3b76b000ea77a45607dbc) (发布日期: 2026-04-11)
+- [ ] [IRify 智能化改造：AI 代码审计 + Poc 自动生成，安全效率翻倍](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529665&idx=1&sn=d77c2fe3c7b2e4e1c3c4d9bd01753c9a) (发布日期: 2026-04-11)
 
 
 ## 🎯 威胁详情分析
@@ -85,28 +94,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘 | Doonsec | [https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA](https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA) |
-| 2 | 霍格沃茨漏洞赏金学院开学啦！BBTI分院帽说：戴上我，让我看透你的挖洞之魂。 | Doonsec | [https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og](https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og) |
+| 1 |  ] [AI编程月产代码从2.5万到25万行：一场被忽视的"漏洞危机" | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=1&sn=25b2c6b4e1fa57bb09f2dda0e8b95549](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=1&sn=25b2c6b4e1fa57bb09f2dda0e8b95549) |
+| 2 |  ] [AI漏洞发现量激增，HackerOne 宣布暂停开源漏洞奖励计划 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=2&sn=4776ef6ac621cacfac94cd6c25ca0452](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=2&sn=4776ef6ac621cacfac94cd6c25ca0452) |
+| 3 |  ] [Grafana 修复可泄露用户数据的 AI 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=3&sn=bc8793597b56f124d19e242d87e8273d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525729&idx=3&sn=bc8793597b56f124d19e242d87e8273d) |
+| 4 |  ] [安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505190&idx=1&sn=caf54cd235dbb15d2bb14d2894aae2fa](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505190&idx=1&sn=caf54cd235dbb15d2bb14d2894aae2fa) |
+| 5 |  ] [D-Link 摄像头栈溢出漏洞复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613208&idx=1&sn=96da0d35d2c028fe1709a7648f2e98aa](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613208&idx=1&sn=96da0d35d2c028fe1709a7648f2e98aa) |
+| 6 |  ] [【安全圈】Adobe Acrobat Reader 零日漏洞已被黑客利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075510&idx=3&sn=01f56607f2697cadf824b6f6f3136a1b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075510&idx=3&sn=01f56607f2697cadf824b6f6f3136a1b) |
+| 7 |  ] [Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=1&sn=814883a513ca83c6f66df42c560504ba](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=1&sn=814883a513ca83c6f66df42c560504ba) |
+| 8 |  ] [大疆 Pocket 4 将在 4 月 16 日发布；Claude 推出新版 Agent 管理工具；曝 Red Hat 裁撤 500 名中国区员工｜极客早知道 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103702&idx=1&sn=45049b7a562568016a3cc2bcdf92bd48](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103702&idx=1&sn=45049b7a562568016a3cc2bcdf92bd48) |
+| 9 |  ] [谷歌不再接受AI提交的漏洞检测报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542523&idx=1&sn=f43e597f1e4496e6cf39bb4cba48b0b2](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542523&idx=1&sn=f43e597f1e4496e6cf39bb4cba48b0b2) |
+| 10 |  ] [行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=1&sn=a7adca59046dbf877ee9430df574890e](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=1&sn=a7adca59046dbf877ee9430df574890e) |
+| 11 |  ] [IRify 智能化改造：AI 代码审计 + Poc 自动生成，安全效率翻倍 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529665&idx=1&sn=d77c2fe3c7b2e4e1c3c4d9bd01753c9a](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529665&idx=1&sn=d77c2fe3c7b2e4e1c3c4d9bd01753c9a) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【提示词注入】AI 安全护栏场景下的绕过实战 | Doonsec | [https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg](https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg) |
-| 2 | 工具分享-Ligolo-MP-内网穿透、端口转发-169 | Doonsec | [https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A](https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A) |
+| 1 |  ] [Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=1&sn=814883a513ca83c6f66df42c560504ba](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587637&idx=1&sn=814883a513ca83c6f66df42c560504ba) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux应急响应脚本--Ashro_linux | Doonsec | [https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q](https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q) |
-| 2 | 谷歌威胁情报小组vCenter 和 ESXi 防御者指南 | Doonsec | [https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw](https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw) |
+| 1 |  ] [每周高级威胁情报解读(2026.04.03 ~04.09) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518318&idx=1&sn=16c8aadedaebd27f33769be4064e6416](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518318&idx=1&sn=16c8aadedaebd27f33769be4064e6416) |
+| 2 |  ] [威胁情报： CPU-Z 软件供应链投毒攻击事件预警 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850812&idx=1&sn=e4f2f189c62ce4727791d6f844968940](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850812&idx=1&sn=e4f2f189c62ce4727791d6f844968940) |
+| 3 |  ] [360实锤银狐木马新套路！合法远控工具成“帮凶” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=2&sn=c0c9ce270d492c105fc88257128ae088](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585680&idx=2&sn=c0c9ce270d492c105fc88257128ae088) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 28.7亿条！X平台史上最大规模数据泄露，根源何在？ | Doonsec | [https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ](https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ) |
+| 1 |  ] [AI提效供应商被黑，至少十余家客户遭数据泄露及勒索攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515798&idx=1&sn=3b10077e36ccc546bbf5853acd7c252d](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515798&idx=1&sn=3b10077e36ccc546bbf5853acd7c252d) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [威胁情报： CPU-Z 软件供应链投毒攻击事件预警 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850812&idx=1&sn=e4f2f189c62ce4727791d6f844968940](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850812&idx=1&sn=e4f2f189c62ce4727791d6f844968940) |
 
 
 ## 📁 归档路径
@@ -122,8 +146,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +156,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-11 02:21:50*
+*生成时间: 2026-04-11 05:24:16*
 *报告工具: 微信文章安全归档系统*
