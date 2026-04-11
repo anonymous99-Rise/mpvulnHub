@@ -1,22 +1,22 @@
-# 2026-04-10 安全威胁态势报告
+# 2026-04-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **供应链**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 - **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,21 +65,18 @@
 
 ### Doonsec
 
-- [一个会规避美国执法监控的僵尸网络](https://mp.weixin.qq.com/s/ntZCqhUWgs5fYb5Cm6rlZA) (发布日期: 2026-04-10)
-- [免费赠送 | 企业办公安全意识培训科普素材（第二十二期）](https://mp.weixin.qq.com/s/87MtWOqnh--jaJFvqdmQAQ) (发布日期: 2026-04-10)
-- [代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) (发布日期: 2026-04-10)
-- [信息安全漏洞周报【第069期】](https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ) (发布日期: 2026-04-10)
-- [CNNVD | 关于Apache ActiveMQ安全漏洞的通报](https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ) (发布日期: 2026-04-10)
-- [React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) (发布日期: 2026-04-10)
-- [TP-Link 设备面临风险，多个安全漏洞可能导致设备被恶意控制](https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA) (发布日期: 2026-04-10)
-- [IRGC旗下组织CyberAv3ngers：从默认密码到ICS网络武器的四年演进](https://mp.weixin.qq.com/s/lvVVBd6O4wSyD-_hJ2NEGg) (发布日期: 2026-04-10)
-- [RDP密码喷洒到全网沦陷：RansomHub勒索软件六日入侵全链路](https://mp.weixin.qq.com/s/X3RUM0T_DATHdnsAJE_geA) (发布日期: 2026-04-10)
-- [等保标准再扩新篇，数据安全系列公安行标解析（一）](https://mp.weixin.qq.com/s/5emy0ya3nl6LwrdxBYh0QQ) (发布日期: 2026-04-10)
-- [GA/T 2394网络安全等级保护数据安全测评要求解析](https://mp.weixin.qq.com/s/HLGeVGdtxanJfwOaOL2YgA) (发布日期: 2026-04-10)
-- [数据安全专辑 | 捷普数据审计与风险控制系统](https://mp.weixin.qq.com/s/k24KgfMO_lHo7oBtQROrmg) (发布日期: 2026-04-10)
-- [数据安全专辑  | 捷普数据库防火墙系统](https://mp.weixin.qq.com/s/swKs97GrrHAWXDLIfWFWiQ) (发布日期: 2026-04-10)
-- [CVE-2026-39363：Vite Dev Server WebSocket 任意文件读取漏洞深度剖析](https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg) (发布日期: 2026-04-10)
-- [提速15倍，穿透120层依赖！悬镜多模态SCA筑牢AI数字供应链安全底座!](https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q) (发布日期: 2026-04-10)
+- [Linux应急响应脚本--Ashro_linux](https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q) (发布日期: 2026-04-11)
+- [CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘](https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA) (发布日期: 2026-04-11)
+- [28.7亿条！X平台史上最大规模数据泄露，根源何在？](https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ) (发布日期: 2026-04-11)
+- [【提示词注入】AI 安全护栏场景下的绕过实战](https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg) (发布日期: 2026-04-11)
+- [Microsoft Defender权限提升](https://mp.weixin.qq.com/s/d3egoxwDcvllOuu_PU6x_Q) (发布日期: 2026-04-11)
+- [工具分享-Ligolo-MP-内网穿透、端口转发-169](https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A) (发布日期: 2026-04-11)
+- [【真强】勒索软件工具包分析](https://mp.weixin.qq.com/s/azjSN5Rl5cm3nwA7lBiztA) (发布日期: 2026-04-11)
+- [真实环境-顽固挖矿病毒如何处理(从应急-溯源-反打)](https://mp.weixin.qq.com/s/zP14685AGNf7I1CWXdlFsQ) (发布日期: 2026-04-11)
+- [TC260-TR-001-2026《智能驾驶网络和数据安全标准化研究》](https://mp.weixin.qq.com/s/ajjFhLRYT2fAWdQXYBUYFw) (发布日期: 2026-04-11)
+- [谷歌威胁情报小组vCenter 和 ESXi 防御者指南](https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw) (发布日期: 2026-04-11)
+- [霍格沃茨漏洞赏金学院开学啦！BBTI分院帽说：戴上我，让我看透你的挖洞之魂。](https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og) (发布日期: 2026-04-11)
+- [麒麟勒索软件几乎摧毁所有EDR解决方案](https://mp.weixin.qq.com/s/-j9TEuFqws0KmiOQ4ttgzg) (发布日期: 2026-04-11)
 
 
 ## 🎯 威胁详情分析
@@ -88,30 +85,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) |
-| 2 | 信息安全漏洞周报【第069期】 | Doonsec | [https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ](https://mp.weixin.qq.com/s/WUiNfUYkKH9BcJnOc2yfWQ) |
-| 3 | CNNVD | 关于Apache ActiveMQ安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ](https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ) |
-| 4 | React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) |
-| 5 | TP-Link 设备面临风险，多个安全漏洞可能导致设备被恶意控制 | Doonsec | [https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA](https://mp.weixin.qq.com/s/_d3Ax1ilNzMCpGrpPONYhA) |
-| 6 | CVE-2026-39363：Vite Dev Server WebSocket 任意文件读取漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg](https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg) |
+| 1 | CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘 | Doonsec | [https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA](https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA) |
+| 2 | 霍格沃茨漏洞赏金学院开学啦！BBTI分院帽说：戴上我，让我看透你的挖洞之魂。 | Doonsec | [https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og](https://mp.weixin.qq.com/s/mGjruZIgG5qREBAyp2a-og) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 代码审计 | FastJson 1.2.24 反序列化 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg](https://mp.weixin.qq.com/s/fMMkx5K6d_Gyo3Ehlkphqg) |
+| 1 | 【提示词注入】AI 安全护栏场景下的绕过实战 | Doonsec | [https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg](https://mp.weixin.qq.com/s/sthXL9pNGApcZEcB4j17Sg) |
+| 2 | 工具分享-Ligolo-MP-内网穿透、端口转发-169 | Doonsec | [https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A](https://mp.weixin.qq.com/s/hcsn8HEVDw6_0NFm_Bxm0A) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | React 服务器组件新漏洞可能使攻击者触发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg](https://mp.weixin.qq.com/s/aZCyNZxktA4BAeNSDvfezg) |
-| 2 | 提速15倍，穿透120层依赖！悬镜多模态SCA筑牢AI数字供应链安全底座! | Doonsec | [https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q](https://mp.weixin.qq.com/s/_bVjAq4QVZah1WdVlupm_Q) |
+| 1 | Linux应急响应脚本--Ashro_linux | Doonsec | [https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q](https://mp.weixin.qq.com/s/lSkGD5JxqcUhQV1MIsQQ0Q) |
+| 2 | 谷歌威胁情报小组vCenter 和 ESXi 防御者指南 | Doonsec | [https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw](https://mp.weixin.qq.com/s/MhdhZH4LWyA83DAjYHpUDw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 28.7亿条！X平台史上最大规模数据泄露，根源何在？ | Doonsec | [https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ](https://mp.weixin.qq.com/s/tKrA6D1iZlo67tGD_MGpgQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W15/2026-04-10/`
+文章已归档到: `doc/2026/2026-04/2026-W15/2026-04-11/`
 
 ## 🔗 数据源说明
 
@@ -122,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-10 16:52:25*
+*生成时间: 2026-04-11 02:21:50*
 *报告工具: 微信文章安全归档系统*
