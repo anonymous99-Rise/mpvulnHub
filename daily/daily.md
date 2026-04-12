@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +61,15 @@
 
 ### Doonsec
 
-- [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s/0vzO0sE4iMvObwFxi_4qmg) (发布日期: 2026-04-12)
-- [【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析](https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A) (发布日期: 2026-04-12)
-- [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s/LzfQOtNIxvh4-4WTxKCaHg) (发布日期: 2026-04-12)
-- [全球暗网威胁情报周报（2026年4月6日–4月12日）](https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ) (发布日期: 2026-04-12)
-- [虚假数据注入式攻击下无人水面船舶自适应神经输出反馈轨迹跟踪控制](https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw) (发布日期: 2026-04-12)
-- [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg) (发布日期: 2026-04-12)
-- [提示词注入 handbook 发布，AI 安全入门的最佳时间](https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ) (发布日期: 2026-04-12)
+- [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA) (发布日期: 2026-04-12)
+- [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s/UDf_TeEs0AhRbHzd2J6bDQ) (发布日期: 2026-04-12)
+- [工程化实战思维在蓝队技战术中的应用 一](https://mp.weixin.qq.com/s/_tp-6yGHDFijnk6_rEiryA) (发布日期: 2026-04-12)
+- [工程化实战思维在蓝队技战术中的应用 二](https://mp.weixin.qq.com/s/YdePx60avfl4VkQN6pCgaw) (发布日期: 2026-04-12)
+- [工程化实战思维在蓝队技战术中的应用 三](https://mp.weixin.qq.com/s/ur2MrxBUSZHovFyGtwmGxw) (发布日期: 2026-04-12)
+- [【代码审计】WebGoat靶场全关卡审计教程](https://mp.weixin.qq.com/s/G45kZWkKqv70fJEBsq463g) (发布日期: 2026-04-12)
+- [规模化 SAST &amp; SCA 漏洞修复](https://mp.weixin.qq.com/s/7vwpX9F3fNcS8ux-JJ_cUA) (发布日期: 2026-04-12)
+- [红队快速扫描js文件检查工具——JSAPIscan](https://mp.weixin.qq.com/s/S8w9eeKUeAYUuYXNOXV2EQ) (发布日期: 2026-04-12)
+- [CISSP考试专题：2025年三大热门考点解析与模拟题](https://mp.weixin.qq.com/s/sGIehes9EjiIgeSMtoKSbg) (发布日期: 2026-04-12)
 
 
 ## 🎯 威胁详情分析
@@ -78,26 +78,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析 | Doonsec | [https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A](https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 虚假数据注入式攻击下无人水面船舶自适应神经输出反馈轨迹跟踪控制 | Doonsec | [https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw](https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw) |
-| 2 | 提示词注入 handbook 发布，AI 安全入门的最佳时间 | Doonsec | [https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ](https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 全球暗网威胁情报周报（2026年4月6日–4月12日） | Doonsec | [https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ](https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响 | Doonsec | [https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg](https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg) |
+| 1 | 又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵 | Doonsec | [https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA](https://mp.weixin.qq.com/s/PD2sUcj3NQytfBpAdC67aA) |
+| 2 | AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时 | Doonsec | [https://mp.weixin.qq.com/s/UDf_TeEs0AhRbHzd2J6bDQ](https://mp.weixin.qq.com/s/UDf_TeEs0AhRbHzd2J6bDQ) |
+| 3 | 规模化 SAST &amp; SCA 漏洞修复 | Doonsec | [https://mp.weixin.qq.com/s/7vwpX9F3fNcS8ux-JJ_cUA](https://mp.weixin.qq.com/s/7vwpX9F3fNcS8ux-JJ_cUA) |
 
 
 ## 📁 归档路径
@@ -113,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-12 13:02:36*
+*生成时间: 2026-04-12 16:39:47*
 *报告工具: 微信文章安全归档系统*
