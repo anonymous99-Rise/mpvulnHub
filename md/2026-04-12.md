@@ -2,16 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,10 +63,41 @@
 
 ### Doonsec
 
-- [浅析文件上传之配置文件利用](https://mp.weixin.qq.com/s/YA8JIEflFjsfKJzfEATMWA) (发布日期: 2026-04-12)
+- [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s/0vzO0sE4iMvObwFxi_4qmg) (发布日期: 2026-04-12)
+- [【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析](https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A) (发布日期: 2026-04-12)
+- [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s/LzfQOtNIxvh4-4WTxKCaHg) (发布日期: 2026-04-12)
+- [全球暗网威胁情报周报（2026年4月6日–4月12日）](https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ) (发布日期: 2026-04-12)
+- [虚假数据注入式攻击下无人水面船舶自适应神经输出反馈轨迹跟踪控制](https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw) (发布日期: 2026-04-12)
+- [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg) (发布日期: 2026-04-12)
+- [提示词注入 handbook 发布，AI 安全入门的最佳时间](https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ) (发布日期: 2026-04-12)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【工业控制系统网络安全系列课程】第2课-工业控制系统的网络安全风险-过程控制漏洞利用（四）真实案例分析 | Doonsec | [https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A](https://mp.weixin.qq.com/s/lV3b77o9XjT7PPADKpWy7A) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 虚假数据注入式攻击下无人水面船舶自适应神经输出反馈轨迹跟踪控制 | Doonsec | [https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw](https://mp.weixin.qq.com/s/cxt0Ns5bCgkKQzfDoSzXXw) |
+| 2 | 提示词注入 handbook 发布，AI 安全入门的最佳时间 | Doonsec | [https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ](https://mp.weixin.qq.com/s/SxyvOQ5roB7wlWnjHRE8AQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球暗网威胁情报周报（2026年4月6日–4月12日） | Doonsec | [https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ](https://mp.weixin.qq.com/s/QOI8yUEyFC5NHtLxF_NHmQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响 | Doonsec | [https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg](https://mp.weixin.qq.com/s/mldRvnoV6V2vo-EOw59RQg) |
 
 
 ## 📁 归档路径
@@ -79,8 +113,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-12 08:49:33*
+*生成时间: 2026-04-12 13:02:36*
 *报告工具: 微信文章安全归档系统*
