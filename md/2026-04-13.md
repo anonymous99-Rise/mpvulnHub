@@ -2,23 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 20
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 13篇
-  - BruceFeIix: 7篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,29 +64,21 @@
 
 ### Doonsec
 
-- [Claude Code源码泄露：一个低危漏洞，暴露了一个大问题](https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ) (发布日期: 2026-04-13)
-- [打开PDF即中招！Adobe零日漏洞4月在野猎杀](https://mp.weixin.qq.com/s/IFZSDzu9bnfJ8VnR8NpWSg) (发布日期: 2026-04-13)
-- [【深度研判】2026年4月8日美国驻贝鲁特大使馆遭袭事件情报分析报告](https://mp.weixin.qq.com/s/40-6mlOkUp3Xtu8_Gbtk0g) (发布日期: 2026-04-13)
-- [TP-Link路由器一次曝出5个漏洞，家庭和小办公网关再次站上风口](https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA) (发布日期: 2026-04-13)
-- [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告](https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg) (发布日期: 2026-04-13)
-- [【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告](https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA) (发布日期: 2026-04-13)
-- [EarthEmbeddingExplorer：零门槛、多模态，像搜图一样探索全球卫星影像](https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g) (发布日期: 2026-04-13)
-- [一份完整的OWASP LLM Top 10安全评估报告（内含详细的测试用例）](https://mp.weixin.qq.com/s/3Ra6SQxwtBwfDnLOv-jgoA) (发布日期: 2026-04-13)
-- [【深度研判】2026年4月8日美国驻贝鲁特大使馆遭袭事件情报分析报告](https://mp.weixin.qq.com/s/O0LJlaWN5w_swWFl21-oZA) (发布日期: 2026-04-13)
-- [文件上传漏洞总结](https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g) (发布日期: 2026-04-13)
-- [【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件](https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA) (发布日期: 2026-04-13)
-- [无需Burp的企业SRC实战案例](https://mp.weixin.qq.com/s/GT2AeAJU1H16PWDKzRhmMQ) (发布日期: 2026-04-13)
-- [Nginx文件解析漏洞](https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA) (发布日期: 2026-04-13)
-
-### BruceFeIix
-
-- [ ] [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495243&idx=1&sn=d863eee8a987d434f3a2f3a2b5b608be) (发布日期: 2026-04-13)
-- [ ] [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd) (发布日期: 2026-04-13)
-- [ ] [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf) (发布日期: 2026-04-13)
-- [ ] [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67) (发布日期: 2026-04-13)
-- [ ] [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d) (发布日期: 2026-04-13)
-- [ ] [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24) (发布日期: 2026-04-13)
-- [ ] [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5) (发布日期: 2026-04-13)
+- [一个具有黑客感的无线开源情报与信号情报平台](https://mp.weixin.qq.com/s/5QKbgR8ASh66qTgK8Bxg2Q) (发布日期: 2026-04-13)
+- [若依 RuoYi4.6.0 代码审计](https://mp.weixin.qq.com/s/uUWuqcCs1vpdOqHBLrj17A) (发布日期: 2026-04-13)
+- [【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654](https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ) (发布日期: 2026-04-13)
+- [【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621)](https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg) (发布日期: 2026-04-13)
+- [某次SQL注入绕WAF的经历](https://mp.weixin.qq.com/s/cMLYUGvnLJFHtagcyT2KOg) (发布日期: 2026-04-13)
+- [记一次渗透测试中的前端调试](https://mp.weixin.qq.com/s/KZ71wcVUo_UrY9zRZ6KPbw) (发布日期: 2026-04-13)
+- [如何不再纠结单引号，并真正打破 SQL 语法（SQL 注入）](https://mp.weixin.qq.com/s/20-pZ2nWDYOjta-WsM1lyw) (发布日期: 2026-04-13)
+- [工具分享 | FLUX-Web安全扫描工具 v5.4.2更新](https://mp.weixin.qq.com/s/QeZHOAuJcnO1xOFjMy6-Kw) (发布日期: 2026-04-13)
+- [从漏洞到规则：安全知识自动提取的初步探索](https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q) (发布日期: 2026-04-13)
+- [2026年CISP讲师选拔报名通知](https://mp.weixin.qq.com/s/76RewXqxFUiw0QxOYoHiQg) (发布日期: 2026-04-13)
+- [Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒](https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA) (发布日期: 2026-04-13)
+- [天融信连续四年获评“优质工业安全服务商”，新能源安全项目同步摘得示范案例](https://mp.weixin.qq.com/s/oyhYZWFZBWqqaMDjT2dovQ) (发布日期: 2026-04-13)
+- [【成功复现】Nginx溢出文件读写漏洞(CVE-2026-27654)](https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ) (发布日期: 2026-04-13)
+- [红队在 Windows 日志的痕迹清理过程，蓝队溯源反制解决方案](https://mp.weixin.qq.com/s/5ee_xw1ITMzbpYzvw5lHhA) (发布日期: 2026-04-13)
+- [山石网科防火墙入选《中国（香港）网络安全竞争力调研报告》推荐厂商](https://mp.weixin.qq.com/s/hj2zu00AO7DSXWbla-EbPA) (发布日期: 2026-04-13)
 
 
 ## 🎯 威胁详情分析
@@ -98,36 +87,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Claude Code源码泄露：一个低危漏洞，暴露了一个大问题 | Doonsec | [https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ](https://mp.weixin.qq.com/s/mN3CDNEWSATcRTUp0SF5FQ) |
-| 2 | 打开PDF即中招！Adobe零日漏洞4月在野猎杀 | Doonsec | [https://mp.weixin.qq.com/s/IFZSDzu9bnfJ8VnR8NpWSg](https://mp.weixin.qq.com/s/IFZSDzu9bnfJ8VnR8NpWSg) |
-| 3 | TP-Link路由器一次曝出5个漏洞，家庭和小办公网关再次站上风口 | Doonsec | [https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA](https://mp.weixin.qq.com/s/oCXmFaAqmbL-Esk_dXJ3jA) |
-| 4 | 【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg](https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg) |
-| 5 | 【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA](https://mp.weixin.qq.com/s/ALRmxBvIKyttLJqYM7jBOA) |
-| 6 | EarthEmbeddingExplorer：零门槛、多模态，像搜图一样探索全球卫星影像 | Doonsec | [https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g](https://mp.weixin.qq.com/s/BZ9DwQ17qxK-h9JBqcXM0g) |
-| 7 | 文件上传漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g](https://mp.weixin.qq.com/s/vVvsiHE0tfMLBiuofErh-g) |
-| 8 | 【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件 | Doonsec | [https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA](https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA) |
-| 9 | Nginx文件解析漏洞 | Doonsec | [https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA](https://mp.weixin.qq.com/s/QuaQeQJXu7sOpBHAGYS1aA) |
-| 10 |  ] [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf) |
-| 11 |  ] [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67) |
-| 12 |  ] [规模化 SAST & SCA 漏洞修复 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d) |
+| 1 | 【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654 | Doonsec | [https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ](https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ) |
+| 2 | 【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621) | Doonsec | [https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg](https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg) |
+| 3 | 从漏洞到规则：安全知识自动提取的初步探索 | Doonsec | [https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q](https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q) |
+| 4 | Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒 | Doonsec | [https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA](https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA) |
+| 5 | 【成功复现】Nginx溢出文件读写漏洞(CVE-2026-27654) | Doonsec | [https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ](https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg](https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg) |
+| 1 | 【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621) | Doonsec | [https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg](https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg) |
+| 2 | 某次SQL注入绕WAF的经历 | Doonsec | [https://mp.weixin.qq.com/s/cMLYUGvnLJFHtagcyT2KOg](https://mp.weixin.qq.com/s/cMLYUGvnLJFHtagcyT2KOg) |
+| 3 | 如何不再纠结单引号，并真正打破 SQL 语法（SQL 注入） | Doonsec | [https://mp.weixin.qq.com/s/20-pZ2nWDYOjta-WsM1lyw](https://mp.weixin.qq.com/s/20-pZ2nWDYOjta-WsM1lyw) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 无需Burp的企业SRC实战案例 | Doonsec | [https://mp.weixin.qq.com/s/GT2AeAJU1H16PWDKzRhmMQ](https://mp.weixin.qq.com/s/GT2AeAJU1H16PWDKzRhmMQ) |
-
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd) |
+| 1 | Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒 | Doonsec | [https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA](https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA) |
 
 
 ## 📁 归档路径
@@ -143,7 +121,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -153,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-13 06:14:13*
+*生成时间: 2026-04-13 09:55:22*
 *报告工具: 微信文章安全归档系统*
