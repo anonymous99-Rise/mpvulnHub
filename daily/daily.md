@@ -2,22 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 5篇
-- **威胁情报**: 2篇
-- **信息泄露**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,72 +61,25 @@
 
 ### Doonsec
 
-- [漏洞挖掘 | 一次数据库是Hive的SQL注入](https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw) (发布日期: 2026-04-13)
-- [漏洞预警：LiteLLM未鉴权命令执行](https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ) (发布日期: 2026-04-13)
-- [玲珑安全第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”](https://mp.weixin.qq.com/s/pbSUX7gtkvSBJWzNQZwIdw) (发布日期: 2026-04-13)
-- [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在](https://mp.weixin.qq.com/s/17LunUtJ4TM5oMNSlz7PIg) (发布日期: 2026-04-13)
-- [免费赠送 | 415国家安全日-安全意识科普海报](https://mp.weixin.qq.com/s/Z930625e7bv1-B4bKDb10Q) (发布日期: 2026-04-13)
-- [AI提效供应商被黑，至少十余家客户遭数据泄露及勒索攻击](https://mp.weixin.qq.com/s/70NVEE2JUK1RI3UGkKBwjg) (发布日期: 2026-04-13)
-- [Apache Tomcat 漏洞使加密拦截器绕过成为可能](https://mp.weixin.qq.com/s/id7KduNRt00R00JnKT2eFg) (发布日期: 2026-04-13)
-- [关键的WordPress插件漏洞让攻击者绕过认证并获得管理员访问权限](https://mp.weixin.qq.com/s/X_Dgl6iGIAZLdAE0x1GL-A) (发布日期: 2026-04-13)
-- [APT37 利用 Facebook、Telegram 与木马化安装包发起新一轮定向网络攻击](https://mp.weixin.qq.com/s/TihNB_o3a7aH-IEFpWDTAQ) (发布日期: 2026-04-13)
-- [XChat｜一款集文件共享、聊天与Markdown编辑于一体的内网协作工具](https://mp.weixin.qq.com/s/jTrXy4FyTUVLunxsX2HPTw) (发布日期: 2026-04-13)
-- [“下一代Python笔记本”marimo曝高危漏洞：无需密码，连上WebSocket即可远程控制服务器 (CVE-2026-39987)](https://mp.weixin.qq.com/s/0MPD0zYdT43IM4GCw-7CRg) (发布日期: 2026-04-13)
-- [Adobe 紧急修复已遭利用的 0day](https://mp.weixin.qq.com/s/OH0X9hHdRP-8djW-row_0w) (发布日期: 2026-04-13)
-- [Marimo 高危预认证 RCE 漏洞已遭活跃利用](https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA) (发布日期: 2026-04-13)
-- [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖](https://mp.weixin.qq.com/s/7PQtfrLnn01YqqNFjgzoHg) (发布日期: 2026-04-13)
-- [网络安全标准化技术研究报告 | 智能驾驶网络和数据安全标准化研究（附下载）](https://mp.weixin.qq.com/s/k7VWCda29lxHU_5Xn6XAJA) (发布日期: 2026-04-13)
-- [副会长动态 | 绿盟科技通过中国信通院OpenClaw类智能体安全防护产品能力评测](https://mp.weixin.qq.com/s/leNfG-ApcO37o9hTWhkEkg) (发布日期: 2026-04-13)
-- [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖](https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA) (发布日期: 2026-04-13)
-- [专题·具身智能安全 | 具身智能安全风险分析与应对措施建议](https://mp.weixin.qq.com/s/Uu2yVqNXZdqIzOreE43psQ) (发布日期: 2026-04-13)
-- [MyBatis框架SQL注入漏洞深度剖析](https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ) (发布日期: 2026-04-13)
-- [人工智能在SOC中应用的两个真实案例](https://mp.weixin.qq.com/s/sas1bkm9fngin8t6BjuuLw) (发布日期: 2026-04-13)
-- [从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据](https://mp.weixin.qq.com/s/AbAhCQXnUW2y-B1kuhiv3A) (发布日期: 2026-04-13)
-- [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在](https://mp.weixin.qq.com/s/EWo9rapf7r-NAb9eVVYXnw) (发布日期: 2026-04-13)
+- [动态｜国务院令 公布《国务院关于产业链供应链安全的规定》（附全文）](https://mp.weixin.qq.com/s/6FwKJ-Urgm6VhVlvkRZYig) (发布日期: 2026-04-13)
+- [丝滑渗透测试之有趣的注册逻辑](https://mp.weixin.qq.com/s/17mVrWcnk4bafTDJx2CDeQ) (发布日期: 2026-04-13)
+- [重温 “4.19” 重要讲话十周年系列(1) : 2026年安全运营实战人才 “菁英计划” 培训班启动会成功召开](https://mp.weixin.qq.com/s/ffpjfzx9JLwdoEwvruzveQ) (发布日期: 2026-04-13)
+- [最新社交工程攻击：用 Facebook 加好友投递 RokRAT 远程木马](https://mp.weixin.qq.com/s/caz8nyiJ0cEptXNFXP8u0g) (发布日期: 2026-04-13)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞挖掘 | 一次数据库是Hive的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw](https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw) |
-| 2 | 漏洞预警：LiteLLM未鉴权命令执行 | Doonsec | [https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ](https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ) |
-| 3 | 玲珑安全第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会” | Doonsec | [https://mp.weixin.qq.com/s/pbSUX7gtkvSBJWzNQZwIdw](https://mp.weixin.qq.com/s/pbSUX7gtkvSBJWzNQZwIdw) |
-| 4 | Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在 | Doonsec | [https://mp.weixin.qq.com/s/17LunUtJ4TM5oMNSlz7PIg](https://mp.weixin.qq.com/s/17LunUtJ4TM5oMNSlz7PIg) |
-| 5 | Apache Tomcat 漏洞使加密拦截器绕过成为可能 | Doonsec | [https://mp.weixin.qq.com/s/id7KduNRt00R00JnKT2eFg](https://mp.weixin.qq.com/s/id7KduNRt00R00JnKT2eFg) |
-| 6 | 关键的WordPress插件漏洞让攻击者绕过认证并获得管理员访问权限 | Doonsec | [https://mp.weixin.qq.com/s/X_Dgl6iGIAZLdAE0x1GL-A](https://mp.weixin.qq.com/s/X_Dgl6iGIAZLdAE0x1GL-A) |
-| 7 | “下一代Python笔记本”marimo曝高危漏洞：无需密码，连上WebSocket即可远程控制服务器 (CVE-2026-39987) | Doonsec | [https://mp.weixin.qq.com/s/0MPD0zYdT43IM4GCw-7CRg](https://mp.weixin.qq.com/s/0MPD0zYdT43IM4GCw-7CRg) |
-| 8 | Adobe 紧急修复已遭利用的 0day | Doonsec | [https://mp.weixin.qq.com/s/OH0X9hHdRP-8djW-row_0w](https://mp.weixin.qq.com/s/OH0X9hHdRP-8djW-row_0w) |
-| 9 | Marimo 高危预认证 RCE 漏洞已遭活跃利用 | Doonsec | [https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA](https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA) |
-| 10 | 筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖 | Doonsec | [https://mp.weixin.qq.com/s/7PQtfrLnn01YqqNFjgzoHg](https://mp.weixin.qq.com/s/7PQtfrLnn01YqqNFjgzoHg) |
-| 11 | 筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖 | Doonsec | [https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA](https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA) |
-| 12 | MyBatis框架SQL注入漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ](https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ) |
-| 13 | Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在 | Doonsec | [https://mp.weixin.qq.com/s/EWo9rapf7r-NAb9eVVYXnw](https://mp.weixin.qq.com/s/EWo9rapf7r-NAb9eVVYXnw) |
+| 1 | 重温 “4.19” 重要讲话十周年系列(1) : 2026年安全运营实战人才 “菁英计划” 培训班启动会成功召开 | Doonsec | [https://mp.weixin.qq.com/s/ffpjfzx9JLwdoEwvruzveQ](https://mp.weixin.qq.com/s/ffpjfzx9JLwdoEwvruzveQ) |
 
-### 攻击技术
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞挖掘 | 一次数据库是Hive的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw](https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw) |
-| 2 | 漏洞预警：LiteLLM未鉴权命令执行 | Doonsec | [https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ](https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ) |
-| 3 | XChat｜一款集文件共享、聊天与Markdown编辑于一体的内网协作工具 | Doonsec | [https://mp.weixin.qq.com/s/jTrXy4FyTUVLunxsX2HPTw](https://mp.weixin.qq.com/s/jTrXy4FyTUVLunxsX2HPTw) |
-| 4 | Marimo 高危预认证 RCE 漏洞已遭活跃利用 | Doonsec | [https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA](https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA) |
-| 5 | MyBatis框架SQL注入漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ](https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | APT37 利用 Facebook、Telegram 与木马化安装包发起新一轮定向网络攻击 | Doonsec | [https://mp.weixin.qq.com/s/TihNB_o3a7aH-IEFpWDTAQ](https://mp.weixin.qq.com/s/TihNB_o3a7aH-IEFpWDTAQ) |
-| 2 | 从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | Doonsec | [https://mp.weixin.qq.com/s/AbAhCQXnUW2y-B1kuhiv3A](https://mp.weixin.qq.com/s/AbAhCQXnUW2y-B1kuhiv3A) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AI提效供应商被黑，至少十余家客户遭数据泄露及勒索攻击 | Doonsec | [https://mp.weixin.qq.com/s/70NVEE2JUK1RI3UGkKBwjg](https://mp.weixin.qq.com/s/70NVEE2JUK1RI3UGkKBwjg) |
+| 1 | 动态｜国务院令 公布《国务院关于产业链供应链安全的规定》（附全文） | Doonsec | [https://mp.weixin.qq.com/s/6FwKJ-Urgm6VhVlvkRZYig](https://mp.weixin.qq.com/s/6FwKJ-Urgm6VhVlvkRZYig) |
 
 
 ## 📁 归档路径
@@ -147,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -157,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-13 13:26:49*
+*生成时间: 2026-04-13 17:03:42*
 *报告工具: 微信文章安全归档系统*
