@@ -2,23 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 32
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 13篇
-  - BruceFeIix: 19篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 16篇
-- **攻击技术**: 7篇
-- **威胁情报**: 2篇
-- **安全运营**: 2篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,41 +63,9 @@
 
 ### Doonsec
 
-- [纵横论坛 | “内网漫游指南”主题讲座](https://mp.weixin.qq.com/s/mrwt9U00dOURANSRlQ916w) (发布日期: 2026-04-14)
-- [行业资讯：某图书馆网络安全服务项目，新疆雪浪数环38.58万中](https://mp.weixin.qq.com/s/XxOOz-6P6kq1LFAyJdaMfQ) (发布日期: 2026-04-14)
-- [行业资讯：某单位息化基础设施及网络安全运维项目，北京正安时代180.07万中](https://mp.weixin.qq.com/s/VD5cffSXwNlIdU7hexfjNg) (发布日期: 2026-04-14)
-- [安卓应用安全防护逆向分析报告：平安安全线](https://mp.weixin.qq.com/s/4BNTaop0kOHIYPw6IEBXgg) (发布日期: 2026-04-14)
-- [响应快人一步！安星数字员工上岗，安全服务进入“人机协同”模式](https://mp.weixin.qq.com/s/EyH-yQZOuAXX-6pVQjUx1w) (发布日期: 2026-04-14)
-- [认证培训丨| CISP培训进行中，这份参训指南请收好！](https://mp.weixin.qq.com/s/K9cDJJityhwY_nYiwc50jA) (发布日期: 2026-04-14)
-- [一次二进制RCE漏洞审计](https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA) (发布日期: 2026-04-14)
-- [代码审计 一次SQL注入漏洞挖掘](https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw) (发布日期: 2026-04-14)
-- [DeepPhish反钓鱼训练平台：打造企业\"人肉防火墙\"](https://mp.weixin.qq.com/s/bjWr_nTLJuvXGcs_t6Gmvw) (发布日期: 2026-04-14)
-- [当网站被黑时，应该怎么排查问题和漏洞](https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w) (发布日期: 2026-04-14)
-- [TOPSRC 2026年第一季度奖励公告](https://mp.weixin.qq.com/s/eZs9QqwIfFzM86DFG2CIJA) (发布日期: 2026-04-14)
-- [第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”](https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow) (发布日期: 2026-04-14)
-- [效率直接翻倍！AI 安全智能体数字员工，让安全运营更简单！](https://mp.weixin.qq.com/s/XbMYXgWl_CZdVqgsPwrAdg) (发布日期: 2026-04-14)
-
-### BruceFeIix
-
-- [ ] [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c) (发布日期: 2026-04-14)
-- [ ] [【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=2&sn=20c8c942f3ee8f9b79a0f2ce1fea5a0d) (发布日期: 2026-04-14)
-- [ ] [Adobe 紧急修复已遭利用的 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7) (发布日期: 2026-04-14)
-- [ ] [Marimo 高危预认证 RCE 漏洞已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4) (发布日期: 2026-04-14)
-- [ ] [银狐名单类最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496650&idx=1&sn=8c41fcd3aebad10eae54494e97188e16) (发布日期: 2026-04-14)
-- [ ] [渗透测试：褪去光鲜外衣后的真实图景与职业思考](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141018&idx=1&sn=277a7e6e06d2bd36e297e79ff4e4c7a7) (发布日期: 2026-04-14)
-- [ ] [【安全圈】国际联合行动识别超 2 万名加密货币诈骗受害者](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075617&idx=2&sn=e0977dea287f90ca2172e2f363610190) (发布日期: 2026-04-14)
-- [ ] [【安全圈】十亿条 CISA KEV 修复记录分析揭示人力安全模式的极限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075617&idx=3&sn=37b38b70dab479d02d3f08d8edad460b) (发布日期: 2026-04-14)
-- [ ] [威胁情报生态系统的产出与共享](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488610&idx=1&sn=de9310c0ae3396cb8c0cd9d5559c3f40) (发布日期: 2026-04-14)
-- [ ] [AI安全案例分析 | Grafana 平台零点击间接注入威胁](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494946&idx=1&sn=cfb436b16c06bf1e2fda6abfc1d7a050) (发布日期: 2026-04-14)
-- [ ] [【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525295&idx=1&sn=57c607219c1557cadb6de52ccf6c2dc0) (发布日期: 2026-04-14)
-- [ ] [从漏洞到规则：安全知识自动提取的初步探索](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30) (发布日期: 2026-04-14)
-- [ ] [【深度研判】2026年4月8日美国驻贝鲁特大使馆遭袭事件情报分析报告](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=2&sn=620b20cde280db411c119e398b6d9033) (发布日期: 2026-04-14)
-- [ ] [Anthropic：你们所有的零日漏洞，都归 Mythos 所有](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e) (发布日期: 2026-04-14)
-- [ ] [CNVD漏洞周报2026年第14期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75) (发布日期: 2026-04-14)
-- [ ] [上周关注度较高的产品安全漏洞(20260406-20260412)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1) (发布日期: 2026-04-14)
-- [ ] [漏洞预警：LiteLLM未鉴权命令执行](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410) (发布日期: 2026-04-14)
-- [ ] [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b) (发布日期: 2026-04-14)
-- [ ] [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b) (发布日期: 2026-04-14)
+- [[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞](https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA) (发布日期: 2026-04-14)
+- [Axios爆SSRF漏洞，特定条件下可导致RCE](https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw) (发布日期: 2026-04-14)
+- [“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人](https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw) (发布日期: 2026-04-14)
 
 
 ## 🎯 威胁详情分析
@@ -110,48 +74,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一次二进制RCE漏洞审计 | Doonsec | [https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA](https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA) |
-| 2 | 代码审计 一次SQL注入漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw](https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw) |
-| 3 | 当网站被黑时，应该怎么排查问题和漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w](https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w) |
-| 4 | 第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会” | Doonsec | [https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow](https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow) |
-| 5 |  ] [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c) |
-| 6 |  ] [【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=2&sn=20c8c942f3ee8f9b79a0f2ce1fea5a0d](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=2&sn=20c8c942f3ee8f9b79a0f2ce1fea5a0d) |
-| 7 |  ] [Adobe 紧急修复已遭利用的 0day | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7) |
-| 8 |  ] [Marimo 高危预认证 RCE 漏洞已遭活跃利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4) |
-| 9 |  ] [【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525295&idx=1&sn=57c607219c1557cadb6de52ccf6c2dc0](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525295&idx=1&sn=57c607219c1557cadb6de52ccf6c2dc0) |
-| 10 |  ] [从漏洞到规则：安全知识自动提取的初步探索 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30) |
-| 11 |  ] [Anthropic：你们所有的零日漏洞，都归 Mythos 所有 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e) |
-| 12 |  ] [CNVD漏洞周报2026年第14期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75) |
-| 13 |  ] [上周关注度较高的产品安全漏洞(20260406-20260412) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1) |
-| 14 |  ] [漏洞预警：LiteLLM未鉴权命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410) |
-| 15 |  ] [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b) |
-| 16 |  ] [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b) |
+| 1 | [漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA](https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA) |
+| 2 | Axios爆SSRF漏洞，特定条件下可导致RCE | Doonsec | [https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw](https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw) |
+| 3 | “Jenny是我的朋友”——用MCP打造我的AI漏洞猎人 | Doonsec | [https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw](https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 纵横论坛 | “内网漫游指南”主题讲座 | Doonsec | [https://mp.weixin.qq.com/s/mrwt9U00dOURANSRlQ916w](https://mp.weixin.qq.com/s/mrwt9U00dOURANSRlQ916w) |
-| 2 | 一次二进制RCE漏洞审计 | Doonsec | [https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA](https://mp.weixin.qq.com/s/bjFaonVAdBJY9ymUu9_lBA) |
-| 3 | 代码审计 一次SQL注入漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw](https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw) |
-| 4 |  ] [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c) |
-| 5 |  ] [Marimo 高危预认证 RCE 漏洞已遭活跃利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4) |
-| 6 |  ] [AI安全案例分析 | Grafana 平台零点击间接注入威胁 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494946&idx=1&sn=cfb436b16c06bf1e2fda6abfc1d7a050](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494946&idx=1&sn=cfb436b16c06bf1e2fda6abfc1d7a050) |
-| 7 |  ] [漏洞预警：LiteLLM未鉴权命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [银狐名单类最新攻击样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496650&idx=1&sn=8c41fcd3aebad10eae54494e97188e16](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496650&idx=1&sn=8c41fcd3aebad10eae54494e97188e16) |
-| 2 |  ] [威胁情报生态系统的产出与共享 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488610&idx=1&sn=de9310c0ae3396cb8c0cd9d5559c3f40](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488610&idx=1&sn=de9310c0ae3396cb8c0cd9d5559c3f40) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | TOPSRC 2026年第一季度奖励公告 | Doonsec | [https://mp.weixin.qq.com/s/eZs9QqwIfFzM86DFG2CIJA](https://mp.weixin.qq.com/s/eZs9QqwIfFzM86DFG2CIJA) |
-| 2 | 效率直接翻倍！AI 安全智能体数字员工，让安全运营更简单！ | Doonsec | [https://mp.weixin.qq.com/s/XbMYXgWl_CZdVqgsPwrAdg](https://mp.weixin.qq.com/s/XbMYXgWl_CZdVqgsPwrAdg) |
+| 1 | [漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA](https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA) |
+| 2 | Axios爆SSRF漏洞，特定条件下可导致RCE | Doonsec | [https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw](https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw) |
 
 
 ## 📁 归档路径
@@ -167,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -177,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-14 06:00:16*
+*生成时间: 2026-04-14 09:18:23*
 *报告工具: 微信文章安全归档系统*
