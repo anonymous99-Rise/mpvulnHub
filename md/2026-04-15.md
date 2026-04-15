@@ -2,25 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 34
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 17篇
-  - BruceFeIix: 17篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 20篇
-- **攻击技术**: 6篇
-- **安全运营**: 3篇
-- **供应链**: 2篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -69,43 +62,10 @@
 
 ### Doonsec
 
-- [英国人工智能安全研究所发布Claude Mythos Preview 的网络安全能力评估报告](https://mp.weixin.qq.com/s/0UC4OCMLC3Q6GFY1k-zv9g) (发布日期: 2026-04-15)
-- [国内两大安全软件内核驱动高危漏洞研判](https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q) (发布日期: 2026-04-15)
-- [API漏洞赏金大师班2026：寻找隐藏端点](https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ) (发布日期: 2026-04-15)
-- [“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞](https://mp.weixin.qq.com/s/n8Ia5fxTfL4FxGERjJ0gtA) (发布日期: 2026-04-15)
-- [0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器](https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw) (发布日期: 2026-04-15)
-- [【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)](https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA) (发布日期: 2026-04-15)
-- [月神 SRC 漏洞挖掘课程・第六期 全新升级](https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg) (发布日期: 2026-04-15)
-- [GraphQL RCE：通往云身份的攻击链](https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ) (发布日期: 2026-04-15)
-- [XSS（跨站脚本攻击）从零到高手：把浏览器变成你的武器！](https://mp.weixin.qq.com/s/JVeKaQAM1l6wVcHmYvnx-A) (发布日期: 2026-04-15)
-- [月神SRC漏洞挖掘课程・第六期全新升级](https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg) (发布日期: 2026-04-15)
-- [微软 SharePoint Server 零日漏洞已被攻击者积极利用](https://mp.weixin.qq.com/s/8LFA2CjMBNquMHFSAblNgA) (发布日期: 2026-04-15)
-- [WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE   POC遭贩卖](https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA) (发布日期: 2026-04-15)
-- [415 特辑｜看完这组漫画，安全意识直接拉满！](https://mp.weixin.qq.com/s/vQTmplmS7NJDuGB4GGT3aQ) (发布日期: 2026-04-15)
-- [第二节｜企业级身份认证：OAuth、SAML与SCRAM详解](https://mp.weixin.qq.com/s/0APVEVvbupZXT2_a_7YCTw) (发布日期: 2026-04-15)
-- [A神-小朋友的新一期代码审计来了](https://mp.weixin.qq.com/s/5ag4BR4t4rQgDJFYq0DRHQ) (发布日期: 2026-04-15)
-- [360招聘红队实习生](https://mp.weixin.qq.com/s/ncs3HPWGLx3S293YJdclqQ) (发布日期: 2026-04-15)
-- [应急响应打靶--windows1](https://mp.weixin.qq.com/s/8AMXyjdAN3uOVoxwtwpJ1w) (发布日期: 2026-04-15)
-
-### BruceFeIix
-
-- [ ] [Apache Tomcat 紧急修复多个漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=1&sn=1c34f092d86b657532a27c79a93f83a3) (发布日期: 2026-04-15)
-- [ ] [Axios 严重漏洞可导致 RCE](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650) (发布日期: 2026-04-15)
-- [ ] [美英报告称Mythos模型无限压缩漏洞披露到武器化时间窗口](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515814&idx=2&sn=c4add54fd603fad96df85c248460e2f1) (发布日期: 2026-04-15)
-- [ ] [Axios爆SSRF漏洞，特定条件下可导致RCE](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744) (发布日期: 2026-04-15)
-- [ ] [北京大学 | KnowHow：面向可解释且准确溯源分析的高层CTI知识自动应用方法](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495249&idx=1&sn=d2c557e4914d44e74fb24b743a4f4198) (发布日期: 2026-04-15)
-- [ ] [ivanti CVE-2025-0282 漏洞复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=1&sn=30bf32e1f57fead35b98087dc646ed4d) (发布日期: 2026-04-15)
-- [ ] [Rockstar Games确认遭供应链攻击，第三方SaaS成数据泄漏跳板](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=2&sn=a698c9b0dcc0d6aef4d0971e0c2cac2a) (发布日期: 2026-04-15)
-- [ ] [天才程序员上线：AI 逆向与安全开发全栈实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=3&sn=c5fc96050347797a9e72f11a01e8039e) (发布日期: 2026-04-15)
-- [ ] [【安全圈】金山毒霸、360 安全卫士被曝存在内核驱动高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=1&sn=fa2ee897d05ae80591734bbcffa07abd) (发布日期: 2026-04-15)
-- [ ] [【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=2&sn=8b9601124f9fd4627498d6920d66e5c9) (发布日期: 2026-04-15)
-- [ ] [Mythos风暴将至，250位CISO闭门交出可落地方案](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186194&idx=1&sn=7a127bbd55513da6c35afce111035594) (发布日期: 2026-04-15)
-- [ ] [Anthropic最强模型被质疑夸大找漏洞能力；奥尔特曼住所一周内两次遇袭；需求火爆，苹果提升初代Macbook Neo产量至1000 万台｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103896&idx=1&sn=b5cd7865838919d54b32379edcb138a1) (发布日期: 2026-04-15)
-- [ ] [【SRC实战】利用js多赚1000](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499311&idx=1&sn=71af729ab1f0cc8a9a77d1eb86399a9a) (发布日期: 2026-04-15)
-- [ ] [【漏洞通告】Marimo WebSocket 认证绕过漏洞(CVE-2026-39987)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525306&idx=1&sn=73f3462b7398a6cb2d7de0318e6aa81c) (发布日期: 2026-04-15)
-- [ ] [迷雾中的航行：Fog 勒索软件关联攻击者工具链深度剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=1&sn=3702f7221734a63e365a11700a883774) (发布日期: 2026-04-15)
-- [ ] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23) (发布日期: 2026-04-15)
-- [ ] [2026年3月企业必修安全漏洞清单](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497462&idx=1&sn=5b9db9b15e768352ad174eb07d2948ac) (发布日期: 2026-04-15)
+- [大语言模型驱动的漏洞挖掘：能力机制、场景分析与演进路径](https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg) (发布日期: 2026-04-15)
+- [不算不知道：企业缺乏网络安全意识培训的隐性损失高昂](https://mp.weixin.qq.com/s/16rokMhE9drvgjnZmBSgpw) (发布日期: 2026-04-15)
+- [【SRC实战】企业SRC中的两次任意用户注册漏洞](https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg) (发布日期: 2026-04-15)
+- [内网环境与域内信息收集全流程](https://mp.weixin.qq.com/s/aKob-TcqizzCHfvJ9QdxBA) (发布日期: 2026-04-15)
 
 
 ## 🎯 威胁详情分析
@@ -114,64 +74,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 国内两大安全软件内核驱动高危漏洞研判 | Doonsec | [https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q](https://mp.weixin.qq.com/s/HJXBIP4ItdZAtWk1lQ2T2Q) |
-| 2 | API漏洞赏金大师班2026：寻找隐藏端点 | Doonsec | [https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ](https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ) |
-| 3 | “漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/n8Ia5fxTfL4FxGERjJ0gtA](https://mp.weixin.qq.com/s/n8Ia5fxTfL4FxGERjJ0gtA) |
-| 4 | 0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器 | Doonsec | [https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw](https://mp.weixin.qq.com/s/41grWGyEYxiV9gGt3byPcw) |
-| 5 | 【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486) | Doonsec | [https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA](https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA) |
-| 6 | 月神 SRC 漏洞挖掘课程・第六期 全新升级 | Doonsec | [https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg](https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg) |
-| 7 | 月神SRC漏洞挖掘课程・第六期全新升级 | Doonsec | [https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg](https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg) |
-| 8 | 微软 SharePoint Server 零日漏洞已被攻击者积极利用 | Doonsec | [https://mp.weixin.qq.com/s/8LFA2CjMBNquMHFSAblNgA](https://mp.weixin.qq.com/s/8LFA2CjMBNquMHFSAblNgA) |
-| 9 | WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE   POC遭贩卖 | Doonsec | [https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA](https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA) |
-| 10 |  ] [Apache Tomcat 紧急修复多个漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=1&sn=1c34f092d86b657532a27c79a93f83a3](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=1&sn=1c34f092d86b657532a27c79a93f83a3) |
-| 11 |  ] [Axios 严重漏洞可导致 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650) |
-| 12 |  ] [美英报告称Mythos模型无限压缩漏洞披露到武器化时间窗口 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515814&idx=2&sn=c4add54fd603fad96df85c248460e2f1](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515814&idx=2&sn=c4add54fd603fad96df85c248460e2f1) |
-| 13 |  ] [Axios爆SSRF漏洞，特定条件下可导致RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744) |
-| 14 |  ] [ivanti CVE-2025-0282 漏洞复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=1&sn=30bf32e1f57fead35b98087dc646ed4d](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=1&sn=30bf32e1f57fead35b98087dc646ed4d) |
-| 15 |  ] [【安全圈】金山毒霸、360 安全卫士被曝存在内核驱动高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=1&sn=fa2ee897d05ae80591734bbcffa07abd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=1&sn=fa2ee897d05ae80591734bbcffa07abd) |
-| 16 |  ] [【安全圈】开源监控平台 Grafana 曝漏洞，黑客可诱导 AI 助手泄露企业数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=2&sn=8b9601124f9fd4627498d6920d66e5c9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075647&idx=2&sn=8b9601124f9fd4627498d6920d66e5c9) |
-| 17 |  ] [Anthropic最强模型被质疑夸大找漏洞能力；奥尔特曼住所一周内两次遇袭；需求火爆，苹果提升初代Macbook Neo产量至1000 万台｜极客早知道 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103896&idx=1&sn=b5cd7865838919d54b32379edcb138a1](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103896&idx=1&sn=b5cd7865838919d54b32379edcb138a1) |
-| 18 |  ] [【漏洞通告】Marimo WebSocket 认证绕过漏洞(CVE-2026-39987) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525306&idx=1&sn=73f3462b7398a6cb2d7de0318e6aa81c](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525306&idx=1&sn=73f3462b7398a6cb2d7de0318e6aa81c) |
-| 19 |  ] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23) |
-| 20 |  ] [2026年3月企业必修安全漏洞清单 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497462&idx=1&sn=5b9db9b15e768352ad174eb07d2948ac](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497462&idx=1&sn=5b9db9b15e768352ad174eb07d2948ac) |
+| 1 | 大语言模型驱动的漏洞挖掘：能力机制、场景分析与演进路径 | Doonsec | [https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg](https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg) |
+| 2 | 【SRC实战】企业SRC中的两次任意用户注册漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg](https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486) | Doonsec | [https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA](https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA) |
-| 2 | GraphQL RCE：通往云身份的攻击链 | Doonsec | [https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ](https://mp.weixin.qq.com/s/nx_PGgKthCC5gmlAn70WuQ) |
-| 3 | XSS（跨站脚本攻击）从零到高手：把浏览器变成你的武器！ | Doonsec | [https://mp.weixin.qq.com/s/JVeKaQAM1l6wVcHmYvnx-A](https://mp.weixin.qq.com/s/JVeKaQAM1l6wVcHmYvnx-A) |
-| 4 | WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE   POC遭贩卖 | Doonsec | [https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA](https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA) |
-| 5 |  ] [Axios 严重漏洞可导致 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525768&idx=2&sn=b8967ced3022f4f88a311a652e635650) |
-| 6 |  ] [Axios爆SSRF漏洞，特定条件下可导致RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508614&idx=1&sn=b0d4f042ae9147e26d0eb657c7bcb744) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应打靶--windows1 | Doonsec | [https://mp.weixin.qq.com/s/8AMXyjdAN3uOVoxwtwpJ1w](https://mp.weixin.qq.com/s/8AMXyjdAN3uOVoxwtwpJ1w) |
+| 1 | 内网环境与域内信息收集全流程 | Doonsec | [https://mp.weixin.qq.com/s/aKob-TcqizzCHfvJ9QdxBA](https://mp.weixin.qq.com/s/aKob-TcqizzCHfvJ9QdxBA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 月神 SRC 漏洞挖掘课程・第六期 全新升级 | Doonsec | [https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg](https://mp.weixin.qq.com/s/D02Injn3oUbYLBze1i3_Tg) |
-| 2 | 月神SRC漏洞挖掘课程・第六期全新升级 | Doonsec | [https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg](https://mp.weixin.qq.com/s/3jZJDoa-x6HVEOi197Dzdg) |
-| 3 |  ] [【SRC实战】利用js多赚1000 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499311&idx=1&sn=71af729ab1f0cc8a9a77d1eb86399a9a](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499311&idx=1&sn=71af729ab1f0cc8a9a77d1eb86399a9a) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Rockstar Games确认遭供应链攻击，第三方SaaS成数据泄漏跳板 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=2&sn=a698c9b0dcc0d6aef4d0971e0c2cac2a](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613407&idx=2&sn=a698c9b0dcc0d6aef4d0971e0c2cac2a) |
-| 2 |  ] [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490000&idx=2&sn=3ba228aaa0d3a1b9e2f1e6e41eebae23) |
+| 1 | 【SRC实战】企业SRC中的两次任意用户注册漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg](https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg) |
 
 
 ## 📁 归档路径
@@ -187,8 +103,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 20 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -197,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-15 06:00:15*
+*生成时间: 2026-04-15 09:20:01*
 *报告工具: 微信文章安全归档系统*
