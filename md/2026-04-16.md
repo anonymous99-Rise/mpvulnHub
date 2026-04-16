@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 19篇
+  - BruceFeIix: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 6篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 9篇
+- **安全运营**: 2篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 4篇
-- **系统漏洞**: 1篇
+- **系统漏洞**: 4篇
 
 ## 🔍 匹配规则
 
@@ -63,27 +62,32 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [AI渗透测试工具 - Shannon](https://mp.weixin.qq.com/s/MsFCBrI4ybHhKPOauZoK9w) (发布日期: 2026-04-16)
-- [Blade站点的渗透测试到MySQL数据库权限接管](https://mp.weixin.qq.com/s/laFUE4OCAf6g_iyWHGZh1w) (发布日期: 2026-04-16)
-- [微软 2026 年 4 月安全更新修复了已被积极利用的 SharePoint 零日漏洞](https://mp.weixin.qq.com/s/PxQfirgVtm1fIKSI72Qh4Q) (发布日期: 2026-04-16)
-- [CVE-2026-33032：严重的 nginx-ui 漏洞可导致未授权服务器访问](https://mp.weixin.qq.com/s/buP-MBrB1T6i8_lv2ZthhQ) (发布日期: 2026-04-16)
-- [PHP Composer 漏洞可通过 Perforce VCS 实现远程命令执行](https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ) (发布日期: 2026-04-16)
-- [某金融官网SQL注入bypass阿里云盾](https://mp.weixin.qq.com/s/bQP8JPfun6XyB_508fbxQg) (发布日期: 2026-04-16)
-- [【视频】一键式 NTLM 泄露漏洞](https://mp.weixin.qq.com/s/uiYZZmOxTQXrwmnUzitK0w) (发布日期: 2026-04-16)
-- [Burp Suite XSS 自动化检测AI插件 | 反射 / DOM 型、Payload 高效注入、AI校验与判定](https://mp.weixin.qq.com/s/QSptXB-RNcwvbAsNPnK5XA) (发布日期: 2026-04-16)
-- [Openclaw的应用（四）：渗透测试](https://mp.weixin.qq.com/s/_w3nFrayvXD47RNFscWc1w) (发布日期: 2026-04-16)
-- [Windows 事件日志应急响应手册（安全应急专家版）](https://mp.weixin.qq.com/s/O3GgvWOZPau2MIMkDpuCUA) (发布日期: 2026-04-16)
-- [【安全预警】CVSS 8.8！PHP Composer 任意命令执行漏洞原理解析与修复指南](https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ) (发布日期: 2026-04-16)
-- [漏洞预警 | Progress ShareFile身份认证绕过和文件上传漏洞](https://mp.weixin.qq.com/s/SxtRXUV-L1J1rg42sdr8sw) (发布日期: 2026-04-16)
-- [漏洞预警 | 孚盟云SQL注入漏洞](https://mp.weixin.qq.com/s/HVSrYtet7XrB_ds-De5l-g) (发布日期: 2026-04-16)
-- [从“全量覆盖”到“风险优先”：NIST收缩CVE漏洞分析范围](https://mp.weixin.qq.com/s/ze4brfkTztUNdltfdxMYBw) (发布日期: 2026-04-16)
-- [喜报！炼石中标某国资委直属副部级央企数据加密项目](https://mp.weixin.qq.com/s/kkCj65lUc2MRIRLxFX1ysQ) (发布日期: 2026-04-16)
-- [以伊朗近期网络空间安全事件为鉴：筑牢信息安全防线，推进自主可控战略落地](https://mp.weixin.qq.com/s/k5KUyMDqKKVQ3MghpwzWcA) (发布日期: 2026-04-16)
-- [博硕BGM Download.ashx接口存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ) (发布日期: 2026-04-16)
-- [【安全圈】全球最大零工平台Fiverr被曝数据泄露](https://mp.weixin.qq.com/s/HQiorObgRKz4g3a0kqieaw) (发布日期: 2026-04-16)
-- [内网渗透学习（红日一）](https://mp.weixin.qq.com/s/yveI9XlPjUPyWj-PgVfgZA) (发布日期: 2026-04-16)
+- [ ] [就业/积分/落户一步到位！上海重点急需工种——网络与信息安全管理员（三级/高级）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613414&idx=1&sn=b07aa0550d5ee51da26ad96310dc6937) (发布日期: 2026-04-16)
+- [ ] [微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613414&idx=3&sn=d5076ce31c456b0a5d868670a8138e94) (发布日期: 2026-04-16)
+- [ ] [PHP Composer 多个新漏洞可导致任意命令执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d) (发布日期: 2026-04-16)
+- [ ] [微软4月补丁星期二值得关注的漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=2&sn=b5edef54c4ece70f1affe656616e58df) (发布日期: 2026-04-16)
+- [ ] [【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5) (发布日期: 2026-04-16)
+- [ ] [微软4月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=2&sn=7245dbf9b07c83cd708b6155bd300820) (发布日期: 2026-04-16)
+- [ ] [OpenClaw安全实战系列三：利用网关劫持实现 OpenClaw控制端1-Click RCE (CVE-2026-25253)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55) (发布日期: 2026-04-16)
+- [ ] [【安全更新】微软4月安全更新多个产品高危漏洞通告](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247490027&idx=1&sn=097da91bd350f86fda58d7d57838acc7) (发布日期: 2026-04-16)
+- [ ] [Shellcode技术——代码注入的核心](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496651&idx=1&sn=40e405d0398464f001570faf27a84030) (发布日期: 2026-04-16)
+- [ ] [Apache Tomcat 远程代码执行漏洞，附漏洞自查方案](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33) (发布日期: 2026-04-16)
+- [ ] [实测：Anthropic新模型可执行复杂渗透测试，自主攻陷基础防护系统](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515823&idx=1&sn=4e7e122c79502e05ce9bc888e8496892) (发布日期: 2026-04-16)
+- [ ] [【安全圈】Adobe 修复 PDF 阅读器零日漏洞，已被黑客利用至少四个月](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=1&sn=6c0e8d061d29da3af35a3914330ee403) (发布日期: 2026-04-16)
+- [ ] [【安全圈】微软 SharePoint Server 0Day漏洞遭在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=2&sn=7f36a44c547210554fed60111cd0c94c) (发布日期: 2026-04-16)
+- [ ] [【安全圈】假冒 Ledger Live 应用致 950 万美元加密货币被盗，受害者损失惨重](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=3&sn=52273781698b2006a532abefe99ec4af) (发布日期: 2026-04-16)
+- [ ] [人工智能安全治理论坛在香港举行](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501413&idx=1&sn=972168a56388abe7d3cfb616f425d2ba) (发布日期: 2026-04-16)
+- [ ] [清理完所有木马后，内网却失陷了](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186195&idx=1&sn=c95018da57de6b417c64eb2a74eb32d0) (发布日期: 2026-04-16)
+- [ ] [Only 5 days left｜BSRC 2025 in Bali](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544032&idx=1&sn=d346ac00c2bb22b0b9a081b5ff91d7a9) (发布日期: 2026-04-16)
+- [ ] [DSRC活动 | 国际化金融业务专项](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909202&idx=1&sn=f69a5724342f26fde31b11456b1a64e5) (发布日期: 2026-04-16)
+- [ ] [【漏洞通告】Axios SSRF漏洞 (CVE-2026-40175)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525339&idx=1&sn=aaab6e4838ba21ae6ebb1cfa6018c207) (发布日期: 2026-04-16)
+- [ ] [威胁猎人黑话词典2.0｜打击欺诈行为，快速了解黑灰产黑话（数据泄露篇）](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503248&idx=1&sn=1f95954a5661ab72d6fb6bec74fb570a) (发布日期: 2026-04-16)
+- [ ] [Apache Tomcat RCE 漏洞来袭，腾讯云安全已支持防护​](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d) (发布日期: 2026-04-16)
+- [ ] [Agentic workforce 已然到来：思科为何要为 AI 安全装上一只 “Claw”](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486468&idx=1&sn=f905fc037523250b71260197512aed69) (发布日期: 2026-04-16)
+- [ ] [信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499318&idx=1&sn=8cefa2532c9d291319a9a1515c42d905) (发布日期: 2026-04-16)
+- [ ] [2026年4月补丁日深度解析：163个漏洞含零日与多个严重RCE](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2) (发布日期: 2026-04-16)
 
 
 ## 🎯 威胁详情分析
@@ -92,38 +96,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 微软 2026 年 4 月安全更新修复了已被积极利用的 SharePoint 零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/PxQfirgVtm1fIKSI72Qh4Q](https://mp.weixin.qq.com/s/PxQfirgVtm1fIKSI72Qh4Q) |
-| 2 | CVE-2026-33032：严重的 nginx-ui 漏洞可导致未授权服务器访问 | Doonsec | [https://mp.weixin.qq.com/s/buP-MBrB1T6i8_lv2ZthhQ](https://mp.weixin.qq.com/s/buP-MBrB1T6i8_lv2ZthhQ) |
-| 3 | PHP Composer 漏洞可通过 Perforce VCS 实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ](https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ) |
-| 4 | 【视频】一键式 NTLM 泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uiYZZmOxTQXrwmnUzitK0w](https://mp.weixin.qq.com/s/uiYZZmOxTQXrwmnUzitK0w) |
-| 5 | 【安全预警】CVSS 8.8！PHP Composer 任意命令执行漏洞原理解析与修复指南 | Doonsec | [https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ](https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ) |
-| 6 | 漏洞预警 | Progress ShareFile身份认证绕过和文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SxtRXUV-L1J1rg42sdr8sw](https://mp.weixin.qq.com/s/SxtRXUV-L1J1rg42sdr8sw) |
-| 7 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HVSrYtet7XrB_ds-De5l-g](https://mp.weixin.qq.com/s/HVSrYtet7XrB_ds-De5l-g) |
-| 8 | 从“全量覆盖”到“风险优先”：NIST收缩CVE漏洞分析范围 | Doonsec | [https://mp.weixin.qq.com/s/ze4brfkTztUNdltfdxMYBw](https://mp.weixin.qq.com/s/ze4brfkTztUNdltfdxMYBw) |
-| 9 | 博硕BGM Download.ashx接口存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ](https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ) |
+| 1 |  ] [微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613414&idx=3&sn=d5076ce31c456b0a5d868670a8138e94](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613414&idx=3&sn=d5076ce31c456b0a5d868670a8138e94) |
+| 2 |  ] [PHP Composer 多个新漏洞可导致任意命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d) |
+| 3 |  ] [微软4月补丁星期二值得关注的漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=2&sn=b5edef54c4ece70f1affe656616e58df](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=2&sn=b5edef54c4ece70f1affe656616e58df) |
+| 4 |  ] [【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5) |
+| 5 |  ] [微软4月补丁日多个产品安全漏洞风险通告：1个在野利用、8个紧急漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=2&sn=7245dbf9b07c83cd708b6155bd300820](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=2&sn=7245dbf9b07c83cd708b6155bd300820) |
+| 6 |  ] [OpenClaw安全实战系列三：利用网关劫持实现 OpenClaw控制端1-Click RCE (CVE-2026-25253) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55) |
+| 7 |  ] [【安全更新】微软4月安全更新多个产品高危漏洞通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247490027&idx=1&sn=097da91bd350f86fda58d7d57838acc7](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247490027&idx=1&sn=097da91bd350f86fda58d7d57838acc7) |
+| 8 |  ] [Apache Tomcat 远程代码执行漏洞，附漏洞自查方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33) |
+| 9 |  ] [【安全圈】Adobe 修复 PDF 阅读器零日漏洞，已被黑客利用至少四个月 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=1&sn=6c0e8d061d29da3af35a3914330ee403](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=1&sn=6c0e8d061d29da3af35a3914330ee403) |
+| 10 |  ] [【安全圈】微软 SharePoint Server 0Day漏洞遭在野利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=2&sn=7f36a44c547210554fed60111cd0c94c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075679&idx=2&sn=7f36a44c547210554fed60111cd0c94c) |
+| 11 |  ] [【漏洞通告】Axios SSRF漏洞 (CVE-2026-40175) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525339&idx=1&sn=aaab6e4838ba21ae6ebb1cfa6018c207](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525339&idx=1&sn=aaab6e4838ba21ae6ebb1cfa6018c207) |
+| 12 |  ] [Apache Tomcat RCE 漏洞来袭，腾讯云安全已支持防护​ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d) |
+| 13 |  ] [2026年4月补丁日深度解析：163个漏洞含零日与多个严重RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | PHP Composer 漏洞可通过 Perforce VCS 实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ](https://mp.weixin.qq.com/s/D821bOc6oIzLql4SXclwLQ) |
-| 2 | 某金融官网SQL注入bypass阿里云盾 | Doonsec | [https://mp.weixin.qq.com/s/bQP8JPfun6XyB_508fbxQg](https://mp.weixin.qq.com/s/bQP8JPfun6XyB_508fbxQg) |
-| 3 | Burp Suite XSS 自动化检测AI插件 | 反射 / DOM 型、Payload 高效注入、AI校验与判定 | Doonsec | [https://mp.weixin.qq.com/s/QSptXB-RNcwvbAsNPnK5XA](https://mp.weixin.qq.com/s/QSptXB-RNcwvbAsNPnK5XA) |
-| 4 | 【安全预警】CVSS 8.8！PHP Composer 任意命令执行漏洞原理解析与修复指南 | Doonsec | [https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ](https://mp.weixin.qq.com/s/6hg0T0RKH3BwVVjcdmBsSQ) |
-| 5 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HVSrYtet7XrB_ds-De5l-g](https://mp.weixin.qq.com/s/HVSrYtet7XrB_ds-De5l-g) |
-| 6 | 内网渗透学习（红日一） | Doonsec | [https://mp.weixin.qq.com/s/yveI9XlPjUPyWj-PgVfgZA](https://mp.weixin.qq.com/s/yveI9XlPjUPyWj-PgVfgZA) |
+| 1 |  ] [PHP Composer 多个新漏洞可导致任意命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525778&idx=1&sn=f575dcb35ac2b3091d3f1a2359e1ae4d) |
+| 2 |  ] [【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505225&idx=1&sn=b58bfb52a75a55c62527875f1c9176f5) |
+| 3 |  ] [OpenClaw安全实战系列三：利用网关劫持实现 OpenClaw控制端1-Click RCE (CVE-2026-25253) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499830&idx=1&sn=7e8e642a37a47609bbff7a318c88da55) |
+| 4 |  ] [Shellcode技术——代码注入的核心 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496651&idx=1&sn=40e405d0398464f001570faf27a84030](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496651&idx=1&sn=40e405d0398464f001570faf27a84030) |
+| 5 |  ] [Apache Tomcat 远程代码执行漏洞，附漏洞自查方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508620&idx=1&sn=c31f1cadfa7661cddf43b3388c7ead33) |
+| 6 |  ] [清理完所有木马后，内网却失陷了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186195&idx=1&sn=c95018da57de6b417c64eb2a74eb32d0](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186195&idx=1&sn=c95018da57de6b417c64eb2a74eb32d0) |
+| 7 |  ] [Apache Tomcat RCE 漏洞来袭，腾讯云安全已支持防护​ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497479&idx=1&sn=44f8232429ff85ec83255d3de8f2534d) |
+| 8 |  ] [Agentic workforce 已然到来：思科为何要为 AI 安全装上一只 “Claw” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486468&idx=1&sn=f905fc037523250b71260197512aed69](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486468&idx=1&sn=f905fc037523250b71260197512aed69) |
+| 9 |  ] [2026年4月补丁日深度解析：163个漏洞含零日与多个严重RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490012&idx=1&sn=57fbfca6b63cd2cb604be12c93157df2) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows 事件日志应急响应手册（安全应急专家版） | Doonsec | [https://mp.weixin.qq.com/s/O3GgvWOZPau2MIMkDpuCUA](https://mp.weixin.qq.com/s/O3GgvWOZPau2MIMkDpuCUA) |
+| 1 |  ] [Only 5 days left｜BSRC 2025 in Bali | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544032&idx=1&sn=d346ac00c2bb22b0b9a081b5ff91d7a9](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544032&idx=1&sn=d346ac00c2bb22b0b9a081b5ff91d7a9) |
+| 2 |  ] [DSRC活动 | 国际化金融业务专项 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909202&idx=1&sn=f69a5724342f26fde31b11456b1a64e5](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909202&idx=1&sn=f69a5724342f26fde31b11456b1a64e5) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】全球最大零工平台Fiverr被曝数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/HQiorObgRKz4g3a0kqieaw](https://mp.weixin.qq.com/s/HQiorObgRKz4g3a0kqieaw) |
+| 1 |  ] [威胁猎人黑话词典2.0｜打击欺诈行为，快速了解黑灰产黑话（数据泄露篇） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503248&idx=1&sn=1f95954a5661ab72d6fb6bec74fb570a](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503248&idx=1&sn=1f95954a5661ab72d6fb6bec74fb570a) |
 
 
 ## 📁 归档路径
@@ -139,8 +151,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +161,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-16 02:41:55*
+*生成时间: 2026-04-16 06:01:53*
 *报告工具: 微信文章安全归档系统*
