@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 30
 - **数据源分布**:
-  - BruceFeIix: 17篇
+  - Doonsec: 30篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 13篇
 - **攻击技术**: 3篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **网络攻击**: 2篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,25 +61,38 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [已遭活跃利用的 nginx-ui 漏洞可导致 Nginx 服务器遭完全接管](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525782&idx=1&sn=95b7f1a90c60099f0b4ed5ecbfc983d2) (发布日期: 2026-04-17)
-- [ ] [渗透测试练习——DarkHole_2靶场实践：涉及对.git文件的处理，sql注入及利用sudo提权](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=1&sn=fc54ff404c5347378b8105cd2c20656e) (发布日期: 2026-04-17)
-- [ ] [Codex 如何利用三星电视内核漏洞实现权限越狱](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=2&sn=731c575f108348537ca001ef93c4a021) (发布日期: 2026-04-17)
-- [ ] [无条件接管Nginx！Nginx-UI漏洞链发现在野利用](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508630&idx=1&sn=543bb7f3dbe8c36f4b62d8fdd61c0931) (发布日期: 2026-04-17)
-- [ ] [人工智能重要漏洞 | CNNVD通报新一批OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=1&sn=87df5befc5585a9c088cf2b7b1348629) (发布日期: 2026-04-17)
-- [ ] [CNNVD | 关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=2&sn=25c9abf4d4d499a5bd1ae3cc94f7c24f) (发布日期: 2026-04-17)
-- [ ] [【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a) (发布日期: 2026-04-17)
-- [ ] [【已复现】Windows 截图工具 NTLM 信息泄露漏洞(CVE-2026-33829)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=2&sn=ccbfe03aa4b3cf19ab081e04511cb4ae) (发布日期: 2026-04-17)
-- [ ] [CVE-2026-34621 Root Cause Analysis](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484521&idx=1&sn=f85a7ae0d8375841ac57664a7631a0d8) (发布日期: 2026-04-17)
-- [ ] [IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141053&idx=2&sn=aa8ec1d92134b8a9eb61a234538bb968) (发布日期: 2026-04-17)
-- [ ] [抢先加入AI时代顶尖安全团队！阿里云2027届实习生招聘来了！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998778&idx=1&sn=e8036fef159985719d28d2d16ffd3fc4) (发布日期: 2026-04-17)
-- [ ] [CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518385&idx=1&sn=d58d026a8394e3b8a17a1409246d5653) (发布日期: 2026-04-17)
-- [ ] [大疆 OSMO Pocket 4 深度体验：三年之后，大疆如何继续定义「手持云台相机」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104021&idx=1&sn=8b223218ed8c733e8d867ed61a250b28) (发布日期: 2026-04-17)
-- [ ] [2026-04微软漏洞通告](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532137&idx=1&sn=8b3cbd5ac37ff1d3cb2a83d56e414ad1) (发布日期: 2026-04-17)
-- [ ] [某rce漏洞挖掘等案例分享](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a) (发布日期: 2026-04-17)
-- [ ] [伪造Zoom官网投递BlackSuit勒索软件：9天入侵全链路深度剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490025&idx=1&sn=e86556463351eddf0099edb4a11173b3) (发布日期: 2026-04-17)
-- [ ] [国内首个！360推出Wmansvcs勒索软件专用解密服务](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585720&idx=1&sn=a9d6a2bbb8dc837f46267354353f25a7) (发布日期: 2026-04-17)
+- [人工智能重要漏洞通报（2026年第五期）](https://mp.weixin.qq.com/s/PLInxZLj89ZkyE9AP0WLcQ) (发布日期: 2026-04-17)
+- [免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分](https://mp.weixin.qq.com/s/2gA8KuLUpHsivY9SI9X5DA) (发布日期: 2026-04-17)
+- [信息安全漏洞预警（2026年4月13日-4月17日）](https://mp.weixin.qq.com/s/3eQn8-mbJiio8NXepLKxow) (发布日期: 2026-04-17)
+- [【漏洞通告】Nginx UI MCP接口绕过认证漏洞(CVE-2026-33032)](https://mp.weixin.qq.com/s/7kHtjd2OqAtbTccOn_p7cg) (发布日期: 2026-04-17)
+- [Python爬虫之某站JS加密逆向分析](https://mp.weixin.qq.com/s/bvfN3F24nRRcXhvYZ7qNRg) (发布日期: 2026-04-17)
+- [360发现全球高危漏洞，漏洞挖掘智能体首次披露](https://mp.weixin.qq.com/s/DQTx5-O6hnzW0kJyE22fIw) (发布日期: 2026-04-17)
+- [数字金融新时代 | 任子行数据安全分类分级,数安三件套护航金融合规](https://mp.weixin.qq.com/s/Tr_ak1Gz-GmUkqp1D5ijxw) (发布日期: 2026-04-17)
+- [能信安：病毒和恶意代码通告](https://mp.weixin.qq.com/s/k0P7NuHQMEXPV1GXcbqgkA) (发布日期: 2026-04-17)
+- [一本恶意软件分析速成课程](https://mp.weixin.qq.com/s/NB2XhiuSppn7aW5IMsD2Ug) (发布日期: 2026-04-17)
+- [三星电子员工利用公司系统漏洞大规模收集个人信息 被起诉](https://mp.weixin.qq.com/s/CLXLNRn2xjPiuflugDhHjQ) (发布日期: 2026-04-17)
+- [【公益译文】2026年国际AI安全报告（五）](https://mp.weixin.qq.com/s/sF7lgyrO7AAISS355dv53Q) (发布日期: 2026-04-17)
+- [Zack-AI-Scanner 新一代基于AI大模型的Web漏洞扫描器 (文末福利)](https://mp.weixin.qq.com/s/UcKuAyZow6QhEhCbpX4JDw) (发布日期: 2026-04-17)
+- [【公益译文】2026年国际AI安全报告（五）](https://mp.weixin.qq.com/s/uKwlv3dJNUturwmddEwsMA) (发布日期: 2026-04-17)
+- [山石网科荣膺 “威胁情报支撑单位突出贡献奖”｜亮相2026世界互联网大会亚太峰会](https://mp.weixin.qq.com/s/OQInptg3Gr8ZR0N2YYZF1g) (发布日期: 2026-04-17)
+- [告别盲审，用Agent skill代码审计定位高危漏洞](https://mp.weixin.qq.com/s/eAkrurVXmoZY4IPjvlaoxQ) (发布日期: 2026-04-17)
+- [Chrome 138完整漏洞利用链——从CVE-2026-5873到远程代码执行](https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A) (发布日期: 2026-04-17)
+- [行业资讯：某医院私有云与网络安全系统项目，预算5594万公开招标（二次）](https://mp.weixin.qq.com/s/d2J_HDQBZ2UvrEooyrlntg) (发布日期: 2026-04-17)
+- [行业资讯：某图书馆网络安全服务项目，新疆雪浪数环38.58万中](https://mp.weixin.qq.com/s/OlVpKGtngW_ruDsIp1xXLg) (发布日期: 2026-04-17)
+- [行业资讯：河北省某单位2026年网络安全运维项目公开招标，预算177.3万元](https://mp.weixin.qq.com/s/qcO8EiShfM4v5QIf2Kh28Q) (发布日期: 2026-04-17)
+- [行业资讯：某网络安全分析技术支撑服务项目，智启文通84.5万中](https://mp.weixin.qq.com/s/t-ZuEqdBiVNn9q9Aqaa6GQ) (发布日期: 2026-04-17)
+- [使用 Python 和 Jython 编写自定义 Burp 扩展程序进行自动化渗透测试](https://mp.weixin.qq.com/s/S5BIXfYiNR46BkgZ0YS0Zg) (发布日期: 2026-04-17)
+- [UAC-0247 漏洞利用浏览器和 WhatsApp 数据窃取攻击医院和政府机构](https://mp.weixin.qq.com/s/cgFLiT2A8SpSV3dAySePdw) (发布日期: 2026-04-17)
+- [44个黑客常用的内网渗透命令符](https://mp.weixin.qq.com/s/XipC-V-nCZLrY_myhlG4bQ) (发布日期: 2026-04-17)
+- [C-Lodop打印服务系统存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/9z2bJp0oi-18ZjCF2M90qQ) (发布日期: 2026-04-17)
+- [威胁情报日报 2026-04-17](https://mp.weixin.qq.com/s/gflTYKLCMLcQF1bcFoCUow) (发布日期: 2026-04-17)
+- [【安全圈】WordPress 数十款插件被植入后门，超 2 万站点面临风险](https://mp.weixin.qq.com/s/n57OPt7pJKCBR7BurM1KUg) (发布日期: 2026-04-17)
+- [【安全圈】开源AI中转站现高危漏洞 利用缺陷可以伪造任意金额充值](https://mp.weixin.qq.com/s/AKoK82PO4L4fAkruS1PkSA) (发布日期: 2026-04-17)
+- [《你的数据安全吗——数据安全职业素养》正式出版](https://mp.weixin.qq.com/s/v4THuA7eHfQKamwNt4FN0A) (发布日期: 2026-04-17)
+- [欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s/58lIzvQGIYPArQ0Smsy4Gg) (发布日期: 2026-04-17)
+- [Apache Log4j2远程代码执行漏洞详解](https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw) (发布日期: 2026-04-17)
 
 
 ## 🎯 威胁详情分析
@@ -89,27 +101,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [已遭活跃利用的 nginx-ui 漏洞可导致 Nginx 服务器遭完全接管 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525782&idx=1&sn=95b7f1a90c60099f0b4ed5ecbfc983d2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525782&idx=1&sn=95b7f1a90c60099f0b4ed5ecbfc983d2) |
-| 2 |  ] [Codex 如何利用三星电视内核漏洞实现权限越狱 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=2&sn=731c575f108348537ca001ef93c4a021](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=2&sn=731c575f108348537ca001ef93c4a021) |
-| 3 |  ] [无条件接管Nginx！Nginx-UI漏洞链发现在野利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508630&idx=1&sn=543bb7f3dbe8c36f4b62d8fdd61c0931](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508630&idx=1&sn=543bb7f3dbe8c36f4b62d8fdd61c0931) |
-| 4 |  ] [人工智能重要漏洞 | CNNVD通报新一批OpenClaw多个安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=1&sn=87df5befc5585a9c088cf2b7b1348629](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=1&sn=87df5befc5585a9c088cf2b7b1348629) |
-| 5 |  ] [CNNVD | 关于微软多个安全漏洞的通报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=2&sn=25c9abf4d4d499a5bd1ae3cc94f7c24f](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261455&idx=2&sn=25c9abf4d4d499a5bd1ae3cc94f7c24f) |
-| 6 |  ] [【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a) |
-| 7 |  ] [【已复现】Windows 截图工具 NTLM 信息泄露漏洞(CVE-2026-33829)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=2&sn=ccbfe03aa4b3cf19ab081e04511cb4ae](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=2&sn=ccbfe03aa4b3cf19ab081e04511cb4ae) |
-| 8 |  ] [CVE-2026-34621 Root Cause Analysis | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484521&idx=1&sn=f85a7ae0d8375841ac57664a7631a0d8](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484521&idx=1&sn=f85a7ae0d8375841ac57664a7631a0d8) |
-| 9 |  ] [IoT僵尸网络发动2Tbps级DDoS攻击，金融科技行业成重点目标；CNNVD通报OpenClaw多个安全漏洞| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141053&idx=2&sn=aa8ec1d92134b8a9eb61a234538bb968](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141053&idx=2&sn=aa8ec1d92134b8a9eb61a234538bb968) |
-| 10 |  ] [CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518385&idx=1&sn=d58d026a8394e3b8a17a1409246d5653](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518385&idx=1&sn=d58d026a8394e3b8a17a1409246d5653) |
-| 11 |  ] [大疆 OSMO Pocket 4 深度体验：三年之后，大疆如何继续定义「手持云台相机」 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104021&idx=1&sn=8b223218ed8c733e8d867ed61a250b28](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104021&idx=1&sn=8b223218ed8c733e8d867ed61a250b28) |
-| 12 |  ] [2026-04微软漏洞通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532137&idx=1&sn=8b3cbd5ac37ff1d3cb2a83d56e414ad1](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532137&idx=1&sn=8b3cbd5ac37ff1d3cb2a83d56e414ad1) |
-| 13 |  ] [某rce漏洞挖掘等案例分享 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a) |
+| 1 | 人工智能重要漏洞通报（2026年第五期） | Doonsec | [https://mp.weixin.qq.com/s/PLInxZLj89ZkyE9AP0WLcQ](https://mp.weixin.qq.com/s/PLInxZLj89ZkyE9AP0WLcQ) |
+| 2 | 免费AI代码漏洞扫描神器！MonkeyScan开放注册，限时速领3000积分 | Doonsec | [https://mp.weixin.qq.com/s/2gA8KuLUpHsivY9SI9X5DA](https://mp.weixin.qq.com/s/2gA8KuLUpHsivY9SI9X5DA) |
+| 3 | 信息安全漏洞预警（2026年4月13日-4月17日） | Doonsec | [https://mp.weixin.qq.com/s/3eQn8-mbJiio8NXepLKxow](https://mp.weixin.qq.com/s/3eQn8-mbJiio8NXepLKxow) |
+| 4 | 【漏洞通告】Nginx UI MCP接口绕过认证漏洞(CVE-2026-33032) | Doonsec | [https://mp.weixin.qq.com/s/7kHtjd2OqAtbTccOn_p7cg](https://mp.weixin.qq.com/s/7kHtjd2OqAtbTccOn_p7cg) |
+| 5 | 360发现全球高危漏洞，漏洞挖掘智能体首次披露 | Doonsec | [https://mp.weixin.qq.com/s/DQTx5-O6hnzW0kJyE22fIw](https://mp.weixin.qq.com/s/DQTx5-O6hnzW0kJyE22fIw) |
+| 6 | 三星电子员工利用公司系统漏洞大规模收集个人信息 被起诉 | Doonsec | [https://mp.weixin.qq.com/s/CLXLNRn2xjPiuflugDhHjQ](https://mp.weixin.qq.com/s/CLXLNRn2xjPiuflugDhHjQ) |
+| 7 | Zack-AI-Scanner 新一代基于AI大模型的Web漏洞扫描器 (文末福利) | Doonsec | [https://mp.weixin.qq.com/s/UcKuAyZow6QhEhCbpX4JDw](https://mp.weixin.qq.com/s/UcKuAyZow6QhEhCbpX4JDw) |
+| 8 | 告别盲审，用Agent skill代码审计定位高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eAkrurVXmoZY4IPjvlaoxQ](https://mp.weixin.qq.com/s/eAkrurVXmoZY4IPjvlaoxQ) |
+| 9 | Chrome 138完整漏洞利用链——从CVE-2026-5873到远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A](https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A) |
+| 10 | UAC-0247 漏洞利用浏览器和 WhatsApp 数据窃取攻击医院和政府机构 | Doonsec | [https://mp.weixin.qq.com/s/cgFLiT2A8SpSV3dAySePdw](https://mp.weixin.qq.com/s/cgFLiT2A8SpSV3dAySePdw) |
+| 11 | C-Lodop打印服务系统存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/9z2bJp0oi-18ZjCF2M90qQ](https://mp.weixin.qq.com/s/9z2bJp0oi-18ZjCF2M90qQ) |
+| 12 | 【安全圈】开源AI中转站现高危漏洞 利用缺陷可以伪造任意金额充值 | Doonsec | [https://mp.weixin.qq.com/s/AKoK82PO4L4fAkruS1PkSA](https://mp.weixin.qq.com/s/AKoK82PO4L4fAkruS1PkSA) |
+| 13 | Apache Log4j2远程代码执行漏洞详解 | Doonsec | [https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw](https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [渗透测试练习——DarkHole_2靶场实践：涉及对.git文件的处理，sql注入及利用sudo提权 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=1&sn=fc54ff404c5347378b8105cd2c20656e](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613420&idx=1&sn=fc54ff404c5347378b8105cd2c20656e) |
-| 2 |  ] [【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505244&idx=1&sn=7fb5fa772c415724c24dec6f5b4ee48a) |
-| 3 |  ] [某rce漏洞挖掘等案例分享 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499322&idx=1&sn=0a9f63b29d3c47ba8e791aedd13f4e2a) |
+| 1 | Chrome 138完整漏洞利用链——从CVE-2026-5873到远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A](https://mp.weixin.qq.com/s/qyXM7fG98k__pEthxZ3_5A) |
+| 2 | 44个黑客常用的内网渗透命令符 | Doonsec | [https://mp.weixin.qq.com/s/XipC-V-nCZLrY_myhlG4bQ](https://mp.weixin.qq.com/s/XipC-V-nCZLrY_myhlG4bQ) |
+| 3 | Apache Log4j2远程代码执行漏洞详解 | Doonsec | [https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw](https://mp.weixin.qq.com/s/xIGtww7_iYyzlfBJOS44uw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 山石网科荣膺 “威胁情报支撑单位突出贡献奖”｜亮相2026世界互联网大会亚太峰会 | Doonsec | [https://mp.weixin.qq.com/s/OQInptg3Gr8ZR0N2YYZF1g](https://mp.weixin.qq.com/s/OQInptg3Gr8ZR0N2YYZF1g) |
+| 2 | 威胁情报日报 2026-04-17 | Doonsec | [https://mp.weixin.qq.com/s/gflTYKLCMLcQF1bcFoCUow](https://mp.weixin.qq.com/s/gflTYKLCMLcQF1bcFoCUow) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 欧洲铁路公司 Eurail 数据泄露，30 万人受影响 | Doonsec | [https://mp.weixin.qq.com/s/58lIzvQGIYPArQ0Smsy4Gg](https://mp.weixin.qq.com/s/58lIzvQGIYPArQ0Smsy4Gg) |
 
 
 ## 📁 归档路径
@@ -126,7 +151,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -135,5 +160,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-17 06:03:35*
+*生成时间: 2026-04-17 09:18:25*
 *报告工具: 微信文章安全归档系统*
