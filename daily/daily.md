@@ -1,21 +1,17 @@
-# 2026-04-17 安全威胁态势报告
+# 2026-04-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 23篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 9篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -65,29 +61,21 @@
 
 ### Doonsec
 
-- [参赛手册 | 2026数字中国创新大赛数字安全赛道网络和数据安全积分争夺个人赛和团队赛决赛](https://mp.weixin.qq.com/s/BeHudD0273FHzirTjtdvQQ) (发布日期: 2026-04-17)
-- [针对Microsoft Defender零日漏洞的新概念验证利用代码发布](https://mp.weixin.qq.com/s/vyvfLkl-NExwWLl78qVlxA) (发布日期: 2026-04-17)
-- [Chrome隐私漏洞：指纹识别与HTTP头泄露使用户面临风险](https://mp.weixin.qq.com/s/r4fBT0h-jzN8SxTfndggZg) (发布日期: 2026-04-17)
-- [Windows截图工具漏洞允许攻击者通过网络执行欺骗操作](https://mp.weixin.qq.com/s/TOFhVZjiVT9H5f3HsePOyQ) (发布日期: 2026-04-17)
-- [Azure Windows 管理中心的一键式远程代码执行漏洞允许攻击者执行任意命令](https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA) (发布日期: 2026-04-17)
-- [MASB2.0智能体护栏：从AI安全入口到智能体安全控制面](https://mp.weixin.qq.com/s/i8j1X7UqO8VYpNPMqaWnUQ) (发布日期: 2026-04-17)
-- [免费赠送 | 415全民国家安全教育日-安全意识培训科普素材](https://mp.weixin.qq.com/s/JcJY3uzrZhc_r1UQDmNV8w) (发布日期: 2026-04-17)
-- [西安电子科技大学 | SLOT：基于图强化学习的溯源图驱动APT检测方法](https://mp.weixin.qq.com/s/SmxPnJjdubjx1oFnxZy2gw) (发布日期: 2026-04-17)
-- [覆盖10亿用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露](https://mp.weixin.qq.com/s/LdFxutGiQumDDYi8iDxXLw) (发布日期: 2026-04-17)
-- [CNNVD | 人工智能重要漏洞通报（2026年第五期）](https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA) (发布日期: 2026-04-17)
-- [等保标准再扩新篇，数据安全系列公安行标解析-GA/T 2395网络安全等级保护](https://mp.weixin.qq.com/s/VU1mE_NN-20r4aCWaYgTAA) (发布日期: 2026-04-17)
-- [等保标准再扩新篇，数据安全系列公安行标解析（四）](https://mp.weixin.qq.com/s/NV-nvmMMK-OwwQKoNpm22g) (发布日期: 2026-04-17)
-- [等保2.0风险评估｜物理环境：别让机房“地基”，拖垮整个合规](https://mp.weixin.qq.com/s/3fkwBMaNCHgcHk4DkTxbJg) (发布日期: 2026-04-17)
-- [专家观点丨电子标准化院：新型工业化背景下切实提升工业控制系统网络安全防护能力](https://mp.weixin.qq.com/s/yKLb1o-JwhSY2H0bUaDyyw) (发布日期: 2026-04-17)
-- [CVE复现之老洞新探CVE-2021-3156](https://mp.weixin.qq.com/s/cPULYIBBV9DyVd6x_QzZ3Q) (发布日期: 2026-04-17)
-- [【免费领】顶级黑客工具：Kali Linux最优渗透测试思路及方法](https://mp.weixin.qq.com/s/6XGueAev-neUkdt7kV6mrg) (发布日期: 2026-04-17)
-- [覆盖亿级用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露](https://mp.weixin.qq.com/s/D_y6vbBa5KoP65uGwkW3Lg) (发布日期: 2026-04-17)
-- [[漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞](https://mp.weixin.qq.com/s/eplDjyND13nyXVufHCWeBA) (发布日期: 2026-04-17)
-- [直播预告 | 安全运营AI 进阶:AI威胁研判的场景化应用与落地路径](https://mp.weixin.qq.com/s/Ri1CCJUe7XLBgqkZUO4jPg) (发布日期: 2026-04-17)
-- [【代码审计】基于Tabby的反序列化示例](https://mp.weixin.qq.com/s/R7tBno-m5o2QGN6uZJ5Plg) (发布日期: 2026-04-17)
-- [[漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞](https://mp.weixin.qq.com/s/P4GmEK8tEwD8MAZZQGLj8w) (发布日期: 2026-04-17)
-- [晋级名单公布！2026数字中国创新大赛・数字安全赛道——网络和数据安全产业赛初赛圆满收官](https://mp.weixin.qq.com/s/dP3firPbCHZhhwJFpI6w4g) (发布日期: 2026-04-17)
-- [25类常见网络安全设备集合：防火墙、EDR、堡垒机、UTM、NGFW、NIDS、HIDS、IPS、IDS、安全网关、蜜罐](https://mp.weixin.qq.com/s/iFZC-V6ebay4O7nBMbPcrA) (发布日期: 2026-04-17)
+- [TC260-TR-001-2026《智能驾驶网络和数据安全标准化研究》](https://mp.weixin.qq.com/s/SJs7TV9cEw5_C-QhrfbZhA) (发布日期: 2026-04-18)
+- [连续三年！奇安盘古斩获OpenHarmony社区漏洞挖掘双项大奖](https://mp.weixin.qq.com/s/OU34zpXkm4gmpuovd-XrUw) (发布日期: 2026-04-18)
+- [情报分析的新范式：从“偷窥”到“监测”，从“共识”到“对抗”](https://mp.weixin.qq.com/s/maKN3f9rQckluhAvdag_IQ) (发布日期: 2026-04-18)
+- [等保标准再扩新篇，数据安全系列公安行标解析（三）](https://mp.weixin.qq.com/s/KrtSPgV6CLPZke8cEOGxAA) (发布日期: 2026-04-18)
+- [等保标准再扩新篇，数据安全系列公安行标解析（四）](https://mp.weixin.qq.com/s/X9UKwLg0s8M3RVruKXjTag) (发布日期: 2026-04-18)
+- [订单总额验证绕过漏洞](https://mp.weixin.qq.com/s/v7i_Gm983sMIqPjAO9I-Hw) (发布日期: 2026-04-18)
+- [一本恶意软件分析速成课程](https://mp.weixin.qq.com/s/6HZcOHPtcTp545oEtae8Yg) (发布日期: 2026-04-18)
+- [MetaCRM美特crm系统toviewspecial.jsp接口存在任意文件读取漏洞](https://mp.weixin.qq.com/s/mJa5OMViE8FaYzcuD_rFng) (发布日期: 2026-04-18)
+- [订单总额验证绕过漏洞](https://mp.weixin.qq.com/s/H_Du3fdmLxJH3kyohEwbCw) (发布日期: 2026-04-18)
+- [广西金融机构“AI辅助精准营销场景建设”项目交流和POC测试公告](https://mp.weixin.qq.com/s/GFXpcPOBKM241zj0tPRv1Q) (发布日期: 2026-04-18)
+- [CISSP 重点知识点合集｜D1 安全风险管理（单元二）2.5 创建和维护安全意识培训和教育项目](https://mp.weixin.qq.com/s/W6o93x7P4LNkHMoQcg_jCQ) (发布日期: 2026-04-18)
+- [【征稿】EXPRESS 2026：从云原生到AI原生，重塑软件系统的可解释性与可靠性](https://mp.weixin.qq.com/s/E6nQ6B8sBy48TvDSiaQN7A) (发布日期: 2026-04-18)
+- [CNNVD通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/T6LDO7qFp5SMUWItnV2bbA) (发布日期: 2026-04-18)
+- [Windows Defenderxa0高危0day：RedSun漏洞全解析（附代码链接）](https://mp.weixin.qq.com/s/tvn1A0Q10joBSF4qBKYbEA) (发布日期: 2026-04-18)
+- [自2026年1月以来，勒索软件团伙利用思科漏洞发起零日攻击](https://mp.weixin.qq.com/s/E0tm5kxWIAqAta_hf2lAeQ) (发布日期: 2026-04-18)
 
 
 ## 🎯 威胁详情分析
@@ -96,39 +84,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 针对Microsoft Defender零日漏洞的新概念验证利用代码发布 | Doonsec | [https://mp.weixin.qq.com/s/vyvfLkl-NExwWLl78qVlxA](https://mp.weixin.qq.com/s/vyvfLkl-NExwWLl78qVlxA) |
-| 2 | Chrome隐私漏洞：指纹识别与HTTP头泄露使用户面临风险 | Doonsec | [https://mp.weixin.qq.com/s/r4fBT0h-jzN8SxTfndggZg](https://mp.weixin.qq.com/s/r4fBT0h-jzN8SxTfndggZg) |
-| 3 | Windows截图工具漏洞允许攻击者通过网络执行欺骗操作 | Doonsec | [https://mp.weixin.qq.com/s/TOFhVZjiVT9H5f3HsePOyQ](https://mp.weixin.qq.com/s/TOFhVZjiVT9H5f3HsePOyQ) |
-| 4 | Azure Windows 管理中心的一键式远程代码执行漏洞允许攻击者执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA](https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA) |
-| 5 | 覆盖10亿用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露 | Doonsec | [https://mp.weixin.qq.com/s/LdFxutGiQumDDYi8iDxXLw](https://mp.weixin.qq.com/s/LdFxutGiQumDDYi8iDxXLw) |
-| 6 | CNNVD | 人工智能重要漏洞通报（2026年第五期） | Doonsec | [https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA](https://mp.weixin.qq.com/s/GgKdQgtdR7g0_uzFZPeEzA) |
-| 7 | CVE复现之老洞新探CVE-2021-3156 | Doonsec | [https://mp.weixin.qq.com/s/cPULYIBBV9DyVd6x_QzZ3Q](https://mp.weixin.qq.com/s/cPULYIBBV9DyVd6x_QzZ3Q) |
-| 8 | 覆盖亿级用户！360发现全球高危漏洞 漏洞挖掘智能体首次披露 | Doonsec | [https://mp.weixin.qq.com/s/D_y6vbBa5KoP65uGwkW3Lg](https://mp.weixin.qq.com/s/D_y6vbBa5KoP65uGwkW3Lg) |
-| 9 | [漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eplDjyND13nyXVufHCWeBA](https://mp.weixin.qq.com/s/eplDjyND13nyXVufHCWeBA) |
-| 10 | [漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/P4GmEK8tEwD8MAZZQGLj8w](https://mp.weixin.qq.com/s/P4GmEK8tEwD8MAZZQGLj8w) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Azure Windows 管理中心的一键式远程代码执行漏洞允许攻击者执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA](https://mp.weixin.qq.com/s/0yTOZmgF73e67DzwzdNHoA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 西安电子科技大学 | SLOT：基于图强化学习的溯源图驱动APT检测方法 | Doonsec | [https://mp.weixin.qq.com/s/SmxPnJjdubjx1oFnxZy2gw](https://mp.weixin.qq.com/s/SmxPnJjdubjx1oFnxZy2gw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 直播预告 | 安全运营AI 进阶:AI威胁研判的场景化应用与落地路径 | Doonsec | [https://mp.weixin.qq.com/s/Ri1CCJUe7XLBgqkZUO4jPg](https://mp.weixin.qq.com/s/Ri1CCJUe7XLBgqkZUO4jPg) |
+| 1 | 连续三年！奇安盘古斩获OpenHarmony社区漏洞挖掘双项大奖 | Doonsec | [https://mp.weixin.qq.com/s/OU34zpXkm4gmpuovd-XrUw](https://mp.weixin.qq.com/s/OU34zpXkm4gmpuovd-XrUw) |
+| 2 | 订单总额验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/v7i_Gm983sMIqPjAO9I-Hw](https://mp.weixin.qq.com/s/v7i_Gm983sMIqPjAO9I-Hw) |
+| 3 | MetaCRM美特crm系统toviewspecial.jsp接口存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/mJa5OMViE8FaYzcuD_rFng](https://mp.weixin.qq.com/s/mJa5OMViE8FaYzcuD_rFng) |
+| 4 | 订单总额验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/H_Du3fdmLxJH3kyohEwbCw](https://mp.weixin.qq.com/s/H_Du3fdmLxJH3kyohEwbCw) |
+| 5 | 广西金融机构“AI辅助精准营销场景建设”项目交流和POC测试公告 | Doonsec | [https://mp.weixin.qq.com/s/GFXpcPOBKM241zj0tPRv1Q](https://mp.weixin.qq.com/s/GFXpcPOBKM241zj0tPRv1Q) |
+| 6 | 【征稿】EXPRESS 2026：从云原生到AI原生，重塑软件系统的可解释性与可靠性 | Doonsec | [https://mp.weixin.qq.com/s/E6nQ6B8sBy48TvDSiaQN7A](https://mp.weixin.qq.com/s/E6nQ6B8sBy48TvDSiaQN7A) |
+| 7 | CNNVD通报OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/T6LDO7qFp5SMUWItnV2bbA](https://mp.weixin.qq.com/s/T6LDO7qFp5SMUWItnV2bbA) |
+| 8 | Windows Defenderxa0高危0day：RedSun漏洞全解析（附代码链接） | Doonsec | [https://mp.weixin.qq.com/s/tvn1A0Q10joBSF4qBKYbEA](https://mp.weixin.qq.com/s/tvn1A0Q10joBSF4qBKYbEA) |
+| 9 | 自2026年1月以来，勒索软件团伙利用思科漏洞发起零日攻击 | Doonsec | [https://mp.weixin.qq.com/s/E0tm5kxWIAqAta_hf2lAeQ](https://mp.weixin.qq.com/s/E0tm5kxWIAqAta_hf2lAeQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W16/2026-04-17/`
+文章已归档到: `doc/2026/2026-04/2026-W16/2026-04-18/`
 
 ## 🔗 数据源说明
 
@@ -139,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-17 13:21:27*
+*生成时间: 2026-04-18 02:28:25*
 *报告工具: 微信文章安全归档系统*
