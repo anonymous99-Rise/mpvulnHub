@@ -2,22 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 25篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **安全运营**: 5篇
-- **攻击技术**: 4篇
-- **威胁情报**: 3篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,31 +64,17 @@
 
 ### Doonsec
 
-- [CNVD漏洞周报2026年第15期](https://mp.weixin.qq.com/s/l_VPWxlBISmDU2pk0iv-Zg) (发布日期: 2026-04-20)
-- [上周关注度较高的产品安全漏洞(20260413-20260419)](https://mp.weixin.qq.com/s/4pIqUfkKTsQcA7-wPOBB-w) (发布日期: 2026-04-20)
-- [pocsuites安全工具源码分析](https://mp.weixin.qq.com/s/t8Pi1hhPaNReLwW7BzzTYQ) (发布日期: 2026-04-20)
-- [渗透测试必备工具：SQLMap实操指导教程](https://mp.weixin.qq.com/s/UeitQK0s9z0kMY7ttPQspQ) (发布日期: 2026-04-20)
-- [【天穹】暗度陈仓：银狐白利用技术升级](https://mp.weixin.qq.com/s/ulLnCu6xRVd9wbW9_Q2hxA) (发布日期: 2026-04-20)
-- [所有缺钱的人，2026年都去挖漏洞，抓住最后的机会！](https://mp.weixin.qq.com/s/1GL297s0YLlks8UhZF1reA) (发布日期: 2026-04-20)
-- [9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE](https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ) (发布日期: 2026-04-20)
-- [OSRC助力 | 直播预告：2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~](https://mp.weixin.qq.com/s/H9HPRmtQE-g6ZBRV6EBKqw) (发布日期: 2026-04-20)
-- [直播预告 | 2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~](https://mp.weixin.qq.com/s/544GSvvdZdRdiFdvzdMqRA) (发布日期: 2026-04-20)
-- [MC+DeepSeek！部署自动化日志分析及代码审计系统](https://mp.weixin.qq.com/s/P_uUGLFIz4O1tASFE3KbJg) (发布日期: 2026-04-20)
-- [使用Everything也能检查木马了，计算机中所有恶意文件都将无所遁形](https://mp.weixin.qq.com/s/bjN9UG-puGpHrUsQF0rI7A) (发布日期: 2026-04-20)
-- [360SRC助力 | 直播预告！2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~](https://mp.weixin.qq.com/s/LpArzVG7sBLy85_5EfhVSQ) (发布日期: 2026-04-20)
-- [讯飞SRC助力 | 直播预告：2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~](https://mp.weixin.qq.com/s/vd-trACYY_c72kP9nwf0gQ) (发布日期: 2026-04-20)
-- [直播预告 | 2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~](https://mp.weixin.qq.com/s/z6QP9VlKkgZ3yrdWUQoPmA) (发布日期: 2026-04-20)
-- [vercel前端AI自动化鼻祖被黑](https://mp.weixin.qq.com/s/vG-eehpeYJTzjlomqu1a7A) (发布日期: 2026-04-20)
-- [【公告】漏洞盒子服务器升级通知](https://mp.weixin.qq.com/s/2-qBN2ZgDgEI0JAcj9s2YA) (发布日期: 2026-04-20)
-- [【闪石星曜@ AI Java代码审计课程】如何让AI成为代码审计的超级外挂？降维打击](https://mp.weixin.qq.com/s/O7w50MgYyI_NJbMj_dsvcA) (发布日期: 2026-04-20)
-- [安全锐见：针对网络安全服务，企业是应该组建网络安全服务团队，还是选择网络安全服务人力外包？](https://mp.weixin.qq.com/s/HLK_eeM0tMbZI6X-CxUPYw) (发布日期: 2026-04-20)
-- [应急响应打靶--windows3](https://mp.weixin.qq.com/s/sDbF_In1sGKj7VUm8KWKDw) (发布日期: 2026-04-20)
-- [主流网页部署平台Vercel遭黑客入侵 第三方AI工具成攻击突破口](https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA) (发布日期: 2026-04-20)
-- [Vercel 入侵溯源到 Context.ai 一个员工的 Roblox 外挂](https://mp.weixin.qq.com/s/gKFTkjLNahOiw-JQ4DVzSQ) (发布日期: 2026-04-20)
-- [盗版课还给加上密了，我正版都没加密](https://mp.weixin.qq.com/s/DZk04uJZ9FSl2T-oMgJjMQ) (发布日期: 2026-04-20)
-- [微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈](https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A) (发布日期: 2026-04-20)
-- [2026-4月Solar应急响应公益月赛！](https://mp.weixin.qq.com/s/aYztZOaP_l0mQOHzx0GXlQ) (发布日期: 2026-04-20)
-- [红队常用的100种域内渗透手法，建议收藏](https://mp.weixin.qq.com/s/x95kLOsFR4vhQxML2StyIQ) (发布日期: 2026-04-20)
+- [XOA！仅执行智能体的安全架构设计](https://mp.weixin.qq.com/s/lsYWUF8Z_Nldxkx8I7gI7Q) (发布日期: 2026-04-20)
+- [JanaWare勒索软件通过定制的Adwind RAT攻击土耳其用户](https://mp.weixin.qq.com/s/uoD4h4ibnla1LfxfJjvuOw) (发布日期: 2026-04-20)
+- [Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令](https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w) (发布日期: 2026-04-20)
+- [【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级](https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw) (发布日期: 2026-04-20)
+- [【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) (发布日期: 2026-04-20)
+- [超万人参赛！全国数据安全顶流赛事在厦门启动](https://mp.weixin.qq.com/s/GNMGUo03npfszdKjSjDqqA) (发布日期: 2026-04-20)
+- [DeepAudit+星悦AI模型站实战代码审计](https://mp.weixin.qq.com/s/YrASPZsy6o7SYVpB5LXuuQ) (发布日期: 2026-04-20)
+- [政企培训 | 贵州大数据集团携手深信服科技：圆满举办网络与数据安全培训](https://mp.weixin.qq.com/s/QFpfymLBHOSoWP7Hjv6sWg) (发布日期: 2026-04-20)
+- [Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击](https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg) (发布日期: 2026-04-20)
+- [攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令](https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w) (发布日期: 2026-04-20)
+- [NIST放弃全面分析CVE，转向优先处理高危漏洞](https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA) (发布日期: 2026-04-20)
 
 
 ## 🎯 威胁详情分析
@@ -99,46 +83,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNVD漏洞周报2026年第15期 | Doonsec | [https://mp.weixin.qq.com/s/l_VPWxlBISmDU2pk0iv-Zg](https://mp.weixin.qq.com/s/l_VPWxlBISmDU2pk0iv-Zg) |
-| 2 | 上周关注度较高的产品安全漏洞(20260413-20260419) | Doonsec | [https://mp.weixin.qq.com/s/4pIqUfkKTsQcA7-wPOBB-w](https://mp.weixin.qq.com/s/4pIqUfkKTsQcA7-wPOBB-w) |
-| 3 | pocsuites安全工具源码分析 | Doonsec | [https://mp.weixin.qq.com/s/t8Pi1hhPaNReLwW7BzzTYQ](https://mp.weixin.qq.com/s/t8Pi1hhPaNReLwW7BzzTYQ) |
-| 4 | 所有缺钱的人，2026年都去挖漏洞，抓住最后的机会！ | Doonsec | [https://mp.weixin.qq.com/s/1GL297s0YLlks8UhZF1reA](https://mp.weixin.qq.com/s/1GL297s0YLlks8UhZF1reA) |
-| 5 | 9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE | Doonsec | [https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ](https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ) |
-| 6 | 【公告】漏洞盒子服务器升级通知 | Doonsec | [https://mp.weixin.qq.com/s/2-qBN2ZgDgEI0JAcj9s2YA](https://mp.weixin.qq.com/s/2-qBN2ZgDgEI0JAcj9s2YA) |
-| 7 | 微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈 | Doonsec | [https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A](https://mp.weixin.qq.com/s/DruBxIwIrlEtzFRNZxTw4A) |
+| 1 | Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令 | Doonsec | [https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w](https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w) |
+| 2 | 【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级 | Doonsec | [https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw](https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw) |
+| 3 | Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击 | Doonsec | [https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg](https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg) |
+| 4 | 攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w](https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w) |
+| 5 | NIST放弃全面分析CVE，转向优先处理高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA](https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 9.8分！OpenAM爆严重反序列化漏洞，攻击者无需认证即可RCE | Doonsec | [https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ](https://mp.weixin.qq.com/s/9wp9Sj6kFtOHGLMxFGG8UQ) |
-| 2 | vercel前端AI自动化鼻祖被黑 | Doonsec | [https://mp.weixin.qq.com/s/vG-eehpeYJTzjlomqu1a7A](https://mp.weixin.qq.com/s/vG-eehpeYJTzjlomqu1a7A) |
-| 3 | 主流网页部署平台Vercel遭黑客入侵 第三方AI工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA](https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA) |
-| 4 | Vercel 入侵溯源到 Context.ai 一个员工的 Roblox 外挂 | Doonsec | [https://mp.weixin.qq.com/s/gKFTkjLNahOiw-JQ4DVzSQ](https://mp.weixin.qq.com/s/gKFTkjLNahOiw-JQ4DVzSQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【天穹】暗度陈仓：银狐白利用技术升级 | Doonsec | [https://mp.weixin.qq.com/s/ulLnCu6xRVd9wbW9_Q2hxA](https://mp.weixin.qq.com/s/ulLnCu6xRVd9wbW9_Q2hxA) |
-| 2 | 应急响应打靶--windows3 | Doonsec | [https://mp.weixin.qq.com/s/sDbF_In1sGKj7VUm8KWKDw](https://mp.weixin.qq.com/s/sDbF_In1sGKj7VUm8KWKDw) |
-| 3 | 2026-4月Solar应急响应公益月赛！ | Doonsec | [https://mp.weixin.qq.com/s/aYztZOaP_l0mQOHzx0GXlQ](https://mp.weixin.qq.com/s/aYztZOaP_l0mQOHzx0GXlQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OSRC助力 | 直播预告：2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~ | Doonsec | [https://mp.weixin.qq.com/s/H9HPRmtQE-g6ZBRV6EBKqw](https://mp.weixin.qq.com/s/H9HPRmtQE-g6ZBRV6EBKqw) |
-| 2 | 直播预告 | 2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~ | Doonsec | [https://mp.weixin.qq.com/s/544GSvvdZdRdiFdvzdMqRA](https://mp.weixin.qq.com/s/544GSvvdZdRdiFdvzdMqRA) |
-| 3 | 360SRC助力 | 直播预告！2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~ | Doonsec | [https://mp.weixin.qq.com/s/LpArzVG7sBLy85_5EfhVSQ](https://mp.weixin.qq.com/s/LpArzVG7sBLy85_5EfhVSQ) |
-| 4 | 讯飞SRC助力 | 直播预告：2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~ | Doonsec | [https://mp.weixin.qq.com/s/vd-trACYY_c72kP9nwf0gQ](https://mp.weixin.qq.com/s/vd-trACYY_c72kP9nwf0gQ) |
-| 5 | 直播预告 | 2025年度货拉拉SRC白帽子安全沙龙暨年度颁奖典礼~ | Doonsec | [https://mp.weixin.qq.com/s/z6QP9VlKkgZ3yrdWUQoPmA](https://mp.weixin.qq.com/s/z6QP9VlKkgZ3yrdWUQoPmA) |
+| 1 | 【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 主流网页部署平台Vercel遭黑客入侵 第三方AI工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA](https://mp.weixin.qq.com/s/UCJ1kNJntBCG5sjs44b7AA) |
+| 1 | 【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) |
 
 
 ## 📁 归档路径
@@ -154,8 +115,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -164,5 +125,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-20 09:57:55*
+*生成时间: 2026-04-20 13:43:25*
 *报告工具: 微信文章安全归档系统*
