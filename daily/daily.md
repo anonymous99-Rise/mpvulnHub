@@ -1,21 +1,21 @@
-# 2026-04-20 安全威胁态势报告
+# 2026-04-21 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 3篇
+- **安全运营**: 3篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,17 +64,31 @@
 
 ### Doonsec
 
-- [XOA！仅执行智能体的安全架构设计](https://mp.weixin.qq.com/s/lsYWUF8Z_Nldxkx8I7gI7Q) (发布日期: 2026-04-20)
-- [JanaWare勒索软件通过定制的Adwind RAT攻击土耳其用户](https://mp.weixin.qq.com/s/uoD4h4ibnla1LfxfJjvuOw) (发布日期: 2026-04-20)
-- [Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令](https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w) (发布日期: 2026-04-20)
-- [【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级](https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw) (发布日期: 2026-04-20)
-- [【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) (发布日期: 2026-04-20)
-- [超万人参赛！全国数据安全顶流赛事在厦门启动](https://mp.weixin.qq.com/s/GNMGUo03npfszdKjSjDqqA) (发布日期: 2026-04-20)
-- [DeepAudit+星悦AI模型站实战代码审计](https://mp.weixin.qq.com/s/YrASPZsy6o7SYVpB5LXuuQ) (发布日期: 2026-04-20)
-- [政企培训 | 贵州大数据集团携手深信服科技：圆满举办网络与数据安全培训](https://mp.weixin.qq.com/s/QFpfymLBHOSoWP7Hjv6sWg) (发布日期: 2026-04-20)
-- [Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击](https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg) (发布日期: 2026-04-20)
-- [攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令](https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w) (发布日期: 2026-04-20)
-- [NIST放弃全面分析CVE，转向优先处理高危漏洞](https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA) (发布日期: 2026-04-20)
+- [Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口](https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw) (发布日期: 2026-04-21)
+- [倒计时1天 | 2026数字中国创新大赛数字安全赛道网络和数据安全积分争夺个人赛和团队赛决赛](https://mp.weixin.qq.com/s/PPOb1YVqh8gAtD0g4EuZ5w) (发布日期: 2026-04-21)
+- [参赛手册 | 2026数字中国创新大赛数字安全赛道网络和数据安全积分争夺个人赛和团队赛决赛](https://mp.weixin.qq.com/s/qL2R9Omv-_FGt7LGl_27dA) (发布日期: 2026-04-21)
+- [快来武装你的AI，让AI帮你做代码审计、渗透、逆向](https://mp.weixin.qq.com/s/G-usxt7zbujWnQZr2kD1KQ) (发布日期: 2026-04-21)
+- [破解资产交叉难题，众智维科技“红鲸+磐石”重构能源企业安全运营防线](https://mp.weixin.qq.com/s/BkD0_phtSRHZAIpfrjL1qA) (发布日期: 2026-04-21)
+- [Anthropic MCP 架构曝“设计级”漏洞：影响超 20 万服务器，AI 供应链安全拉响警报](https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ) (发布日期: 2026-04-21)
+- [当AI学会自己找漏洞、写Exp：安全行业的\"奇点\"可能真的来了](https://mp.weixin.qq.com/s/ox9LQJrPESIInPILsE8vmA) (发布日期: 2026-04-21)
+- [警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路](https://mp.weixin.qq.com/s/0TtAgeG8J2qoxf8N3nesGA) (发布日期: 2026-04-21)
+- [Android 自动化渗透测试指令生成，可解析 AndroidManifest文件并生成 Drozer 测试指令](https://mp.weixin.qq.com/s/sybrq4i5OzYco9GMMySerg) (发布日期: 2026-04-21)
+- [黑客利用AppDomain劫持将受信任的英特尔工具变为恶意软件启动器](https://mp.weixin.qq.com/s/kF7UMopohP804Jvo-iDsXQ) (发布日期: 2026-04-21)
+- [Flowise 中的严重漏洞可通过 MCP 适配器实现远程命令执行](https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ) (发布日期: 2026-04-21)
+- [签约入驻、生态共建：安恒信息亮相光合组织海南对接会，共探数据安全海南方案](https://mp.weixin.qq.com/s/g8kwHrkFESXL9d_OqH0L-Q) (发布日期: 2026-04-21)
+- [EDU证书站边缘资产挖掘实战：从.map泄露到高危漏洞到手全流程](https://mp.weixin.qq.com/s/yBYaxIj1vOptHpmSM6nkoQ) (发布日期: 2026-04-21)
+- [2026 SRC 捡漏洞刷分实战：我不会挖漏洞，但是我捡漏洞很6](https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw) (发布日期: 2026-04-21)
+- [CVE-2023-33538 已遭受持续一年的攻击，但漏洞利用仍未成功](https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug) (发布日期: 2026-04-21)
+- [2026最新《医疗卫生机构数据安全和个人信息保护管理办法（试行）》政策解读](https://mp.weixin.qq.com/s/n1bMlwhKiUfrZhZgIeVSJA) (发布日期: 2026-04-21)
+- [Entra条件访问策略中的时间后门](https://mp.weixin.qq.com/s/rRIfUjs5iBk0VOIj0JmOtw) (发布日期: 2026-04-21)
+- [开源推荐：微信小程序全自动安全审计Skill](https://mp.weixin.qq.com/s/jDnw24usFwr7rGVmO5sQLQ) (发布日期: 2026-04-21)
+- [ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具](https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q) (发布日期: 2026-04-21)
+- [具身智能安全技术白皮书：机器人篇（2026）](https://mp.weixin.qq.com/s/XNB4lnVrOsEMxnD3t1KiPQ) (发布日期: 2026-04-21)
+- [《密码学》科普讲坛—第八讲：密码体制](https://mp.weixin.qq.com/s/Sz3KRwWYR9Yxp634I8EzrQ) (发布日期: 2026-04-21)
+- [新手容易上手的SRC案例](https://mp.weixin.qq.com/s/Cx9PkL8LyPR-gjGr7_4f0A) (发布日期: 2026-04-21)
+- [T0级漏洞](https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ) (发布日期: 2026-04-21)
+- [[漏洞报告]小白也能学会，某平台 CMS 系统后台漏洞的报告](https://mp.weixin.qq.com/s/p5QnLgEIbWjmZYs1fCkIWw) (发布日期: 2026-04-21)
+- [从默认密码到域控：一条完整的红队横向移动链路复盘](https://mp.weixin.qq.com/s/_7-id6wMqzWszJv4LHR22Q) (发布日期: 2026-04-21)
 
 
 ## 🎯 威胁详情分析
@@ -83,28 +97,44 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令 | Doonsec | [https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w](https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w) |
-| 2 | 【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级 | Doonsec | [https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw](https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw) |
-| 3 | Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击 | Doonsec | [https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg](https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg) |
-| 4 | 攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w](https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w) |
-| 5 | NIST放弃全面分析CVE，转向优先处理高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA](https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA) |
+| 1 | Anthropic MCP 架构曝“设计级”漏洞：影响超 20 万服务器，AI 供应链安全拉响警报 | Doonsec | [https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ](https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ) |
+| 2 | 当AI学会自己找漏洞、写Exp：安全行业的\"奇点\"可能真的来了 | Doonsec | [https://mp.weixin.qq.com/s/ox9LQJrPESIInPILsE8vmA](https://mp.weixin.qq.com/s/ox9LQJrPESIInPILsE8vmA) |
+| 3 | 警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路 | Doonsec | [https://mp.weixin.qq.com/s/0TtAgeG8J2qoxf8N3nesGA](https://mp.weixin.qq.com/s/0TtAgeG8J2qoxf8N3nesGA) |
+| 4 | Flowise 中的严重漏洞可通过 MCP 适配器实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ](https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ) |
+| 5 | EDU证书站边缘资产挖掘实战：从.map泄露到高危漏洞到手全流程 | Doonsec | [https://mp.weixin.qq.com/s/yBYaxIj1vOptHpmSM6nkoQ](https://mp.weixin.qq.com/s/yBYaxIj1vOptHpmSM6nkoQ) |
+| 6 | 2026 SRC 捡漏洞刷分实战：我不会挖漏洞，但是我捡漏洞很6 | Doonsec | [https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw](https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw) |
+| 7 | CVE-2023-33538 已遭受持续一年的攻击，但漏洞利用仍未成功 | Doonsec | [https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug](https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug) |
+| 8 | ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具 | Doonsec | [https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q](https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q) |
+| 9 | T0级漏洞 | Doonsec | [https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ](https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ) |
+| 10 | [漏洞报告]小白也能学会，某平台 CMS 系统后台漏洞的报告 | Doonsec | [https://mp.weixin.qq.com/s/p5QnLgEIbWjmZYs1fCkIWw](https://mp.weixin.qq.com/s/p5QnLgEIbWjmZYs1fCkIWw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) |
+| 1 | Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口 | Doonsec | [https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw](https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw) |
+| 2 | Flowise 中的严重漏洞可通过 MCP 适配器实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ](https://mp.weixin.qq.com/s/tbhSTbvu2L-23453ehAxpQ) |
+| 3 | 从默认密码到域控：一条完整的红队横向移动链路复盘 | Doonsec | [https://mp.weixin.qq.com/s/_7-id6wMqzWszJv4LHR22Q](https://mp.weixin.qq.com/s/_7-id6wMqzWszJv4LHR22Q) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 破解资产交叉难题，众智维科技“红鲸+磐石”重构能源企业安全运营防线 | Doonsec | [https://mp.weixin.qq.com/s/BkD0_phtSRHZAIpfrjL1qA](https://mp.weixin.qq.com/s/BkD0_phtSRHZAIpfrjL1qA) |
+| 2 | 2026 SRC 捡漏洞刷分实战：我不会挖漏洞，但是我捡漏洞很6 | Doonsec | [https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw](https://mp.weixin.qq.com/s/G_y44KNW3CafXOWG6o69Aw) |
+| 3 | 新手容易上手的SRC案例 | Doonsec | [https://mp.weixin.qq.com/s/Cx9PkL8LyPR-gjGr7_4f0A](https://mp.weixin.qq.com/s/Cx9PkL8LyPR-gjGr7_4f0A) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口 | Doonsec | [https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ](https://mp.weixin.qq.com/s/fc_uuz0oe-A3h9hMyqL2MQ) |
+| 1 | Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口 | Doonsec | [https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw](https://mp.weixin.qq.com/s/WjpV8xtkXyfIIIi0svzCfw) |
+| 2 | Anthropic MCP 架构曝“设计级”漏洞：影响超 20 万服务器，AI 供应链安全拉响警报 | Doonsec | [https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ](https://mp.weixin.qq.com/s/M1plPt2E4btU94vrs6yGkQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-20/`
+文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-21/`
 
 ## 🔗 数据源说明
 
@@ -115,7 +145,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -125,5 +155,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-20 13:43:25*
+*生成时间: 2026-04-21 02:38:08*
 *报告工具: 微信文章安全归档系统*
