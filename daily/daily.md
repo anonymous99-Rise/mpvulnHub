@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +63,24 @@
 
 ### Doonsec
 
-- [【NCC安全守护・第 1 期】视频监控系统漏洞专项挑战开启！](https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA) (发布日期: 2026-04-22)
-- [AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) (发布日期: 2026-04-22)
-- [十年后，SOC将不再只是“作战室”](https://mp.weixin.qq.com/s/w7sgTwMDaNmrQt3mlZWORA) (发布日期: 2026-04-22)
-- [软件代码安全运营工程师招聘](https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ) (发布日期: 2026-04-22)
-- [【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933）](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) (发布日期: 2026-04-22)
-- [【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) (发布日期: 2026-04-22)
-- [从 OSCP 考完到“蓝队实战”：我为什么建议你重学正则表达式？](https://mp.weixin.qq.com/s/-mc_BoFqNA0wq5W64dAslA) (发布日期: 2026-04-22)
-- [AI驱动·合规增效｜任子行数据安全分类分级实战解析，助企业降本破局](https://mp.weixin.qq.com/s/NQI9KQPFU26ZEP0XnrJD3w) (发布日期: 2026-04-22)
-- [【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例](https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ) (发布日期: 2026-04-22)
-- [直播预告 | LLSRC年度颁奖典礼「精彩议题」抢先看！](https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg) (发布日期: 2026-04-22)
-- [DudeSuite 漏洞播报 全网漏洞早知道【20260422】](https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg) (发布日期: 2026-04-22)
-- [哈密商业银行因“违反网络安全 数据安全”等被罚 科技部人员同时被罚](https://mp.weixin.qq.com/s/deTCjV0e3QyT_nS9dpinpQ) (发布日期: 2026-04-22)
+- [间接提示注入克星！CLAWGUARD 安全框架解析](https://mp.weixin.qq.com/s/YeGO_cYSj00cVmnji5sHrg) (发布日期: 2026-04-22)
+- [漏洞永远修不完，“带洞防护”成必然——奇安信发布Mythos应对白皮书](https://mp.weixin.qq.com/s/BThVw5FJmJUA3gk4nqOO9Q) (发布日期: 2026-04-22)
+- [仅花1.5万元，就能把关键漏洞变成直接运行的网络武器](https://mp.weixin.qq.com/s/izPnODoJVVJ1DclvfEYGXA) (发布日期: 2026-04-22)
+- [拆解 LBS 定位技术：从底层逻辑到“无感追踪”的完整证据链](https://mp.weixin.qq.com/s/mio3nRcrd-cZ9MObOcbadQ) (发布日期: 2026-04-22)
+- [超过 1370 台 Microsoft SharePoint 服务器易受欺骗攻击，其安全漏洞已在网上曝光](https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg) (发布日期: 2026-04-22)
+- [自动化代码审计辅助智能体](https://mp.weixin.qq.com/s/UpNWCEw_KkfV8WxJ2JSZmQ) (发布日期: 2026-04-22)
+- [别被AI冲昏头：企业安全工具自研的边界与真相](https://mp.weixin.qq.com/s/mTLccIfxojNoZyWSzSO7aA) (发布日期: 2026-04-22)
+- [解锁两次CISSP/CCSP考试机会，就选ISC2考试安心保障](https://mp.weixin.qq.com/s/0WYtoWckv55DmY09XLh5-Q) (发布日期: 2026-04-22)
+- [仅花1.5万元，就能把关键漏洞变成直接运行的网络武器](https://mp.weixin.qq.com/s/bo1kpWYRcHs-EwG_wvCnuA) (发布日期: 2026-04-22)
+- [Mythos 疑遭未授权访问，Anthropic 称正在调查](https://mp.weixin.qq.com/s/j67kZFezTOq3v1ZOoXMUmQ) (发布日期: 2026-04-22)
+- [谷歌修复 Antigravity IDE 漏洞，本可导致提示词注入代码执行](https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag) (发布日期: 2026-04-22)
+- [\"数智问道 智护校园安澜\" 教育数智化安全治理主题活动圆满举行](https://mp.weixin.qq.com/s/tYVi7K7UNtege0ZDBwvE-A) (发布日期: 2026-04-22)
+- [360企业浏览器数据安全专版正式推出，八大能力护航数字办公全场景](https://mp.weixin.qq.com/s/nbS0jKJyrSJzv3pDMX8KVQ) (发布日期: 2026-04-22)
+- [CVE-2026-34486 ( Apache Tomcat 集群加密绕过 RCE)](https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg) (发布日期: 2026-04-22)
+- [绿盟科技《DDoS攻击威胁报告》（2026版）正式发布](https://mp.weixin.qq.com/s/u99nCtqNxoD-wvC8A-ewrg) (发布日期: 2026-04-22)
+- [以赛育才，以技护安｜金盾检测邀您参加2026南京市数据安全管理员技能竞赛！](https://mp.weixin.qq.com/s/b0RIpjCUk5YtS8_xhjumug) (发布日期: 2026-04-22)
+- [警惕！复制粘贴=系统沦陷？揭秘ClickFix无文件社工钓鱼攻击手段新威胁](https://mp.weixin.qq.com/s/VU3pOZp_hvL_Epi3vHQOEA) (发布日期: 2026-04-22)
+- [PostgREST 安全分析报告](https://mp.weixin.qq.com/s/5NT_J-zWp8hLp6-lnLKMEg) (发布日期: 2026-04-22)
 
 
 ## 🎯 威胁详情分析
@@ -84,37 +89,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【NCC安全守护・第 1 期】视频监控系统漏洞专项挑战开启！ | Doonsec | [https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA](https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA) |
-| 2 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) |
-| 3 | 【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933） | Doonsec | [https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) |
-| 4 | 【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例 | Doonsec | [https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ](https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ) |
-| 5 | DudeSuite 漏洞播报 全网漏洞早知道【20260422】 | Doonsec | [https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg](https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg) |
+| 1 | 漏洞永远修不完，“带洞防护”成必然——奇安信发布Mythos应对白皮书 | Doonsec | [https://mp.weixin.qq.com/s/BThVw5FJmJUA3gk4nqOO9Q](https://mp.weixin.qq.com/s/BThVw5FJmJUA3gk4nqOO9Q) |
+| 2 | 仅花1.5万元，就能把关键漏洞变成直接运行的网络武器 | Doonsec | [https://mp.weixin.qq.com/s/izPnODoJVVJ1DclvfEYGXA](https://mp.weixin.qq.com/s/izPnODoJVVJ1DclvfEYGXA) |
+| 3 | 超过 1370 台 Microsoft SharePoint 服务器易受欺骗攻击，其安全漏洞已在网上曝光 | Doonsec | [https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg](https://mp.weixin.qq.com/s/DPbXhj28HYklOdZXn2YItg) |
+| 4 | 仅花1.5万元，就能把关键漏洞变成直接运行的网络武器 | Doonsec | [https://mp.weixin.qq.com/s/bo1kpWYRcHs-EwG_wvCnuA](https://mp.weixin.qq.com/s/bo1kpWYRcHs-EwG_wvCnuA) |
+| 5 | 谷歌修复 Antigravity IDE 漏洞，本可导致提示词注入代码执行 | Doonsec | [https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag](https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag) |
+| 6 | CVE-2026-34486 ( Apache Tomcat 集群加密绕过 RCE) | Doonsec | [https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg](https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) |
-| 2 | 【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933） | Doonsec | [https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原 | Doonsec | [https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 软件代码安全运营工程师招聘 | Doonsec | [https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ](https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ) |
-| 2 | 直播预告 | LLSRC年度颁奖典礼「精彩议题」抢先看！ | Doonsec | [https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg](https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原 | Doonsec | [https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) |
+| 1 | 间接提示注入克星！CLAWGUARD 安全框架解析 | Doonsec | [https://mp.weixin.qq.com/s/YeGO_cYSj00cVmnji5sHrg](https://mp.weixin.qq.com/s/YeGO_cYSj00cVmnji5sHrg) |
+| 2 | 谷歌修复 Antigravity IDE 漏洞，本可导致提示词注入代码执行 | Doonsec | [https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag](https://mp.weixin.qq.com/s/aTNjjazUjx5jjccwfWc-Ag) |
+| 3 | CVE-2026-34486 ( Apache Tomcat 集群加密绕过 RCE) | Doonsec | [https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg](https://mp.weixin.qq.com/s/tdQdbTMtvwC0SEFNbu-ymg) |
 
 
 ## 📁 归档路径
@@ -130,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -140,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-22 09:20:34*
+*生成时间: 2026-04-22 13:28:19*
 *报告工具: 微信文章安全归档系统*
