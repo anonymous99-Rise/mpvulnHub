@@ -2,22 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 28
+- **总文章数**: 12
 - **数据源分布**:
   - Doonsec: 12篇
-  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 6篇
-- **供应链**: 5篇
-- **安全运营**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 2篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,37 +64,18 @@
 
 ### Doonsec
 
-- [一种新型难清除的恶意软件,可将千家万户路由器变成僵尸网络](https://mp.weixin.qq.com/s/wLMcqhFbcw_8IZ8ajb5nVw) (发布日期: 2026-04-22)
-- [AI助力攻防演练前期信息收集(Trae+mcp-chrome)](https://mp.weixin.qq.com/s/oHzkQ-RTxCuMGMftb5LW9g) (发布日期: 2026-04-22)
-- [黑客滥用 GitHub 问题通知，通过恶意 OAuth 应用向开发者进行网络钓鱼攻击](https://mp.weixin.qq.com/s/vC6-xikT0jxm1GiWZBO7pg) (发布日期: 2026-04-22)
-- [【利用已复现】一个“!”引发的“血案”（Linux Kernel NF_TABLES模块提权漏洞）](https://mp.weixin.qq.com/s/MBRlWWOMBp0uUpjuBeRcpg) (发布日期: 2026-04-22)
-- [我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了](https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA) (发布日期: 2026-04-22)
-- [内网安全运维想用AI？这次真的零门槛](https://mp.weixin.qq.com/s/PUJ2uWP47ZnIXgFr1YuVrg) (发布日期: 2026-04-22)
-- [BYOVD 进阶实战 (第一部分) — 利用存漏洞驱动 CVE-2025-8061](https://mp.weixin.qq.com/s/89Apxd41BPZleoXWsxeitw) (发布日期: 2026-04-22)
-- [绿盟清风卫NSF-ClawGuard龙虾安全插件正式开源：为OpenClaw筑牢企业安全防线](https://mp.weixin.qq.com/s/MLsiRadOf5uK5i5R-2u9wQ) (发布日期: 2026-04-22)
-- [ByteSRC全线业务多倍激励！新人礼&amp;文创礼福利加码！](https://mp.weixin.qq.com/s/muyTVsWzY6Hcxrgb-UXemw) (发布日期: 2026-04-22)
-- [信息安全漏洞周报（2026年第16期）](https://mp.weixin.qq.com/s/1Qmib_ZpABb1LfkoRDDWAA) (发布日期: 2026-04-22)
-- [梆梆安全发布《2026年Q1移动应用安全风险报告》：超八成APP存隐私违规，数据境外外发风险需高度警惕](https://mp.weixin.qq.com/s/ErHyJWgoYNYjje3t5f9WOQ) (发布日期: 2026-04-22)
-- [AI写出来的木马已经开始躲进NFC支付App，金融类恶意软件也在顺着AI迭代](https://mp.weixin.qq.com/s/vc-L8R5dpqpx-P4sDrBMQg) (发布日期: 2026-04-22)
-
-### BruceFeIix
-
-- [ ] [雷神众测漏洞周报2026.4.13-2026.4.19](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503769&idx=1&sn=3587638dcd77bd607e5e86fb20019a3c) (发布日期: 2026-04-22)
-- [ ] [Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f) (发布日期: 2026-04-22)
-- [ ] [因第三方AI工具受陷，Vercel 内部系统遭未授权访问](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4) (发布日期: 2026-04-22)
-- [ ] [Windows截图工具漏洞PoC公开，NTLM哈希可静默窃取](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614003&idx=2&sn=00f7fd3b236ff69a40d15b75a8604bc2) (发布日期: 2026-04-22)
-- [ ] [天才程序员上线：AI 逆向与安全开发全栈实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614003&idx=3&sn=993f2e1aa2b4afeb84cd42554f34bc88) (发布日期: 2026-04-22)
-- [ ] [今日（2026年4月21日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505328&idx=1&sn=8b25fc530e8a01fcb44c1a7800eeb89f) (发布日期: 2026-04-22)
-- [ ] [强化安全防护，筑牢安全底座，工程中心大模型安全检测服务再升级！](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503678&idx=1&sn=5f282f3c6867552b368038486efda3ff) (发布日期: 2026-04-22)
-- [ ] [【安全圈】Anthropic MCP 设计漏洞可致远程代码执行，威胁人工智能供应链](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587) (发布日期: 2026-04-22)
-- [ ] [Windows 解除 FAT32 三十年限制，最大分区扩容至 2TB；CNVD发布上周关注度较高的产品安全漏洞| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141097&idx=2&sn=2e2d05c2829b1647f8a8d2b63781a85f) (发布日期: 2026-04-22)
-- [ ] [论坛·认知域安全 | 认知供应链安全风险特点与应对举措](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261730&idx=1&sn=b9587515092e57804826b278de7bca60) (发布日期: 2026-04-22)
-- [ ] [专家解读 | 以规则落地赋能航贸数智化 筑牢电子单证应用安全基石](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261730&idx=3&sn=870161961221096516e927df5892c678) (发布日期: 2026-04-22)
-- [ ] [Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05) (发布日期: 2026-04-22)
-- [ ] [火绒安全护航 | 精准施策 筑牢企业安全第一道防线](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532226&idx=1&sn=975a60a719da0067f4810691b3cef525) (发布日期: 2026-04-22)
-- [ ] [3个流程修复让SOC一级分析师效率倍增](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542629&idx=1&sn=c8cee5bfa850b9368d78138f1c729b4c) (发布日期: 2026-04-22)
-- [ ] [CNVD漏洞周报2026年第15期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501464&idx=1&sn=c4654662e249fa701fbe69a156ca7be1) (发布日期: 2026-04-22)
-- [ ] [丝滑渗透测试之有趣的注册逻辑](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499336&idx=1&sn=00539fdac4847c0b2dc10bcab240ca20) (发布日期: 2026-04-22)
+- [【NCC安全守护・第 1 期】视频监控系统漏洞专项挑战开启！](https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA) (发布日期: 2026-04-22)
+- [AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) (发布日期: 2026-04-22)
+- [十年后，SOC将不再只是“作战室”](https://mp.weixin.qq.com/s/w7sgTwMDaNmrQt3mlZWORA) (发布日期: 2026-04-22)
+- [软件代码安全运营工程师招聘](https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ) (发布日期: 2026-04-22)
+- [【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933）](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) (发布日期: 2026-04-22)
+- [【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) (发布日期: 2026-04-22)
+- [从 OSCP 考完到“蓝队实战”：我为什么建议你重学正则表达式？](https://mp.weixin.qq.com/s/-mc_BoFqNA0wq5W64dAslA) (发布日期: 2026-04-22)
+- [AI驱动·合规增效｜任子行数据安全分类分级实战解析，助企业降本破局](https://mp.weixin.qq.com/s/NQI9KQPFU26ZEP0XnrJD3w) (发布日期: 2026-04-22)
+- [【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例](https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ) (发布日期: 2026-04-22)
+- [直播预告 | LLSRC年度颁奖典礼「精彩议题」抢先看！](https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg) (发布日期: 2026-04-22)
+- [DudeSuite 漏洞播报 全网漏洞早知道【20260422】](https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg) (发布日期: 2026-04-22)
+- [哈密商业银行因“违反网络安全 数据安全”等被罚 科技部人员同时被罚](https://mp.weixin.qq.com/s/deTCjV0e3QyT_nS9dpinpQ) (发布日期: 2026-04-22)
 
 
 ## 🎯 威胁详情分析
@@ -105,44 +84,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【利用已复现】一个“!”引发的“血案”（Linux Kernel NF_TABLES模块提权漏洞） | Doonsec | [https://mp.weixin.qq.com/s/MBRlWWOMBp0uUpjuBeRcpg](https://mp.weixin.qq.com/s/MBRlWWOMBp0uUpjuBeRcpg) |
-| 2 | 我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了 | Doonsec | [https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA](https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA) |
-| 3 | BYOVD 进阶实战 (第一部分) — 利用存漏洞驱动 CVE-2025-8061 | Doonsec | [https://mp.weixin.qq.com/s/89Apxd41BPZleoXWsxeitw](https://mp.weixin.qq.com/s/89Apxd41BPZleoXWsxeitw) |
-| 4 | 信息安全漏洞周报（2026年第16期） | Doonsec | [https://mp.weixin.qq.com/s/1Qmib_ZpABb1LfkoRDDWAA](https://mp.weixin.qq.com/s/1Qmib_ZpABb1LfkoRDDWAA) |
-| 5 |  ] [雷神众测漏洞周报2026.4.13-2026.4.19 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503769&idx=1&sn=3587638dcd77bd607e5e86fb20019a3c](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503769&idx=1&sn=3587638dcd77bd607e5e86fb20019a3c) |
-| 6 |  ] [Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f) |
-| 7 |  ] [Windows截图工具漏洞PoC公开，NTLM哈希可静默窃取 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614003&idx=2&sn=00f7fd3b236ff69a40d15b75a8604bc2](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614003&idx=2&sn=00f7fd3b236ff69a40d15b75a8604bc2) |
-| 8 |  ] [今日（2026年4月21日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505328&idx=1&sn=8b25fc530e8a01fcb44c1a7800eeb89f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505328&idx=1&sn=8b25fc530e8a01fcb44c1a7800eeb89f) |
-| 9 |  ] [【安全圈】Anthropic MCP 设计漏洞可致远程代码执行，威胁人工智能供应链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587) |
-| 10 |  ] [Windows 解除 FAT32 三十年限制，最大分区扩容至 2TB；CNVD发布上周关注度较高的产品安全漏洞| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141097&idx=2&sn=2e2d05c2829b1647f8a8d2b63781a85f](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141097&idx=2&sn=2e2d05c2829b1647f8a8d2b63781a85f) |
-| 11 |  ] [CNVD漏洞周报2026年第15期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501464&idx=1&sn=c4654662e249fa701fbe69a156ca7be1](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501464&idx=1&sn=c4654662e249fa701fbe69a156ca7be1) |
+| 1 | 【NCC安全守护・第 1 期】视频监控系统漏洞专项挑战开启！ | Doonsec | [https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA](https://mp.weixin.qq.com/s/pGIDoPJngvNZ8KrOOq7GeA) |
+| 2 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) |
+| 3 | 【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933） | Doonsec | [https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) |
+| 4 | 【扩充版】“任意用户漏洞”全景手册xa020+ 实战案例 | Doonsec | [https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ](https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ) |
+| 5 | DudeSuite 漏洞播报 全网漏洞早知道【20260422】 | Doonsec | [https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg](https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 我们发现了 Hermes Agent 的第一个远程代码执行漏洞，但这已经不重要了 | Doonsec | [https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA](https://mp.weixin.qq.com/s/R8r4WSi1eEh0r0Uwxo_5dA) |
-| 2 | 内网安全运维想用AI？这次真的零门槛 | Doonsec | [https://mp.weixin.qq.com/s/PUJ2uWP47ZnIXgFr1YuVrg](https://mp.weixin.qq.com/s/PUJ2uWP47ZnIXgFr1YuVrg) |
-| 3 |  ] [Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f) |
-| 4 |  ] [因第三方AI工具受陷，Vercel 内部系统遭未授权访问 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4) |
-| 5 |  ] [【安全圈】Anthropic MCP 设计漏洞可致远程代码执行，威胁人工智能供应链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587) |
-| 6 |  ] [Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05) |
+| 1 | AI大模型安全护栏攻防，深挖提示词注入漏洞，拆解多模态绕过手法 | Doonsec | [https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA](https://mp.weixin.qq.com/s/kSCTkeStxyj07ceOCiGBiA) |
+| 2 | 【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933） | Doonsec | [https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA](https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原 | Doonsec | [https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ByteSRC全线业务多倍激励！新人礼&amp;文创礼福利加码！ | Doonsec | [https://mp.weixin.qq.com/s/muyTVsWzY6Hcxrgb-UXemw](https://mp.weixin.qq.com/s/muyTVsWzY6Hcxrgb-UXemw) |
+| 1 | 软件代码安全运营工程师招聘 | Doonsec | [https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ](https://mp.weixin.qq.com/s/IFYy4xcr-2W6WbG_psfOpQ) |
+| 2 | 直播预告 | LLSRC年度颁奖典礼「精彩议题」抢先看！ | Doonsec | [https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg](https://mp.weixin.qq.com/s/PK5PrIM-HS5xRS_BIaJHyg) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Anthropic MCP 设计漏洞可导致 RCE，威胁 AI 供应链安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=1&sn=43dddbdd81acc2370c91e72867508c0f) |
-| 2 |  ] [因第三方AI工具受陷，Vercel 内部系统遭未授权访问 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525820&idx=2&sn=a665e9a9c0bf680b899406f43327e8c4) |
-| 3 |  ] [【安全圈】Anthropic MCP 设计漏洞可致远程代码执行，威胁人工智能供应链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075911&idx=3&sn=3d039fdbeb5d6dafe9b5231823c3e587) |
-| 4 |  ] [论坛·认知域安全 | 认知供应链安全风险特点与应对举措 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261730&idx=1&sn=b9587515092e57804826b278de7bca60](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261730&idx=1&sn=b9587515092e57804826b278de7bca60) |
-| 5 |  ] [Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518496&idx=1&sn=0c47ed4847403380fdfe3a8f80103b05) |
+| 1 | 【实战案例】供应链安全隐患引发的危机 Beast勒索病毒入侵还原 | Doonsec | [https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg](https://mp.weixin.qq.com/s/0VPo5t8smxvnYqENuvCfIg) |
 
 
 ## 📁 归档路径
@@ -158,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -168,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-22 05:59:58*
+*生成时间: 2026-04-22 09:20:34*
 *报告工具: 微信文章安全归档系统*
