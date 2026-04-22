@@ -1,19 +1,21 @@
-# 2026-04-21 安全威胁态势报告
+# 2026-04-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 7篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **系统漏洞**: 3篇
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +64,25 @@
 
 ### Doonsec
 
-- [海外漏洞赏金猎人从0到1行动地图](https://mp.weixin.qq.com/s/10WYY5-OM3qg19Wgcj5jbQ) (发布日期: 2026-04-21)
-- [HackingTool集成85+款工具的渗透测试工具](https://mp.weixin.qq.com/s/GoWMLTXbN8AbtfG2Pu_pRQ) (发布日期: 2026-04-21)
-- [8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用](https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg) (发布日期: 2026-04-21)
-- [降维打击！AWE 实现渗透测试效率革命](https://mp.weixin.qq.com/s/lUhUpsFOOYLLyinJnBfm-g) (发布日期: 2026-04-21)
-- [一次偶然的RCE](https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg) (发布日期: 2026-04-21)
-- [如何改变SOC 费力不讨好的困局？](https://mp.weixin.qq.com/s/4BCwpfTT5k9Y4I2IYIMFpQ) (发布日期: 2026-04-21)
+- [全程云OA download 存在任意文件读取漏洞](https://mp.weixin.qq.com/s/dUQwtjR-OFrxqeq-h67apA) (发布日期: 2026-04-22)
+- [CVE-2026-33032：可实现Nginx服务器完全控制](https://mp.weixin.qq.com/s/HDeCUeyOVIzmIGVRqy0USQ) (发布日期: 2026-04-22)
+- [JAVA代码审计第一个RCE出货记录](https://mp.weixin.qq.com/s/gQhYyh2FrAEA20gAa_YBOg) (发布日期: 2026-04-22)
+- [AI Agent的应用与安全报告会开始报名！](https://mp.weixin.qq.com/s/hiNYKMV201PgA6-MR_D-8g) (发布日期: 2026-04-22)
+- [奇安信顽固病毒专杀工具](https://mp.weixin.qq.com/s/itnihbgqIfRQzwUeQtTJBA) (发布日期: 2026-04-22)
+- [漏洞挖掘中的host头碰撞](https://mp.weixin.qq.com/s/sLvWqI3bw3r_E98hXr9vNw) (发布日期: 2026-04-22)
+- [德国央行行长呼吁扩大AI模型Mythos使用范围，以平衡金融安全风险](https://mp.weixin.qq.com/s/7EzjZqC7HCQP0R-xk09Nmg) (发布日期: 2026-04-22)
+- [Mythos找到了漏洞，但接下来才是噩梦的开始](https://mp.weixin.qq.com/s/7HmiZw7xiov_qPjVbutZFQ) (发布日期: 2026-04-22)
+- [提示注入新威胁：Claude Code、Gemini CLI和Copilot Agent均中招](https://mp.weixin.qq.com/s/mNG80Xti4Ozouahgu_SJJw) (发布日期: 2026-04-22)
+- [【AI安全】OpenClaw多阶段网页诱导绕过防护的RCE攻击](https://mp.weixin.qq.com/s/qDNzlIiC-WnA-60BFi3xMQ) (发布日期: 2026-04-22)
+- [ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具](https://mp.weixin.qq.com/s/hkEwGYOxDe4Z1xRULFiMmQ) (发布日期: 2026-04-22)
+- [业务流程绕过漏洞](https://mp.weixin.qq.com/s/7bpnoHKegCSTKOcsha5avQ) (发布日期: 2026-04-22)
+- [SGLang AI 基础设施的严重 9.8 级远程代码执行威胁](https://mp.weixin.qq.com/s/4K_3waULparo5I5xgwN_vQ) (发布日期: 2026-04-22)
+- [微信小程序全自动安全审计Skill](https://mp.weixin.qq.com/s/IlbSBvQ42m0W3_dy5L0AWw) (发布日期: 2026-04-22)
+- [Operation PowerOFF打击DDoS攻击黑产：IoT僵尸网络与Booter服务技术原理解析](https://mp.weixin.qq.com/s/36GtAc1d7kwT-l91t3XfRQ) (发布日期: 2026-04-22)
+- [漏洞预警 | Apache Tomcat远程代码执行漏洞](https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg) (发布日期: 2026-04-22)
+- [漏洞预警 | 天地伟业Easy7 SQL注入漏洞](https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA) (发布日期: 2026-04-22)
+- [CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角）](https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w) (发布日期: 2026-04-22)
+- [随着数据窃取策略的失效，勒索软件组织可能会重新转向加密](https://mp.weixin.qq.com/s/W66xnWkW18Xx8yV2L4C0YA) (发布日期: 2026-04-22)
 
 
 ## 🎯 威胁详情分析
@@ -76,19 +91,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 海外漏洞赏金猎人从0到1行动地图 | Doonsec | [https://mp.weixin.qq.com/s/10WYY5-OM3qg19Wgcj5jbQ](https://mp.weixin.qq.com/s/10WYY5-OM3qg19Wgcj5jbQ) |
-| 2 | 8.8分！Google紧急修复Chrome第4个0day漏洞，2026年已有4个在野利用 | Doonsec | [https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg](https://mp.weixin.qq.com/s/qtpfYT0r01BI-Ye-QPZGvg) |
+| 1 | 全程云OA download 存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/dUQwtjR-OFrxqeq-h67apA](https://mp.weixin.qq.com/s/dUQwtjR-OFrxqeq-h67apA) |
+| 2 | CVE-2026-33032：可实现Nginx服务器完全控制 | Doonsec | [https://mp.weixin.qq.com/s/HDeCUeyOVIzmIGVRqy0USQ](https://mp.weixin.qq.com/s/HDeCUeyOVIzmIGVRqy0USQ) |
+| 3 | 漏洞挖掘中的host头碰撞 | Doonsec | [https://mp.weixin.qq.com/s/sLvWqI3bw3r_E98hXr9vNw](https://mp.weixin.qq.com/s/sLvWqI3bw3r_E98hXr9vNw) |
+| 4 | Mythos找到了漏洞，但接下来才是噩梦的开始 | Doonsec | [https://mp.weixin.qq.com/s/7HmiZw7xiov_qPjVbutZFQ](https://mp.weixin.qq.com/s/7HmiZw7xiov_qPjVbutZFQ) |
+| 5 | ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具 | Doonsec | [https://mp.weixin.qq.com/s/hkEwGYOxDe4Z1xRULFiMmQ](https://mp.weixin.qq.com/s/hkEwGYOxDe4Z1xRULFiMmQ) |
+| 6 | 业务流程绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7bpnoHKegCSTKOcsha5avQ](https://mp.weixin.qq.com/s/7bpnoHKegCSTKOcsha5avQ) |
+| 7 | 漏洞预警 | Apache Tomcat远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg](https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg) |
+| 8 | 漏洞预警 | 天地伟业Easy7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA](https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA) |
+| 9 | CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角） | Doonsec | [https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w](https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一次偶然的RCE | Doonsec | [https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg](https://mp.weixin.qq.com/s/21t2qeAnAaWbidwusbWYSg) |
+| 1 | JAVA代码审计第一个RCE出货记录 | Doonsec | [https://mp.weixin.qq.com/s/gQhYyh2FrAEA20gAa_YBOg](https://mp.weixin.qq.com/s/gQhYyh2FrAEA20gAa_YBOg) |
+| 2 | 提示注入新威胁：Claude Code、Gemini CLI和Copilot Agent均中招 | Doonsec | [https://mp.weixin.qq.com/s/mNG80Xti4Ozouahgu_SJJw](https://mp.weixin.qq.com/s/mNG80Xti4Ozouahgu_SJJw) |
+| 3 | 【AI安全】OpenClaw多阶段网页诱导绕过防护的RCE攻击 | Doonsec | [https://mp.weixin.qq.com/s/qDNzlIiC-WnA-60BFi3xMQ](https://mp.weixin.qq.com/s/qDNzlIiC-WnA-60BFi3xMQ) |
+| 4 | SGLang AI 基础设施的严重 9.8 级远程代码执行威胁 | Doonsec | [https://mp.weixin.qq.com/s/4K_3waULparo5I5xgwN_vQ](https://mp.weixin.qq.com/s/4K_3waULparo5I5xgwN_vQ) |
+| 5 | 漏洞预警 | Apache Tomcat远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg](https://mp.weixin.qq.com/s/0UHxC4cFIP8c_0PNXCROWg) |
+| 6 | 漏洞预警 | 天地伟业Easy7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA](https://mp.weixin.qq.com/s/zVY8QUpjMVJY0KdjBFjlOA) |
+| 7 | CVE-2024-2961 完整 RCE 链详解：1字节 glibc 溢出如何秒杀 PHP（Web手视角） | Doonsec | [https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w](https://mp.weixin.qq.com/s/1380q6UsW9uq9keXh3kp5w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-21/`
+文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-22/`
 
 ## 🔗 数据源说明
 
@@ -99,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-21 17:02:11*
+*生成时间: 2026-04-22 02:36:23*
 *报告工具: 微信文章安全归档系统*
