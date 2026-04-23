@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 29
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 18篇
+- **安全运营**: 5篇
 - **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **威胁情报**: 2篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,24 +65,35 @@
 
 ### Doonsec
 
-- [ByteSRC发布《AI生成漏洞报告提交规范》](https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw) (发布日期: 2026-04-23)
-- [【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0323-0405）](https://mp.weixin.qq.com/s/bGPbTDjnYyaB7bH9r0vA2w) (发布日期: 2026-04-23)
-- [【AI自动渗透】GitHub 3.9万Star的白盒AI渗透测试神器，Shannon来了](https://mp.weixin.qq.com/s/cbxW214zZKzXm-Bb4LzWYg) (发布日期: 2026-04-23)
-- [2016年至2026年十大最常被利用的漏洞列表](https://mp.weixin.qq.com/s/i4KL0YoiOOP7c_s6hz4YJw) (发布日期: 2026-04-23)
-- [【已复现】FortiSandbox 身份验证绕过漏洞（CVE-2026-39813）](https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA) (发布日期: 2026-04-23)
-- [高危漏洞预警：Windows TCP/IP 远程代码执行漏洞（CVE-2026-33827）](https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ) (发布日期: 2026-04-23)
-- [数据安全服务能力评定管理办法（试行）全文解读](https://mp.weixin.qq.com/s/dIZyTigysSR7_AICjFHnjg) (发布日期: 2026-04-23)
-- [蓝队反击战：AD域防御加固完整指南](https://mp.weixin.qq.com/s/oLEf2fpTx5oubIyYXrKoeA) (发布日期: 2026-04-23)
-- [【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞](https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA) (发布日期: 2026-04-23)
-- [Android安全智能检测工具V3.3](https://mp.weixin.qq.com/s/Pw0fEZtuxIVx-cd8NilsFA) (发布日期: 2026-04-23)
-- [晋级名单公布！2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛初赛圆满收官](https://mp.weixin.qq.com/s/LHj3m99SzwsGiHVIbwLjBA) (发布日期: 2026-04-23)
-- [静态网站中存在的 20 多个漏洞](https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw) (发布日期: 2026-04-23)
-- [国务院令第834号已落地：软件供应链安全，企业欠缺的不是工具，是这三件事](https://mp.weixin.qq.com/s/QIDLRnWMnP9Pdrv8fPm5kw) (发布日期: 2026-04-23)
-- [记一次某大学的漏洞挖掘](https://mp.weixin.qq.com/s/teTcVDS5iw-rwO4IgrJ3lQ) (发布日期: 2026-04-23)
-- [4月社区投稿活动 | 漏洞挖掘](https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg) (发布日期: 2026-04-23)
-- [他山之石：隔壁单位是如何给员工普及网络安全意识的——上展示！](https://mp.weixin.qq.com/s/CABzmmKoQytLy4ldW9pYAw) (发布日期: 2026-04-23)
-- [明明只是几条登录日志，却揪出了内网入侵：我是怎么用 GPT Image 2 还原全过程的](https://mp.weixin.qq.com/s/o7xkv0qty3TREkqNQzM-UA) (发布日期: 2026-04-23)
-- [山石方案｜医疗行业-数据安全治理案例](https://mp.weixin.qq.com/s/5O5vL17KobltSJMoLK_FRg) (发布日期: 2026-04-23)
+- [100+ 工具 + AI Agent，CyberStrikeAI 重塑安全测试方式](https://mp.weixin.qq.com/s/lIPKwZUr1jyRoCKzRz5xvw) (发布日期: 2026-04-23)
+- [理想汽车SRC关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ) (发布日期: 2026-04-23)
+- [常见系统漏洞分析](https://mp.weixin.qq.com/s/2F0PSxubSi3kKWAkKkAMbQ) (发布日期: 2026-04-23)
+- [【警示】FortiSandbox高危漏洞：一条命令获取root权限](https://mp.weixin.qq.com/s/Mmn48idakM3oW_ey2jEtng) (发布日期: 2026-04-23)
+- [【警示】AI首次参与挖出NGINX高危漏洞，安全工程师还剩什么](https://mp.weixin.qq.com/s/03XwoW8lYlsO4K23ltAtZA) (发布日期: 2026-04-23)
+- [AI Agent十大安全风险！OWASP首份框架出炉](https://mp.weixin.qq.com/s/IYHb6Zc7un3mslUeBgl1nw) (发布日期: 2026-04-23)
+- [【免费工具】AI代码审计实战：0成本挖洞，三款工具对比测评](https://mp.weixin.qq.com/s/01VMR8LG4Q9Q2jBG96M-vQ) (发布日期: 2026-04-23)
+- [TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待](https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ) (发布日期: 2026-04-23)
+- [360漏洞云关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg) (发布日期: 2026-04-23)
+- [Lazarus 利用带有后门的编码测试引诱开发者](https://mp.weixin.qq.com/s/Stjq9b8VzREZhplg0yRyHQ) (发布日期: 2026-04-23)
+- [小米安全中心关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw) (发布日期: 2026-04-23)
+- [Pack2TheRoot 的关键漏洞允许攻击者获得 Root 权限或攻破系统](https://mp.weixin.qq.com/s/CE2Bwu3NQUOldJqFY4K9gA) (发布日期: 2026-04-23)
+- [苹果修复了通知隐私漏洞，该漏洞曾允许FBI访问已删除的Signal消息](https://mp.weixin.qq.com/s/HMBYweMEslpzOQ8EURKlcA) (发布日期: 2026-04-23)
+- [【公告】JSRC关于AI生成漏洞报告提交规范](https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A) (发布日期: 2026-04-23)
+- [微软紧急修复严重的 ASP.NET 漏洞](https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA) (发布日期: 2026-04-23)
+- [自传播供应链蠕虫劫持 npm 包，窃取开发人员令牌](https://mp.weixin.qq.com/s/IYw-_dFMD1taxANPwLQqCA) (发布日期: 2026-04-23)
+- [免费赠送 | 415全民国家安全教育日-安全意识培训科普素材](https://mp.weixin.qq.com/s/q_uwywQZLAEHcLxq6-WHww) (发布日期: 2026-04-23)
+- [古法代码审计 VS AI代码审计，怎么选？](https://mp.weixin.qq.com/s/qK6hKjlXvv-5yrgeEm3cxQ) (发布日期: 2026-04-23)
+- [关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/Vj28G9lP8hDJh7yexsZdkQ) (发布日期: 2026-04-23)
+- [AI驱动，实战验证！奇安信入选全球威胁情报代表厂商](https://mp.weixin.qq.com/s/LvLAmBEXmkpvDPChGRE9ZQ) (发布日期: 2026-04-23)
+- [亚数 TrustAsia 正式收到谷歌定向邀请，开启后量子加密 MTC 时代！](https://mp.weixin.qq.com/s/ROHxCv8YvEB3qQnmEVA14A) (发布日期: 2026-04-23)
+- [Claude Mythos发现271个Firefox漏洞，0Day时代或将终结](https://mp.weixin.qq.com/s/qu7PxNEr8iD2uDdiqcmq1w) (发布日期: 2026-04-23)
+- [GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞](https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw) (发布日期: 2026-04-23)
+- [苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务](https://mp.weixin.qq.com/s/cjUIX5GqnEFV4Oenl2-GnA) (发布日期: 2026-04-23)
+- [小鹏汽车SRC发布《AI生成漏洞报告的处置公告》](https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q) (发布日期: 2026-04-23)
+- [某211高校从一个文档到全校三要素泄露&amp;RCE](https://mp.weixin.qq.com/s/XNe2xRx_yVgJtwfMgDxolg) (发布日期: 2026-04-23)
+- [中通SRC关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg) (发布日期: 2026-04-23)
+- [浅谈代码审计+漏洞批量一把梭哈思路](https://mp.weixin.qq.com/s/3j9Q5oZlPOZWzYWKussXIg) (发布日期: 2026-04-23)
+- [【免费领】网安大神从业笔记：安全事件应急响应实战案例全纪录](https://mp.weixin.qq.com/s/A-00_LBIXUSNf0q2yBOcoA) (发布日期: 2026-04-23)
 
 
 ## 🎯 威胁详情分析
@@ -89,34 +102,54 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ByteSRC发布《AI生成漏洞报告提交规范》 | Doonsec | [https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw](https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw) |
-| 2 | 【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0323-0405） | Doonsec | [https://mp.weixin.qq.com/s/bGPbTDjnYyaB7bH9r0vA2w](https://mp.weixin.qq.com/s/bGPbTDjnYyaB7bH9r0vA2w) |
-| 3 | 2016年至2026年十大最常被利用的漏洞列表 | Doonsec | [https://mp.weixin.qq.com/s/i4KL0YoiOOP7c_s6hz4YJw](https://mp.weixin.qq.com/s/i4KL0YoiOOP7c_s6hz4YJw) |
-| 4 | 【已复现】FortiSandbox 身份验证绕过漏洞（CVE-2026-39813） | Doonsec | [https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA](https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA) |
-| 5 | 高危漏洞预警：Windows TCP/IP 远程代码执行漏洞（CVE-2026-33827） | Doonsec | [https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ](https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ) |
-| 6 | 【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA](https://mp.weixin.qq.com/s/9XyhjeatydPrxFyor4VvGA) |
-| 7 | 静态网站中存在的 20 多个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw](https://mp.weixin.qq.com/s/bcDPXaqEcljjQT02qR5qkw) |
-| 8 | 记一次某大学的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/teTcVDS5iw-rwO4IgrJ3lQ](https://mp.weixin.qq.com/s/teTcVDS5iw-rwO4IgrJ3lQ) |
-| 9 | 4月社区投稿活动 | 漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg](https://mp.weixin.qq.com/s/0W-CVjaF3xO7gjDyKI3nKg) |
+| 1 | 理想汽车SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ](https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ) |
+| 2 | 常见系统漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/2F0PSxubSi3kKWAkKkAMbQ](https://mp.weixin.qq.com/s/2F0PSxubSi3kKWAkKkAMbQ) |
+| 3 | 【警示】FortiSandbox高危漏洞：一条命令获取root权限 | Doonsec | [https://mp.weixin.qq.com/s/Mmn48idakM3oW_ey2jEtng](https://mp.weixin.qq.com/s/Mmn48idakM3oW_ey2jEtng) |
+| 4 | 【警示】AI首次参与挖出NGINX高危漏洞，安全工程师还剩什么 | Doonsec | [https://mp.weixin.qq.com/s/03XwoW8lYlsO4K23ltAtZA](https://mp.weixin.qq.com/s/03XwoW8lYlsO4K23ltAtZA) |
+| 5 | TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待 | Doonsec | [https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ](https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ) |
+| 6 | 360漏洞云关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg](https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg) |
+| 7 | 小米安全中心关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw](https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw) |
+| 8 | Pack2TheRoot 的关键漏洞允许攻击者获得 Root 权限或攻破系统 | Doonsec | [https://mp.weixin.qq.com/s/CE2Bwu3NQUOldJqFY4K9gA](https://mp.weixin.qq.com/s/CE2Bwu3NQUOldJqFY4K9gA) |
+| 9 | 苹果修复了通知隐私漏洞，该漏洞曾允许FBI访问已删除的Signal消息 | Doonsec | [https://mp.weixin.qq.com/s/HMBYweMEslpzOQ8EURKlcA](https://mp.weixin.qq.com/s/HMBYweMEslpzOQ8EURKlcA) |
+| 10 | 【公告】JSRC关于AI生成漏洞报告提交规范 | Doonsec | [https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A](https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A) |
+| 11 | 微软紧急修复严重的 ASP.NET 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA](https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA) |
+| 12 | 关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/Vj28G9lP8hDJh7yexsZdkQ](https://mp.weixin.qq.com/s/Vj28G9lP8hDJh7yexsZdkQ) |
+| 13 | Claude Mythos发现271个Firefox漏洞，0Day时代或将终结 | Doonsec | [https://mp.weixin.qq.com/s/qu7PxNEr8iD2uDdiqcmq1w](https://mp.weixin.qq.com/s/qu7PxNEr8iD2uDdiqcmq1w) |
+| 14 | GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw](https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw) |
+| 15 | 苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务 | Doonsec | [https://mp.weixin.qq.com/s/cjUIX5GqnEFV4Oenl2-GnA](https://mp.weixin.qq.com/s/cjUIX5GqnEFV4Oenl2-GnA) |
+| 16 | 小鹏汽车SRC发布《AI生成漏洞报告的处置公告》 | Doonsec | [https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q](https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q) |
+| 17 | 中通SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg](https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg) |
+| 18 | 浅谈代码审计+漏洞批量一把梭哈思路 | Doonsec | [https://mp.weixin.qq.com/s/3j9Q5oZlPOZWzYWKussXIg](https://mp.weixin.qq.com/s/3j9Q5oZlPOZWzYWKussXIg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 高危漏洞预警：Windows TCP/IP 远程代码执行漏洞（CVE-2026-33827） | Doonsec | [https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ](https://mp.weixin.qq.com/s/xZGyvHv_Qh4MuxoAESrkaQ) |
-| 2 | 明明只是几条登录日志，却揪出了内网入侵：我是怎么用 GPT Image 2 还原全过程的 | Doonsec | [https://mp.weixin.qq.com/s/o7xkv0qty3TREkqNQzM-UA](https://mp.weixin.qq.com/s/o7xkv0qty3TREkqNQzM-UA) |
+| 1 | GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw](https://mp.weixin.qq.com/s/HkcUWECi3nwUgglYoUoMhw) |
+| 2 | 某211高校从一个文档到全校三要素泄露&amp;RCE | Doonsec | [https://mp.weixin.qq.com/s/XNe2xRx_yVgJtwfMgDxolg](https://mp.weixin.qq.com/s/XNe2xRx_yVgJtwfMgDxolg) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | AI驱动，实战验证！奇安信入选全球威胁情报代表厂商 | Doonsec | [https://mp.weixin.qq.com/s/LvLAmBEXmkpvDPChGRE9ZQ](https://mp.weixin.qq.com/s/LvLAmBEXmkpvDPChGRE9ZQ) |
+| 2 | 【免费领】网安大神从业笔记：安全事件应急响应实战案例全纪录 | Doonsec | [https://mp.weixin.qq.com/s/A-00_LBIXUSNf0q2yBOcoA](https://mp.weixin.qq.com/s/A-00_LBIXUSNf0q2yBOcoA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ByteSRC发布《AI生成漏洞报告提交规范》 | Doonsec | [https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw](https://mp.weixin.qq.com/s/qKLGITV0_pYTfSC3j3RIWw) |
+| 1 | 理想汽车SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ](https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ) |
+| 2 | TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待 | Doonsec | [https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ](https://mp.weixin.qq.com/s/HB68pJqjK-IChj3zpprWnQ) |
+| 3 | 【公告】JSRC关于AI生成漏洞报告提交规范 | Doonsec | [https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A](https://mp.weixin.qq.com/s/IOjGKzOG-WQDsZLWgcsI7A) |
+| 4 | 小鹏汽车SRC发布《AI生成漏洞报告的处置公告》 | Doonsec | [https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q](https://mp.weixin.qq.com/s/-iaA1fhpv4jx6_yRfg6O_Q) |
+| 5 | 中通SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg](https://mp.weixin.qq.com/s/w1mRvwW2F6UAQHre6DMLwg) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 国务院令第834号已落地：软件供应链安全，企业欠缺的不是工具，是这三件事 | Doonsec | [https://mp.weixin.qq.com/s/QIDLRnWMnP9Pdrv8fPm5kw](https://mp.weixin.qq.com/s/QIDLRnWMnP9Pdrv8fPm5kw) |
+| 1 | 自传播供应链蠕虫劫持 npm 包，窃取开发人员令牌 | Doonsec | [https://mp.weixin.qq.com/s/IYw-_dFMD1taxANPwLQqCA](https://mp.weixin.qq.com/s/IYw-_dFMD1taxANPwLQqCA) |
 
 
 ## 📁 归档路径
@@ -132,8 +165,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 18 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -142,5 +175,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-23 09:44:25*
+*生成时间: 2026-04-23 13:43:23*
 *报告工具: 微信文章安全归档系统*
