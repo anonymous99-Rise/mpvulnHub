@@ -1,21 +1,23 @@
-# 2026-04-22 安全威胁态势报告
+# 2026-04-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 23
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **安全运营**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 5篇
+- **威胁情报**: 4篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
 - **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,11 +66,29 @@
 
 ### Doonsec
 
-- [伊朗指控美国利用网络设备后门实施军事打击](https://mp.weixin.qq.com/s/pXkngdCHPmN5_WgP8xpWTA) (发布日期: 2026-04-22)
-- [EDUSRC证书站之源码泄露导致的10rank漏洞](https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg) (发布日期: 2026-04-22)
-- [某JAVA系统RCE漏洞审计流程](https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw) (发布日期: 2026-04-22)
-- [渗透测试 | 近期高危逻辑漏洞挖掘实战合集 (越权漏洞 / 支付漏洞 / 账号接管)](https://mp.weixin.qq.com/s/h_pGDZntBoBxxrSSjw1kVA) (发布日期: 2026-04-22)
-- [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/UxZ6EPZVGK5sUzvNFQzU0g) (发布日期: 2026-04-22)
+- [Flowise fetch-links ssrf漏洞](https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA) (发布日期: 2026-04-23)
+- [哈密商业银行因“违反网络安全 数据安全”等被罚 科技部人员同时被罚](https://mp.weixin.qq.com/s/rtanr1Tt18zCPyvkWO4LJA) (发布日期: 2026-04-23)
+- [1day:可实现Nginx服务器完全控制](https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ) (发布日期: 2026-04-23)
+- [🚨 实时AW威胁情报监控平台](https://mp.weixin.qq.com/s/iQr5lqKv6EuQMIbV-QIEog) (发布日期: 2026-04-23)
+- [仅花1.5万元，就能把关键漏洞变成直接运行的网络武器](https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g) (发布日期: 2026-04-23)
+- [强推一个永久的攻防演练、渗透攻防知识库](https://mp.weixin.qq.com/s/0M0J36j4DsJN4y6SrEi_2w) (发布日期: 2026-04-23)
+- [2026 红蓝对抗实录：从 0 到 1，内网被动踩点全流程](https://mp.weixin.qq.com/s/JjD7tIBXv-xUiJ011xCzHw) (发布日期: 2026-04-23)
+- [航天科工集团公开招聘网络安全工程师（河北雄安）](https://mp.weixin.qq.com/s/xuojODPPrSxsdP2IlVS5CA) (发布日期: 2026-04-23)
+- [CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞](https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw) (发布日期: 2026-04-23)
+- [记某单位众测项目漏洞案例复盘](https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw) (发布日期: 2026-04-23)
+- [ChatGPT 安全漏洞：仅需一条提示词即可窃取数据](https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A) (发布日期: 2026-04-23)
+- [疑似朝鲜APT组织Lazarus Group | 加密货币KelpDAO 遭遇 2.9 亿美元巨额盗窃案](https://mp.weixin.qq.com/s/ZI2CAgCrSfVFyTKxpiiZOg) (发布日期: 2026-04-23)
+- [Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开](https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ) (发布日期: 2026-04-23)
+- [一款网空威胁情报（Threat Intelligence）平台](https://mp.weixin.qq.com/s/JYWFBctZB7s2oPY7SCiB6w) (发布日期: 2026-04-23)
+- [如何让AI成为代码审计的超级外挂？降维打击？【闪石星曜@Java代码审计高阶课程】新增AI代审实战玩法~](https://mp.weixin.qq.com/s/DY_7nyxeW87JQIzK8GC5FQ) (发布日期: 2026-04-23)
+- [本周暗网动态：全球多国重点敏感数据泄露事件及数据价值分析](https://mp.weixin.qq.com/s/JpF1ClfTDeupNKid7FxA9g) (发布日期: 2026-04-23)
+- [漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞](https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg) (发布日期: 2026-04-23)
+- [漏洞预警 | 孚盟云SQL注入漏洞](https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA) (发布日期: 2026-04-23)
+- [从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录](https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg) (发布日期: 2026-04-23)
+- [文件上传GetShell必备工具](https://mp.weixin.qq.com/s/SqvF4UCtILCrq9oTkOBgmA) (发布日期: 2026-04-23)
+- [伊朗间谍活动与 CastleRAT 和 ChainShell 恶意软件套件有关](https://mp.weixin.qq.com/s/m7bFpNZoG9YECnypPCcqlQ) (发布日期: 2026-04-23)
+- [企业内部SSL卸载后的「明文传输」vs「加密传输」优劣对比分析](https://mp.weixin.qq.com/s/pn_dEUMvLOtS_uVk_BbmgA) (发布日期: 2026-04-23)
+- [从西亚斯到德令哈某幼儿园个人信息泄露，探讨《2026年个人信息保护系列专项行动》](https://mp.weixin.qq.com/s/mNTu4yWJ6v7TjBnLb2Kgaw) (发布日期: 2026-04-23)
 
 
 ## 🎯 威胁详情分析
@@ -77,27 +97,45 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | EDUSRC证书站之源码泄露导致的10rank漏洞 | Doonsec | [https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg](https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg) |
-| 2 | 某JAVA系统RCE漏洞审计流程 | Doonsec | [https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw](https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw) |
-| 3 | 渗透测试 | 近期高危逻辑漏洞挖掘实战合集 (越权漏洞 / 支付漏洞 / 账号接管) | Doonsec | [https://mp.weixin.qq.com/s/h_pGDZntBoBxxrSSjw1kVA](https://mp.weixin.qq.com/s/h_pGDZntBoBxxrSSjw1kVA) |
+| 1 | Flowise fetch-links ssrf漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA](https://mp.weixin.qq.com/s/jXRvAWM5VDJKDZ25fOgdcA) |
+| 2 | 1day:可实现Nginx服务器完全控制 | Doonsec | [https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ](https://mp.weixin.qq.com/s/V1TCgDNHIZtZRMUoC5KaIQ) |
+| 3 | 仅花1.5万元，就能把关键漏洞变成直接运行的网络武器 | Doonsec | [https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g](https://mp.weixin.qq.com/s/svPgsM7Q6HWAP6MktacP-g) |
+| 4 | CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw](https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw) |
+| 5 | 记某单位众测项目漏洞案例复盘 | Doonsec | [https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw](https://mp.weixin.qq.com/s/W-aVO1Cx1xAv2C3S3n0Pcw) |
+| 6 | ChatGPT 安全漏洞：仅需一条提示词即可窃取数据 | Doonsec | [https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A](https://mp.weixin.qq.com/s/autnabZybjElezhRKIN94A) |
+| 7 | Windows 截图工具NTLM哈希泄露漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ](https://mp.weixin.qq.com/s/4FJ2KAG7PFHai_NEy-nzlQ) |
+| 8 | 漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg](https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg) |
+| 9 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA](https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某JAVA系统RCE漏洞审计流程 | Doonsec | [https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw](https://mp.weixin.qq.com/s/04gLX4WeFHFvqw8FCKDgPw) |
+| 1 | 2026 红蓝对抗实录：从 0 到 1，内网被动踩点全流程 | Doonsec | [https://mp.weixin.qq.com/s/JjD7tIBXv-xUiJ011xCzHw](https://mp.weixin.qq.com/s/JjD7tIBXv-xUiJ011xCzHw) |
+| 2 | CVE-2026-40342：Firebird 数据库中的 CVSS 10.0 路径遍历远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw](https://mp.weixin.qq.com/s/4knx5DnwKSTy1CdbImY7Lw) |
+| 3 | 漏洞预警 | OpenPrinting CUPS远程代码执行和认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg](https://mp.weixin.qq.com/s/pw2MP5cFU8TqzhSFFnKMDg) |
+| 4 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA](https://mp.weixin.qq.com/s/A9z6ntDveOrcJaeBZpitcA) |
+| 5 | 从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录 | Doonsec | [https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg](https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | EDUSRC证书站之源码泄露导致的10rank漏洞 | Doonsec | [https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg](https://mp.weixin.qq.com/s/psgLzfv78YE0cFEHnQJQZg) |
-| 2 | 挖了半年SRC颗粒无收 | Doonsec | [https://mp.weixin.qq.com/s/UxZ6EPZVGK5sUzvNFQzU0g](https://mp.weixin.qq.com/s/UxZ6EPZVGK5sUzvNFQzU0g) |
+| 1 | 🚨 实时AW威胁情报监控平台 | Doonsec | [https://mp.weixin.qq.com/s/iQr5lqKv6EuQMIbV-QIEog](https://mp.weixin.qq.com/s/iQr5lqKv6EuQMIbV-QIEog) |
+| 2 | 疑似朝鲜APT组织Lazarus Group | 加密货币KelpDAO 遭遇 2.9 亿美元巨额盗窃案 | Doonsec | [https://mp.weixin.qq.com/s/ZI2CAgCrSfVFyTKxpiiZOg](https://mp.weixin.qq.com/s/ZI2CAgCrSfVFyTKxpiiZOg) |
+| 3 | 一款网空威胁情报（Threat Intelligence）平台 | Doonsec | [https://mp.weixin.qq.com/s/JYWFBctZB7s2oPY7SCiB6w](https://mp.weixin.qq.com/s/JYWFBctZB7s2oPY7SCiB6w) |
+| 4 | 从红队攻击到蓝队防御——Redis 5.0.1 主从复制RCE应急响应实录 | Doonsec | [https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg](https://mp.weixin.qq.com/s/NH-odYaB5hMRoTO2uf7trg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 本周暗网动态：全球多国重点敏感数据泄露事件及数据价值分析 | Doonsec | [https://mp.weixin.qq.com/s/JpF1ClfTDeupNKid7FxA9g](https://mp.weixin.qq.com/s/JpF1ClfTDeupNKid7FxA9g) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-22/`
+文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-23/`
 
 ## 🔗 数据源说明
 
@@ -108,8 +146,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +156,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-22 17:01:58*
+*生成时间: 2026-04-23 02:40:12*
 *报告工具: 微信文章安全归档系统*
