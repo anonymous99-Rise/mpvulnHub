@@ -1,19 +1,23 @@
-# 2026-04-23 安全威胁态势报告
+# 2026-04-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 29
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 11篇
 - **攻击技术**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 3篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +66,35 @@
 
 ### Doonsec
 
-- [全程云OA download.ashx接口存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw) (发布日期: 2026-04-23)
-- [防御三难！提示注入 wrapper 防御不可能性](https://mp.weixin.qq.com/s/5IeURxjsKaUFkt0Q8fPURA) (发布日期: 2026-04-23)
-- [edu漏洞之若依nday漏洞复现(一)](https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg) (发布日期: 2026-04-23)
-- [红队外网资产梳理神器：dddd](https://mp.weixin.qq.com/s/BjoaSdY3iE6JyWchc4jvmw) (发布日期: 2026-04-23)
-- [生成即安全?——基于hooks的coding agent代码生成安全审计实践](https://mp.weixin.qq.com/s/N_uPuJG9nnlMn0d1OTD7Ew) (发布日期: 2026-04-23)
-- [小红书SRC发布《AI生成漏洞报告提交规范》](https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA) (发布日期: 2026-04-23)
+- [AI编程默认不安全：知名AI公司发生重大数据泄露](https://mp.weixin.qq.com/s/M8bWumfvuold7bG_NisxTw) (发布日期: 2026-04-24)
+- [Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取](https://mp.weixin.qq.com/s/QyLu2yTAiprgZwazDNlT_Q) (发布日期: 2026-04-24)
+- [国家人工智能安全漏洞库启动运行](https://mp.weixin.qq.com/s/7rgi1Poke9Oc076fZ71PhA) (发布日期: 2026-04-24)
+- [CNNVD关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s/X4uYqXDWxev1JFGxBXWSeA) (发布日期: 2026-04-24)
+- [雨诺调度客户端 GetFile 存在任意文件读取漏洞](https://mp.weixin.qq.com/s/Qphhumd3O4HrcCyaixXcgw) (发布日期: 2026-04-24)
+- [【$800】通过API实现的权限提升 —— 从调度员到管理员](https://mp.weixin.qq.com/s/JPVIjWpb8dq8vYIMk3xokA) (发布日期: 2026-04-24)
+- [银行因网络安全/数据安全问题被“双罚”，科技部人员负有责任](https://mp.weixin.qq.com/s/aernQF-r40HnMCOOmfiVQA) (发布日期: 2026-04-24)
+- [仅花1.5万元，就能把关键漏洞变成直接运行的网络武器](https://mp.weixin.qq.com/s/FMJCUbT79b4Xbu6pQvx_Ww) (发布日期: 2026-04-24)
+- [被遗忘的幽灵接口：已废弃 API 正成为攻击者的 “黄金后门”](https://mp.weixin.qq.com/s/wOByFoJsQPzhU6UrjRgaVQ) (发布日期: 2026-04-24)
+- [商品价格篡改漏洞](https://mp.weixin.qq.com/s/LbOtP2MxhS_1IuYqnvwMmQ) (发布日期: 2026-04-24)
+- [网络与信息安全应急演练总结培训PPT](https://mp.weixin.qq.com/s/alpP0ymIuGcxIGe8Is3KGg) (发布日期: 2026-04-24)
+- [新解密的破坏性恶意软件针对伊朗核计划，比大名鼎鼎的Stuxnet更早](https://mp.weixin.qq.com/s/cmgg7hxI98t31oc-mOqAyA) (发布日期: 2026-04-24)
+- [GopherWhisper 通过 Go 后门感染了12个蒙古政府系统](https://mp.weixin.qq.com/s/D7xsJE6Y0u5UbbiiTwinKQ) (发布日期: 2026-04-24)
+- [暗网论坛RAMP泄露的数据揭示了俄罗斯勒索软件生态系统](https://mp.weixin.qq.com/s/XDlW5KTqTDocheqFe7p3Bg) (发布日期: 2026-04-24)
+- [科大讯飞SRC关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA) (发布日期: 2026-04-24)
+- [Apache HttpClient 5.6 中存在严重的身份验证绕过漏洞](https://mp.weixin.qq.com/s/CV6Kxvftd0s1RctEclZIWQ) (发布日期: 2026-04-24)
+- [iOS 漏洞会导致已删除通知残留，苹果现已推出修复更新](https://mp.weixin.qq.com/s/BxNitlIlxzaPEhafOGcEew) (发布日期: 2026-04-24)
+- [CISSP 重点知识点合集｜D3 安全工程（单元一） 安全模型的基本概念](https://mp.weixin.qq.com/s/D4I4tCQN95g1zNFN_3zAbw) (发布日期: 2026-04-24)
+- [网络安全可视化工具集 |  FOFA 资产测绘爬取与 Nuclei 漏洞扫描](https://mp.weixin.qq.com/s/gQk8l6ZAPlpFQlgNggh-mw) (发布日期: 2026-04-24)
+- [补丁之后，幽灵犹在：思科防火墙“Firestarter”后门事件剖析](https://mp.weixin.qq.com/s/uB0G84fFGGrcEDRNO5aEwA) (发布日期: 2026-04-24)
+- [中国密码学会及各分支机构2026年主要学术活动计划](https://mp.weixin.qq.com/s/l7VKLL2ZNnjMkpRT9E25YA) (发布日期: 2026-04-24)
+- [DinDoor 后门利用 Deno 和 MSI 安装程序绕过安全工具](https://mp.weixin.qq.com/s/_KbaotY0T54yS140JSt_6A) (发布日期: 2026-04-24)
+- [冒充知名开发者骗过AI合并恶意代码到主分支](https://mp.weixin.qq.com/s/R75rlJBhRIwc-aGFYkJwlw) (发布日期: 2026-04-24)
+- [网络安全人士必知的OpenClaw提示词注入风险](https://mp.weixin.qq.com/s/2k3l_xGqF0L-VfWWKM9-1Q) (发布日期: 2026-04-24)
+- [突发：知名密码管理器Bitwarden CLI遭供应链攻击](https://mp.weixin.qq.com/s/C03qDkEjDAbzyCwZuciWTQ) (发布日期: 2026-04-24)
+- [全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞](https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA) (发布日期: 2026-04-24)
+- [网络安全管理制度体系四级文件简单说明与现状分析](https://mp.weixin.qq.com/s/iEs1Niv-isphGizDdzuG9w) (发布日期: 2026-04-24)
+- [美国网络安全谈判专家承认协助勒索软件团伙](https://mp.weixin.qq.com/s/NwZ-3gj3lEXtkiELz9fIsQ) (发布日期: 2026-04-24)
+- [新型 VENOM 网络钓鱼攻击窃取高管的微软登录信息](https://mp.weixin.qq.com/s/9TCp0j0zdok48ux7Vc_PKg) (发布日期: 2026-04-24)
 
 
 ## 🎯 威胁详情分析
@@ -76,26 +103,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 全程云OA download.ashx接口存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw](https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw) |
-| 2 | edu漏洞之若依nday漏洞复现(一) | Doonsec | [https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg](https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg) |
-| 3 | 小红书SRC发布《AI生成漏洞报告提交规范》 | Doonsec | [https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA](https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA) |
+| 1 | Bissa扫描器曝光：AI辅助的大规模漏洞利用与凭证窃取 | Doonsec | [https://mp.weixin.qq.com/s/QyLu2yTAiprgZwazDNlT_Q](https://mp.weixin.qq.com/s/QyLu2yTAiprgZwazDNlT_Q) |
+| 2 | 国家人工智能安全漏洞库启动运行 | Doonsec | [https://mp.weixin.qq.com/s/7rgi1Poke9Oc076fZ71PhA](https://mp.weixin.qq.com/s/7rgi1Poke9Oc076fZ71PhA) |
+| 3 | CNNVD关于Oracle多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/X4uYqXDWxev1JFGxBXWSeA](https://mp.weixin.qq.com/s/X4uYqXDWxev1JFGxBXWSeA) |
+| 4 | 雨诺调度客户端 GetFile 存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Qphhumd3O4HrcCyaixXcgw](https://mp.weixin.qq.com/s/Qphhumd3O4HrcCyaixXcgw) |
+| 5 | 仅花1.5万元，就能把关键漏洞变成直接运行的网络武器 | Doonsec | [https://mp.weixin.qq.com/s/FMJCUbT79b4Xbu6pQvx_Ww](https://mp.weixin.qq.com/s/FMJCUbT79b4Xbu6pQvx_Ww) |
+| 6 | 商品价格篡改漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LbOtP2MxhS_1IuYqnvwMmQ](https://mp.weixin.qq.com/s/LbOtP2MxhS_1IuYqnvwMmQ) |
+| 7 | 科大讯飞SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA](https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA) |
+| 8 | Apache HttpClient 5.6 中存在严重的身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CV6Kxvftd0s1RctEclZIWQ](https://mp.weixin.qq.com/s/CV6Kxvftd0s1RctEclZIWQ) |
+| 9 | iOS 漏洞会导致已删除通知残留，苹果现已推出修复更新 | Doonsec | [https://mp.weixin.qq.com/s/BxNitlIlxzaPEhafOGcEew](https://mp.weixin.qq.com/s/BxNitlIlxzaPEhafOGcEew) |
+| 10 | 网络安全可视化工具集 |  FOFA 资产测绘爬取与 Nuclei 漏洞扫描 | Doonsec | [https://mp.weixin.qq.com/s/gQk8l6ZAPlpFQlgNggh-mw](https://mp.weixin.qq.com/s/gQk8l6ZAPlpFQlgNggh-mw) |
+| 11 | 全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞 | Doonsec | [https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA](https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 防御三难！提示注入 wrapper 防御不可能性 | Doonsec | [https://mp.weixin.qq.com/s/5IeURxjsKaUFkt0Q8fPURA](https://mp.weixin.qq.com/s/5IeURxjsKaUFkt0Q8fPURA) |
+| 1 | 网络安全人士必知的OpenClaw提示词注入风险 | Doonsec | [https://mp.weixin.qq.com/s/2k3l_xGqF0L-VfWWKM9-1Q](https://mp.weixin.qq.com/s/2k3l_xGqF0L-VfWWKM9-1Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 小红书SRC发布《AI生成漏洞报告提交规范》 | Doonsec | [https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA](https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA) |
+| 1 | 科大讯飞SRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA](https://mp.weixin.qq.com/s/wpL4ZReyiP3IHdOYDMTeEA) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | AI编程默认不安全：知名AI公司发生重大数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/M8bWumfvuold7bG_NisxTw](https://mp.weixin.qq.com/s/M8bWumfvuold7bG_NisxTw) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 突发：知名密码管理器Bitwarden CLI遭供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/C03qDkEjDAbzyCwZuciWTQ](https://mp.weixin.qq.com/s/C03qDkEjDAbzyCwZuciWTQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-23/`
+文章已归档到: `doc/2026/2026-04/2026-W17/2026-04-24/`
 
 ## 🔗 数据源说明
 
@@ -106,8 +153,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +163,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-23 17:20:39*
+*生成时间: 2026-04-24 02:40:49*
 *报告工具: 微信文章安全归档系统*
