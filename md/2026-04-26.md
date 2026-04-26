@@ -2,16 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 35
 - **数据源分布**:
-  - Doonsec: 7篇
+  - BruceFeIix: 35篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 5篇
+- **威胁情报**: 2篇
+- **安全运营**: 2篇
+- **信息泄露**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,15 +66,43 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [这家中国网安企业达到 Mythos 级的 AI 漏洞挖掘能力](https://mp.weixin.qq.com/s/koP7SY_zhp76Uyz_4rIO2w) (发布日期: 2026-04-26)
-- [违反网络安全管理规定，一国有大行省分行被罚400万](https://mp.weixin.qq.com/s/zk5C06jFhbtzCH1Kf37DYA) (发布日期: 2026-04-26)
-- [招商局检测车辆技术研究院：智能网联汽车网络恶意软件数据篡改攻击检测方法](https://mp.weixin.qq.com/s/oeLVzF07Bp21G1fbU42TeQ) (发布日期: 2026-04-26)
-- [中汽数据：基于分层检测架构与动态演进机制车联网车载信息安全入侵检测范式研究](https://mp.weixin.qq.com/s/xWM9F6iCzQWJX5-c3DdS5Q) (发布日期: 2026-04-26)
-- [ZIP 炸弹漏洞深度剖析：原理、构造与实战利用](https://mp.weixin.qq.com/s/h1UJrWW_F_Yt4UYuKJpkAg) (发布日期: 2026-04-26)
-- [国外：一周网络安全态势回顾之第147期，思科防火墙被植入“Firestarter”后门](https://mp.weixin.qq.com/s/FAfjWSsanbGPMKuDaDL9hg) (发布日期: 2026-04-26)
-- [Claude Mythos Preview 全维度深度解析：企业安全风险与体系化应对方案](https://mp.weixin.qq.com/s/y0f2EpjLjzvmqeHIHNebRg) (发布日期: 2026-04-26)
+- [ ] [AI联动JADX + MCP + Claude实战还原深度加密混淆的 Java 程序](https://mp.weixin.qq.com/s/LW3nIdeJmTwhzunwDFyFQA) (发布日期: 2026-04-26)
+- [ ] [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/sZmd7mwubhz6NbDx2Q0kXw) (发布日期: 2026-04-26)
+- [ ] [渗透测试之js懒加载](https://mp.weixin.qq.com/s/nW-53UADqfenZZf6xQqD1Q) (发布日期: 2026-04-26)
+- [ ] [如何通过控制台访问和配置Cisco交换机？](https://mp.weixin.qq.com/s/zsHpGAWTakUwH4nzS8TApQ) (发布日期: 2026-04-26)
+- [ ] [将人工智能安全运营落地 -- 企业面临的下一大挑战](https://mp.weixin.qq.com/s/hfeL6VEGZD03-aMyX-98yg) (发布日期: 2026-04-26)
+- [ ] [100+ 工具 + AI Agent，CyberStrikeAI 重塑安全测试方式](https://mp.weixin.qq.com/s/Y5oFMEvjPk2QFLkXIbxnpg) (发布日期: 2026-04-26)
+- [ ] [新起了一个项目：漏洞扫描（远程安全评估系统）](https://mp.weixin.qq.com/s/OTIq98hhIv_qQzQODaunsg) (发布日期: 2026-04-26)
+- [ ] [孚盟云 AjaxAttachment.ashx sql注入漏洞](https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw) (发布日期: 2026-04-26)
+- [ ] [NIST AI 800-4｜AI部署后全维度监测 Checklist](https://mp.weixin.qq.com/s/Hz06dCMvV6N5KHOiWdWI5Q) (发布日期: 2026-04-26)
+- [ ] [黑客利用思科 Firepower 设备的 n day漏洞获取未经授权的访问权限](https://mp.weixin.qq.com/s/WvmXybsgPtQa0Rz_eZ30fA) (发布日期: 2026-04-26)
+- [ ] [ADT 证实发生数据泄露事件，此前 ShinyHunters 声称发生数据泄露](https://mp.weixin.qq.com/s/TF1DZFCdb0X-IuGljYxKAA) (发布日期: 2026-04-26)
+- [ ] [看懂银狐源码需要安全工程方面哪些知识？如何学习？](https://mp.weixin.qq.com/s/bisf7j87tV8lbNvdK8BuxA) (发布日期: 2026-04-26)
+- [ ] [Claude Mythos安全神话：炒作还是名副其实？；白宫拟开放Claude漏洞挖掘AI | FreeBuf周报](https://mp.weixin.qq.com/s/2EQYYSa6HEcGEvEtIE4c5Q) (发布日期: 2026-04-26)
+- [ ] [AI Agent skill IOT固件安全测试](https://mp.weixin.qq.com/s/mJJhXWWFoXTTDBWx_p7LLA) (发布日期: 2026-04-26)
+- [ ] [CVE-2026-33824：Windows IKEv2 中的远程代码执行漏洞](https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw) (发布日期: 2026-04-26)
+- [ ] [CVE-2026-21509 补丁差异比较：Microsoft Office OLE 安全绕过](https://mp.weixin.qq.com/s/0UyGleZ4d_XmktIdAmMjmA) (发布日期: 2026-04-26)
+- [ ] [Oday 提权漏洞 RedSun](https://mp.weixin.qq.com/s/kqJ__HdcyNIbp8dLNFpG7Q) (发布日期: 2026-04-26)
+- [ ] [天地伟业Easy7 /Easy7/rest/file/delete 文件删除漏洞](https://mp.weixin.qq.com/s/6OKOKCm8ASDjNWBdjm7tmw) (发布日期: 2026-04-26)
+- [ ] [安全开发-自动化soc平台课程](https://mp.weixin.qq.com/s/gMMPr7k9acBjmFzBGzrGSQ) (发布日期: 2026-04-26)
+- [ ] [2026 年十大最佳云安全工具](https://mp.weixin.qq.com/s/JxrCK-2Xf6-ZenkQXHRl8A) (发布日期: 2026-04-26)
+- [ ] [漏洞风暴到来，安全如何应对？](https://mp.weixin.qq.com/s/54o11j2hq8g2B4tM3GYAfQ) (发布日期: 2026-04-26)
+- [ ] [通过HPP来造成XSS](https://mp.weixin.qq.com/s/D1jcJthm3SAzYWFKfeWE0Q) (发布日期: 2026-04-26)
+- [ ] [CVE-2025-70994：雅迪T5电动车弱认证漏洞分析](https://mp.weixin.qq.com/s/g7m_PFQNSeqacnrBU0Zq_g) (发布日期: 2026-04-26)
+- [ ] [总是被忽略的目录遍历到shell以及云权限](https://mp.weixin.qq.com/s/mrg9Jj65qVGf3EhgpF7URw) (发布日期: 2026-04-26)
+- [ ] [思科Webex爆9.8分漏洞：你的会议可能被\"老板\"窃听](https://mp.weixin.qq.com/s/bepB-iX8UCaQF6svtFp4Mg) (发布日期: 2026-04-26)
+- [ ] [OpenSSH 10.3升级指南：漏洞修复+新特性，CentOS/Ubuntu一键脚本](https://mp.weixin.qq.com/s/6nqoI6MYk77KFFvCKTP9WQ) (发布日期: 2026-04-26)
+- [ ] [航天科工集团公开招聘网络安全工程师（河北雄安）](https://mp.weixin.qq.com/s/ybDcgg7ZqiSgAGLhB4nXvw) (发布日期: 2026-04-26)
+- [ ] [一个年营收 800 亿的公司，还出现XSS 漏洞到底是谁的责任？](https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ) (发布日期: 2026-04-26)
+- [ ] [【一周安全资讯0425】网安标委技术文件《人工智能应用伦理安全指引》1.0版公开征求意见；Vercel遭第三方OAuth劫持入侵](https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA) (发布日期: 2026-04-26)
+- [ ] [欧洲APT攻击活动中的印度黑客组织](https://mp.weixin.qq.com/s/p7bL5rhfrTR0XZ4QOZpfHw) (发布日期: 2026-04-26)
+- [ ] [今日（2026年04月25日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505395&idx=1&sn=a5431ef0adac64038847f523795a947c) (发布日期: 2026-04-26)
+- [ ] [【安全圈】美国家庭安防巨头 ADT 被黑客勒索，大量客户数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=1&sn=421380f14f3ee130f56c4f1cbcca9e6c) (发布日期: 2026-04-26)
+- [ ] [【安全圈】存在12年之久的Pack2TheRoot漏洞允许Linux用户获取root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=2&sn=9ef45ec99e970a6bf4e6c4b5d170a1c6) (发布日期: 2026-04-26)
+- [ ] [【安全圈】黑客利用 Telegram 机器人追踪 900 余次成功的 React2Shell 漏洞利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2) (发布日期: 2026-04-26)
+- [ ] [将人工智能安全运营落地 -- 企业面临的下一大挑战](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f) (发布日期: 2026-04-26)
 
 
 ## 🎯 威胁详情分析
@@ -75,8 +111,59 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 这家中国网安企业达到 Mythos 级的 AI 漏洞挖掘能力 | Doonsec | [https://mp.weixin.qq.com/s/koP7SY_zhp76Uyz_4rIO2w](https://mp.weixin.qq.com/s/koP7SY_zhp76Uyz_4rIO2w) |
-| 2 | ZIP 炸弹漏洞深度剖析：原理、构造与实战利用 | Doonsec | [https://mp.weixin.qq.com/s/h1UJrWW_F_Yt4UYuKJpkAg](https://mp.weixin.qq.com/s/h1UJrWW_F_Yt4UYuKJpkAg) |
+| 1 |  ] [新起了一个项目：漏洞扫描（远程安全评估系统） | BruceFeIix | [https://mp.weixin.qq.com/s/OTIq98hhIv_qQzQODaunsg](https://mp.weixin.qq.com/s/OTIq98hhIv_qQzQODaunsg) |
+| 2 |  ] [孚盟云 AjaxAttachment.ashx sql注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw](https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw) |
+| 3 |  ] [黑客利用思科 Firepower 设备的 n day漏洞获取未经授权的访问权限 | BruceFeIix | [https://mp.weixin.qq.com/s/WvmXybsgPtQa0Rz_eZ30fA](https://mp.weixin.qq.com/s/WvmXybsgPtQa0Rz_eZ30fA) |
+| 4 |  ] [Claude Mythos安全神话：炒作还是名副其实？；白宫拟开放Claude漏洞挖掘AI | FreeBuf周报 | BruceFeIix | [https://mp.weixin.qq.com/s/2EQYYSa6HEcGEvEtIE4c5Q](https://mp.weixin.qq.com/s/2EQYYSa6HEcGEvEtIE4c5Q) |
+| 5 |  ] [CVE-2026-33824：Windows IKEv2 中的远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw](https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw) |
+| 6 |  ] [CVE-2026-21509 补丁差异比较：Microsoft Office OLE 安全绕过 | BruceFeIix | [https://mp.weixin.qq.com/s/0UyGleZ4d_XmktIdAmMjmA](https://mp.weixin.qq.com/s/0UyGleZ4d_XmktIdAmMjmA) |
+| 7 |  ] [Oday 提权漏洞 RedSun | BruceFeIix | [https://mp.weixin.qq.com/s/kqJ__HdcyNIbp8dLNFpG7Q](https://mp.weixin.qq.com/s/kqJ__HdcyNIbp8dLNFpG7Q) |
+| 8 |  ] [天地伟业Easy7 /Easy7/rest/file/delete 文件删除漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/6OKOKCm8ASDjNWBdjm7tmw](https://mp.weixin.qq.com/s/6OKOKCm8ASDjNWBdjm7tmw) |
+| 9 |  ] [漏洞风暴到来，安全如何应对？ | BruceFeIix | [https://mp.weixin.qq.com/s/54o11j2hq8g2B4tM3GYAfQ](https://mp.weixin.qq.com/s/54o11j2hq8g2B4tM3GYAfQ) |
+| 10 |  ] [CVE-2025-70994：雅迪T5电动车弱认证漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s/g7m_PFQNSeqacnrBU0Zq_g](https://mp.weixin.qq.com/s/g7m_PFQNSeqacnrBU0Zq_g) |
+| 11 |  ] [思科Webex爆9.8分漏洞：你的会议可能被\"老板\"窃听 | BruceFeIix | [https://mp.weixin.qq.com/s/bepB-iX8UCaQF6svtFp4Mg](https://mp.weixin.qq.com/s/bepB-iX8UCaQF6svtFp4Mg) |
+| 12 |  ] [OpenSSH 10.3升级指南：漏洞修复+新特性，CentOS/Ubuntu一键脚本 | BruceFeIix | [https://mp.weixin.qq.com/s/6nqoI6MYk77KFFvCKTP9WQ](https://mp.weixin.qq.com/s/6nqoI6MYk77KFFvCKTP9WQ) |
+| 13 |  ] [一个年营收 800 亿的公司，还出现XSS 漏洞到底是谁的责任？ | BruceFeIix | [https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ](https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ) |
+| 14 |  ] [今日（2026年04月25日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505395&idx=1&sn=a5431ef0adac64038847f523795a947c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505395&idx=1&sn=a5431ef0adac64038847f523795a947c) |
+| 15 |  ] [【安全圈】存在12年之久的Pack2TheRoot漏洞允许Linux用户获取root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=2&sn=9ef45ec99e970a6bf4e6c4b5d170a1c6](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=2&sn=9ef45ec99e970a6bf4e6c4b5d170a1c6) |
+| 16 |  ] [【安全圈】黑客利用 Telegram 机器人追踪 900 余次成功的 React2Shell 漏洞利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [孚盟云 AjaxAttachment.ashx sql注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw](https://mp.weixin.qq.com/s/5IllmhUjFJDP-vocoLhOmw) |
+| 2 |  ] [CVE-2026-33824：Windows IKEv2 中的远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw](https://mp.weixin.qq.com/s/1YgeRQLViQcY0LVn8sMUcw) |
+| 3 |  ] [通过HPP来造成XSS | BruceFeIix | [https://mp.weixin.qq.com/s/D1jcJthm3SAzYWFKfeWE0Q](https://mp.weixin.qq.com/s/D1jcJthm3SAzYWFKfeWE0Q) |
+| 4 |  ] [一个年营收 800 亿的公司，还出现XSS 漏洞到底是谁的责任？ | BruceFeIix | [https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ](https://mp.weixin.qq.com/s/FUw05Cd5cO_Pdnk-L72sGQ) |
+| 5 |  ] [【一周安全资讯0425】网安标委技术文件《人工智能应用伦理安全指引》1.0版公开征求意见；Vercel遭第三方OAuth劫持入侵 | BruceFeIix | [https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA](https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [看懂银狐源码需要安全工程方面哪些知识？如何学习？ | BruceFeIix | [https://mp.weixin.qq.com/s/bisf7j87tV8lbNvdK8BuxA](https://mp.weixin.qq.com/s/bisf7j87tV8lbNvdK8BuxA) |
+| 2 |  ] [欧洲APT攻击活动中的印度黑客组织 | BruceFeIix | [https://mp.weixin.qq.com/s/p7bL5rhfrTR0XZ4QOZpfHw](https://mp.weixin.qq.com/s/p7bL5rhfrTR0XZ4QOZpfHw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [将人工智能安全运营落地 -- 企业面临的下一大挑战 | BruceFeIix | [https://mp.weixin.qq.com/s/hfeL6VEGZD03-aMyX-98yg](https://mp.weixin.qq.com/s/hfeL6VEGZD03-aMyX-98yg) |
+| 2 |  ] [将人工智能安全运营落地 -- 企业面临的下一大挑战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [ADT 证实发生数据泄露事件，此前 ShinyHunters 声称发生数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s/TF1DZFCdb0X-IuGljYxKAA](https://mp.weixin.qq.com/s/TF1DZFCdb0X-IuGljYxKAA) |
+| 2 |  ] [【安全圈】美国家庭安防巨头 ADT 被黑客勒索，大量客户数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=1&sn=421380f14f3ee130f56c4f1cbcca9e6c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=1&sn=421380f14f3ee130f56c4f1cbcca9e6c) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【一周安全资讯0425】网安标委技术文件《人工智能应用伦理安全指引》1.0版公开征求意见；Vercel遭第三方OAuth劫持入侵 | BruceFeIix | [https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA](https://mp.weixin.qq.com/s/333ue1v4BotTYZl_TYmtRA) |
 
 
 ## 📁 归档路径
@@ -92,8 +179,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -102,5 +189,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-26 02:46:07*
+*生成时间: 2026-04-26 06:06:42*
 *报告工具: 微信文章安全归档系统*
