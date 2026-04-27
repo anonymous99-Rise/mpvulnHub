@@ -2,20 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,27 +64,14 @@
 
 ### Doonsec
 
-- [CNVD漏洞周报2026年第16期](https://mp.weixin.qq.com/s/xE9qsfiaRNa2a44P0vnRBg) (发布日期: 2026-04-27)
-- [上周关注度较高的产品安全漏洞(20260420-20260426)](https://mp.weixin.qq.com/s/OO3VIb2Ko4MORay2pLDiUA) (发布日期: 2026-04-27)
-- [Bluesky刚缓过劲，Mastodon又遭DDoS暴击！去中心化社交真的更安全吗？](https://mp.weixin.qq.com/s/e9kCVB-uEpN7X4Iu-69tbg) (发布日期: 2026-04-27)
-- [潜伏12年的“幽灵”浮现！Linux 惊现高危提权漏洞，众多主流发行版集体沦陷](https://mp.weixin.qq.com/s/rISt6k5t53l3ksz4wV_f4g) (发布日期: 2026-04-27)
-- [当AI开始“吃毒”：国家病毒中心紧急通报“龙虾”智能体遭供应链投毒！](https://mp.weixin.qq.com/s/ib_OYvY3E4do4d2fSk43jg) (发布日期: 2026-04-27)
-- [CISP家族热门认证全解析！](https://mp.weixin.qq.com/s/Q60CiDlykhCZBqgtvH9XUA) (发布日期: 2026-04-27)
-- [AI能在15分钟内武器化CVE漏洞么？答案是能](https://mp.weixin.qq.com/s/VSdnlmzHQ4k5GaYlO10C2Q) (发布日期: 2026-04-27)
-- [Python漏洞导致Windows系统越界写入](https://mp.weixin.qq.com/s/yAFDEpfWe6EFm3lnozoVeA) (发布日期: 2026-04-27)
-- [新的Windows RPC漏洞允许攻击者在所有Windows版本中提升权限](https://mp.weixin.qq.com/s/3xuBkR0gVs9Zp7pgQSJ4Kw) (发布日期: 2026-04-27)
-- [CialloVOL 1.2：便捷好用的轻量化内存取证分析平台](https://mp.weixin.qq.com/s/nOvH2iZ1JOXIcppJAJn5uQ) (发布日期: 2026-04-27)
-- [【安全圈】潜伏 8 年的漏洞，WPS 365 轻舟 AI 如何从源头免疫？](https://mp.weixin.qq.com/s/HMx0Y-GakKYxFrQk_wi6cA) (发布日期: 2026-04-27)
-- [【安全圈】大小仅 1KB！最具毁灭性的切尔诺贝利病毒感染 6000 万台电脑：清空硬盘数据、改写主板 BIOS](https://mp.weixin.qq.com/s/xViqBHEDlafpYOUYkvyFWA) (发布日期: 2026-04-27)
-- [【安全圈】超一万台 Zimbra 服务器易受持续 XSS 攻击](https://mp.weixin.qq.com/s/Cg_E7vnIRdaK8UyQkwU5JA) (发布日期: 2026-04-27)
-- [[更新]红队加载器LoaderV6.2](https://mp.weixin.qq.com/s/2iLSl2pkr7cYUWq-WLcvbg) (发布日期: 2026-04-27)
-- [Venom · 致命精准的渗透测试利器](https://mp.weixin.qq.com/s/E42VDIZ8e_8XqNb7RLl2NA) (发布日期: 2026-04-27)
-- [AI赋能医疗卫生安全运营 以主动防御守护数智健康](https://mp.weixin.qq.com/s/2BPiPXPpT6bPkgUWB1AL9g) (发布日期: 2026-04-27)
-- [900余家企业遭自动化攻击，360专家预警：AI正在重塑漏洞利用和攻防体系](https://mp.weixin.qq.com/s/1fsYSn2DidY_QPRz3CK5_g) (发布日期: 2026-04-27)
-- [OpenAI 推出GPT-5.5 生物漏洞奖励计划，最高赏金2.5万美元](https://mp.weixin.qq.com/s/AyBY_zIVYv8nrwl235aZhg) (发布日期: 2026-04-27)
-- [已存在12年之久的Pack2TheRoot 漏洞可导致攻击者获得 Linux root 访问权限](https://mp.weixin.qq.com/s/9h62gsbnad0W_3xvjAJddw) (发布日期: 2026-04-27)
-- [助力云化转型，奇安信天眼中标某金融央企全流量安全检测项目](https://mp.weixin.qq.com/s/2dj4TXVGZIRGtmoc_6IsPw) (发布日期: 2026-04-27)
-- [RSAC 2026：AI SOC从“辅助驾驶”迈入“智能体驱动”时代](https://mp.weixin.qq.com/s/K4xBLJMei4ZUVmfvnSLKlw) (发布日期: 2026-04-27)
+- [别只防输出！AI&amp;nbsp;Agent的中间漏洞百出](https://mp.weixin.qq.com/s/q2d017-iOE3NJWjaMrIwVw) (发布日期: 2026-04-27)
+- [【AI安全】别只防输出！AI Agent 的中间流程漏洞百出](https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA) (发布日期: 2026-04-27)
+- [抓包 + AI 逆向神器来了！全平台通吃，自动解析协议与加密](https://mp.weixin.qq.com/s/CA7DKwWTLeHZnTG0zsgJ_g) (发布日期: 2026-04-27)
+- [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/ud7JZmXaoDws78PTZtGQww) (发布日期: 2026-04-27)
+- [速度与激情3：智能体RAG权限——五种模式与安全团队实践建议](https://mp.weixin.qq.com/s/HOhbZvj5GicDRLlppALjMQ) (发布日期: 2026-04-27)
+- [Vvveb CMS 任意文件上传导致RCE  | CVE-2026-6257原理分析&amp;研究](https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ) (发布日期: 2026-04-27)
+- [【高危漏洞预警】Notepad++字符串注入漏洞(CVE-2026-3008)](https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q) (发布日期: 2026-04-27)
+- [30种Java一句话木马免杀方法](https://mp.weixin.qq.com/s/YI49D9BsjxCgiiI7MmsIMw) (发布日期: 2026-04-27)
 
 
 ## 🎯 威胁详情分析
@@ -93,34 +80,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNVD漏洞周报2026年第16期 | Doonsec | [https://mp.weixin.qq.com/s/xE9qsfiaRNa2a44P0vnRBg](https://mp.weixin.qq.com/s/xE9qsfiaRNa2a44P0vnRBg) |
-| 2 | 上周关注度较高的产品安全漏洞(20260420-20260426) | Doonsec | [https://mp.weixin.qq.com/s/OO3VIb2Ko4MORay2pLDiUA](https://mp.weixin.qq.com/s/OO3VIb2Ko4MORay2pLDiUA) |
-| 3 | 潜伏12年的“幽灵”浮现！Linux 惊现高危提权漏洞，众多主流发行版集体沦陷 | Doonsec | [https://mp.weixin.qq.com/s/rISt6k5t53l3ksz4wV_f4g](https://mp.weixin.qq.com/s/rISt6k5t53l3ksz4wV_f4g) |
-| 4 | AI能在15分钟内武器化CVE漏洞么？答案是能 | Doonsec | [https://mp.weixin.qq.com/s/VSdnlmzHQ4k5GaYlO10C2Q](https://mp.weixin.qq.com/s/VSdnlmzHQ4k5GaYlO10C2Q) |
-| 5 | Python漏洞导致Windows系统越界写入 | Doonsec | [https://mp.weixin.qq.com/s/yAFDEpfWe6EFm3lnozoVeA](https://mp.weixin.qq.com/s/yAFDEpfWe6EFm3lnozoVeA) |
-| 6 | 新的Windows RPC漏洞允许攻击者在所有Windows版本中提升权限 | Doonsec | [https://mp.weixin.qq.com/s/3xuBkR0gVs9Zp7pgQSJ4Kw](https://mp.weixin.qq.com/s/3xuBkR0gVs9Zp7pgQSJ4Kw) |
-| 7 | 【安全圈】潜伏 8 年的漏洞，WPS 365 轻舟 AI 如何从源头免疫？ | Doonsec | [https://mp.weixin.qq.com/s/HMx0Y-GakKYxFrQk_wi6cA](https://mp.weixin.qq.com/s/HMx0Y-GakKYxFrQk_wi6cA) |
-| 8 | 900余家企业遭自动化攻击，360专家预警：AI正在重塑漏洞利用和攻防体系 | Doonsec | [https://mp.weixin.qq.com/s/1fsYSn2DidY_QPRz3CK5_g](https://mp.weixin.qq.com/s/1fsYSn2DidY_QPRz3CK5_g) |
-| 9 | OpenAI 推出GPT-5.5 生物漏洞奖励计划，最高赏金2.5万美元 | Doonsec | [https://mp.weixin.qq.com/s/AyBY_zIVYv8nrwl235aZhg](https://mp.weixin.qq.com/s/AyBY_zIVYv8nrwl235aZhg) |
-| 10 | 已存在12年之久的Pack2TheRoot 漏洞可导致攻击者获得 Linux root 访问权限 | Doonsec | [https://mp.weixin.qq.com/s/9h62gsbnad0W_3xvjAJddw](https://mp.weixin.qq.com/s/9h62gsbnad0W_3xvjAJddw) |
+| 1 | 别只防输出！AI&amp;nbsp;Agent的中间漏洞百出 | Doonsec | [https://mp.weixin.qq.com/s/q2d017-iOE3NJWjaMrIwVw](https://mp.weixin.qq.com/s/q2d017-iOE3NJWjaMrIwVw) |
+| 2 | 【AI安全】别只防输出！AI Agent 的中间流程漏洞百出 | Doonsec | [https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA](https://mp.weixin.qq.com/s/2bRYPweh1tzlqV8JfDwnuA) |
+| 3 | Vvveb CMS 任意文件上传导致RCE  | CVE-2026-6257原理分析&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ](https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ) |
+| 4 | 【高危漏洞预警】Notepad++字符串注入漏洞(CVE-2026-3008) | Doonsec | [https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q](https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】超一万台 Zimbra 服务器易受持续 XSS 攻击 | Doonsec | [https://mp.weixin.qq.com/s/Cg_E7vnIRdaK8UyQkwU5JA](https://mp.weixin.qq.com/s/Cg_E7vnIRdaK8UyQkwU5JA) |
+| 1 | Vvveb CMS 任意文件上传导致RCE  | CVE-2026-6257原理分析&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ](https://mp.weixin.qq.com/s/X7RDgEZs6UiknLMJKM_GlQ) |
+| 2 | 【高危漏洞预警】Notepad++字符串注入漏洞(CVE-2026-3008) | Doonsec | [https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q](https://mp.weixin.qq.com/s/ZOIw-ddU5YRUo9rm2Ahu9Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI赋能医疗卫生安全运营 以主动防御守护数智健康 | Doonsec | [https://mp.weixin.qq.com/s/2BPiPXPpT6bPkgUWB1AL9g](https://mp.weixin.qq.com/s/2BPiPXPpT6bPkgUWB1AL9g) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 当AI开始“吃毒”：国家病毒中心紧急通报“龙虾”智能体遭供应链投毒！ | Doonsec | [https://mp.weixin.qq.com/s/ib_OYvY3E4do4d2fSk43jg](https://mp.weixin.qq.com/s/ib_OYvY3E4do4d2fSk43jg) |
+| 1 | 挖了半年SRC颗粒无收 | Doonsec | [https://mp.weixin.qq.com/s/ud7JZmXaoDws78PTZtGQww](https://mp.weixin.qq.com/s/ud7JZmXaoDws78PTZtGQww) |
 
 
 ## 📁 归档路径
@@ -136,7 +112,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -146,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-27 13:54:35*
+*生成时间: 2026-04-27 17:22:03*
 *报告工具: 微信文章安全归档系统*
