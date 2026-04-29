@@ -1,23 +1,22 @@
-# 2026-04-28 安全威胁态势报告
+# 2026-04-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 23
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **信息泄露**: 3篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 10篇
+- **安全运营**: 2篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **Web安全**: 3篇
+- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,18 +65,29 @@
 
 ### Doonsec
 
-- [紧急！蚁剑 v2.1.15 曝致命漏洞。网友：玩一辈子鹰，被鹰啄瞎了眼](https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw) (发布日期: 2026-04-28)
-- [OpenSSH 漏洞暗藏 15 年，可致完全 root 权限访问](https://mp.weixin.qq.com/s/K0CEuWrxspQdL6xNw4NivA) (发布日期: 2026-04-28)
-- [LLM 推理引擎 llama.cpp 零点击 RCE 漏洞：从 Null Buffer 到绕过 PIE/Full RELRO/NX 利用链(CVE-2026-34159)](https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ) (发布日期: 2026-04-28)
-- [TSRC助力 | 你敢信，他们都来了！HPW白帽世界大会2026全议程发布](https://mp.weixin.qq.com/s/7QK3Zxm-u7I_7RQCoXc7Zg) (发布日期: 2026-04-28)
-- [报告发布 |《全球数据泄露态势月度报告》（2026年3月）| 附下载地址](https://mp.weixin.qq.com/s/Evcmmp_dY-jx22bUS54UYA) (发布日期: 2026-04-28)
-- [权威统计｜安全玻璃盒连续两年稳居国内软件供应链安全市场全国第二，引领AI驱动软件供应链安全赛道，增长势头迅猛](https://mp.weixin.qq.com/s/r4ZOnqgqTS44HnGcsD-g6Q) (发布日期: 2026-04-28)
-- [LiteLLM SQL注入漏洞可无条件触发](https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A) (发布日期: 2026-04-28)
-- [被低估的数据泄密出口：网页上传场景的安全漏洞与防护破局](https://mp.weixin.qq.com/s/F5th9WC8nuRuo_vq9G1lxw) (发布日期: 2026-04-28)
-- [AI幻觉还是数据串台？Kimi简历事件引发隐私泄露疑问](https://mp.weixin.qq.com/s/RhgQnlWWZyIZxRFgmU8wAA) (发布日期: 2026-04-28)
-- [两亿多用户信息危在旦夕，Vimeo疑似遭重大数据泄露](https://mp.weixin.qq.com/s/LNH9TaROltUN1iih9I4kJQ) (发布日期: 2026-04-28)
-- [AI Agent 渗透测试skill实战测试（二）](https://mp.weixin.qq.com/s/pl_TrH7nQijv0pEKinMbuw) (发布日期: 2026-04-28)
-- [美国老牌家庭安防公司 ADT 数据泄露事件](https://mp.weixin.qq.com/s/eiHDyKooQIaFqTN9Eq2lRA) (发布日期: 2026-04-28)
+- [CTF国赛技术点系列（第3期）——Web拉分考点：SSRF进阶与内网穿透（国赛高频）](https://mp.weixin.qq.com/s/ZmcruDz7d-dN-c7vtMOdeg) (发布日期: 2026-04-29)
+- [某SRC不一样的Dify/Next.js命令执行记录](https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA) (发布日期: 2026-04-29)
+- [第三篇｜端口探测方式 + 扫描工具 + 安全合规规范](https://mp.weixin.qq.com/s/eMLLG5vZ6dZCnJAFXlInfA) (发布日期: 2026-04-29)
+- [MonkeyScan实测：一款轻量、精准、高效的AI代码审计工具](https://mp.weixin.qq.com/s/rOlq97U96sxmq6YFg1HlIA) (发布日期: 2026-04-29)
+- [web安全-Linux文件描述符与重定向](https://mp.weixin.qq.com/s/X0g1Qpj3W3rs_FC7Lfkj9w) (发布日期: 2026-04-29)
+- [Nginx UI的未授权远程代码执行](https://mp.weixin.qq.com/s/zi0YGUvyBmaKjiRHLSJItg) (发布日期: 2026-04-29)
+- [PhantomCore 利用 TrueConf 漏洞入侵俄罗斯网络](https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ) (发布日期: 2026-04-29)
+- [关键GitHub 漏洞（CVE-2026-3854）允许远程代码执行](https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ) (发布日期: 2026-04-29)
+- [【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159](https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw) (发布日期: 2026-04-29)
+- [针对中文用户的 \"SumatraPDF\" 供应链攻击](https://mp.weixin.qq.com/s/Y58Ni2SXQaP6SD3vRfBiLw) (发布日期: 2026-04-29)
+- [朝鲜黑客通过伪装Excel文件向制药公司投放恶意软件](https://mp.weixin.qq.com/s/BTJ7gRMPsDkD2mrCA2nLxg) (发布日期: 2026-04-29)
+- [微软修复可导致权限提升的 Entra ID 漏洞](https://mp.weixin.qq.com/s/wHj6IBCWz-v6MSIWToIZBw) (发布日期: 2026-04-29)
+- [CVE-2026-3854：GitHub 存在安全缺陷，攻击者可利用该漏洞发起远程代码执行攻击](https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw) (发布日期: 2026-04-29)
+- [[高危漏洞预警] LiteLLM 预认证SQL注入漏洞CVE-2026-42208](https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A) (发布日期: 2026-04-29)
+- [CVSS 9.8！这波无需授权的 RCE 组合拳，是如何拿下 TrueConf 服务器的？](https://mp.weixin.qq.com/s/LV5S2ijsoT-MnVM3rYkptA) (发布日期: 2026-04-29)
+- [漏洞预警 | Cockpit远程代码执行漏洞](https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw) (发布日期: 2026-04-29)
+- [漏洞预警 | 天地伟业Easy7文件上传漏洞](https://mp.weixin.qq.com/s/_GtsUO1Zw5PrXReh3PTW3A) (发布日期: 2026-04-29)
+- [工具 | XSS_Scanner](https://mp.weixin.qq.com/s/4K64qbOr9YokN7REkn1cIw) (发布日期: 2026-04-29)
+- [【SRC实战】某985证书站实战案例](https://mp.weixin.qq.com/s/05PvgBYMDnVnthd4NGsyxw) (发布日期: 2026-04-29)
+- [HVV护网蓝队面试题大全](https://mp.weixin.qq.com/s/89bpI4dW0I8xHg7pH6TypA) (发布日期: 2026-04-29)
+- [虚假 KYC 安卓恶意软件通过 WhatsApp 传播，劫持银行账户](https://mp.weixin.qq.com/s/HfZAGDM1rlpCPawjcc-Bdw) (发布日期: 2026-04-29)
+- [【有免费靶场】Java“幽灵比特位”  漏洞原理+复现](https://mp.weixin.qq.com/s/hVOmXE60RFSlTKsEWw2m3g) (发布日期: 2026-04-29)
+- [【有免费靶场】Java“幽灵比特位”  漏洞原理+复现](https://mp.weixin.qq.com/s/NOrYKuv6TANitgwxoCUTYw) (发布日期: 2026-04-29)
 
 
 ## 🎯 威胁详情分析
@@ -86,43 +96,49 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急！蚁剑 v2.1.15 曝致命漏洞。网友：玩一辈子鹰，被鹰啄瞎了眼 | Doonsec | [https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw](https://mp.weixin.qq.com/s/AyNw7_yR_iOA32E-dlODYw) |
-| 2 | OpenSSH 漏洞暗藏 15 年，可致完全 root 权限访问 | Doonsec | [https://mp.weixin.qq.com/s/K0CEuWrxspQdL6xNw4NivA](https://mp.weixin.qq.com/s/K0CEuWrxspQdL6xNw4NivA) |
-| 3 | LLM 推理引擎 llama.cpp 零点击 RCE 漏洞：从 Null Buffer 到绕过 PIE/Full RELRO/NX 利用链(CVE-2026-34159) | Doonsec | [https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ](https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ) |
-| 4 | LiteLLM SQL注入漏洞可无条件触发 | Doonsec | [https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A](https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A) |
-| 5 | 被低估的数据泄密出口：网页上传场景的安全漏洞与防护破局 | Doonsec | [https://mp.weixin.qq.com/s/F5th9WC8nuRuo_vq9G1lxw](https://mp.weixin.qq.com/s/F5th9WC8nuRuo_vq9G1lxw) |
+| 1 | PhantomCore 利用 TrueConf 漏洞入侵俄罗斯网络 | Doonsec | [https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ](https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ) |
+| 2 | 关键GitHub 漏洞（CVE-2026-3854）允许远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ](https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ) |
+| 3 | 【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159 | Doonsec | [https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw](https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw) |
+| 4 | 微软修复可导致权限提升的 Entra ID 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wHj6IBCWz-v6MSIWToIZBw](https://mp.weixin.qq.com/s/wHj6IBCWz-v6MSIWToIZBw) |
+| 5 | CVE-2026-3854：GitHub 存在安全缺陷，攻击者可利用该漏洞发起远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw](https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw) |
+| 6 | [高危漏洞预警] LiteLLM 预认证SQL注入漏洞CVE-2026-42208 | Doonsec | [https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A](https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A) |
+| 7 | 漏洞预警 | Cockpit远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw](https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw) |
+| 8 | 漏洞预警 | 天地伟业Easy7文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/_GtsUO1Zw5PrXReh3PTW3A](https://mp.weixin.qq.com/s/_GtsUO1Zw5PrXReh3PTW3A) |
+| 9 | 【有免费靶场】Java“幽灵比特位”  漏洞原理+复现 | Doonsec | [https://mp.weixin.qq.com/s/hVOmXE60RFSlTKsEWw2m3g](https://mp.weixin.qq.com/s/hVOmXE60RFSlTKsEWw2m3g) |
+| 10 | 【有免费靶场】Java“幽灵比特位”  漏洞原理+复现 | Doonsec | [https://mp.weixin.qq.com/s/NOrYKuv6TANitgwxoCUTYw](https://mp.weixin.qq.com/s/NOrYKuv6TANitgwxoCUTYw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LLM 推理引擎 llama.cpp 零点击 RCE 漏洞：从 Null Buffer 到绕过 PIE/Full RELRO/NX 利用链(CVE-2026-34159) | Doonsec | [https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ](https://mp.weixin.qq.com/s/hgH1SOCfuetBs-F_aueixQ) |
-| 2 | LiteLLM SQL注入漏洞可无条件触发 | Doonsec | [https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A](https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A) |
+| 1 | CTF国赛技术点系列（第3期）——Web拉分考点：SSRF进阶与内网穿透（国赛高频） | Doonsec | [https://mp.weixin.qq.com/s/ZmcruDz7d-dN-c7vtMOdeg](https://mp.weixin.qq.com/s/ZmcruDz7d-dN-c7vtMOdeg) |
+| 2 | 某SRC不一样的Dify/Next.js命令执行记录 | Doonsec | [https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA](https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA) |
+| 3 | Nginx UI的未授权远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/zi0YGUvyBmaKjiRHLSJItg](https://mp.weixin.qq.com/s/zi0YGUvyBmaKjiRHLSJItg) |
+| 4 | 关键GitHub 漏洞（CVE-2026-3854）允许远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ](https://mp.weixin.qq.com/s/egJBth9FPgK9RcYcO9RmPQ) |
+| 5 | 【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159 | Doonsec | [https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw](https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw) |
+| 6 | CVE-2026-3854：GitHub 存在安全缺陷，攻击者可利用该漏洞发起远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw](https://mp.weixin.qq.com/s/Z1nYRTMC3YZBT5T6e12NKw) |
+| 7 | [高危漏洞预警] LiteLLM 预认证SQL注入漏洞CVE-2026-42208 | Doonsec | [https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A](https://mp.weixin.qq.com/s/ba0X89YKQLL8qaU26w1P_A) |
+| 8 | CVSS 9.8！这波无需授权的 RCE 组合拳，是如何拿下 TrueConf 服务器的？ | Doonsec | [https://mp.weixin.qq.com/s/LV5S2ijsoT-MnVM3rYkptA](https://mp.weixin.qq.com/s/LV5S2ijsoT-MnVM3rYkptA) |
+| 9 | 漏洞预警 | Cockpit远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw](https://mp.weixin.qq.com/s/r2qc3-qowgHkqcDMBu-HWw) |
+| 10 | 工具 | XSS_Scanner | Doonsec | [https://mp.weixin.qq.com/s/4K64qbOr9YokN7REkn1cIw](https://mp.weixin.qq.com/s/4K64qbOr9YokN7REkn1cIw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | TSRC助力 | 你敢信，他们都来了！HPW白帽世界大会2026全议程发布 | Doonsec | [https://mp.weixin.qq.com/s/7QK3Zxm-u7I_7RQCoXc7Zg](https://mp.weixin.qq.com/s/7QK3Zxm-u7I_7RQCoXc7Zg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 报告发布 |《全球数据泄露态势月度报告》（2026年3月）| 附下载地址 | Doonsec | [https://mp.weixin.qq.com/s/Evcmmp_dY-jx22bUS54UYA](https://mp.weixin.qq.com/s/Evcmmp_dY-jx22bUS54UYA) |
-| 2 | 两亿多用户信息危在旦夕，Vimeo疑似遭重大数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/LNH9TaROltUN1iih9I4kJQ](https://mp.weixin.qq.com/s/LNH9TaROltUN1iih9I4kJQ) |
-| 3 | 美国老牌家庭安防公司 ADT 数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/eiHDyKooQIaFqTN9Eq2lRA](https://mp.weixin.qq.com/s/eiHDyKooQIaFqTN9Eq2lRA) |
+| 1 | 某SRC不一样的Dify/Next.js命令执行记录 | Doonsec | [https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA](https://mp.weixin.qq.com/s/Dml2Bs63K7PLAj1AEhFrqA) |
+| 2 | 【SRC实战】某985证书站实战案例 | Doonsec | [https://mp.weixin.qq.com/s/05PvgBYMDnVnthd4NGsyxw](https://mp.weixin.qq.com/s/05PvgBYMDnVnthd4NGsyxw) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 权威统计｜安全玻璃盒连续两年稳居国内软件供应链安全市场全国第二，引领AI驱动软件供应链安全赛道，增长势头迅猛 | Doonsec | [https://mp.weixin.qq.com/s/r4ZOnqgqTS44HnGcsD-g6Q](https://mp.weixin.qq.com/s/r4ZOnqgqTS44HnGcsD-g6Q) |
+| 1 | 针对中文用户的 \"SumatraPDF\" 供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/Y58Ni2SXQaP6SD3vRfBiLw](https://mp.weixin.qq.com/s/Y58Ni2SXQaP6SD3vRfBiLw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W18/2026-04-28/`
+文章已归档到: `doc/2026/2026-04/2026-W18/2026-04-29/`
 
 ## 🔗 数据源说明
 
@@ -133,8 +149,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +159,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-28 10:13:14*
+*生成时间: 2026-04-29 02:54:15*
 *报告工具: 微信文章安全归档系统*
