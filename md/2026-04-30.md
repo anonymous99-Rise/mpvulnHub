@@ -2,22 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 30
+- **总文章数**: 53
 - **数据源分布**:
-  - Doonsec: 30篇
+  - Doonsec: 34篇
+  - BruceFeIix: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 14篇
-- **攻击技术**: 2篇
-- **威胁情报**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 39篇
+- **攻击技术**: 7篇
+- **信息泄露**: 2篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 3篇
 - **Web安全**: 2篇
-- **系统漏洞**: 2篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,36 +68,62 @@
 
 ### Doonsec
 
-- [【涨知识】利用DoH加密通信的恶意木马流量分析](https://mp.weixin.qq.com/s/Ym24ZQTUtTqSK37EFlA3tQ) (发布日期: 2026-04-30)
-- [【高危漏洞预警】CVE-2026-31431 Linux内核crypto子系统本地提权漏洞](https://mp.weixin.qq.com/s/p_JO2SGgn63_3gs0cEYgVQ) (发布日期: 2026-04-30)
-- [【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)](https://mp.weixin.qq.com/s/XKrvtRy5L_hPzY_IO5IvCw) (发布日期: 2026-04-30)
-- [【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞](https://mp.weixin.qq.com/s/Av99-_fZbaXjTiXy2fhOIg) (发布日期: 2026-04-30)
-- [CVE-2026-31431（Copy Fail）漏洞分析与车联网影响评估](https://mp.weixin.qq.com/s/rOY7WfINmemXlV70Rqc9mA) (发布日期: 2026-04-30)
-- [等保标准再扩新版！数据安全公安行标系列正式落地](https://mp.weixin.qq.com/s/QWrgTYq292f48b_FuadTpg) (发布日期: 2026-04-30)
-- [Linux提权漏洞！10行代码直接root](https://mp.weixin.qq.com/s/mHwL-41--rUAczfSYaeo_w) (发布日期: 2026-04-30)
-- [某园区0day代码审计](https://mp.weixin.qq.com/s/JyA-1ZaIP3R-68bdWcG8pQ) (发布日期: 2026-04-30)
-- [【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)安全风险通告](https://mp.weixin.qq.com/s/-5nohB52WQtD3lV7xInIKg) (发布日期: 2026-04-30)
-- [【已复现】cPanel&amp;WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告](https://mp.weixin.qq.com/s/-8PO6l29GqRPVSYxR0vGig) (发布日期: 2026-04-30)
-- [弹性法案CRA 风险评估最简落地法：ISO 27005 \\\\+ STRIDE 一文讲透](https://mp.weixin.qq.com/s/TIwLSFpGopx00e7GXtd-6A) (发布日期: 2026-04-30)
-- [上海隧道新加坡子公司出事，承包项目数据泄露会直接传导到甲方](https://mp.weixin.qq.com/s/pR-0luvlbiA0x9ddNKG3sw) (发布日期: 2026-04-30)
-- [还在手动SQL注入？赶紧用这个自动化工具！](https://mp.weixin.qq.com/s/nxzOdZf8z1VWMQKjRHRC5w) (发布日期: 2026-04-30)
-- [逆天 Linux 提权漏洞，大洞速修！！！！！](https://mp.weixin.qq.com/s/KHKIExChRMX6ewJk6dTgSw) (发布日期: 2026-04-30)
-- [智能体安全风险解析：OWASP Top 10 | TC260《智能体安全标准化研究》](https://mp.weixin.qq.com/s/KPLSojGm06s25maFMRXc9A) (发布日期: 2026-04-30)
-- [一条 git push 就能拿下 GitHub 服务器？CVE-2026-3854 详解](https://mp.weixin.qq.com/s/_3AuJPcKpfiuD7JrLlWg_A) (发布日期: 2026-04-30)
-- [开源威胁情报的难题，我们想用知识图谱来破解](https://mp.weixin.qq.com/s/t1fVvgwo7cTyqpFkfynfEg) (发布日期: 2026-04-30)
-- [CVE-2026-42208：LiteLLM 漏洞披露后仅 36 小时即遭利用](https://mp.weixin.qq.com/s/4l69yVBMxoHh8U7x98VwCQ) (发布日期: 2026-04-30)
-- [所有受支持的 cPanel 版本均受高危认证漏洞影响，目前已完成补丁修复](https://mp.weixin.qq.com/s/tjO9uXE5mb-KU1IAT5yffg) (发布日期: 2026-04-30)
-- [招聘公告||长春测评机构招聘（高、中、初级）等保测评工程师、密码测评师、渗透测试工程师等多个岗位，看看岗位的要求福利符合你吗？](https://mp.weixin.qq.com/s/YVHYYX8NFMIso6gTssMeYw) (发布日期: 2026-04-30)
-- [招聘公告||长春测评机构招聘（高、中、初级）等保测评工程师、密码测评师、渗透测试工程师等多个岗位，看看岗位的要求福利符合你吗？](https://mp.weixin.qq.com/s/xeEk-D_xQXSrmOxMeX7w1g) (发布日期: 2026-04-30)
-- [医疗数据安全警钟：AI自主挖掘OpenEMRa医疗记录平台的38个CVE](https://mp.weixin.qq.com/s/fyLJEuI0TKR6H5OK8yFcxA) (发布日期: 2026-04-30)
-- [安博通劳动节假期应急响应保障通知](https://mp.weixin.qq.com/s/QaA_fxMW6uYSbMJnioLeOQ) (发布日期: 2026-04-30)
-- [OpenClaw安全配置与防护指南（2026）](https://mp.weixin.qq.com/s/kAdXlHJG_sApOgqbZf2OFQ) (发布日期: 2026-04-30)
-- [DDoS攻击威胁报告（2026）](https://mp.weixin.qq.com/s/HqOiljQlCMNShvbx2esLNw) (发布日期: 2026-04-30)
-- [HVV在即，红队高频面试题【WAF 绕过】](https://mp.weixin.qq.com/s/WgKoKdZYkhnty7Oiodq_OA) (发布日期: 2026-04-30)
-- [（26）8.2 人工智能风险评估 — 企业信息安全负责人必读系列丛书书稿《ISO/IEC 42001: 2023人工智能管理体系标准的谬误辨析与实施详解》](https://mp.weixin.qq.com/s/SBmlnfgRBPChHft9m6oaVA) (发布日期: 2026-04-30)
-- [2026 年十大最佳 Linux 服务器漏洞扫描器](https://mp.weixin.qq.com/s/r47JuF0ybIxR98W_-qt6qw) (发布日期: 2026-04-30)
-- [安全运营：别让\"快\"，掩盖了\"准\"的价值](https://mp.weixin.qq.com/s/Fcf7s4PF8TcL3haJGnYqyg) (发布日期: 2026-04-30)
-- [五一限时折扣 | SQL注入检测效率翻倍，一键配置自动化检测](https://mp.weixin.qq.com/s/f-v4De5c58RAKH9N81QIqA) (发布日期: 2026-04-30)
+- [MyLovely.AI 数据泄露：超10万用户私密内容被扒光](https://mp.weixin.qq.com/s/Zup69q8GoyeVYVNaXZL-ww) (发布日期: 2026-04-30)
+- [CNNVD通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/xwFEJZ9DUEirje66YPIa5w) (发布日期: 2026-04-30)
+- [人工智能重要漏洞通报（2026年第六期）](https://mp.weixin.qq.com/s/K4EDSNjwUjHQlCFG1lqHRw) (发布日期: 2026-04-30)
+- [人工智能重要安全漏洞的通报-openclaw多个安全漏洞](https://mp.weixin.qq.com/s/Z1ixOzAzu_Lqtec95zdyUw) (发布日期: 2026-04-30)
+- [Linux提权漏洞二进制版CVE-2026-31431](https://mp.weixin.qq.com/s/Jvl5MRhQTTlhdSQc9FzLpg) (发布日期: 2026-04-30)
+- [【漏洞预警】Linux Copy Fail 本地提权漏洞 (CVE-2026-31431)](https://mp.weixin.qq.com/s/YHG0b-P8U_b_FKqc-xtUAA) (发布日期: 2026-04-30)
+- [Copy Fail：横扫所有Linux，成为最危险的提权漏洞](https://mp.weixin.qq.com/s/pjZ6aFXriibIP6J6wK6Swg) (发布日期: 2026-04-30)
+- [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）](https://mp.weixin.qq.com/s/u8bn0-RIKU_PGHOugPj43Q) (发布日期: 2026-04-30)
+- [[安全工具] CTF-OS 一款专为CTF比赛封装的虚拟机系统](https://mp.weixin.qq.com/s/mN2tCFVq_6IuF2K8bLpcKw) (发布日期: 2026-04-30)
+- [[高危漏洞通报]COPY FAIL漏洞(CVE-2026-31431)复现及修复建议](https://mp.weixin.qq.com/s/-9Ch7VDjfmzH_5lSp_YekA) (发布日期: 2026-04-30)
+- [连 cat readme.txt 都不安全：iTerm2 SSH 集成协议信任漏洞分析](https://mp.weixin.qq.com/s/JVrl3-46lVbqOp-XcoTS7A) (发布日期: 2026-04-30)
+- [Linux Copy Fail漏洞预警，丝滑提权不是梦](https://mp.weixin.qq.com/s/SiZdlyzT-4_06zanDrzykg) (发布日期: 2026-04-30)
+- [CVE-2026-31431 已复现，最新提权漏洞，通杀过去 9 年所有 linux 主机](https://mp.weixin.qq.com/s/26VkSyNcULuNoVF5fmBQ9A) (发布日期: 2026-04-30)
+- [关于Linux内核存在本地权限提升漏洞的安全公告](https://mp.weixin.qq.com/s/RK-orUtf_OkVQPxqf6PRjg) (发布日期: 2026-04-30)
+- [【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞](https://mp.weixin.qq.com/s/qPzFe4bkc1R8glcKmP-RDw) (发布日期: 2026-04-30)
+- [恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览](https://mp.weixin.qq.com/s/U9CtqEm37ejls0O70AHx1A) (发布日期: 2026-04-30)
+- [【已复现】Linux内核权限提升漏洞（CVE-2026-31431）](https://mp.weixin.qq.com/s/aYUPjfD9X_2rYfE6JeqoPA) (发布日期: 2026-04-30)
+- [微软Windows Shell零点击漏洞已被攻击者利用](https://mp.weixin.qq.com/s/qYCkBHvy2qQAza2nlUlA3g) (发布日期: 2026-04-30)
+- [CVE复现 | CVE-2025-55182](https://mp.weixin.qq.com/s/yi0zyXfGjL5P-5j4M_71mw) (发布日期: 2026-04-30)
+- [CopyFail本地提权漏洞影响主流Linux系统最新版（CVE-2026-31431）](https://mp.weixin.qq.com/s/FaNP5vEzlnHwrS4uoG6MEQ) (发布日期: 2026-04-30)
+- [国家计算机病毒应急处理中心检测发现67款违法违规收集使用个人信息的移动应用](https://mp.weixin.qq.com/s/L22KfNK5GNRgE7jtTzQI8A) (发布日期: 2026-04-30)
+- [一季度网安执法观察：穿透式监管加速落地，推动实质安全治理](https://mp.weixin.qq.com/s/pLD42orT6MmxiMYpxfrVag) (发布日期: 2026-04-30)
+- [Copy Fail 不用竞态、不用崩溃——十年来最「优雅」的 Linux 提权漏洞 （CVE-2026-31431）](https://mp.weixin.qq.com/s/OonRcpU1Lba7T9Spz3615Q) (发布日期: 2026-04-30)
+- [漏洞速递｜CVE-2026-31431 Linux最新0day提权漏洞（建议自查）](https://mp.weixin.qq.com/s/XgDQZlrOETG-KZ3JqyWuSg) (发布日期: 2026-04-30)
+- [如何白嫖？？？闪石星曜@AI Java代码审计高阶实战班，一次付费，永久学习，一对一指导，还能狠狠的白嫖！](https://mp.weixin.qq.com/s/Xdtfugl7hoftfSbwdTX3Uw) (发布日期: 2026-04-30)
+- [潜伏9年，732字节即可提权：Copy Fail 漏洞深度解析](https://mp.weixin.qq.com/s/__pnQ3YQXKIwoZQyPEH16g) (发布日期: 2026-04-30)
+- [732 字节通杀 Linux内核 近 9 年！100% 稳定获取 root 权限。附Poc。](https://mp.weixin.qq.com/s/ngZLSfk7P0y_XuuiqtjH9A) (发布日期: 2026-04-30)
+- [过年了过年了，CVE-2026-31431 Copy Fail 一键提权](https://mp.weixin.qq.com/s/rt-cKkSTT77rkHPWHF-CmQ) (发布日期: 2026-04-30)
+- [[漏洞播报]炸了！Linux高危漏洞Copy Fail来袭，732字节脚本秒提root](https://mp.weixin.qq.com/s/SZKmm52Ja7AbGHYwSmGnYw) (发布日期: 2026-04-30)
+- [【高危漏洞预警】cPanel/WHM认证绕过漏洞CVE-2026-41940](https://mp.weixin.qq.com/s/O6jSPeRQ5szxZX5nr3iOjA) (发布日期: 2026-04-30)
+- [Linux内核的“九年代价”：CVE-2026-31431漏洞深度解析与利用](https://mp.weixin.qq.com/s/PP9JkK67c1F0XlLd5TK-gw) (发布日期: 2026-04-30)
+- [网络设备通用漏洞挖掘由黑到白](https://mp.weixin.qq.com/s/6jm1d98O83bnA2fFha1riA) (发布日期: 2026-04-30)
+- [Copy Fail: 仅732字节，通杀所有主流 Linux 发行版，隐藏9年的 root 提权漏洞](https://mp.weixin.qq.com/s/rU5gcIueSKPzoK4-OKFGpQ) (发布日期: 2026-04-30)
+- [SAP 官方 npm 包受陷，被用于供应链攻击窃取凭据](https://mp.weixin.qq.com/s/m2Xx7WX0sapg7HWyZro-qw) (发布日期: 2026-04-30)
+
+### BruceFeIix
+
+- [ ] [MajorDoMo admin.php接口存在远程代码执行漏洞CVE-2026-27174 附POC](https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA) (发布日期: 2026-04-30)
+- [ ] [（15）6.1.2 人工智能风险评估 —企业信息安全负责人必读系列丛书书稿《ISO/IEC 42001: 2023人工智能管理体系标准的谬误辨析与实施详解》](https://mp.weixin.qq.com/s/wzb3mCpekOkwHPGDH-nB4Q) (发布日期: 2026-04-30)
+- [ ] [供应链攻击永无眠：SAP CAP &amp; Cloud MTA npm 供应链攻击事件报告](https://mp.weixin.qq.com/s/gaeeRzgxg-E_9G6_vtfO_g) (发布日期: 2026-04-30)
+- [ ] [获奖名单公布！2026数字中国创新大赛·数字安全赛道——网络和数据安全产业赛圆满落幕](https://mp.weixin.qq.com/s/Stro6eS_0wz8xxxEn4xPTg) (发布日期: 2026-04-30)
+- [ ] [GhostBits-WAF-Bypass-Toolkit——针对 Java 幽灵比特位漏洞的 WAF 绕过辅助脚本](https://mp.weixin.qq.com/s/Q6SqplB6NUzs2_lc5WuQww) (发布日期: 2026-04-30)
+- [ ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854)](https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw) (发布日期: 2026-04-30)
+- [ ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208)](https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw) (发布日期: 2026-04-30)
+- [ ] [CVE-2024-38812 深度分析：从堆风水到远程代码执行](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e) (发布日期: 2026-04-30)
+- [ ] [APT29曾经最隐秘的武器：目标机器运行的定制化间谍木马](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186574&idx=1&sn=3ee6eff7d3195af7bf9e10f8f0051298) (发布日期: 2026-04-30)
+- [ ] [单个Git Push就能攻陷GitHub？CVE-2026-3854高危漏洞曝光](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614348&idx=2&sn=ce07c53a847420a458cfab9e46207714) (发布日期: 2026-04-30)
+- [ ] [仅凭一条 git push 命令，即可在 GitHub 实现RCE 并访问数百万仓库](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=1&sn=3a1d88cd8e20887b0792cd899f1b843e) (发布日期: 2026-04-30)
+- [ ] [刚刚，cPanel紧急修复影响所有受支持版本的认证漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=2&sn=80fc4007516f0fcfc9072f775b3c330a) (发布日期: 2026-04-30)
+- [ ] [上海隧道新加坡公司发生数据泄露，甲方暂停数字系统访问权限](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515877&idx=1&sn=2332d7f8b501a1d47d2a083c76ffaca2) (发布日期: 2026-04-30)
+- [ ] [2283美元，AI造出可用Chrome漏洞武器：网络攻防平衡已被彻底颠覆](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=1&sn=378f9848d3f349beb7a1bd6a965d6b46) (发布日期: 2026-04-30)
+- [ ] [网信部门依法查处剪映 App 等 AI 生成合成内容标识违法平台；CNVD周报：高危0day漏洞激增，Adobe、NVIDIA、Cisco成重灾区| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=2&sn=a454d1c6b28958fd4ffe80cb59bd0a57) (发布日期: 2026-04-30)
+- [ ] [深度分析Sorry勒索软件的加密实现与行为特征](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789890&idx=1&sn=7105facbd94397f0277f8dda2ce10396) (发布日期: 2026-04-30)
+- [ ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865) (发布日期: 2026-04-30)
+- [ ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb) (发布日期: 2026-04-30)
+- [ ] [构建密码学资产清单：微软密码学态势管理实践指南](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490256&idx=1&sn=ceee7d855ca1354058e7b96de35db47b) (发布日期: 2026-04-30)
 
 
 ## 🎯 威胁详情分析
@@ -104,46 +132,77 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】CVE-2026-31431 Linux内核crypto子系统本地提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/p_JO2SGgn63_3gs0cEYgVQ](https://mp.weixin.qq.com/s/p_JO2SGgn63_3gs0cEYgVQ) |
-| 2 | 【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431) | Doonsec | [https://mp.weixin.qq.com/s/XKrvtRy5L_hPzY_IO5IvCw](https://mp.weixin.qq.com/s/XKrvtRy5L_hPzY_IO5IvCw) |
-| 3 | 【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Av99-_fZbaXjTiXy2fhOIg](https://mp.weixin.qq.com/s/Av99-_fZbaXjTiXy2fhOIg) |
-| 4 | CVE-2026-31431（Copy Fail）漏洞分析与车联网影响评估 | Doonsec | [https://mp.weixin.qq.com/s/rOY7WfINmemXlV70Rqc9mA](https://mp.weixin.qq.com/s/rOY7WfINmemXlV70Rqc9mA) |
-| 5 | Linux提权漏洞！10行代码直接root | Doonsec | [https://mp.weixin.qq.com/s/mHwL-41--rUAczfSYaeo_w](https://mp.weixin.qq.com/s/mHwL-41--rUAczfSYaeo_w) |
-| 6 | 某园区0day代码审计 | Doonsec | [https://mp.weixin.qq.com/s/JyA-1ZaIP3R-68bdWcG8pQ](https://mp.weixin.qq.com/s/JyA-1ZaIP3R-68bdWcG8pQ) |
-| 7 | 【已复现】Linux Kernel \"Copy Fail\" 本地权限提升漏洞(CVE-2026-31431)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/-5nohB52WQtD3lV7xInIKg](https://mp.weixin.qq.com/s/-5nohB52WQtD3lV7xInIKg) |
-| 8 | 【已复现】cPanel&amp;WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/-8PO6l29GqRPVSYxR0vGig](https://mp.weixin.qq.com/s/-8PO6l29GqRPVSYxR0vGig) |
-| 9 | 逆天 Linux 提权漏洞，大洞速修！！！！！ | Doonsec | [https://mp.weixin.qq.com/s/KHKIExChRMX6ewJk6dTgSw](https://mp.weixin.qq.com/s/KHKIExChRMX6ewJk6dTgSw) |
-| 10 | 一条 git push 就能拿下 GitHub 服务器？CVE-2026-3854 详解 | Doonsec | [https://mp.weixin.qq.com/s/_3AuJPcKpfiuD7JrLlWg_A](https://mp.weixin.qq.com/s/_3AuJPcKpfiuD7JrLlWg_A) |
-| 11 | CVE-2026-42208：LiteLLM 漏洞披露后仅 36 小时即遭利用 | Doonsec | [https://mp.weixin.qq.com/s/4l69yVBMxoHh8U7x98VwCQ](https://mp.weixin.qq.com/s/4l69yVBMxoHh8U7x98VwCQ) |
-| 12 | 所有受支持的 cPanel 版本均受高危认证漏洞影响，目前已完成补丁修复 | Doonsec | [https://mp.weixin.qq.com/s/tjO9uXE5mb-KU1IAT5yffg](https://mp.weixin.qq.com/s/tjO9uXE5mb-KU1IAT5yffg) |
-| 13 | 医疗数据安全警钟：AI自主挖掘OpenEMRa医疗记录平台的38个CVE | Doonsec | [https://mp.weixin.qq.com/s/fyLJEuI0TKR6H5OK8yFcxA](https://mp.weixin.qq.com/s/fyLJEuI0TKR6H5OK8yFcxA) |
-| 14 | 2026 年十大最佳 Linux 服务器漏洞扫描器 | Doonsec | [https://mp.weixin.qq.com/s/r47JuF0ybIxR98W_-qt6qw](https://mp.weixin.qq.com/s/r47JuF0ybIxR98W_-qt6qw) |
+| 1 | CNNVD通报OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xwFEJZ9DUEirje66YPIa5w](https://mp.weixin.qq.com/s/xwFEJZ9DUEirje66YPIa5w) |
+| 2 | 人工智能重要漏洞通报（2026年第六期） | Doonsec | [https://mp.weixin.qq.com/s/K4EDSNjwUjHQlCFG1lqHRw](https://mp.weixin.qq.com/s/K4EDSNjwUjHQlCFG1lqHRw) |
+| 3 | 人工智能重要安全漏洞的通报-openclaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Z1ixOzAzu_Lqtec95zdyUw](https://mp.weixin.qq.com/s/Z1ixOzAzu_Lqtec95zdyUw) |
+| 4 | Linux提权漏洞二进制版CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/Jvl5MRhQTTlhdSQc9FzLpg](https://mp.weixin.qq.com/s/Jvl5MRhQTTlhdSQc9FzLpg) |
+| 5 | 【漏洞预警】Linux Copy Fail 本地提权漏洞 (CVE-2026-31431) | Doonsec | [https://mp.weixin.qq.com/s/YHG0b-P8U_b_FKqc-xtUAA](https://mp.weixin.qq.com/s/YHG0b-P8U_b_FKqc-xtUAA) |
+| 6 | Copy Fail：横扫所有Linux，成为最危险的提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pjZ6aFXriibIP6J6wK6Swg](https://mp.weixin.qq.com/s/pjZ6aFXriibIP6J6wK6Swg) |
+| 7 | 人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC） | Doonsec | [https://mp.weixin.qq.com/s/u8bn0-RIKU_PGHOugPj43Q](https://mp.weixin.qq.com/s/u8bn0-RIKU_PGHOugPj43Q) |
+| 8 | [高危漏洞通报]COPY FAIL漏洞(CVE-2026-31431)复现及修复建议 | Doonsec | [https://mp.weixin.qq.com/s/-9Ch7VDjfmzH_5lSp_YekA](https://mp.weixin.qq.com/s/-9Ch7VDjfmzH_5lSp_YekA) |
+| 9 | 连 cat readme.txt 都不安全：iTerm2 SSH 集成协议信任漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/JVrl3-46lVbqOp-XcoTS7A](https://mp.weixin.qq.com/s/JVrl3-46lVbqOp-XcoTS7A) |
+| 10 | Linux Copy Fail漏洞预警，丝滑提权不是梦 | Doonsec | [https://mp.weixin.qq.com/s/SiZdlyzT-4_06zanDrzykg](https://mp.weixin.qq.com/s/SiZdlyzT-4_06zanDrzykg) |
+| 11 | CVE-2026-31431 已复现，最新提权漏洞，通杀过去 9 年所有 linux 主机 | Doonsec | [https://mp.weixin.qq.com/s/26VkSyNcULuNoVF5fmBQ9A](https://mp.weixin.qq.com/s/26VkSyNcULuNoVF5fmBQ9A) |
+| 12 | 关于Linux内核存在本地权限提升漏洞的安全公告 | Doonsec | [https://mp.weixin.qq.com/s/RK-orUtf_OkVQPxqf6PRjg](https://mp.weixin.qq.com/s/RK-orUtf_OkVQPxqf6PRjg) |
+| 13 | 【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qPzFe4bkc1R8glcKmP-RDw](https://mp.weixin.qq.com/s/qPzFe4bkc1R8glcKmP-RDw) |
+| 14 | 恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/U9CtqEm37ejls0O70AHx1A](https://mp.weixin.qq.com/s/U9CtqEm37ejls0O70AHx1A) |
+| 15 | 【已复现】Linux内核权限提升漏洞（CVE-2026-31431） | Doonsec | [https://mp.weixin.qq.com/s/aYUPjfD9X_2rYfE6JeqoPA](https://mp.weixin.qq.com/s/aYUPjfD9X_2rYfE6JeqoPA) |
+| 16 | 微软Windows Shell零点击漏洞已被攻击者利用 | Doonsec | [https://mp.weixin.qq.com/s/qYCkBHvy2qQAza2nlUlA3g](https://mp.weixin.qq.com/s/qYCkBHvy2qQAza2nlUlA3g) |
+| 17 | CVE复现 | CVE-2025-55182 | Doonsec | [https://mp.weixin.qq.com/s/yi0zyXfGjL5P-5j4M_71mw](https://mp.weixin.qq.com/s/yi0zyXfGjL5P-5j4M_71mw) |
+| 18 | CopyFail本地提权漏洞影响主流Linux系统最新版（CVE-2026-31431） | Doonsec | [https://mp.weixin.qq.com/s/FaNP5vEzlnHwrS4uoG6MEQ](https://mp.weixin.qq.com/s/FaNP5vEzlnHwrS4uoG6MEQ) |
+| 19 | Copy Fail 不用竞态、不用崩溃——十年来最「优雅」的 Linux 提权漏洞 （CVE-2026-31431） | Doonsec | [https://mp.weixin.qq.com/s/OonRcpU1Lba7T9Spz3615Q](https://mp.weixin.qq.com/s/OonRcpU1Lba7T9Spz3615Q) |
+| 20 | 漏洞速递｜CVE-2026-31431 Linux最新0day提权漏洞（建议自查） | Doonsec | [https://mp.weixin.qq.com/s/XgDQZlrOETG-KZ3JqyWuSg](https://mp.weixin.qq.com/s/XgDQZlrOETG-KZ3JqyWuSg) |
+| 21 | 潜伏9年，732字节即可提权：Copy Fail 漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s/__pnQ3YQXKIwoZQyPEH16g](https://mp.weixin.qq.com/s/__pnQ3YQXKIwoZQyPEH16g) |
+| 22 | 732 字节通杀 Linux内核 近 9 年！100% 稳定获取 root 权限。附Poc。 | Doonsec | [https://mp.weixin.qq.com/s/ngZLSfk7P0y_XuuiqtjH9A](https://mp.weixin.qq.com/s/ngZLSfk7P0y_XuuiqtjH9A) |
+| 23 | 过年了过年了，CVE-2026-31431 Copy Fail 一键提权 | Doonsec | [https://mp.weixin.qq.com/s/rt-cKkSTT77rkHPWHF-CmQ](https://mp.weixin.qq.com/s/rt-cKkSTT77rkHPWHF-CmQ) |
+| 24 | [漏洞播报]炸了！Linux高危漏洞Copy Fail来袭，732字节脚本秒提root | Doonsec | [https://mp.weixin.qq.com/s/SZKmm52Ja7AbGHYwSmGnYw](https://mp.weixin.qq.com/s/SZKmm52Ja7AbGHYwSmGnYw) |
+| 25 | 【高危漏洞预警】cPanel/WHM认证绕过漏洞CVE-2026-41940 | Doonsec | [https://mp.weixin.qq.com/s/O6jSPeRQ5szxZX5nr3iOjA](https://mp.weixin.qq.com/s/O6jSPeRQ5szxZX5nr3iOjA) |
+| 26 | Linux内核的“九年代价”：CVE-2026-31431漏洞深度解析与利用 | Doonsec | [https://mp.weixin.qq.com/s/PP9JkK67c1F0XlLd5TK-gw](https://mp.weixin.qq.com/s/PP9JkK67c1F0XlLd5TK-gw) |
+| 27 | 网络设备通用漏洞挖掘由黑到白 | Doonsec | [https://mp.weixin.qq.com/s/6jm1d98O83bnA2fFha1riA](https://mp.weixin.qq.com/s/6jm1d98O83bnA2fFha1riA) |
+| 28 | Copy Fail: 仅732字节，通杀所有主流 Linux 发行版，隐藏9年的 root 提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rU5gcIueSKPzoK4-OKFGpQ](https://mp.weixin.qq.com/s/rU5gcIueSKPzoK4-OKFGpQ) |
+| 29 |  ] [MajorDoMo admin.php接口存在远程代码执行漏洞CVE-2026-27174 附POC | BruceFeIix | [https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA](https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA) |
+| 30 |  ] [GhostBits-WAF-Bypass-Toolkit——针对 Java 幽灵比特位漏洞的 WAF 绕过辅助脚本 | BruceFeIix | [https://mp.weixin.qq.com/s/Q6SqplB6NUzs2_lc5WuQww](https://mp.weixin.qq.com/s/Q6SqplB6NUzs2_lc5WuQww) |
+| 31 |  ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854) | BruceFeIix | [https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw](https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw) |
+| 32 |  ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208) | BruceFeIix | [https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw](https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw) |
+| 33 |  ] [CVE-2024-38812 深度分析：从堆风水到远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e) |
+| 34 |  ] [单个Git Push就能攻陷GitHub？CVE-2026-3854高危漏洞曝光 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614348&idx=2&sn=ce07c53a847420a458cfab9e46207714](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614348&idx=2&sn=ce07c53a847420a458cfab9e46207714) |
+| 35 |  ] [刚刚，cPanel紧急修复影响所有受支持版本的认证漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=2&sn=80fc4007516f0fcfc9072f775b3c330a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=2&sn=80fc4007516f0fcfc9072f775b3c330a) |
+| 36 |  ] [2283美元，AI造出可用Chrome漏洞武器：网络攻防平衡已被彻底颠覆 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=1&sn=378f9848d3f349beb7a1bd6a965d6b46](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=1&sn=378f9848d3f349beb7a1bd6a965d6b46) |
+| 37 |  ] [网信部门依法查处剪映 App 等 AI 生成合成内容标识违法平台；CNVD周报：高危0day漏洞激增，Adobe、NVIDIA、Cisco成重灾区| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=2&sn=a454d1c6b28958fd4ffe80cb59bd0a57](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141181&idx=2&sn=a454d1c6b28958fd4ffe80cb59bd0a57) |
+| 38 |  ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865) |
+| 39 |  ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 还在手动SQL注入？赶紧用这个自动化工具！ | Doonsec | [https://mp.weixin.qq.com/s/nxzOdZf8z1VWMQKjRHRC5w](https://mp.weixin.qq.com/s/nxzOdZf8z1VWMQKjRHRC5w) |
-| 2 | 五一限时折扣 | SQL注入检测效率翻倍，一键配置自动化检测 | Doonsec | [https://mp.weixin.qq.com/s/f-v4De5c58RAKH9N81QIqA](https://mp.weixin.qq.com/s/f-v4De5c58RAKH9N81QIqA) |
+| 1 |  ] [MajorDoMo admin.php接口存在远程代码执行漏洞CVE-2026-27174 附POC | BruceFeIix | [https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA](https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA) |
+| 2 |  ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854) | BruceFeIix | [https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw](https://mp.weixin.qq.com/s/bWSo1ktSYgWQXCQZvY_DJw) |
+| 3 |  ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208) | BruceFeIix | [https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw](https://mp.weixin.qq.com/s/ruU7aGSsvZY24ILNi4zkrw) |
+| 4 |  ] [CVE-2024-38812 深度分析：从堆风水到远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484086&idx=1&sn=5d6bbe68afada10fbfe35201dfeb801e) |
+| 5 |  ] [仅凭一条 git push 命令，即可在 GitHub 实现RCE 并访问数百万仓库 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=1&sn=3a1d88cd8e20887b0792cd899f1b843e](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525909&idx=1&sn=3a1d88cd8e20887b0792cd899f1b843e) |
+| 6 |  ] [【漏洞通告】Github-Enterprise远程命令执行漏洞(CVE-2026-3854) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=1&sn=efffa2a9040316ec6d7753bd4b59e865) |
+| 7 |  ] [【漏洞通告】LiteLLM SQL注入漏洞(CVE-2026-42208) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525429&idx=2&sn=576d9806998fdf7f0dbf7b40e17dcfcb) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 开源威胁情报的难题，我们想用知识图谱来破解 | Doonsec | [https://mp.weixin.qq.com/s/t1fVvgwo7cTyqpFkfynfEg](https://mp.weixin.qq.com/s/t1fVvgwo7cTyqpFkfynfEg) |
-| 2 | 安博通劳动节假期应急响应保障通知 | Doonsec | [https://mp.weixin.qq.com/s/QaA_fxMW6uYSbMJnioLeOQ](https://mp.weixin.qq.com/s/QaA_fxMW6uYSbMJnioLeOQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安全运营：别让\"快\"，掩盖了\"准\"的价值 | Doonsec | [https://mp.weixin.qq.com/s/Fcf7s4PF8TcL3haJGnYqyg](https://mp.weixin.qq.com/s/Fcf7s4PF8TcL3haJGnYqyg) |
+| 1 |  ] [APT29曾经最隐秘的武器：目标机器运行的定制化间谍木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186574&idx=1&sn=3ee6eff7d3195af7bf9e10f8f0051298](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186574&idx=1&sn=3ee6eff7d3195af7bf9e10f8f0051298) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 上海隧道新加坡子公司出事，承包项目数据泄露会直接传导到甲方 | Doonsec | [https://mp.weixin.qq.com/s/pR-0luvlbiA0x9ddNKG3sw](https://mp.weixin.qq.com/s/pR-0luvlbiA0x9ddNKG3sw) |
+| 1 | MyLovely.AI 数据泄露：超10万用户私密内容被扒光 | Doonsec | [https://mp.weixin.qq.com/s/Zup69q8GoyeVYVNaXZL-ww](https://mp.weixin.qq.com/s/Zup69q8GoyeVYVNaXZL-ww) |
+| 2 |  ] [上海隧道新加坡公司发生数据泄露，甲方暂停数字系统访问权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515877&idx=1&sn=2332d7f8b501a1d47d2a083c76ffaca2](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515877&idx=1&sn=2332d7f8b501a1d47d2a083c76ffaca2) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SAP 官方 npm 包受陷，被用于供应链攻击窃取凭据 | Doonsec | [https://mp.weixin.qq.com/s/m2Xx7WX0sapg7HWyZro-qw](https://mp.weixin.qq.com/s/m2Xx7WX0sapg7HWyZro-qw) |
+| 2 |  ] [供应链攻击永无眠：SAP CAP &amp; Cloud MTA npm 供应链攻击事件报告 | BruceFeIix | [https://mp.weixin.qq.com/s/gaeeRzgxg-E_9G6_vtfO_g](https://mp.weixin.qq.com/s/gaeeRzgxg-E_9G6_vtfO_g) |
 
 
 ## 📁 归档路径
@@ -159,8 +218,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 39 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -169,5 +228,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-30 02:55:51*
+*生成时间: 2026-04-30 06:27:03*
 *报告工具: 微信文章安全归档系统*
