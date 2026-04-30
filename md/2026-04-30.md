@@ -2,22 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 40
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 40篇
+  - Doonsec: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 25篇
-- **威胁情报**: 2篇
-- **供应链**: 2篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 18篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 3篇
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,46 +64,30 @@
 
 ### Doonsec
 
-- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/-grA_rW39YX3Yx8c_otcRg) (发布日期: 2026-04-30)
-- [Linux内核复制失败零日漏洞影响自2017年所有主流发行版](https://mp.weixin.qq.com/s/y7lIUNoxBmNEiYbY7Xp-uw) (发布日期: 2026-04-30)
-- [潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431）](https://mp.weixin.qq.com/s/czd3cPe35jX3bK_yCgzsAg) (发布日期: 2026-04-30)
-- [【免费领】求职宝典：渗透测试工程师面试题大全（含答案）](https://mp.weixin.qq.com/s/vmb0rbhKWiWA-63jD7MiOw) (发布日期: 2026-04-30)
-- [CVE-2026-33824 cvss 9.8分的IKEv2 double free漏洞简单复现](https://mp.weixin.qq.com/s/4-j-tCQJCPvJElwSIGEqZw) (发布日期: 2026-04-30)
-- [毫秒间拦截AI时代“特洛伊木马” 每个人都能安全“养龙虾”](https://mp.weixin.qq.com/s/eWerscWhI3koKsI6_7sf_w) (发布日期: 2026-04-30)
-- [Linux 高危漏洞爆发！普通用户可直接提权 root](https://mp.weixin.qq.com/s/V_0VgmHnciZNDnlXg0BhLQ) (发布日期: 2026-04-30)
-- [AI渗透测试知识库 v6.7 —— 安全从业者的“攻击链百科全书”](https://mp.weixin.qq.com/s/2bpIJiQezBFxPRet5hIN7A) (发布日期: 2026-04-30)
-- [【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告](https://mp.weixin.qq.com/s/YxhdfUqNCmPm6mXf0pQRSg) (发布日期: 2026-04-30)
-- [记某SRC高危漏洞挖掘](https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g) (发布日期: 2026-04-30)
-- [【复现】Linux内核通用漏洞 Copy Fail（CVE-2026-31431）](https://mp.weixin.qq.com/s/3NQcTrF_vjO_LnO-QKF_tQ) (发布日期: 2026-04-30)
-- [【复现】cPanel &amp; WHM 身份认证绕过漏洞 （CVE-2026-41940）](https://mp.weixin.qq.com/s/S-furaxYLG43WtgBuCVjEw) (发布日期: 2026-04-30)
-- [安全热点周报：LiteLLM 认证路径曝 SQL注入漏洞，披露 36 小时即遭定向攻击](https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA) (发布日期: 2026-04-30)
-- [CVE-2026-31431 真的只值 7.8 么](https://mp.weixin.qq.com/s/7ImIAtZFMl-PWJG-wFgaAg) (发布日期: 2026-04-30)
-- [cPanel 与 WHM 紧急更新修复关键认证绕过漏洞](https://mp.weixin.qq.com/s/P9TGtLxahLOsptfPu1KRlA) (发布日期: 2026-04-30)
-- [Chromium数据加密演进和ABE保护下的浏览器凭据提取](https://mp.weixin.qq.com/s/W7WiYMhWbc2q3RfBDtCrRg) (发布日期: 2026-04-30)
-- [喜报｜锦岳智慧李宗洋获聘工信部标准化研究院供应链安全社区首批专家](https://mp.weixin.qq.com/s/4lh3XF-wIdjy0GHZnzR_3Q) (发布日期: 2026-04-30)
-- [2026僵尸网络进化论：当AI学会“黑产”，代理迷雾如何吞噬防线？](https://mp.weixin.qq.com/s/fqnW3UIStl-dPkwbZT1mEA) (发布日期: 2026-04-30)
-- [记一次常态化渗透测试：从域名到 Getshell 的思路](https://mp.weixin.qq.com/s/-GcyQOnFn2o0Wcxz4NT5_A) (发布日期: 2026-04-30)
-- [【高危漏洞预警】 潜伏近十年，Linux 内核 Copy Fail 漏洞全网爆发](https://mp.weixin.qq.com/s/UIRyI_9qDHHHaVNB9cmttw) (发布日期: 2026-04-30)
-- [【漏洞预警】Nginx UI 存在未授权备份下载与密钥泄露漏洞](https://mp.weixin.qq.com/s/WYdE1TfsqWwZ3Wqfwf27Aw) (发布日期: 2026-04-30)
-- [【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限](https://mp.weixin.qq.com/s/FvZvivKO8YoyXt79Ew0qMw) (发布日期: 2026-04-30)
-- [【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！](https://mp.weixin.qq.com/s/JQFPrpOnoX9jqOx0QtdRtw) (发布日期: 2026-04-30)
-- [【安全圈】朝鲜新一轮攻击：利用 AI 植入 npm 恶意软件、虚假公司和远程访问木马](https://mp.weixin.qq.com/s/uB7mAgKq-nlKB61BinJfcg) (发布日期: 2026-04-30)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/27-04/30）](https://mp.weixin.qq.com/s/fydbHFeH6lAQtx9fgCrgnw) (发布日期: 2026-04-30)
-- [CVE-2026-31431提权复现](https://mp.weixin.qq.com/s/fNi4N6zHAQfFDTMk8Lwxmg) (发布日期: 2026-04-30)
-- [DarkSword漏洞工具泄露：数亿iPhone面临零点击窃密风险](https://mp.weixin.qq.com/s/igdteCyUJcdNDYjY0IEEVw) (发布日期: 2026-04-30)
-- [人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/Ybq2miK7ARj4GllpjqfF8g) (发布日期: 2026-04-30)
-- [CNNVD | 人工智能重要漏洞通报（2026年第六期）](https://mp.weixin.qq.com/s/JovkXfcqFi1dzUn9XRfNLw) (发布日期: 2026-04-30)
-- [[吃瓜速递]“你的头像”好漂亮；漏洞报告P图之我要“举报”你](https://mp.weixin.qq.com/s/XVyO1h1J1_My9dNjaO2CRg) (发布日期: 2026-04-30)
-- [天融信李雪莹出席北京大学网信工作会议，畅谈大模型应用安全风险与防护之道](https://mp.weixin.qq.com/s/fvvW4sniZnM3R8cO3kqu3g) (发布日期: 2026-04-30)
-- [CVE-2026-31431提权【C版本】](https://mp.weixin.qq.com/s/3OYG-rJgU-5ps-5zhYHO9w) (发布日期: 2026-04-30)
-- [能信安：漏洞通告](https://mp.weixin.qq.com/s/8VPckV0VjEWpLu6AsaFULQ) (发布日期: 2026-04-30)
-- [NeuroSploit v3 AI渗透测试框架初探](https://mp.weixin.qq.com/s/zq8dcpfYFORRBqXdR62uoA) (发布日期: 2026-04-30)
-- [巅峰对决，“数”写安全｜2026南京市职工技能大赛数据安全管理员决赛圆满收官](https://mp.weixin.qq.com/s/sy3UBQrdO_aEIDQ6SV8fZg) (发布日期: 2026-04-30)
-- [1秒root、九年无人知——Linux近年最屌提权漏洞](https://mp.weixin.qq.com/s/dlhYnOUdSTp-j-wqVMLQqA) (发布日期: 2026-04-30)
-- [【紧急预警】Copy Fail：CVE-2026-31431 Linux内核本地提权漏洞深度解析](https://mp.weixin.qq.com/s/ndPeFonGLvlPVpacBgsFeA) (发布日期: 2026-04-30)
-- [伊朗APT组织MuddyWater升级其攻击战术策略，利用第三方MaaS平台展开攻击活动](https://mp.weixin.qq.com/s/7UbBO0Q6UsZUuYlU_06tqA) (发布日期: 2026-04-30)
-- [AI红队实战攻防指南来袭](https://mp.weixin.qq.com/s/CTSjQQNoy4n3v7pSgyzNHg) (发布日期: 2026-04-30)
-- [360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破](https://mp.weixin.qq.com/s/MfqRs5WFJbAkgo9IVAtJiA) (发布日期: 2026-04-30)
+- [Markdown 双哈希逃逸 (Bleach 清洗后 markdown2 SafeMode 的 Alt 属性 XSS 完整链路)](https://mp.weixin.qq.com/s/GcEmnucQDb5tOc8UO0O7Ig) (发布日期: 2026-04-30)
+- [XMCVE-WebRecon——一款好用的渗透测试辅助插件](https://mp.weixin.qq.com/s/JLlP1KwHtF1MG2bK8uVKlw) (发布日期: 2026-04-30)
+- [最新通杀全线Linux发行版的CVE漏洞解析](https://mp.weixin.qq.com/s/MKa_SLZZhFmlZFpw0yvjEg) (发布日期: 2026-04-30)
+- [SEH溢出+Egghunter双剑合璧！SyncBreeze漏洞EXP深度优化](https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A) (发布日期: 2026-04-30)
+- [国家计算机病毒应急处理中心检测发现67款违法违规收集使用个人信息的移动应用](https://mp.weixin.qq.com/s/weMWGw1vpbrP61vLf8WKLA) (发布日期: 2026-04-30)
+- [烽火狼烟丨Linux Kernel “Copy Fail” 提权漏洞 (CVE-2026-31431) 分析与安全声明](https://mp.weixin.qq.com/s/9_JXNh6oKFNSzikVepF97A) (发布日期: 2026-04-30)
+- [Copyfail提权漏洞(CVE-2026-31431)临时缓解措施](https://mp.weixin.qq.com/s/cFYqAUqjsbVwoNm2B4XCnw) (发布日期: 2026-04-30)
+- [新型 Linux 内核提权漏洞 CVE-2026-31431，安芯神甲提供实时检测与防护能力](https://mp.weixin.qq.com/s/rnzu7PL34onKAR1MS7Anow) (发布日期: 2026-04-30)
+- [【已复现】cPanel 登录流程认证绕过漏洞（CVE-2026-41940）](https://mp.weixin.qq.com/s/BCDnQD0MY5vL_OG-qd0NEA) (发布日期: 2026-04-30)
+- [比特币不仅仅是一种加密货币（深入指南）](https://mp.weixin.qq.com/s/kuG-QkTl-dqHe2nqHCbvsg) (发布日期: 2026-04-30)
+- [CNVD：关于Linux内核存在本地权限提升漏洞的安全公告](https://mp.weixin.qq.com/s/X1HE9GQHfBKJrFin8aDf8Q) (发布日期: 2026-04-30)
+- [CNNVD关于Linux安全漏洞的通报](https://mp.weixin.qq.com/s/MP8byaCpAvOtoI3nCXnLOg) (发布日期: 2026-04-30)
+- [CNNVD关于cPanel访问控制错误漏洞的通报](https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg) (发布日期: 2026-04-30)
+- [恒丰银行智能客服功能优化项目POC测试供应商征集](https://mp.weixin.qq.com/s/G4hJa4aZNQMlcGOrmwuXKA) (发布日期: 2026-04-30)
+- [Linux曝出“核弹级”漏洞CVE-2026-31431：攻击者可瞬间提权](https://mp.weixin.qq.com/s/5Q_2Gs8PkH67gYsnMxP_dA) (发布日期: 2026-04-30)
+- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/CrvIFPbZ4EP-HLI3KSBWeQ) (发布日期: 2026-04-30)
+- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/NXaorimvbLiLpUcUu0iAxw) (发布日期: 2026-04-30)
+- [Linux曝出“史诗级”本地提权漏洞，奇安信椒图、天擎EDR支持实时检测](https://mp.weixin.qq.com/s/V5fn25CICy1eN_LV1omcLA) (发布日期: 2026-04-30)
+- [AI 网关 LiteLLM 曝严重 SQL 注入漏洞](https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA) (发布日期: 2026-04-30)
+- [【漏洞预警】CVE-2026-31431 Linux内核crypto:algif_aead逻辑漏洞 本地权限提升分析](https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ) (发布日期: 2026-04-30)
+- [CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD](https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA) (发布日期: 2026-04-30)
+- [【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示](https://mp.weixin.qq.com/s/KI-n1SESpCUA4hqJQ78Oog) (发布日期: 2026-04-30)
+- [【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示](https://mp.weixin.qq.com/s/B9xcSm5BGGFA4NQZK6QoIg) (发布日期: 2026-04-30)
+- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/Pzw2pe9o4XngPxkcN-03uA) (发布日期: 2026-04-30)
 
 
 ## 🎯 威胁详情分析
@@ -114,57 +96,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux内核复制失败零日漏洞影响自2017年所有主流发行版 | Doonsec | [https://mp.weixin.qq.com/s/y7lIUNoxBmNEiYbY7Xp-uw](https://mp.weixin.qq.com/s/y7lIUNoxBmNEiYbY7Xp-uw) |
-| 2 | 潜伏9年通杀全版本！Copy Fail 内核提权漏洞分析（CVE-2026-31431） | Doonsec | [https://mp.weixin.qq.com/s/czd3cPe35jX3bK_yCgzsAg](https://mp.weixin.qq.com/s/czd3cPe35jX3bK_yCgzsAg) |
-| 3 | CVE-2026-33824 cvss 9.8分的IKEv2 double free漏洞简单复现 | Doonsec | [https://mp.weixin.qq.com/s/4-j-tCQJCPvJElwSIGEqZw](https://mp.weixin.qq.com/s/4-j-tCQJCPvJElwSIGEqZw) |
-| 4 | Linux 高危漏洞爆发！普通用户可直接提权 root | Doonsec | [https://mp.weixin.qq.com/s/V_0VgmHnciZNDnlXg0BhLQ](https://mp.weixin.qq.com/s/V_0VgmHnciZNDnlXg0BhLQ) |
-| 5 | 【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告 | Doonsec | [https://mp.weixin.qq.com/s/YxhdfUqNCmPm6mXf0pQRSg](https://mp.weixin.qq.com/s/YxhdfUqNCmPm6mXf0pQRSg) |
-| 6 | 记某SRC高危漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g](https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g) |
-| 7 | 【复现】Linux内核通用漏洞 Copy Fail（CVE-2026-31431） | Doonsec | [https://mp.weixin.qq.com/s/3NQcTrF_vjO_LnO-QKF_tQ](https://mp.weixin.qq.com/s/3NQcTrF_vjO_LnO-QKF_tQ) |
-| 8 | 【复现】cPanel &amp; WHM 身份认证绕过漏洞 （CVE-2026-41940） | Doonsec | [https://mp.weixin.qq.com/s/S-furaxYLG43WtgBuCVjEw](https://mp.weixin.qq.com/s/S-furaxYLG43WtgBuCVjEw) |
-| 9 | 安全热点周报：LiteLLM 认证路径曝 SQL注入漏洞，披露 36 小时即遭定向攻击 | Doonsec | [https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA](https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA) |
-| 10 | CVE-2026-31431 真的只值 7.8 么 | Doonsec | [https://mp.weixin.qq.com/s/7ImIAtZFMl-PWJG-wFgaAg](https://mp.weixin.qq.com/s/7ImIAtZFMl-PWJG-wFgaAg) |
-| 11 | cPanel 与 WHM 紧急更新修复关键认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/P9TGtLxahLOsptfPu1KRlA](https://mp.weixin.qq.com/s/P9TGtLxahLOsptfPu1KRlA) |
-| 12 | 【高危漏洞预警】 潜伏近十年，Linux 内核 Copy Fail 漏洞全网爆发 | Doonsec | [https://mp.weixin.qq.com/s/UIRyI_9qDHHHaVNB9cmttw](https://mp.weixin.qq.com/s/UIRyI_9qDHHHaVNB9cmttw) |
-| 13 | 【漏洞预警】Nginx UI 存在未授权备份下载与密钥泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WYdE1TfsqWwZ3Wqfwf27Aw](https://mp.weixin.qq.com/s/WYdE1TfsqWwZ3Wqfwf27Aw) |
-| 14 | 【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限 | Doonsec | [https://mp.weixin.qq.com/s/FvZvivKO8YoyXt79Ew0qMw](https://mp.weixin.qq.com/s/FvZvivKO8YoyXt79Ew0qMw) |
-| 15 | 【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！ | Doonsec | [https://mp.weixin.qq.com/s/JQFPrpOnoX9jqOx0QtdRtw](https://mp.weixin.qq.com/s/JQFPrpOnoX9jqOx0QtdRtw) |
-| 16 | CVE-2026-31431提权复现 | Doonsec | [https://mp.weixin.qq.com/s/fNi4N6zHAQfFDTMk8Lwxmg](https://mp.weixin.qq.com/s/fNi4N6zHAQfFDTMk8Lwxmg) |
-| 17 | DarkSword漏洞工具泄露：数亿iPhone面临零点击窃密风险 | Doonsec | [https://mp.weixin.qq.com/s/igdteCyUJcdNDYjY0IEEVw](https://mp.weixin.qq.com/s/igdteCyUJcdNDYjY0IEEVw) |
-| 18 | 人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Ybq2miK7ARj4GllpjqfF8g](https://mp.weixin.qq.com/s/Ybq2miK7ARj4GllpjqfF8g) |
-| 19 | CNNVD | 人工智能重要漏洞通报（2026年第六期） | Doonsec | [https://mp.weixin.qq.com/s/JovkXfcqFi1dzUn9XRfNLw](https://mp.weixin.qq.com/s/JovkXfcqFi1dzUn9XRfNLw) |
-| 20 | [吃瓜速递]“你的头像”好漂亮；漏洞报告P图之我要“举报”你 | Doonsec | [https://mp.weixin.qq.com/s/XVyO1h1J1_My9dNjaO2CRg](https://mp.weixin.qq.com/s/XVyO1h1J1_My9dNjaO2CRg) |
-| 21 | CVE-2026-31431提权【C版本】 | Doonsec | [https://mp.weixin.qq.com/s/3OYG-rJgU-5ps-5zhYHO9w](https://mp.weixin.qq.com/s/3OYG-rJgU-5ps-5zhYHO9w) |
-| 22 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/8VPckV0VjEWpLu6AsaFULQ](https://mp.weixin.qq.com/s/8VPckV0VjEWpLu6AsaFULQ) |
-| 23 | 1秒root、九年无人知——Linux近年最屌提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/dlhYnOUdSTp-j-wqVMLQqA](https://mp.weixin.qq.com/s/dlhYnOUdSTp-j-wqVMLQqA) |
-| 24 | 【紧急预警】Copy Fail：CVE-2026-31431 Linux内核本地提权漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s/ndPeFonGLvlPVpacBgsFeA](https://mp.weixin.qq.com/s/ndPeFonGLvlPVpacBgsFeA) |
-| 25 | 360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破 | Doonsec | [https://mp.weixin.qq.com/s/MfqRs5WFJbAkgo9IVAtJiA](https://mp.weixin.qq.com/s/MfqRs5WFJbAkgo9IVAtJiA) |
+| 1 | XMCVE-WebRecon——一款好用的渗透测试辅助插件 | Doonsec | [https://mp.weixin.qq.com/s/JLlP1KwHtF1MG2bK8uVKlw](https://mp.weixin.qq.com/s/JLlP1KwHtF1MG2bK8uVKlw) |
+| 2 | 最新通杀全线Linux发行版的CVE漏洞解析 | Doonsec | [https://mp.weixin.qq.com/s/MKa_SLZZhFmlZFpw0yvjEg](https://mp.weixin.qq.com/s/MKa_SLZZhFmlZFpw0yvjEg) |
+| 3 | SEH溢出+Egghunter双剑合璧！SyncBreeze漏洞EXP深度优化 | Doonsec | [https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A](https://mp.weixin.qq.com/s/XsxSBCyV0m6w5dHiPz5M_A) |
+| 4 | 烽火狼烟丨Linux Kernel “Copy Fail” 提权漏洞 (CVE-2026-31431) 分析与安全声明 | Doonsec | [https://mp.weixin.qq.com/s/9_JXNh6oKFNSzikVepF97A](https://mp.weixin.qq.com/s/9_JXNh6oKFNSzikVepF97A) |
+| 5 | Copyfail提权漏洞(CVE-2026-31431)临时缓解措施 | Doonsec | [https://mp.weixin.qq.com/s/cFYqAUqjsbVwoNm2B4XCnw](https://mp.weixin.qq.com/s/cFYqAUqjsbVwoNm2B4XCnw) |
+| 6 | 新型 Linux 内核提权漏洞 CVE-2026-31431，安芯神甲提供实时检测与防护能力 | Doonsec | [https://mp.weixin.qq.com/s/rnzu7PL34onKAR1MS7Anow](https://mp.weixin.qq.com/s/rnzu7PL34onKAR1MS7Anow) |
+| 7 | 【已复现】cPanel 登录流程认证绕过漏洞（CVE-2026-41940） | Doonsec | [https://mp.weixin.qq.com/s/BCDnQD0MY5vL_OG-qd0NEA](https://mp.weixin.qq.com/s/BCDnQD0MY5vL_OG-qd0NEA) |
+| 8 | CNVD：关于Linux内核存在本地权限提升漏洞的安全公告 | Doonsec | [https://mp.weixin.qq.com/s/X1HE9GQHfBKJrFin8aDf8Q](https://mp.weixin.qq.com/s/X1HE9GQHfBKJrFin8aDf8Q) |
+| 9 | CNNVD关于Linux安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/MP8byaCpAvOtoI3nCXnLOg](https://mp.weixin.qq.com/s/MP8byaCpAvOtoI3nCXnLOg) |
+| 10 | CNNVD关于cPanel访问控制错误漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg](https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg) |
+| 11 | 恒丰银行智能客服功能优化项目POC测试供应商征集 | Doonsec | [https://mp.weixin.qq.com/s/G4hJa4aZNQMlcGOrmwuXKA](https://mp.weixin.qq.com/s/G4hJa4aZNQMlcGOrmwuXKA) |
+| 12 | Linux曝出“核弹级”漏洞CVE-2026-31431：攻击者可瞬间提权 | Doonsec | [https://mp.weixin.qq.com/s/5Q_2Gs8PkH67gYsnMxP_dA](https://mp.weixin.qq.com/s/5Q_2Gs8PkH67gYsnMxP_dA) |
+| 13 | Linux曝出“史诗级”本地提权漏洞，奇安信椒图、天擎EDR支持实时检测 | Doonsec | [https://mp.weixin.qq.com/s/V5fn25CICy1eN_LV1omcLA](https://mp.weixin.qq.com/s/V5fn25CICy1eN_LV1omcLA) |
+| 14 | AI 网关 LiteLLM 曝严重 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA](https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA) |
+| 15 | 【漏洞预警】CVE-2026-31431 Linux内核crypto:algif_aead逻辑漏洞 本地权限提升分析 | Doonsec | [https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ](https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ) |
+| 16 | CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD | Doonsec | [https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA](https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA) |
+| 17 | 【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/KI-n1SESpCUA4hqJQ78Oog](https://mp.weixin.qq.com/s/KI-n1SESpCUA4hqJQ78Oog) |
+| 18 | 【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/B9xcSm5BGGFA4NQZK6QoIg](https://mp.weixin.qq.com/s/B9xcSm5BGGFA4NQZK6QoIg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全热点周报：LiteLLM 认证路径曝 SQL注入漏洞，披露 36 小时即遭定向攻击 | Doonsec | [https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA](https://mp.weixin.qq.com/s/PYwSeMEa8R0c8kEvrI_vgA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（04/27-04/30） | Doonsec | [https://mp.weixin.qq.com/s/fydbHFeH6lAQtx9fgCrgnw](https://mp.weixin.qq.com/s/fydbHFeH6lAQtx9fgCrgnw) |
-| 2 | 伊朗APT组织MuddyWater升级其攻击战术策略，利用第三方MaaS平台展开攻击活动 | Doonsec | [https://mp.weixin.qq.com/s/7UbBO0Q6UsZUuYlU_06tqA](https://mp.weixin.qq.com/s/7UbBO0Q6UsZUuYlU_06tqA) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记某SRC高危漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g](https://mp.weixin.qq.com/s/-G3FS5b8DKy6uPN9lOdj4g) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 喜报｜锦岳智慧李宗洋获聘工信部标准化研究院供应链安全社区首批专家 | Doonsec | [https://mp.weixin.qq.com/s/4lh3XF-wIdjy0GHZnzR_3Q](https://mp.weixin.qq.com/s/4lh3XF-wIdjy0GHZnzR_3Q) |
-| 2 | 伊朗APT组织MuddyWater升级其攻击战术策略，利用第三方MaaS平台展开攻击活动 | Doonsec | [https://mp.weixin.qq.com/s/7UbBO0Q6UsZUuYlU_06tqA](https://mp.weixin.qq.com/s/7UbBO0Q6UsZUuYlU_06tqA) |
+| 1 | Markdown 双哈希逃逸 (Bleach 清洗后 markdown2 SafeMode 的 Alt 属性 XSS 完整链路) | Doonsec | [https://mp.weixin.qq.com/s/GcEmnucQDb5tOc8UO0O7Ig](https://mp.weixin.qq.com/s/GcEmnucQDb5tOc8UO0O7Ig) |
+| 2 | AI 网关 LiteLLM 曝严重 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA](https://mp.weixin.qq.com/s/EXpa4Mlvj4jaXPW9fGLRmA) |
+| 3 | CVE-2026-42167 允许绕过身份验证并远程代码执行 ProFTPD | Doonsec | [https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA](https://mp.weixin.qq.com/s/OllLjqZcQJK6YAq1oBWPVA) |
 
 
 ## 📁 归档路径
@@ -180,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 25 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 18 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -190,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-30 10:06:26*
+*生成时间: 2026-04-30 13:56:33*
 *报告工具: 微信文章安全归档系统*
