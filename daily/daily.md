@@ -1,19 +1,21 @@
-# 2026-04-30 安全威胁态势报告
+# 2026-05-01 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 5篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **系统漏洞**: 3篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,14 +64,25 @@
 
 ### Doonsec
 
-- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ) (发布日期: 2026-04-30)
-- [Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc](https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg) (发布日期: 2026-04-30)
-- [WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC](https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog) (发布日期: 2026-04-30)
-- [CVE-2026-31431（Copy Fail）漏洞FAQ（上）——漏洞的基本情况、影响范围与处置篇](https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw) (发布日期: 2026-04-30)
-- [国际刑警DDoS蜜罐意外曝光：安全研究员意外逼停执法行动](https://mp.weixin.qq.com/s/MwkZTTSEvMfhFnZnlvOg-Q) (发布日期: 2026-04-30)
-- [CVE-2026-31431](https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w) (发布日期: 2026-04-30)
-- [网络设备通用漏洞挖掘由黑到白](https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ) (发布日期: 2026-04-30)
-- [【已复现】CVE-2026-31431 Linux内核本地提权漏洞（Copy Fail）](https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw) (发布日期: 2026-04-30)
+- [分享我在EDU实战挖到的XSS漏洞合集](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) (发布日期: 2026-05-01)
+- [神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) (发布日期: 2026-05-01)
+- [2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431](https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q) (发布日期: 2026-05-01)
+- [28 个 AI 特工帮你打渗透测试，这工具要抢安全人的饭碗？](https://mp.weixin.qq.com/s/y4WZpWVnGTchTwoYLRBd3g) (发布日期: 2026-05-01)
+- [cPanel/WHM 认证绕过漏洞 CVE-2026-41940 深度分析](https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg) (发布日期: 2026-05-01)
+- [五一不打烊 · 漏洞挖掘正当时](https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw) (发布日期: 2026-05-01)
+- [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）](https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA) (发布日期: 2026-05-01)
+- [CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root](https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g) (发布日期: 2026-05-01)
+- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A) (发布日期: 2026-05-01)
+- [WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行](https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q) (发布日期: 2026-05-01)
+- [漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) (发布日期: 2026-05-01)
+- [Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题](https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg) (发布日期: 2026-05-01)
+- [新型 Python 后门使用隧道服务窃取浏览器和云凭证](https://mp.weixin.qq.com/s/yRpOYlyzln2Meiu3caCngg) (发布日期: 2026-05-01)
+- [CVE-2026-31431 Copy Fail 通俗解析](https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig) (发布日期: 2026-05-01)
+- [CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) (发布日期: 2026-05-01)
+- [2026.06截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s/7ea3OUqnSihyPXcWdf9q3w) (发布日期: 2026-05-01)
+- [漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431](https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA) (发布日期: 2026-05-01)
+- [who： linux 应急响应工具更新Copy Fail本地提权检测](https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg) (发布日期: 2026-05-01)
+- [轻量化 Web 安全日志分析神器 星川智盾日志威胁检测、地理溯源、MITRE ATT&amp;CK 映射，支持 Windows/macOS/Linux](https://mp.weixin.qq.com/s/y345Z62SYZwt4fheoRoufQ) (发布日期: 2026-05-01)
 
 
 ## 🎯 威胁详情分析
@@ -78,24 +91,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ](https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ) |
-| 2 | Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc | Doonsec | [https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg](https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg) |
-| 3 | WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC | Doonsec | [https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog](https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog) |
-| 4 | CVE-2026-31431（Copy Fail）漏洞FAQ（上）——漏洞的基本情况、影响范围与处置篇 | Doonsec | [https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw](https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw) |
-| 5 | CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w](https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w) |
-| 6 | 网络设备通用漏洞挖掘由黑到白 | Doonsec | [https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ](https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ) |
-| 7 | 【已复现】CVE-2026-31431 Linux内核本地提权漏洞（Copy Fail） | Doonsec | [https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw](https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw) |
+| 1 | 分享我在EDU实战挖到的XSS漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) |
+| 2 | 神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) |
+| 3 | 2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q](https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q) |
+| 4 | cPanel/WHM 认证绕过漏洞 CVE-2026-41940 深度分析 | Doonsec | [https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg](https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg) |
+| 5 | 五一不打烊 · 漏洞挖掘正当时 | Doonsec | [https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw](https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw) |
+| 6 | 人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC） | Doonsec | [https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA](https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA) |
+| 7 | CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root | Doonsec | [https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g](https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g) |
+| 8 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A](https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A) |
+| 9 | 漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) |
+| 10 | Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题 | Doonsec | [https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg](https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg) |
+| 11 | CVE-2026-31431 Copy Fail 通俗解析 | Doonsec | [https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig](https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig) |
+| 12 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) |
+| 13 | 漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA](https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC | Doonsec | [https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog](https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog) |
+| 1 | 分享我在EDU实战挖到的XSS漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) |
+| 2 | 神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) |
+| 3 | WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q](https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q) |
+| 4 | 漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) |
+| 5 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | who： linux 应急响应工具更新Copy Fail本地提权检测 | Doonsec | [https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg](https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-04/2026-W18/2026-04-30/`
+文章已归档到: `doc/2026/2026-05/2026-W18/2026-05-01/`
 
 ## 🔗 数据源说明
 
@@ -106,8 +135,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +145,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-04-30 17:21:24*
+*生成时间: 2026-05-01 03:27:19*
 *报告工具: 微信文章安全归档系统*
