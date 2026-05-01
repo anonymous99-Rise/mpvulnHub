@@ -2,20 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 48
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 12篇
+  - BruceFeIix: 36篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 5篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 33篇
+- **安全运营**: 4篇
+- **攻击技术**: 3篇
+- **威胁情报**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **Web安全**: 2篇
+- **系统漏洞**: 6篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,25 +68,57 @@
 
 ### Doonsec
 
-- [分享我在EDU实战挖到的XSS漏洞合集](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) (发布日期: 2026-05-01)
-- [神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) (发布日期: 2026-05-01)
-- [2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431](https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q) (发布日期: 2026-05-01)
-- [28 个 AI 特工帮你打渗透测试，这工具要抢安全人的饭碗？](https://mp.weixin.qq.com/s/y4WZpWVnGTchTwoYLRBd3g) (发布日期: 2026-05-01)
-- [cPanel/WHM 认证绕过漏洞 CVE-2026-41940 深度分析](https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg) (发布日期: 2026-05-01)
-- [五一不打烊 · 漏洞挖掘正当时](https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw) (发布日期: 2026-05-01)
-- [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）](https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA) (发布日期: 2026-05-01)
-- [CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root](https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g) (发布日期: 2026-05-01)
-- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A) (发布日期: 2026-05-01)
-- [WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行](https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q) (发布日期: 2026-05-01)
-- [漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) (发布日期: 2026-05-01)
-- [Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题](https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg) (发布日期: 2026-05-01)
-- [新型 Python 后门使用隧道服务窃取浏览器和云凭证](https://mp.weixin.qq.com/s/yRpOYlyzln2Meiu3caCngg) (发布日期: 2026-05-01)
-- [CVE-2026-31431 Copy Fail 通俗解析](https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig) (发布日期: 2026-05-01)
-- [CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) (发布日期: 2026-05-01)
-- [2026.06截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s/7ea3OUqnSihyPXcWdf9q3w) (发布日期: 2026-05-01)
-- [漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431](https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA) (发布日期: 2026-05-01)
-- [who： linux 应急响应工具更新Copy Fail本地提权检测](https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg) (发布日期: 2026-05-01)
-- [轻量化 Web 安全日志分析神器 星川智盾日志威胁检测、地理溯源、MITRE ATT&amp;CK 映射，支持 Windows/macOS/Linux](https://mp.weixin.qq.com/s/y345Z62SYZwt4fheoRoufQ) (发布日期: 2026-05-01)
+- [【CVE-2026-41940】核弹级漏洞 cPanel/WHM 身份验证绕过 RCE](https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw) (发布日期: 2026-05-01)
+- [金万维异速联平台未授权漏洞 附POC](https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ) (发布日期: 2026-05-01)
+- [EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析](https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA) (发布日期: 2026-05-01)
+- [2026第四届全国数据安全职业技能竞赛暨第四届全国安防行业职业技能竞赛“美亚柏科杯”数据安全管理员职业技能竞赛总决赛第一批18号上午wp](https://mp.weixin.qq.com/s/GeUTQeRsonj15IAKzBS-tg) (发布日期: 2026-05-01)
+- [今日（2026年5月1日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/LmGpBQH7k4z7FNnlSdlSgw) (发布日期: 2026-05-01)
+- [360SRC祝白帽师傅们五一劳动节快乐](https://mp.weixin.qq.com/s/sCD9f_OgNrPQdryp3dhxYg) (发布日期: 2026-05-01)
+- [免费代发招聘信息第53期：上海浦东 安全运营岗  11k-13k（有年终）](https://mp.weixin.qq.com/s/3XVaoRP5X2IPH2g15FcQ-Q) (发布日期: 2026-05-01)
+- [紧急预警｜Sandworm APT再出手！针对白俄罗斯军方发动攻击，LNK漏洞+Tor隐蔽后门，隐蔽性拉满](https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A) (发布日期: 2026-05-01)
+- [AI系统威胁建模详解：从四问框架到Agent执行面控制](https://mp.weixin.qq.com/s/Lr0x0m-v-vE2tGRL8izNfQ) (发布日期: 2026-05-01)
+- [CNNVD | 关于Linux安全漏洞的通报](https://mp.weixin.qq.com/s/0p44OC5GNHQir6NvdZZjpQ) (发布日期: 2026-05-01)
+- [CNNVD | 关于cPanel访问控制错误漏洞的通报](https://mp.weixin.qq.com/s/HRPMVRmwiqCBW7v9OXOFyg) (发布日期: 2026-05-01)
+- [赏金猎人集结令！来顺丰SRC解锁2026年白帽赏金挑战赛！](https://mp.weixin.qq.com/s/HBev78pYBeZ3K1FygxHkiQ) (发布日期: 2026-05-01)
+
+### BruceFeIix
+
+- [ ] [银狐（Silver Fox）黑产组织详细分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496682&idx=1&sn=c87f1130dda484ed857c36d7045265d2) (发布日期: 2026-05-01)
+- [ ] [国际刑警DDoS蜜罐意外曝光：安全研究员意外逼停执法行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186588&idx=1&sn=3e514339e3d45c42a379538fe33bd556) (发布日期: 2026-05-01)
+- [ ] [Linux提权漏洞！10行代码直接root](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508662&idx=1&sn=41def071baa5eeadd5303f2ccb43cf01) (发布日期: 2026-05-01)
+- [ ] [【已复现】Linux内核权限提升漏洞（CVE-2026-31431）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492097&idx=1&sn=718add4ed82d4ce779728a3ac56c09c7) (发布日期: 2026-05-01)
+- [ ] [一季度网安执法观察：穿透式监管加速落地，推动实质安全治理](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493791&idx=1&sn=d9b1e3a0b4fbf0153367e52297275295) (发布日期: 2026-05-01)
+- [ ] [利用导入表劫持实现DLL注入以干掉杀毒软件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614410&idx=2&sn=32ba6828c0749b23e39e2b802f151183) (发布日期: 2026-05-01)
+- [ ] [【已复现】Linux Kernel "Copy Fail" 本地权限提升漏洞(CVE-2026-31431)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=1&sn=782f41f065f5b44a1724fe083a86f80e) (发布日期: 2026-05-01)
+- [ ] [【已复现】cPanel&WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=2&sn=17a49e5024765e8f6bd8b09c1f4719f8) (发布日期: 2026-05-01)
+- [ ] [【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=1&sn=955f8155ca08aea02fa3e25775c3bcf4) (发布日期: 2026-05-01)
+- [ ] [【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=2&sn=e5ba8445daca48ad1bb3795002895e7c) (发布日期: 2026-05-01)
+- [ ] [【安全圈】朝鲜新一轮攻击：利用 AI 植入 npm 恶意软件、虚假公司和远程访问木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=3&sn=b893f03eaec33e9784fa1db8eeeaa637) (发布日期: 2026-05-01)
+- [ ] [人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=1&sn=fd4a2110a6d3cf0e85ffb46c50f2db71) (发布日期: 2026-05-01)
+- [ ] [CNNVD | 人工智能重要漏洞通报（2026年第六期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=2&sn=ae790fc7924edd4d34893a1bddc2c839) (发布日期: 2026-05-01)
+- [ ] [恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141199&idx=2&sn=2665ad35bc0a3671c0a8b561063451f2) (发布日期: 2026-05-01)
+- [ ] [Copy Fail: 仅732字节，通杀所有主流 Linux 发行版，隐藏9年的 root 提权漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=2&sn=487c60cb3cbc5568392caaeb46a3b33d) (发布日期: 2026-05-01)
+- [ ] [SAP 官方 npm 包受陷，被用于供应链攻击窃取凭据](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=3&sn=f176577fa7fbeba25d5c024f432e1ade) (发布日期: 2026-05-01)
+- [ ] [最新通杀全线Linux发行版的CVE漏洞解析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719) (发布日期: 2026-05-01)
+- [ ] [火绒在岗  轻松过节 | 这份终端安全防护提示请您收好](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532540&idx=1&sn=57c207cc6b611c8a406216d74d22c1b6) (发布日期: 2026-05-01)
+- [ ] [【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=1&sn=f6b76bcbd3beb393983e7cb3b4c0eea4) (发布日期: 2026-05-01)
+- [ ] [【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=2&sn=2f53fc8a4a3695c13f1ea7fc09bb1b9c) (发布日期: 2026-05-01)
+- [ ] [记某SRC高危漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc) (发布日期: 2026-05-01)
+- [ ] [732 字节通杀 Linux内核 近 9 年！100% 稳定获取 root 权限。附Poc。](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165769&idx=1&sn=458df7885e2f72bea989f80e27528947) (发布日期: 2026-05-01)
+- [ ] [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC）](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186347&idx=1&sn=a62188947f420de663dfc428891b361b) (发布日期: 2026-05-01)
+- [ ] [【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494908&idx=2&sn=fadace1e79c4554fecf7e51ec930333b) (发布日期: 2026-05-01)
+- [ ] [Copy Fail：横扫所有Linux，成为最危险的提权漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542765&idx=2&sn=fb4be51e89b2c51a565c30835320a5eb) (发布日期: 2026-05-01)
+- [ ] [1秒root、九年无人知——Linux近年最屌提权漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490029&idx=1&sn=fc9c3feee41b708f86dab16be4154af5) (发布日期: 2026-05-01)
+- [ ] [Copy Fail：732字节通杀所有Linux的史诗级LPE漏洞复现](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490274&idx=1&sn=b1d1c3aa8c892bdd85567321081a0bca) (发布日期: 2026-05-01)
+- [ ] [微软Sentinel UEBA扩展AWS：用二元特征堆叠重定义云安全检测](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490274&idx=2&sn=89bd4f79d4d56893e7f32db5c949de25) (发布日期: 2026-05-01)
+- [ ] [由一个反序列化问题所想到的通用思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499380&idx=1&sn=de9ee1908ac799dac70ffac10ecf3c77) (发布日期: 2026-05-01)
+- [ ] [关于Linux内核存在本地权限提升漏洞的安全公告](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496881&idx=1&sn=563b3c5245be0c633987b1613867773c) (发布日期: 2026-05-01)
+- [ ] [Linux Kernel "Copy Fail" 漏洞预警，可本地稳定提权至 root](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497528&idx=1&sn=bd11cb8bf23b2ae520fc1723d37cf85b) (发布日期: 2026-05-01)
+- [ ] [【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493214&idx=1&sn=0bd0bf00dcf29c2419c42c454c82f1f5) (发布日期: 2026-05-01)
+- [ ] [CVE-2026-31431 漏洞原理、缓解和修复](https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436281&idx=1&sn=1c92351b2a2947a1a2d0ae9808a49a50) (发布日期: 2026-05-01)
+- [ ] [360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585876&idx=1&sn=0148a95dc5e3b15e4a02b10fffa551de) (发布日期: 2026-05-01)
+- [ ] [【漏洞通告】Linux Kernel Copy Fail 本地权限提升漏洞(CVE-2026-31431)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525464&idx=1&sn=8acda386bfbde5ad1c91b714adbca8f2) (发布日期: 2026-05-01)
+- [ ] [AI红队实战攻防指南来袭](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502854&idx=1&sn=1485f42b9ac26eac6cd43947ae6109b5) (发布日期: 2026-05-01)
 
 
 ## 🎯 威胁详情分析
@@ -91,35 +127,69 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 分享我在EDU实战挖到的XSS漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) |
-| 2 | 神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) |
-| 3 | 2017年至今的提权漏洞，Linux root 管理员权限 CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q](https://mp.weixin.qq.com/s/Y8a1DRVghgg_G9CEqm5M-Q) |
-| 4 | cPanel/WHM 认证绕过漏洞 CVE-2026-41940 深度分析 | Doonsec | [https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg](https://mp.weixin.qq.com/s/Q1O-3buHekCDgJZnhIYglg) |
-| 5 | 五一不打烊 · 漏洞挖掘正当时 | Doonsec | [https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw](https://mp.weixin.qq.com/s/PAi68-ZQ0gkEOsViL5rWnw) |
-| 6 | 人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC） | Doonsec | [https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA](https://mp.weixin.qq.com/s/7mVx3sKx4SFSXR28Q1fOrA) |
-| 7 | CVE-2026-31431：linux史诗级漏洞，732字节脚本一键拿root | Doonsec | [https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g](https://mp.weixin.qq.com/s/VaBTuCReDfxOnNIeBgzV7g) |
-| 8 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A](https://mp.weixin.qq.com/s/319asU9Eoap0WqfAMGP78A) |
-| 9 | 漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) |
-| 10 | Copy Fail（CVE-2026-31431）：关于 Linux 内核权限提升漏洞的常见问题 | Doonsec | [https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg](https://mp.weixin.qq.com/s/7zxdconouGGdMJZgsgFqjg) |
-| 11 | CVE-2026-31431 Copy Fail 通俗解析 | Doonsec | [https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig](https://mp.weixin.qq.com/s/LA9VHXDJsF-9Am3vVCOgig) |
-| 12 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) |
-| 13 | 漏洞预警 | Copy Fail本地提权漏洞风险预警 CVE-2026-31431 | Doonsec | [https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA](https://mp.weixin.qq.com/s/JA5E-ntWCAJfeqdPGdvcSA) |
+| 1 | 【CVE-2026-41940】核弹级漏洞 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw](https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw) |
+| 2 | 金万维异速联平台未授权漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ](https://mp.weixin.qq.com/s/4rLz5duXWLF06A5yPkALRQ) |
+| 3 | EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析 | Doonsec | [https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA](https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA) |
+| 4 | 今日（2026年5月1日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/LmGpBQH7k4z7FNnlSdlSgw](https://mp.weixin.qq.com/s/LmGpBQH7k4z7FNnlSdlSgw) |
+| 5 | 紧急预警｜Sandworm APT再出手！针对白俄罗斯军方发动攻击，LNK漏洞+Tor隐蔽后门，隐蔽性拉满 | Doonsec | [https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A](https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A) |
+| 6 | CNNVD | 关于Linux安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/0p44OC5GNHQir6NvdZZjpQ](https://mp.weixin.qq.com/s/0p44OC5GNHQir6NvdZZjpQ) |
+| 7 | CNNVD | 关于cPanel访问控制错误漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/HRPMVRmwiqCBW7v9OXOFyg](https://mp.weixin.qq.com/s/HRPMVRmwiqCBW7v9OXOFyg) |
+| 8 |  ] [Linux提权漏洞！10行代码直接root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508662&idx=1&sn=41def071baa5eeadd5303f2ccb43cf01](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508662&idx=1&sn=41def071baa5eeadd5303f2ccb43cf01) |
+| 9 |  ] [【已复现】Linux内核权限提升漏洞（CVE-2026-31431） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492097&idx=1&sn=718add4ed82d4ce779728a3ac56c09c7](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492097&idx=1&sn=718add4ed82d4ce779728a3ac56c09c7) |
+| 10 |  ] [【已复现】Linux Kernel "Copy Fail" 本地权限提升漏洞(CVE-2026-31431)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=1&sn=782f41f065f5b44a1724fe083a86f80e](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=1&sn=782f41f065f5b44a1724fe083a86f80e) |
+| 11 |  ] [【已复现】cPanel&WHM 身份认证绕过漏洞(CVE-2026-41940)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=2&sn=17a49e5024765e8f6bd8b09c1f4719f8](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505520&idx=2&sn=17a49e5024765e8f6bd8b09c1f4719f8) |
+| 12 |  ] [【安全圈】Linux 内核潜伏 9 年漏洞披露：732 字节脚本攻破 Ubuntu 等发行版，提权至 root 最高权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=1&sn=955f8155ca08aea02fa3e25775c3bcf4](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=1&sn=955f8155ca08aea02fa3e25775c3bcf4) |
+| 13 |  ] [【安全圈】cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=2&sn=e5ba8445daca48ad1bb3795002895e7c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076090&idx=2&sn=e5ba8445daca48ad1bb3795002895e7c) |
+| 14 |  ] [人工智能重要漏洞 | CNNVD通报最新一批OpenClaw多个安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=1&sn=fd4a2110a6d3cf0e85ffb46c50f2db71](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=1&sn=fd4a2110a6d3cf0e85ffb46c50f2db71) |
+| 15 |  ] [CNNVD | 人工智能重要漏洞通报（2026年第六期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=2&sn=ae790fc7924edd4d34893a1bddc2c839](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262153&idx=2&sn=ae790fc7924edd4d34893a1bddc2c839) |
+| 16 |  ] [恶意机器人占全网流量 40%，AI 驱动攻击暴增 12.5 倍；CNNVD 周报：本周新增漏洞 1447 个，超危 96 个需紧急修复| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141199&idx=2&sn=2665ad35bc0a3671c0a8b561063451f2](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141199&idx=2&sn=2665ad35bc0a3671c0a8b561063451f2) |
+| 17 |  ] [Copy Fail: 仅732字节，通杀所有主流 Linux 发行版，隐藏9年的 root 提权漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=2&sn=487c60cb3cbc5568392caaeb46a3b33d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=2&sn=487c60cb3cbc5568392caaeb46a3b33d) |
+| 18 |  ] [最新通杀全线Linux发行版的CVE漏洞解析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485140&idx=1&sn=46a3b04ac859dd1c8adc3ac08459a719) |
+| 19 |  ] [【风险提示】天融信关于Java Ghost Bits 漏洞的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=1&sn=f6b76bcbd3beb393983e7cb3b4c0eea4](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=1&sn=f6b76bcbd3beb393983e7cb3b4c0eea4) |
+| 20 |  ] [【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=2&sn=2f53fc8a4a3695c13f1ea7fc09bb1b9c](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496705&idx=2&sn=2f53fc8a4a3695c13f1ea7fc09bb1b9c) |
+| 21 |  ] [记某SRC高危漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc) |
+| 22 |  ] [732 字节通杀 Linux内核 近 9 年！100% 稳定获取 root 权限。附Poc。 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165769&idx=1&sn=458df7885e2f72bea989f80e27528947](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165769&idx=1&sn=458df7885e2f72bea989f80e27528947) |
+| 23 |  ] [人工验真！Linux提权漏洞，影响这么多信创！（附稳定验证PoC） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186347&idx=1&sn=a62188947f420de663dfc428891b361b](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186347&idx=1&sn=a62188947f420de663dfc428891b361b) |
+| 24 |  ] [【CVE-2026-22070】ColorOS助手的路径穿越漏洞的致谢公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494908&idx=2&sn=fadace1e79c4554fecf7e51ec930333b](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494908&idx=2&sn=fadace1e79c4554fecf7e51ec930333b) |
+| 25 |  ] [Copy Fail：横扫所有Linux，成为最危险的提权漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542765&idx=2&sn=fb4be51e89b2c51a565c30835320a5eb](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542765&idx=2&sn=fb4be51e89b2c51a565c30835320a5eb) |
+| 26 |  ] [1秒root、九年无人知——Linux近年最屌提权漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490029&idx=1&sn=fc9c3feee41b708f86dab16be4154af5](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247490029&idx=1&sn=fc9c3feee41b708f86dab16be4154af5) |
+| 27 |  ] [Copy Fail：732字节通杀所有Linux的史诗级LPE漏洞复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490274&idx=1&sn=b1d1c3aa8c892bdd85567321081a0bca](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490274&idx=1&sn=b1d1c3aa8c892bdd85567321081a0bca) |
+| 28 |  ] [关于Linux内核存在本地权限提升漏洞的安全公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496881&idx=1&sn=563b3c5245be0c633987b1613867773c](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496881&idx=1&sn=563b3c5245be0c633987b1613867773c) |
+| 29 |  ] [Linux Kernel "Copy Fail" 漏洞预警，可本地稳定提权至 root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497528&idx=1&sn=bd11cb8bf23b2ae520fc1723d37cf85b](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497528&idx=1&sn=bd11cb8bf23b2ae520fc1723d37cf85b) |
+| 30 |  ] [【已复现】732字节、1秒root、九年无人知——Linux近年最稳定提权漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493214&idx=1&sn=0bd0bf00dcf29c2419c42c454c82f1f5](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493214&idx=1&sn=0bd0bf00dcf29c2419c42c454c82f1f5) |
+| 31 |  ] [CVE-2026-31431 漏洞原理、缓解和修复 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436281&idx=1&sn=1c92351b2a2947a1a2d0ae9808a49a50](https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436281&idx=1&sn=1c92351b2a2947a1a2d0ae9808a49a50) |
+| 32 |  ] [360漏洞挖掘智能体亮相DEFCON 中国AI安全能力实现关键突破 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585876&idx=1&sn=0148a95dc5e3b15e4a02b10fffa551de](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585876&idx=1&sn=0148a95dc5e3b15e4a02b10fffa551de) |
+| 33 |  ] [【漏洞通告】Linux Kernel Copy Fail 本地权限提升漏洞(CVE-2026-31431) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525464&idx=1&sn=8acda386bfbde5ad1c91b714adbca8f2](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525464&idx=1&sn=8acda386bfbde5ad1c91b714adbca8f2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 分享我在EDU实战挖到的XSS漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q](https://mp.weixin.qq.com/s/MoPAhcJOkZ7pt7_mvmq__Q) |
-| 2 | 神级漏洞 CVE-2026-41940 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg](https://mp.weixin.qq.com/s/z7GVeuSxAWABtCLOMloNmg) |
-| 3 | WebAssembly 规范类型索引与相对类型索引混淆导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q](https://mp.weixin.qq.com/s/hfJjjPnBT1Cdoo-u7sSE3Q) |
-| 4 | 漏洞复现 | 泛微云桥 e-Bridge sendWxMsg 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ](https://mp.weixin.qq.com/s/CBDpB8AAGr7WoBiFwSL9JQ) |
-| 5 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA](https://mp.weixin.qq.com/s/By5ojW_TqWWyz1PuCu2whA) |
+| 1 | 【CVE-2026-41940】核弹级漏洞 cPanel/WHM 身份验证绕过 RCE | Doonsec | [https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw](https://mp.weixin.qq.com/s/NbaNU9h_mf9baX9KNcyuJw) |
+| 2 | EnOcean SmartServer漏洞：楼宇管理系统远程代码执行与ASLR绕过技术分析 | Doonsec | [https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA](https://mp.weixin.qq.com/s/TW49tAeIDuqiA8bB4-8DcA) |
+| 3 |  ] [利用导入表劫持实现DLL注入以干掉杀毒软件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614410&idx=2&sn=32ba6828c0749b23e39e2b802f151183](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614410&idx=2&sn=32ba6828c0749b23e39e2b802f151183) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | who： linux 应急响应工具更新Copy Fail本地提权检测 | Doonsec | [https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg](https://mp.weixin.qq.com/s/xj92PaEn9veeI6v2XBrdYg) |
+| 1 | 紧急预警｜Sandworm APT再出手！针对白俄罗斯军方发动攻击，LNK漏洞+Tor隐蔽后门，隐蔽性拉满 | Doonsec | [https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A](https://mp.weixin.qq.com/s/L0mY8Y8BkhuLf5CR-LVN9A) |
+| 2 |  ] [银狐（Silver Fox）黑产组织详细分析报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496682&idx=1&sn=c87f1130dda484ed857c36d7045265d2](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496682&idx=1&sn=c87f1130dda484ed857c36d7045265d2) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 360SRC祝白帽师傅们五一劳动节快乐 | Doonsec | [https://mp.weixin.qq.com/s/sCD9f_OgNrPQdryp3dhxYg](https://mp.weixin.qq.com/s/sCD9f_OgNrPQdryp3dhxYg) |
+| 2 | 免费代发招聘信息第53期：上海浦东 安全运营岗  11k-13k（有年终） | Doonsec | [https://mp.weixin.qq.com/s/3XVaoRP5X2IPH2g15FcQ-Q](https://mp.weixin.qq.com/s/3XVaoRP5X2IPH2g15FcQ-Q) |
+| 3 | 赏金猎人集结令！来顺丰SRC解锁2026年白帽赏金挑战赛！ | Doonsec | [https://mp.weixin.qq.com/s/HBev78pYBeZ3K1FygxHkiQ](https://mp.weixin.qq.com/s/HBev78pYBeZ3K1FygxHkiQ) |
+| 4 |  ] [记某SRC高危漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522091&idx=1&sn=9c38b02b19e5f211a6d6c9fd10f009cc) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [SAP 官方 npm 包受陷，被用于供应链攻击窃取凭据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=3&sn=f176577fa7fbeba25d5c024f432e1ade](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525926&idx=3&sn=f176577fa7fbeba25d5c024f432e1ade) |
 
 
 ## 📁 归档路径
@@ -135,8 +205,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 33 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 6 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -145,5 +215,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-01 03:27:19*
+*生成时间: 2026-05-01 06:36:38*
 *报告工具: 微信文章安全归档系统*
