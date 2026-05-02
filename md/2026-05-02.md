@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 4篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **应用漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -64,11 +61,12 @@
 
 ### Doonsec
 
-- [勒索动态 | 某千亿市值汽车零部件巨头遭勒索威胁，供应链安全再敲警钟！](https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg) (发布日期: 2026-05-02)
-- [【安全圈】新型Python后门DEEP#DOOR来袭：竟用公共隧道服务窃取云凭据](https://mp.weixin.qq.com/s/hqODJsK-1pdkeKSkYp_P0w) (发布日期: 2026-05-02)
-- [44000 IP被劫持：cPanel 9.8 CVSS身份验证绕过触发全球勒索软件激增](https://mp.weixin.qq.com/s/kVyya5ryI-pI3Ff6qxANOA) (发布日期: 2026-05-02)
-- [五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码)](https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ) (发布日期: 2026-05-02)
-- [Vulfocus入门——命令执行漏洞](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) (发布日期: 2026-05-02)
+- [JAVA反序列化漏洞与CC链](https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA) (发布日期: 2026-05-02)
+- [Spring Boot 框架反序列化漏洞](https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA) (发布日期: 2026-05-02)
+- [Spring Boot 框架反序列化漏洞](https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA) (发布日期: 2026-05-02)
+- [Yakit Ghost Bits Fuzzing 漏洞插件](https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg) (发布日期: 2026-05-02)
+- [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/0dV0SBm8j2-6SKkO5jnivQ) (发布日期: 2026-05-02)
+- [报告简析：CISA发布OT零信任指南](https://mp.weixin.qq.com/s/QwxhFdY4pXEoBuxwq8dP_g) (发布日期: 2026-05-02)
 
 
 ## 🎯 威胁详情分析
@@ -77,25 +75,10 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Vulfocus入门——命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Vulfocus入门——命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码) | Doonsec | [https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ](https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 勒索动态 | 某千亿市值汽车零部件巨头遭勒索威胁，供应链安全再敲警钟！ | Doonsec | [https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg](https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg) |
+| 1 | JAVA反序列化漏洞与CC链 | Doonsec | [https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA](https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA) |
+| 2 | Spring Boot 框架反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA](https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA) |
+| 3 | Spring Boot 框架反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA](https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA) |
+| 4 | Yakit Ghost Bits Fuzzing 漏洞插件 | Doonsec | [https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg](https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg) |
 
 
 ## 📁 归档路径
@@ -111,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-02 13:12:34*
+*生成时间: 2026-05-02 20:41:14*
 *报告工具: 微信文章安全归档系统*
