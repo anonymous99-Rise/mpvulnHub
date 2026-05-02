@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 9篇
+  - BruceFeIix: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **安全运营**: 3篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 7篇
 - **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,25 +64,26 @@
 
 ### Doonsec
 
-- [深度安全研究报告：基于自动化挖掘引擎的全局漏洞态势与根因分析](https://mp.weixin.qq.com/s/oZ_19i9sRNdHvATN-X2trA) (发布日期: 2026-05-02)
-- [记某SRC高危漏洞挖掘](https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg) (发布日期: 2026-05-02)
-- [Phalanx 开源自主渗透测试辅助工具](https://mp.weixin.qq.com/s/7w0-IFLx1iUruqUn23PkyA) (发布日期: 2026-05-02)
-- [【自研工具】Zack-Vulscan 指纹驱动精准匹配Poc的Web漏洞扫描器](https://mp.weixin.qq.com/s/TXhust1HL_dEtKZPltwyCQ) (发布日期: 2026-05-02)
-- [一周回顾：中企海外业务需加强数据安全，新恶意软件改写网络破坏史](https://mp.weixin.qq.com/s/yk2G7UBdR9tDgzuRXJUxiA) (发布日期: 2026-05-02)
-- [浙商银行金华分行因“数据安全xa0网络安全管理”等被罚169.3万](https://mp.weixin.qq.com/s/0mzV1oCQYKEPSIcuHJq-NQ) (发布日期: 2026-05-02)
-- [50 元封顶！渗透攻防 + SRC 漏洞星球限时开放！](https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ) (发布日期: 2026-05-02)
-- [网络犯罪活动涉及4.5万次攻击和5300多个后门](https://mp.weixin.qq.com/s/J9JazViUbWgQQqQJmdhAjQ) (发布日期: 2026-05-02)
-- [模型不是全部：从 Mythos、Hacktron 与 oauth2-proxy 0-day 看自动化漏洞挖掘系统的真实瓶颈](https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg) (发布日期: 2026-05-02)
-- [【安全月报】| 4 月加密货币领域因安全事件损失约 6.2 亿美元](https://mp.weixin.qq.com/s/GKhk7rdUvjhmLSPj8piyMg) (发布日期: 2026-05-02)
-- [Android安全智能检测分析工具V3.4](https://mp.weixin.qq.com/s/h6gJHooeyq4wH9L8OAzlEQ) (发布日期: 2026-05-02)
-- [警惕，最新LINUX漏洞](https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA) (发布日期: 2026-05-02)
-- [国外：一周网络安全态势回顾之第148期，错误指标驱动下的安全运营中心失效风险与能力误导问题解析](https://mp.weixin.qq.com/s/7z-vNlPa0PAy0NRA7T8JaA) (发布日期: 2026-05-02)
-- [应急响应：追影寻踪彻查入侵轨迹](https://mp.weixin.qq.com/s/KNlUGPzl_tMbfqk35LktZw) (发布日期: 2026-05-02)
-- [网络安全技术 信息安全治理](https://mp.weixin.qq.com/s/T997rKeN6rUgMMDeoCB6Ig) (发布日期: 2026-05-02)
-- [ProFTPD SQL注入漏洞为远程代码执行攻击打开方便之门](https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ) (发布日期: 2026-05-02)
-- [如何通过漏洞组合链为工控平台CODESYS植入后门](https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg) (发布日期: 2026-05-02)
-- [Copy Fail：一个几乎影响所有主流 Linux 发行版的提权漏洞](https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA) (发布日期: 2026-05-02)
-- [红队实战手册：如何用AI生成一封“不可能被识别”的钓鱼邮件](https://mp.weixin.qq.com/s/ZPWW8Xp9EbA87c2ScBn-Tw) (发布日期: 2026-05-02)
+- [国内某集团攻防演练 — 红队钓鱼实战案例（下）](https://mp.weixin.qq.com/s/oxqXSpqijvy14OYRtyIHsA) (发布日期: 2026-05-02)
+- [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破\"Copy Fail\"内核通杀漏洞](https://mp.weixin.qq.com/s/fAek_68jgXUHaOFh0_harA) (发布日期: 2026-05-02)
+- [AI 复现Copy Fail漏洞的一些思考？学了这么多年渗透/代审，会被 AI 一波带走嘛？](https://mp.weixin.qq.com/s/GuO9857kVnqYoaVMzrY3-w) (发布日期: 2026-05-02)
+- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg) (发布日期: 2026-05-02)
+- [【圈子限时优惠】红队后渗透CobaltStrike插件更新](https://mp.weixin.qq.com/s/QbS_YPmRTSCaCegR_nOVQA) (发布日期: 2026-05-02)
+- [AI时代挖SRC的几种流派](https://mp.weixin.qq.com/s/gJh1utp5YeYNVzkYfjVhlg) (发布日期: 2026-05-02)
+- [【CVE-2026-31431】Linux提权漏洞原理详解](https://mp.weixin.qq.com/s/rokSS7XTAgcr4J6VCbcICg) (发布日期: 2026-05-02)
+- [安天AVL SDK反病毒引擎升级通告（20260502）](https://mp.weixin.qq.com/s/oAE3xBfirPm7Bu6COe_X2Q) (发布日期: 2026-05-02)
+- [2026 年 11 款开源云安全工具](https://mp.weixin.qq.com/s/yjecIjFIoMksjYzk_TusmA) (发布日期: 2026-05-02)
+
+### BruceFeIix
+
+- [ ] [今日（2026年5月1日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505530&idx=1&sn=394e32f3072d2a116e8a753bd3f6557a) (发布日期: 2026-05-02)
+- [ ] [Copy Fail（CVE-2026-31431）：732字节脚本提权linux](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53) (发布日期: 2026-05-02)
+- [ ] [火绒小问答——「企业版」病毒查杀](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532541&idx=2&sn=8ddbe6a337d514498d0176ab7584af8c) (发布日期: 2026-05-02)
+- [ ] [【安全圈】热门 WordPress 重定向插件暗藏休眠后门多年](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=1&sn=014791e35769c28ca8e691db19b0fbfe) (发布日期: 2026-05-02)
+- [ ] [【安全圈】开源电子病历软件 OpenEMR 发现 38 个漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=2&sn=69e1060f56966577b4e2d2a05cebb8cb) (发布日期: 2026-05-02)
+- [ ] [【安全圈】有缺陷的 VECT 2.0 勒索软件对大文件充当数据擦除器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=3&sn=632d44c8e211f46eb699616473906d78) (发布日期: 2026-05-02)
+- [ ] [每周高级威胁情报解读(2026.04.24~04.30)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518591&idx=1&sn=1f6824aab3a7d1d8efd041f9749d226e) (发布日期: 2026-05-02)
+- [ ] [紧急AI安全情报 | 热门AI训练框架Pytorch Lightning遭受窃密蠕虫后门投毒](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799307&idx=1&sn=be2639498a624873b788f7415c163835) (发布日期: 2026-05-02)
 
 
 ## 🎯 威胁详情分析
@@ -92,35 +92,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深度安全研究报告：基于自动化挖掘引擎的全局漏洞态势与根因分析 | Doonsec | [https://mp.weixin.qq.com/s/oZ_19i9sRNdHvATN-X2trA](https://mp.weixin.qq.com/s/oZ_19i9sRNdHvATN-X2trA) |
-| 2 | 记某SRC高危漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg](https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg) |
-| 3 | 【自研工具】Zack-Vulscan 指纹驱动精准匹配Poc的Web漏洞扫描器 | Doonsec | [https://mp.weixin.qq.com/s/TXhust1HL_dEtKZPltwyCQ](https://mp.weixin.qq.com/s/TXhust1HL_dEtKZPltwyCQ) |
-| 4 | 50 元封顶！渗透攻防 + SRC 漏洞星球限时开放！ | Doonsec | [https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ](https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ) |
-| 5 | 模型不是全部：从 Mythos、Hacktron 与 oauth2-proxy 0-day 看自动化漏洞挖掘系统的真实瓶颈 | Doonsec | [https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg](https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg) |
-| 6 | 警惕，最新LINUX漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA](https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA) |
-| 7 | ProFTPD SQL注入漏洞为远程代码执行攻击打开方便之门 | Doonsec | [https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ](https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ) |
-| 8 | 如何通过漏洞组合链为工控平台CODESYS植入后门 | Doonsec | [https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg](https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg) |
-| 9 | Copy Fail：一个几乎影响所有主流 Linux 发行版的提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA](https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | ProFTPD SQL注入漏洞为远程代码执行攻击打开方便之门 | Doonsec | [https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ](https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ) |
+| 1 | 5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破\"Copy Fail\"内核通杀漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fAek_68jgXUHaOFh0_harA](https://mp.weixin.qq.com/s/fAek_68jgXUHaOFh0_harA) |
+| 2 | AI 复现Copy Fail漏洞的一些思考？学了这么多年渗透/代审，会被 AI 一波带走嘛？ | Doonsec | [https://mp.weixin.qq.com/s/GuO9857kVnqYoaVMzrY3-w](https://mp.weixin.qq.com/s/GuO9857kVnqYoaVMzrY3-w) |
+| 3 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg](https://mp.weixin.qq.com/s/SE7TMFaU_3Tcsyc_83GqWg) |
+| 4 | 【CVE-2026-31431】Linux提权漏洞原理详解 | Doonsec | [https://mp.weixin.qq.com/s/rokSS7XTAgcr4J6VCbcICg](https://mp.weixin.qq.com/s/rokSS7XTAgcr4J6VCbcICg) |
+| 5 |  ] [今日（2026年5月1日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505530&idx=1&sn=394e32f3072d2a116e8a753bd3f6557a](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505530&idx=1&sn=394e32f3072d2a116e8a753bd3f6557a) |
+| 6 |  ] [Copy Fail（CVE-2026-31431）：732字节脚本提权linux | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53) |
+| 7 |  ] [【安全圈】开源电子病历软件 OpenEMR 发现 38 个漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=2&sn=69e1060f56966577b4e2d2a05cebb8cb](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=2&sn=69e1060f56966577b4e2d2a05cebb8cb) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 应急响应：追影寻踪彻查入侵轨迹 | Doonsec | [https://mp.weixin.qq.com/s/KNlUGPzl_tMbfqk35LktZw](https://mp.weixin.qq.com/s/KNlUGPzl_tMbfqk35LktZw) |
+| 1 |  ] [每周高级威胁情报解读(2026.04.24~04.30) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518591&idx=1&sn=1f6824aab3a7d1d8efd041f9749d226e](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518591&idx=1&sn=1f6824aab3a7d1d8efd041f9749d226e) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记某SRC高危漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg](https://mp.weixin.qq.com/s/1saHZ_Bt_8z5qojaJ7qJFg) |
-| 2 | 50 元封顶！渗透攻防 + SRC 漏洞星球限时开放！ | Doonsec | [https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ](https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ) |
-| 3 | 国外：一周网络安全态势回顾之第148期，错误指标驱动下的安全运营中心失效风险与能力误导问题解析 | Doonsec | [https://mp.weixin.qq.com/s/7z-vNlPa0PAy0NRA7T8JaA](https://mp.weixin.qq.com/s/7z-vNlPa0PAy0NRA7T8JaA) |
+| 1 | AI时代挖SRC的几种流派 | Doonsec | [https://mp.weixin.qq.com/s/gJh1utp5YeYNVzkYfjVhlg](https://mp.weixin.qq.com/s/gJh1utp5YeYNVzkYfjVhlg) |
 
 
 ## 📁 归档路径
@@ -136,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-02 02:43:45*
+*生成时间: 2026-05-02 06:06:38*
 *报告工具: 微信文章安全归档系统*
