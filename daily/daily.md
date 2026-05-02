@@ -2,17 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 2篇
 - **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,10 +64,11 @@
 
 ### Doonsec
 
-- [凌曦安全课程五一特惠：攻防&amp;&amp;SRC双重叠加](https://mp.weixin.qq.com/s/zOvbXa20uOOS-5fdfYYP_w) (发布日期: 2026-05-02)
-- [凌曦安全课程五一特惠：攻防&amp;&amp;SRC双重叠加](https://mp.weixin.qq.com/s/SrZPHFDupNkhP0GXSiNJDg) (发布日期: 2026-05-02)
-- [今日（2026年5月2日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/wT5hFY9_7vIjWQHLPiMR-Q) (发布日期: 2026-05-02)
-- [LLM应用安全：从威胁建模到自动化红队测试的实战指南](https://mp.weixin.qq.com/s/i9xdvw9bCacad-NL0jsNhg) (发布日期: 2026-05-02)
+- [勒索动态 | 某千亿市值汽车零部件巨头遭勒索威胁，供应链安全再敲警钟！](https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg) (发布日期: 2026-05-02)
+- [【安全圈】新型Python后门DEEP#DOOR来袭：竟用公共隧道服务窃取云凭据](https://mp.weixin.qq.com/s/hqODJsK-1pdkeKSkYp_P0w) (发布日期: 2026-05-02)
+- [44000 IP被劫持：cPanel 9.8 CVSS身份验证绕过触发全球勒索软件激增](https://mp.weixin.qq.com/s/kVyya5ryI-pI3Ff6qxANOA) (发布日期: 2026-05-02)
+- [五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码)](https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ) (发布日期: 2026-05-02)
+- [Vulfocus入门——命令执行漏洞](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) (发布日期: 2026-05-02)
 
 
 ## 🎯 威胁详情分析
@@ -73,14 +77,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 今日（2026年5月2日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/wT5hFY9_7vIjWQHLPiMR-Q](https://mp.weixin.qq.com/s/wT5hFY9_7vIjWQHLPiMR-Q) |
+| 1 | Vulfocus入门——命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Vulfocus入门——命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA](https://mp.weixin.qq.com/s/ghNa_MLRQiCVIO9mG-K7zA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 凌曦安全课程五一特惠：攻防&amp;&amp;SRC双重叠加 | Doonsec | [https://mp.weixin.qq.com/s/zOvbXa20uOOS-5fdfYYP_w](https://mp.weixin.qq.com/s/zOvbXa20uOOS-5fdfYYP_w) |
-| 2 | 凌曦安全课程五一特惠：攻防&amp;&amp;SRC双重叠加 | Doonsec | [https://mp.weixin.qq.com/s/SrZPHFDupNkhP0GXSiNJDg](https://mp.weixin.qq.com/s/SrZPHFDupNkhP0GXSiNJDg) |
+| 1 | 五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码) | Doonsec | [https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ](https://mp.weixin.qq.com/s/JQoGc4ICkHxMz1zu3zAPTQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 勒索动态 | 某千亿市值汽车零部件巨头遭勒索威胁，供应链安全再敲警钟！ | Doonsec | [https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg](https://mp.weixin.qq.com/s/iZ3giwbhOCGiTfbeKf7aMg) |
 
 
 ## 📁 归档路径
@@ -96,8 +111,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -106,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-02 09:06:27*
+*生成时间: 2026-05-02 13:12:34*
 *报告工具: 微信文章安全归档系统*
