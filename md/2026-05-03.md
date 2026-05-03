@@ -2,20 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 10篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -65,22 +65,24 @@
 
 ### Doonsec
 
-- [xia_tan：基于BurpSuite的自动化漏洞探测插件](https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w) (发布日期: 2026-05-03)
-- [JAVA框架与组件 FastJSON 漏洞分析](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) (发布日期: 2026-05-03)
-- [Anthropic推出Claude Security公开测试版：AI安全扫描进入生产代码时代](https://mp.weixin.qq.com/s/88xZ-tGRxueNGVdNAQ3MdQ) (发布日期: 2026-05-03)
-- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw) (发布日期: 2026-05-03)
-- [Pentest-AI：一键运行全自动渗透测试平台](https://mp.weixin.qq.com/s/po_xe8nrkAs-3F1BB-pNbw) (发布日期: 2026-05-03)
-- [PHP中潜伏21年的致命漏洞：MAD Bugs详解](https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg) (发布日期: 2026-05-03)
-- [.sorry 勒索病毒爆发](https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow) (发布日期: 2026-05-03)
-- [人与AI协同的漏洞分析新范式——Copy Fail发现过程解析](https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ) (发布日期: 2026-05-03)
-- [黑客利用cPanel漏洞入侵亚洲政府和军方服务器](https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A) (发布日期: 2026-05-03)
-- [农业银行辽宁省分行因违反“数据安全 网络安全”等被罚327.05万](https://mp.weixin.qq.com/s/k4_g2kYIaBeLuUH-gWojfA) (发布日期: 2026-05-03)
-- [漏洞挖掘：众测src测试姿势总结](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) (发布日期: 2026-05-03)
-- [安全检测agent开发笔记(1)](https://mp.weixin.qq.com/s/xMwT-ZOTPfL67ZUt1C2c0A) (发布日期: 2026-05-03)
-- [无需赎金！The Gentlemen勒索软件数据恢复完全指南：原理、方法与关键条件](https://mp.weixin.qq.com/s/N-tEYLREEPGymh_QGq9IWQ) (发布日期: 2026-05-03)
-- [影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞](https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q) (发布日期: 2026-05-03)
-- [红队进入“AI原生”时代：6分钟打到域控，攻防进入“分秒级”](https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w) (发布日期: 2026-05-03)
-- [linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案](https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA) (发布日期: 2026-05-03)
+- [Shiro 550 RememberMe 反序列化漏洞](https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA) (发布日期: 2026-05-03)
+- [网安基础必备：30 类安全系统全解析！！！](https://mp.weixin.qq.com/s/1G6QuaqORiUjxNzcZP4vfg) (发布日期: 2026-05-03)
+- [“假”巴菲特，“真”安全风险：深度伪造凸显网络安全意识重要性](https://mp.weixin.qq.com/s/guh4Zf4N9IviJXsY0rTV_w) (发布日期: 2026-05-03)
+- [AI 与 Java代码审计该如何摩擦出火花？](https://mp.weixin.qq.com/s/mcDV1jx5B1DEMUWmvRSKYg) (发布日期: 2026-05-03)
+- [智能体安全风险与应对机制的演进对现有AI治理框架的挑战：以Hermes安全模型与《人工智能安全治理框架》2.0映射为例](https://mp.weixin.qq.com/s/C6-bXvW9AELsFY3j7dSJHg) (发布日期: 2026-05-03)
+- [VECT：设计成勒索软件，意外成了擦除器](https://mp.weixin.qq.com/s/FcGo_5s616CrdrXSZj9wxQ) (发布日期: 2026-05-03)
+- [安全小知识-第三十四期_构建企业“免疫系统”：现代安全运维的技术筋骨、实战推演与价值落地艺术](https://mp.weixin.qq.com/s/y7mb0GvcVC1XYsJmdBh87g) (发布日期: 2026-05-03)
+- [漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞](https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ) (发布日期: 2026-05-03)
+- [AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208）](https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q) (发布日期: 2026-05-03)
+- [Linux 内核史诗级本地提权漏洞 全网深度复现、原理完整分析( CVE-2026-31431)](https://mp.weixin.qq.com/s/HSEs0UIFLReNbIFfPHJJcg) (发布日期: 2026-05-03)
+
+### BruceFeIix
+
+- [ ] [今日（2026年5月2日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41) (发布日期: 2026-05-03)
+- [ ] [【安全圈】新型Python后门DEEP#DOOR来袭：竟用公共隧道服务窃取云凭据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076153&idx=4&sn=a09afed0d8ae385c412ac992be6489fe) (发布日期: 2026-05-03)
+- [ ] [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19) (发布日期: 2026-05-03)
+- [ ] [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破"Copy Fail"内核通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663) (发布日期: 2026-05-03)
+- [ ] [IBM 推出网络安全服务以应对人工智能驱动的网络攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486574&idx=1&sn=637c0fd6f13339ea03dd4f1c0d18710a) (发布日期: 2026-05-03)
 
 
 ## 🎯 威胁详情分析
@@ -89,39 +91,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | xia_tan：基于BurpSuite的自动化漏洞探测插件 | Doonsec | [https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w](https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w) |
-| 2 | JAVA框架与组件 FastJSON 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) |
-| 3 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw](https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw) |
-| 4 | PHP中潜伏21年的致命漏洞：MAD Bugs详解 | Doonsec | [https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg](https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg) |
-| 5 | 人与AI协同的漏洞分析新范式——Copy Fail发现过程解析 | Doonsec | [https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ](https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ) |
-| 6 | 黑客利用cPanel漏洞入侵亚洲政府和军方服务器 | Doonsec | [https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A](https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A) |
-| 7 | 漏洞挖掘：众测src测试姿势总结 | Doonsec | [https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) |
-| 8 | 影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q](https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q) |
-| 9 | linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案 | Doonsec | [https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA](https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA) |
+| 1 | Shiro 550 RememberMe 反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA](https://mp.weixin.qq.com/s/u7sYV7-Em5KE8u_UZjXFcA) |
+| 2 | 漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ](https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ) |
+| 3 | AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208） | Doonsec | [https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q](https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q) |
+| 4 | Linux 内核史诗级本地提权漏洞 全网深度复现、原理完整分析( CVE-2026-31431) | Doonsec | [https://mp.weixin.qq.com/s/HSEs0UIFLReNbIFfPHJJcg](https://mp.weixin.qq.com/s/HSEs0UIFLReNbIFfPHJJcg) |
+| 5 |  ] [今日（2026年5月2日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41) |
+| 6 |  ] [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19) |
+| 7 |  ] [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破"Copy Fail"内核通杀漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 红队进入“AI原生”时代：6分钟打到域控，攻防进入“分秒级” | Doonsec | [https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w](https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | .sorry 勒索病毒爆发 | Doonsec | [https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow](https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 漏洞挖掘：众测src测试姿势总结 | Doonsec | [https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | JAVA框架与组件 FastJSON 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) |
+| 1 | 漏洞复现 | 全程云OA QCHMS.asmx 接口存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ](https://mp.weixin.qq.com/s/LHcsmD1EnoDJoVmVkeDHyQ) |
+| 2 | AI大模型网关存在SQL注入漏洞、附 POC 复现、影响版本LiteLLM 1.81.16~1.83.7（CVE-2026-42208） | Doonsec | [https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q](https://mp.weixin.qq.com/s/QcKZl74_onTT-jKU0Ur-8Q) |
 
 
 ## 📁 归档路径
@@ -137,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -147,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-03 02:56:10*
+*生成时间: 2026-05-03 06:25:39*
 *报告工具: 微信文章安全归档系统*
