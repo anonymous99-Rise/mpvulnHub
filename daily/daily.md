@@ -1,18 +1,22 @@
-# 2026-05-02 安全威胁态势报告
+# 2026-05-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 3篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,12 +65,22 @@
 
 ### Doonsec
 
-- [JAVA反序列化漏洞与CC链](https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA) (发布日期: 2026-05-02)
-- [Spring Boot 框架反序列化漏洞](https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA) (发布日期: 2026-05-02)
-- [Spring Boot 框架反序列化漏洞](https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA) (发布日期: 2026-05-02)
-- [Yakit Ghost Bits Fuzzing 漏洞插件](https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg) (发布日期: 2026-05-02)
-- [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/0dV0SBm8j2-6SKkO5jnivQ) (发布日期: 2026-05-02)
-- [报告简析：CISA发布OT零信任指南](https://mp.weixin.qq.com/s/QwxhFdY4pXEoBuxwq8dP_g) (发布日期: 2026-05-02)
+- [xia_tan：基于BurpSuite的自动化漏洞探测插件](https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w) (发布日期: 2026-05-03)
+- [JAVA框架与组件 FastJSON 漏洞分析](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) (发布日期: 2026-05-03)
+- [Anthropic推出Claude Security公开测试版：AI安全扫描进入生产代码时代](https://mp.weixin.qq.com/s/88xZ-tGRxueNGVdNAQ3MdQ) (发布日期: 2026-05-03)
+- [CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程](https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw) (发布日期: 2026-05-03)
+- [Pentest-AI：一键运行全自动渗透测试平台](https://mp.weixin.qq.com/s/po_xe8nrkAs-3F1BB-pNbw) (发布日期: 2026-05-03)
+- [PHP中潜伏21年的致命漏洞：MAD Bugs详解](https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg) (发布日期: 2026-05-03)
+- [.sorry 勒索病毒爆发](https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow) (发布日期: 2026-05-03)
+- [人与AI协同的漏洞分析新范式——Copy Fail发现过程解析](https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ) (发布日期: 2026-05-03)
+- [黑客利用cPanel漏洞入侵亚洲政府和军方服务器](https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A) (发布日期: 2026-05-03)
+- [农业银行辽宁省分行因违反“数据安全 网络安全”等被罚327.05万](https://mp.weixin.qq.com/s/k4_g2kYIaBeLuUH-gWojfA) (发布日期: 2026-05-03)
+- [漏洞挖掘：众测src测试姿势总结](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) (发布日期: 2026-05-03)
+- [安全检测agent开发笔记(1)](https://mp.weixin.qq.com/s/xMwT-ZOTPfL67ZUt1C2c0A) (发布日期: 2026-05-03)
+- [无需赎金！The Gentlemen勒索软件数据恢复完全指南：原理、方法与关键条件](https://mp.weixin.qq.com/s/N-tEYLREEPGymh_QGq9IWQ) (发布日期: 2026-05-03)
+- [影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞](https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q) (发布日期: 2026-05-03)
+- [红队进入“AI原生”时代：6分钟打到域控，攻防进入“分秒级”](https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w) (发布日期: 2026-05-03)
+- [linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案](https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA) (发布日期: 2026-05-03)
 
 
 ## 🎯 威胁详情分析
@@ -75,15 +89,44 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | JAVA反序列化漏洞与CC链 | Doonsec | [https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA](https://mp.weixin.qq.com/s/X8EX8pzXtNvEUcj5-AbXcA) |
-| 2 | Spring Boot 框架反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA](https://mp.weixin.qq.com/s/ExSkgScaXbg6Zp6tXPJLNA) |
-| 3 | Spring Boot 框架反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA](https://mp.weixin.qq.com/s/hrft5q8VmUGU7fFGGvEtNA) |
-| 4 | Yakit Ghost Bits Fuzzing 漏洞插件 | Doonsec | [https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg](https://mp.weixin.qq.com/s/Upi_9mWnFntdpZiIv_I7Qg) |
+| 1 | xia_tan：基于BurpSuite的自动化漏洞探测插件 | Doonsec | [https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w](https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w) |
+| 2 | JAVA框架与组件 FastJSON 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) |
+| 3 | CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程 | Doonsec | [https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw](https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw) |
+| 4 | PHP中潜伏21年的致命漏洞：MAD Bugs详解 | Doonsec | [https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg](https://mp.weixin.qq.com/s/h4a1xFvqlNH4JMDNq9M-qg) |
+| 5 | 人与AI协同的漏洞分析新范式——Copy Fail发现过程解析 | Doonsec | [https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ](https://mp.weixin.qq.com/s/gCFqLt0YL3H3cQuqLuGvdQ) |
+| 6 | 黑客利用cPanel漏洞入侵亚洲政府和军方服务器 | Doonsec | [https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A](https://mp.weixin.qq.com/s/dTnmXzJbrQf6pY9YjZr_2A) |
+| 7 | 漏洞挖掘：众测src测试姿势总结 | Doonsec | [https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) |
+| 8 | 影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q](https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q) |
+| 9 | linux史诗级安全漏洞copyfail cve-2026-31431，及修复方案 | Doonsec | [https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA](https://mp.weixin.qq.com/s/AZGzdmcWJfMxsoJnW2NfLA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 红队进入“AI原生”时代：6分钟打到域控，攻防进入“分秒级” | Doonsec | [https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w](https://mp.weixin.qq.com/s/TInob0vvFuDLcIVcSItD0w) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | .sorry 勒索病毒爆发 | Doonsec | [https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow](https://mp.weixin.qq.com/s/82qrRNGbqE1PBhugxdT_Ow) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞挖掘：众测src测试姿势总结 | Doonsec | [https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ](https://mp.weixin.qq.com/s/ZMRh1ikVC7Sw19UgMcyAsQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | JAVA框架与组件 FastJSON 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g](https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W18/2026-05-02/`
+文章已归档到: `doc/2026/2026-05/2026-W18/2026-05-03/`
 
 ## 🔗 数据源说明
 
@@ -94,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -104,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-02 20:41:14*
+*生成时间: 2026-05-03 02:56:10*
 *报告工具: 微信文章安全归档系统*
