@@ -2,16 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +63,20 @@
 
 ### Doonsec
 
-- [Sub2Api 网关平台存在0计费bug漏洞](https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w) (发布日期: 2026-05-04)
+- [lodash库原型污染漏洞（CVE-2019-10744）](https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg) (发布日期: 2026-05-04)
+- [Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) (发布日期: 2026-05-04)
+- [cPanel关键漏洞已被用于攻击政府和MSP网络](https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw) (发布日期: 2026-05-04)
+- [结合AI挖掘Rhino反序列化利用链](https://mp.weixin.qq.com/s/dr7qc2b-KOVtX-Mmm-4EqA) (发布日期: 2026-05-04)
+- [今日（2026年5月4日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ) (发布日期: 2026-05-04)
+- [TailVNC：藏在Tailscale里的远程桌面后门](https://mp.weixin.qq.com/s/qnvikKbi58ShreoHwnz_0A) (发布日期: 2026-05-04)
+- [记一次SSRF+文件上传组合拳进行getshell](https://mp.weixin.qq.com/s/KdCaUAE8SoRggu_xYJRMKw) (发布日期: 2026-05-04)
+- [用任何模型都能挖出零日漏洞](https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg) (发布日期: 2026-05-04)
+- [为什么十年的漏洞检测逻辑编写经验让 Mythos 的漏洞数字显得不那么可怕](https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng) (发布日期: 2026-05-04)
+- [渗透测试基础总结，建议收藏！（附PDF）](https://mp.weixin.qq.com/s/29q4hSTemXZlR9iChb8hmg) (发布日期: 2026-05-04)
+- [DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及](https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg) (发布日期: 2026-05-04)
+- [AI中转站存在0元购漏洞](https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg) (发布日期: 2026-05-04)
+- [【资料】如何开展全源情报分析：情报分析的认知框架](https://mp.weixin.qq.com/s/97yNPYZvdH2SpOVF6EH6aw) (发布日期: 2026-05-04)
+- [【资料】情报分析的认知框架PPT](https://mp.weixin.qq.com/s/NjEgFd5dToipBwAUdEwWrw) (发布日期: 2026-05-04)
 
 
 ## 🎯 威胁详情分析
@@ -69,7 +85,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Sub2Api 网关平台存在0计费bug漏洞 | Doonsec | [https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w](https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w) |
+| 1 | lodash库原型污染漏洞（CVE-2019-10744） | Doonsec | [https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg](https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg) |
+| 2 | Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) |
+| 3 | cPanel关键漏洞已被用于攻击政府和MSP网络 | Doonsec | [https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw](https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw) |
+| 4 | 今日（2026年5月4日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ](https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ) |
+| 5 | 用任何模型都能挖出零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg](https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg) |
+| 6 | 为什么十年的漏洞检测逻辑编写经验让 Mythos 的漏洞数字显得不那么可怕 | Doonsec | [https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng](https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng) |
+| 7 | DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及 | Doonsec | [https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg](https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg) |
+| 8 | AI中转站存在0元购漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg](https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) |
 
 
 ## 📁 归档路径
@@ -85,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-04 10:13:24*
+*生成时间: 2026-05-04 17:40:55*
 *报告工具: 微信文章安全归档系统*
