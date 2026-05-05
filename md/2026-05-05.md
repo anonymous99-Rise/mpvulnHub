@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 3篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -65,17 +62,18 @@
 
 ### Doonsec
 
-- [追觅俞浩：针对员工无视公司信息安全管理规定 已提出民事诉讼](https://mp.weixin.qq.com/s/rhypcvj7Ku3euJVzgq7gLA) (发布日期: 2026-05-05)
-- [Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞](https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw) (发布日期: 2026-05-05)
-- [KreiosC2 v3：把社交媒体当成C2服务器的僵尸网络框架](https://mp.weixin.qq.com/s/w0sHU72BJF2GSISf5bxctQ) (发布日期: 2026-05-05)
-- [HackingTool：一个终端搞定185+渗透测试工具，5万+Star的全能工具箱](https://mp.weixin.qq.com/s/brJ87ZDMXqPWfCZE00IHSg) (发布日期: 2026-05-05)
-- [银狐通过税务主题钓鱼攻击在印度和俄罗斯部署 ABCDoor 恶意软件](https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg) (发布日期: 2026-05-05)
-- [网络安全运营服务价值](https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ) (发布日期: 2026-05-05)
-- [CISA发布《将零信任原则应用于运营技术》](https://mp.weixin.qq.com/s/WxF7mDPWrwqL8gZ_-3-zCg) (发布日期: 2026-05-05)
-- [Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞](https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA) (发布日期: 2026-05-05)
-- [CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用](https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w) (发布日期: 2026-05-05)
-- [网络安全技术 信息安全风险评估实施指南](https://mp.weixin.qq.com/s/ANTDUEm92VC-GoVPzjqGpQ) (发布日期: 2026-05-05)
-- [CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) (发布日期: 2026-05-05)
+- [AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。](https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w) (发布日期: 2026-05-05)
+- [汽车电子控制单元（ECU）信息安全防护技术标准化需求研究报告](https://mp.weixin.qq.com/s/aFOicx-XUHvdCcCUlUlR-w) (发布日期: 2026-05-05)
+- [暗网泄露:Lakemonster数据库 遭入侵——43,773 个钓鱼应用账户信息泄露，包括 GPS、电话号码和高级会员信息](https://mp.weixin.qq.com/s/n8-7Q8khVqvl3AFe7ktMvw) (发布日期: 2026-05-05)
+
+### BruceFeIix
+
+- [ ] [【资料】如何开展全源情报分析：情报分析的认知框架](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=1&sn=23713b261981c9818bbb83e38a80036b) (发布日期: 2026-05-05)
+- [ ] [【资料】情报分析的认知框架PPT](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=2&sn=a93905be4efda037f188308a39095040) (发布日期: 2026-05-05)
+- [ ] [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e) (发布日期: 2026-05-05)
+- [ ] [【安全圈】微软杀毒软件把系统“身份证”当病毒删了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=2&sn=a8900d858e03f970b8fb61e003b12091) (发布日期: 2026-05-05)
+- [ ] [【安全圈】月下载量超100万的 Python 工具被植入恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=3&sn=7d402393fb270210f1413b9de035fa30) (发布日期: 2026-05-05)
+- [ ] [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8) (发布日期: 2026-05-05)
 
 
 ## 🎯 威胁详情分析
@@ -84,28 +82,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw](https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw) |
-| 2 | Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA](https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA) |
-| 3 | CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w](https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w) |
-| 4 | CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE | Doonsec | [https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE | Doonsec | [https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐通过税务主题钓鱼攻击在印度和俄罗斯部署 ABCDoor 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg](https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 网络安全运营服务价值 | Doonsec | [https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ](https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ) |
+| 1 | AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。 | Doonsec | [https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w](https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w) |
+| 2 |  ] [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e) |
+| 3 |  ] [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8) |
 
 
 ## 📁 归档路径
@@ -121,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-05 02:45:50*
+*生成时间: 2026-05-05 06:16:05*
 *报告工具: 微信文章安全归档系统*
