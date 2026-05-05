@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 27
 - **数据源分布**:
-  - Doonsec: 3篇
-  - BruceFeIix: 6篇
+  - Doonsec: 27篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,18 +63,33 @@
 
 ### Doonsec
 
-- [AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。](https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w) (发布日期: 2026-05-05)
-- [汽车电子控制单元（ECU）信息安全防护技术标准化需求研究报告](https://mp.weixin.qq.com/s/aFOicx-XUHvdCcCUlUlR-w) (发布日期: 2026-05-05)
-- [暗网泄露:Lakemonster数据库 遭入侵——43,773 个钓鱼应用账户信息泄露，包括 GPS、电话号码和高级会员信息](https://mp.weixin.qq.com/s/n8-7Q8khVqvl3AFe7ktMvw) (发布日期: 2026-05-05)
-
-### BruceFeIix
-
-- [ ] [【资料】如何开展全源情报分析：情报分析的认知框架](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=1&sn=23713b261981c9818bbb83e38a80036b) (发布日期: 2026-05-05)
-- [ ] [【资料】情报分析的认知框架PPT](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=2&sn=a93905be4efda037f188308a39095040) (发布日期: 2026-05-05)
-- [ ] [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e) (发布日期: 2026-05-05)
-- [ ] [【安全圈】微软杀毒软件把系统“身份证”当病毒删了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=2&sn=a8900d858e03f970b8fb61e003b12091) (发布日期: 2026-05-05)
-- [ ] [【安全圈】月下载量超100万的 Python 工具被植入恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=3&sn=7d402393fb270210f1413b9de035fa30) (发布日期: 2026-05-05)
-- [ ] [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8) (发布日期: 2026-05-05)
+- [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击](https://mp.weixin.qq.com/s/gd25qIPLQgLSkG2HjUwk9w) (发布日期: 2026-05-05)
+- [无需API、一键接入｜Claude Security公测上线，AI直接扫描生产代码漏洞](https://mp.weixin.qq.com/s/9TCQ-kAsTtzTKmbWbBIFfA) (发布日期: 2026-05-05)
+- [Claude Security 公测！赋能代码安全检测](https://mp.weixin.qq.com/s/t0a1ZOt8huZMHsMQ0u67pg) (发布日期: 2026-05-05)
+- [【AI安全】Claude Security 公测！赋能企业代码安全检测](https://mp.weixin.qq.com/s/m-zyL-eTEmaQWQaQauAlHQ) (发布日期: 2026-05-05)
+- [GitHub 上藏着的六百万颗假星，背后是一条恶意软件产业链](https://mp.weixin.qq.com/s/vEjiK64sC1WwTDPVugwAkA) (发布日期: 2026-05-05)
+- [安全检测agent开发笔记(2)](https://mp.weixin.qq.com/s/pfjJhR2eevIv5dC0M79luQ) (发布日期: 2026-05-05)
+- [确保先进人工智能安全的四种治理方法](https://mp.weixin.qq.com/s/e3WNwE-VugEX_vIyCPlDZg) (发布日期: 2026-05-05)
+- [DeepZero: 睡梦中自动化挖掘 Windows 内核驱动的 0day](https://mp.weixin.qq.com/s/i6IBsXxA5qwbgdX6I7TkSA) (发布日期: 2026-05-05)
+- [安卓系统零点击漏洞可授予远程 Shell 访问权限](https://mp.weixin.qq.com/s/T4iES_vBJkMRrL9BvqIh2Q) (发布日期: 2026-05-05)
+- [Apache HTTP 服务器严重漏洞使数百万台服务器面临远程代码执行攻击风险](https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g) (发布日期: 2026-05-05)
+- [行业资讯：某单位网络安全服务项目，奇安信218万中标](https://mp.weixin.qq.com/s/2fRkh28_eJzZVe5H8C8Evw) (发布日期: 2026-05-05)
+- [Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成](https://mp.weixin.qq.com/s/bShRDQ0voKYTrJ9FeU2dHw) (发布日期: 2026-05-05)
+- [PayloadsAllTheThings：Web漏洞速查表](https://mp.weixin.qq.com/s/qqbuxNFua4wF3ZJlDufewA) (发布日期: 2026-05-05)
+- [282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）](https://mp.weixin.qq.com/s/wodOGhktItXVlECCvVa9QA) (发布日期: 2026-05-05)
+- [LeakDetector：一款自动化挖信息泄露的Bing Dork工具](https://mp.weixin.qq.com/s/p-OCgEp_B4tJSBo_Y5GOXg) (发布日期: 2026-05-05)
+- [CVE复现 | CVE-2025-55182](https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw) (发布日期: 2026-05-05)
+- [今日（2026年5月5日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/eY3tml4tlhvo64SIVqCHHw) (发布日期: 2026-05-05)
+- [Spring Boot 前后端分离渗透测试](https://mp.weixin.qq.com/s/swUwtx2h22UMCMw7agDfvw) (发布日期: 2026-05-05)
+- [受AI影响，Google下调Chrome漏洞赏金十倍](https://mp.weixin.qq.com/s/eX_QIrkLqblUZOubZWiFGg) (发布日期: 2026-05-05)
+- [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s/W-Ei8fxFNyKM0FzSxDUQlA) (发布日期: 2026-05-05)
+- [AI 红队怎么做？8 家头部公司全公开了](https://mp.weixin.qq.com/s/kcqU3H5NV_is0AOvXFeg9g) (发布日期: 2026-05-05)
+- [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s/tOMJUBzPNVA2Oy-qzApCGA) (发布日期: 2026-05-05)
+- [ISC DHCP Server：利用特性链实现未认证的Root远程代码执行](https://mp.weixin.qq.com/s/2zGxkh_JpFiOCXab2vYWDA) (发布日期: 2026-05-05)
+- [【最后一天圈子限时优惠】红队后渗透CobaltStrike插件更新](https://mp.weixin.qq.com/s/ApxPNA3IUFoixrjiXHRUkg) (发布日期: 2026-05-05)
+- [【五一最后一天】|  2026老鑫0基础安全培训](https://mp.weixin.qq.com/s/ksyX0XelIzrCoWy457ZTJg) (发布日期: 2026-05-05)
+- [从追觅内部泄密事件看信息安全意识：比制度更重要的“第一道防线”](https://mp.weixin.qq.com/s/yfKPa1_V1-3unUucNBoYKw) (发布日期: 2026-05-05)
+- [CVE复现 | CVE-2026-21858复现(含环境)](https://mp.weixin.qq.com/s/i35brZ1Xc9LXsJCjHPRudg) (发布日期: 2026-05-05)
 
 
 ## 🎯 威胁详情分析
@@ -82,9 +98,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI时代的代码审计：既要懂漏洞原理，又要会玩转 AI。关于103节课后，我把课程改名为「AI Java代码审计」这件事。 | Doonsec | [https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w](https://mp.weixin.qq.com/s/rjYURoSexFUq4FAkv4zB-w) |
-| 2 |  ] [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e) |
-| 3 |  ] [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8) |
+| 1 | 无需API、一键接入｜Claude Security公测上线，AI直接扫描生产代码漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9TCQ-kAsTtzTKmbWbBIFfA](https://mp.weixin.qq.com/s/9TCQ-kAsTtzTKmbWbBIFfA) |
+| 2 | DeepZero: 睡梦中自动化挖掘 Windows 内核驱动的 0day | Doonsec | [https://mp.weixin.qq.com/s/i6IBsXxA5qwbgdX6I7TkSA](https://mp.weixin.qq.com/s/i6IBsXxA5qwbgdX6I7TkSA) |
+| 3 | 安卓系统零点击漏洞可授予远程 Shell 访问权限 | Doonsec | [https://mp.weixin.qq.com/s/T4iES_vBJkMRrL9BvqIh2Q](https://mp.weixin.qq.com/s/T4iES_vBJkMRrL9BvqIh2Q) |
+| 4 | Apache HTTP 服务器严重漏洞使数百万台服务器面临远程代码执行攻击风险 | Doonsec | [https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g](https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g) |
+| 5 | Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成 | Doonsec | [https://mp.weixin.qq.com/s/bShRDQ0voKYTrJ9FeU2dHw](https://mp.weixin.qq.com/s/bShRDQ0voKYTrJ9FeU2dHw) |
+| 6 | PayloadsAllTheThings：Web漏洞速查表 | Doonsec | [https://mp.weixin.qq.com/s/qqbuxNFua4wF3ZJlDufewA](https://mp.weixin.qq.com/s/qqbuxNFua4wF3ZJlDufewA) |
+| 7 | 282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业） | Doonsec | [https://mp.weixin.qq.com/s/wodOGhktItXVlECCvVa9QA](https://mp.weixin.qq.com/s/wodOGhktItXVlECCvVa9QA) |
+| 8 | CVE复现 | CVE-2025-55182 | Doonsec | [https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw](https://mp.weixin.qq.com/s/Rr18PKCV5-66T_4u4ZDnkw) |
+| 9 | 今日（2026年5月5日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/eY3tml4tlhvo64SIVqCHHw](https://mp.weixin.qq.com/s/eY3tml4tlhvo64SIVqCHHw) |
+| 10 | 受AI影响，Google下调Chrome漏洞赏金十倍 | Doonsec | [https://mp.weixin.qq.com/s/eX_QIrkLqblUZOubZWiFGg](https://mp.weixin.qq.com/s/eX_QIrkLqblUZOubZWiFGg) |
+| 11 | CVE复现 | CVE-2026-21858复现(含环境) | Doonsec | [https://mp.weixin.qq.com/s/i35brZ1Xc9LXsJCjHPRudg](https://mp.weixin.qq.com/s/i35brZ1Xc9LXsJCjHPRudg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Apache HTTP 服务器严重漏洞使数百万台服务器面临远程代码执行攻击风险 | Doonsec | [https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g](https://mp.weixin.qq.com/s/mWmqm0m1f8zbaV8xk3vY8g) |
+| 2 | ISC DHCP Server：利用特性链实现未认证的Root远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/2zGxkh_JpFiOCXab2vYWDA](https://mp.weixin.qq.com/s/2zGxkh_JpFiOCXab2vYWDA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026.05.05日，国家电网威胁情报，被挂马！ | Doonsec | [https://mp.weixin.qq.com/s/W-Ei8fxFNyKM0FzSxDUQlA](https://mp.weixin.qq.com/s/W-Ei8fxFNyKM0FzSxDUQlA) |
+| 2 | 2026.05.05日，国家电网威胁情报，被挂马！ | Doonsec | [https://mp.weixin.qq.com/s/tOMJUBzPNVA2Oy-qzApCGA](https://mp.weixin.qq.com/s/tOMJUBzPNVA2Oy-qzApCGA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球知名虚拟光驱软件DAEMON Tools遭供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/gd25qIPLQgLSkG2HjUwk9w](https://mp.weixin.qq.com/s/gd25qIPLQgLSkG2HjUwk9w) |
 
 
 ## 📁 归档路径
@@ -100,8 +144,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +154,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-05 06:16:05*
+*生成时间: 2026-05-05 21:02:49*
 *报告工具: 微信文章安全归档系统*
