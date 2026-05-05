@@ -1,20 +1,22 @@
-# 2026-05-04 安全威胁态势报告
+# 2026-05-05 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
+- **漏洞利用**: 4篇
 - **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,20 +65,17 @@
 
 ### Doonsec
 
-- [lodash库原型污染漏洞（CVE-2019-10744）](https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg) (发布日期: 2026-05-04)
-- [Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) (发布日期: 2026-05-04)
-- [cPanel关键漏洞已被用于攻击政府和MSP网络](https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw) (发布日期: 2026-05-04)
-- [结合AI挖掘Rhino反序列化利用链](https://mp.weixin.qq.com/s/dr7qc2b-KOVtX-Mmm-4EqA) (发布日期: 2026-05-04)
-- [今日（2026年5月4日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ) (发布日期: 2026-05-04)
-- [TailVNC：藏在Tailscale里的远程桌面后门](https://mp.weixin.qq.com/s/qnvikKbi58ShreoHwnz_0A) (发布日期: 2026-05-04)
-- [记一次SSRF+文件上传组合拳进行getshell](https://mp.weixin.qq.com/s/KdCaUAE8SoRggu_xYJRMKw) (发布日期: 2026-05-04)
-- [用任何模型都能挖出零日漏洞](https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg) (发布日期: 2026-05-04)
-- [为什么十年的漏洞检测逻辑编写经验让 Mythos 的漏洞数字显得不那么可怕](https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng) (发布日期: 2026-05-04)
-- [渗透测试基础总结，建议收藏！（附PDF）](https://mp.weixin.qq.com/s/29q4hSTemXZlR9iChb8hmg) (发布日期: 2026-05-04)
-- [DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及](https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg) (发布日期: 2026-05-04)
-- [AI中转站存在0元购漏洞](https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg) (发布日期: 2026-05-04)
-- [【资料】如何开展全源情报分析：情报分析的认知框架](https://mp.weixin.qq.com/s/97yNPYZvdH2SpOVF6EH6aw) (发布日期: 2026-05-04)
-- [【资料】情报分析的认知框架PPT](https://mp.weixin.qq.com/s/NjEgFd5dToipBwAUdEwWrw) (发布日期: 2026-05-04)
+- [追觅俞浩：针对员工无视公司信息安全管理规定 已提出民事诉讼](https://mp.weixin.qq.com/s/rhypcvj7Ku3euJVzgq7gLA) (发布日期: 2026-05-05)
+- [Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞](https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw) (发布日期: 2026-05-05)
+- [KreiosC2 v3：把社交媒体当成C2服务器的僵尸网络框架](https://mp.weixin.qq.com/s/w0sHU72BJF2GSISf5bxctQ) (发布日期: 2026-05-05)
+- [HackingTool：一个终端搞定185+渗透测试工具，5万+Star的全能工具箱](https://mp.weixin.qq.com/s/brJ87ZDMXqPWfCZE00IHSg) (发布日期: 2026-05-05)
+- [银狐通过税务主题钓鱼攻击在印度和俄罗斯部署 ABCDoor 恶意软件](https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg) (发布日期: 2026-05-05)
+- [网络安全运营服务价值](https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ) (发布日期: 2026-05-05)
+- [CISA发布《将零信任原则应用于运营技术》](https://mp.weixin.qq.com/s/WxF7mDPWrwqL8gZ_-3-zCg) (发布日期: 2026-05-05)
+- [Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞](https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA) (发布日期: 2026-05-05)
+- [CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用](https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w) (发布日期: 2026-05-05)
+- [网络安全技术 信息安全风险评估实施指南](https://mp.weixin.qq.com/s/ANTDUEm92VC-GoVPzjqGpQ) (发布日期: 2026-05-05)
+- [CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) (发布日期: 2026-05-05)
 
 
 ## 🎯 威胁详情分析
@@ -85,25 +84,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | lodash库原型污染漏洞（CVE-2019-10744） | Doonsec | [https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg](https://mp.weixin.qq.com/s/iWoBYhiTP7p-uqhlU5LjZg) |
-| 2 | Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) |
-| 3 | cPanel关键漏洞已被用于攻击政府和MSP网络 | Doonsec | [https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw](https://mp.weixin.qq.com/s/cTEC6xbOSexUld25Qo7zTw) |
-| 4 | 今日（2026年5月4日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ](https://mp.weixin.qq.com/s/iERwGEYTYSiryFCqSuqFQQ) |
-| 5 | 用任何模型都能挖出零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg](https://mp.weixin.qq.com/s/NBFh1Sal713A7PIYff40gg) |
-| 6 | 为什么十年的漏洞检测逻辑编写经验让 Mythos 的漏洞数字显得不那么可怕 | Doonsec | [https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng](https://mp.weixin.qq.com/s/_m0CXcPN1lRIrTFeardRng) |
-| 7 | DeepAudit - 人人拥有的 AI 审计战队，让漏洞挖掘触手可及 | Doonsec | [https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg](https://mp.weixin.qq.com/s/gUbHfFCH1d1ZR9lYcioesg) |
-| 8 | AI中转站存在0元购漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg](https://mp.weixin.qq.com/s/VF7oeitaGvbLnqfyeC4-qg) |
+| 1 | Windows 11 24H2中近期被披露了一个高危本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw](https://mp.weixin.qq.com/s/TcSg2o__dZ01O-LH8DBKZw) |
+| 2 | Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA](https://mp.weixin.qq.com/s/cposzevwdV2rA5GSa6e4tA) |
+| 3 | CISA 警报强调 cPanel 和 WHM 安全漏洞正被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w](https://mp.weixin.qq.com/s/IuTcWT46FYCUnKwlurt27w) |
+| 4 | CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE | Doonsec | [https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Camel 远程代码执行漏洞  | CVE-2026-40453复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw](https://mp.weixin.qq.com/s/4A4MMS9sm0dJLXc7slwHjw) |
+| 1 | CVE-2026-41940 深度分析影响7000万+量级的cPanel/WHM认证绕过漏洞：从CRLF注入到匿名RCE | Doonsec | [https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA](https://mp.weixin.qq.com/s/oqD8Pxgauo_ej3QzDYLhQA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐通过税务主题钓鱼攻击在印度和俄罗斯部署 ABCDoor 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg](https://mp.weixin.qq.com/s/G15PwNboP-utmBlKqAerdg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络安全运营服务价值 | Doonsec | [https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ](https://mp.weixin.qq.com/s/PkbH3KzpwlvMU0ITN5hZbQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W19/2026-05-04/`
+文章已归档到: `doc/2026/2026-05/2026-W19/2026-05-05/`
 
 ## 🔗 数据源说明
 
@@ -114,8 +121,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-04 17:40:55*
+*生成时间: 2026-05-05 02:45:50*
 *报告工具: 微信文章安全归档系统*
