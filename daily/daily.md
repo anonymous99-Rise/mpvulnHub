@@ -9,12 +9,11 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -64,22 +63,22 @@
 
 ### Doonsec
 
-- [【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性](https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q) (发布日期: 2026-05-06)
-- [技校毕业却造出中国第一病毒！谁说网络安全高不可攀的？](https://mp.weixin.qq.com/s/-_LAU-ihTZigjNtnGuP6FQ) (发布日期: 2026-05-06)
-- [【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482)](https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg) (发布日期: 2026-05-06)
-- [【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073)](https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA) (发布日期: 2026-05-06)
-- [分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕](https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA) (发布日期: 2026-05-06)
-- [【立即应急】cPanel &amp; WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用](https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg) (发布日期: 2026-05-06)
-- [【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告](https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw) (发布日期: 2026-05-06)
-- [【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告](https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA) (发布日期: 2026-05-06)
-- [企业赏金SRC实战案例三](https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw) (发布日期: 2026-05-06)
-- [关键漏洞可致 30 万 Ollama 部署信息被盗](https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg) (发布日期: 2026-05-06)
-- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/8JIvBwHJl_vFljmjDURSsg) (发布日期: 2026-05-06)
-- [同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) (发布日期: 2026-05-06)
-- [深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞](https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow) (发布日期: 2026-05-06)
-- [【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc](https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A) (发布日期: 2026-05-06)
-- [官方警示 | 国家计算机病毒应急处理中心通报67款App违法违规，个人信息保护再敲警钟](https://mp.weixin.qq.com/s/es-DJvqGN7gWYI2kJRzE6w) (发布日期: 2026-05-06)
-- [台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设](https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g) (发布日期: 2026-05-06)
+- [200秒拿到Shell，6分钟打穿域控：全自动渗透已经把攻防拖进了“秒级”时代](https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A) (发布日期: 2026-05-06)
+- [高危安卓零点击漏洞可远程获取Shell访问权限](https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng) (发布日期: 2026-05-06)
+- [具身智能威胁分析的分层方法和全景图](https://mp.weixin.qq.com/s/lXkKpvotnsJNmAzUZloufw) (发布日期: 2026-05-06)
+- [[智能体攻防实战] 一.大模型赋能网络入侵检测实战探索（CodeBuddy和d.run实现）](https://mp.weixin.qq.com/s/iatnItf7YOAYAQyVA69AJg) (发布日期: 2026-05-06)
+- [优秀论文 | 南京理工大学逄淑超：面向无目标后门攻击的投毒样本检测方法](https://mp.weixin.qq.com/s/L2CDDSxjqusF3KTTrqL_Tw) (发布日期: 2026-05-06)
+- [MCP+BurpSuite 实现AI漏洞挖掘](https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw) (发布日期: 2026-05-06)
+- [渗透测试Payload速查手册](https://mp.weixin.qq.com/s/cj091LxuiMmWzGosxKTNVw) (发布日期: 2026-05-06)
+- [360SRC | 第四届白帽赏金挑战赛正式开启！诚邀全网顶尖白帽，共探安全边界](https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw) (发布日期: 2026-05-06)
+- [一次挖矿病毒处置真实案例](https://mp.weixin.qq.com/s/p2nH6aV8Ki-GJ3uhJcmOjg) (发布日期: 2026-05-06)
+- [人工智能重要安全漏洞通报Ollama安全漏洞](https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag) (发布日期: 2026-05-06)
+- [Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞](https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ) (发布日期: 2026-05-06)
+- [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) (发布日期: 2026-05-06)
+- [2026未来CSO训练营xa0|xa0首期回顾：大模型、具身智能、安全治理、攻防实战](https://mp.weixin.qq.com/s/Wm__323cGUstAweVfWcfhA) (发布日期: 2026-05-06)
+- [智能体驱动的漏洞挖掘实践](https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw) (发布日期: 2026-05-06)
+- [AIGC大模型数据安全分析研究](https://mp.weixin.qq.com/s/ZG8P45C1-iljaOSPUyvZCg) (发布日期: 2026-05-06)
+- [仅34%网络安全专业人员愿留任 CISO面临留住人才压力](https://mp.weixin.qq.com/s/Ka_lZTv1ESMLbtUN-J5dCw) (发布日期: 2026-05-06)
 
 
 ## 🎯 威胁详情分析
@@ -88,30 +87,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性 | Doonsec | [https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q](https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q) |
-| 2 | 【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482) | Doonsec | [https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg](https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg) |
-| 3 | 【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073) | Doonsec | [https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA](https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA) |
-| 4 | 分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕 | Doonsec | [https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA](https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA) |
-| 5 | 【立即应急】cPanel &amp; WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用 | Doonsec | [https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg](https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg) |
-| 6 | 【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw](https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw) |
-| 7 | 【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA](https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA) |
-| 8 | 关键漏洞可致 30 万 Ollama 部署信息被盗 | Doonsec | [https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg](https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg) |
-| 9 | 同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) |
-| 10 | 深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow](https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow) |
-| 11 | 【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc | Doonsec | [https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A](https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A) |
-| 12 | 台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设 | Doonsec | [https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g](https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g) |
+| 1 | 高危安卓零点击漏洞可远程获取Shell访问权限 | Doonsec | [https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng](https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng) |
+| 2 | MCP+BurpSuite 实现AI漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw](https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw) |
+| 3 | 人工智能重要安全漏洞通报Ollama安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag](https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag) |
+| 4 | Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ](https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ) |
+| 5 | Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) |
+| 6 | 智能体驱动的漏洞挖掘实践 | Doonsec | [https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw](https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) |
+| 1 | 200秒拿到Shell，6分钟打穿域控：全自动渗透已经把攻防拖进了“秒级”时代 | Doonsec | [https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A](https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A) |
+| 2 | Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 企业赏金SRC实战案例三 | Doonsec | [https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw](https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw) |
+| 1 | 360SRC | 第四届白帽赏金挑战赛正式开启！诚邀全网顶尖白帽，共探安全边界 | Doonsec | [https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw](https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw) |
 
 
 ## 📁 归档路径
@@ -127,8 +121,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -137,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-06 10:18:45*
+*生成时间: 2026-05-06 14:11:54*
 *报告工具: 微信文章安全归档系统*
