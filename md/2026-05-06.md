@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 15篇
-  - BruceFeIix: 4篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,28 +64,22 @@
 
 ### Doonsec
 
-- [安全警报 | 长期针对我国发动网络攻击的黑客组织再犯新案，首航高科遭恶意攻击](https://mp.weixin.qq.com/s/DXw-xd9F7BTbrxLJ6QHcQw) (发布日期: 2026-05-06)
-- [隔离与恢复：美国CISA加速布局战争冲突下的关键基础设施韧性](https://mp.weixin.qq.com/s/RZXPy2dtkP5TFUG1Oe4YNA) (发布日期: 2026-05-06)
-- [【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告](https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw) (发布日期: 2026-05-06)
-- [Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中](https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ) (发布日期: 2026-05-06)
-- [用Python自动化漏洞狩猎，打造专属工具，让狩猎速度提升10倍！](https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ) (发布日期: 2026-05-06)
-- [严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险](https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg) (发布日期: 2026-05-06)
-- [安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵](https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og) (发布日期: 2026-05-06)
-- [全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览](https://mp.weixin.qq.com/s/F_rC_eOsUvsuLqV9pcUu7g) (发布日期: 2026-05-06)
-- [2026第四届全国数据安全职业技能竞赛暨第四届全国安防行业职业技能竞赛“美亚柏科杯”数据安全管理员职业技能竞赛总决赛第二批18号下午wp](https://mp.weixin.qq.com/s/-aokqaJajF8ka7Poj6a2DQ) (发布日期: 2026-05-06)
-- [授权机构2026年5月CISP培训开班计划公告](https://mp.weixin.qq.com/s/qZH-uHjARYO73jz84idenQ) (发布日期: 2026-05-06)
-- [某CMS最新版本前台RCE审计流程](https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA) (发布日期: 2026-05-06)
-- [大模型安全深度学习指南：提示注入与越狱攻击专题(1)](https://mp.weixin.qq.com/s/DLWMVQA0YxFKMOkX61bQhg) (发布日期: 2026-05-06)
-- [测评 || AI 时代，谁才是真正能打的代码审计工具？](https://mp.weixin.qq.com/s/PnMpZXA46Gk8jCxqQ9ES9g) (发布日期: 2026-05-06)
-- [AI Java代码审计实战](https://mp.weixin.qq.com/s/dSgMEspt8cM1F1bkG0zZpw) (发布日期: 2026-05-06)
-- [安全圈的“降维打击”！VulnPlus：AI驱动全自动漏洞挖掘（文末有福利）](https://mp.weixin.qq.com/s/ZVHFCzIBoD1i1QFtRA5aiA) (发布日期: 2026-05-06)
-
-### BruceFeIix
-
-- [ ] [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85) (发布日期: 2026-05-06)
-- [ ] [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0) (发布日期: 2026-05-06)
-- [ ] [今日（2026年5月5日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9) (发布日期: 2026-05-06)
-- [ ] [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c) (发布日期: 2026-05-06)
+- [【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性](https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q) (发布日期: 2026-05-06)
+- [技校毕业却造出中国第一病毒！谁说网络安全高不可攀的？](https://mp.weixin.qq.com/s/-_LAU-ihTZigjNtnGuP6FQ) (发布日期: 2026-05-06)
+- [【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482)](https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg) (发布日期: 2026-05-06)
+- [【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073)](https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA) (发布日期: 2026-05-06)
+- [分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕](https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA) (发布日期: 2026-05-06)
+- [【立即应急】cPanel &amp; WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用](https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg) (发布日期: 2026-05-06)
+- [【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告](https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw) (发布日期: 2026-05-06)
+- [【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告](https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA) (发布日期: 2026-05-06)
+- [企业赏金SRC实战案例三](https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw) (发布日期: 2026-05-06)
+- [关键漏洞可致 30 万 Ollama 部署信息被盗](https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg) (发布日期: 2026-05-06)
+- [360本部红队直招，实习/社招皆可，速投！](https://mp.weixin.qq.com/s/8JIvBwHJl_vFljmjDURSsg) (发布日期: 2026-05-06)
+- [同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) (发布日期: 2026-05-06)
+- [深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞](https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow) (发布日期: 2026-05-06)
+- [【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc](https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A) (发布日期: 2026-05-06)
+- [官方警示 | 国家计算机病毒应急处理中心通报67款App违法违规，个人信息保护再敲警钟](https://mp.weixin.qq.com/s/es-DJvqGN7gWYI2kJRzE6w) (发布日期: 2026-05-06)
+- [台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设](https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g) (发布日期: 2026-05-06)
 
 
 ## 🎯 威胁详情分析
@@ -95,36 +88,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw](https://mp.weixin.qq.com/s/sAuN1ugzFNE_59cEwQ7NZw) |
-| 2 | Milesight IP 摄像头漏洞：5 个关键 CVE 导致全球 14,706 台监控设备暴露于风险之中 | Doonsec | [https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ](https://mp.weixin.qq.com/s/cUHeCo207MEqWbuWEQQvfQ) |
-| 3 | 用Python自动化漏洞狩猎，打造专属工具，让狩猎速度提升10倍！ | Doonsec | [https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ](https://mp.weixin.qq.com/s/gymd7aPTPHPkc1Xcu49diQ) |
-| 4 | 严重漏洞可能导致 30 万个 Ollama 部署面临信息泄露风险 | Doonsec | [https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg](https://mp.weixin.qq.com/s/mITg4jM2D8IwByt9nUM9eg) |
-| 5 | 安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵 | Doonsec | [https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og](https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og) |
-| 6 | 全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/F_rC_eOsUvsuLqV9pcUu7g](https://mp.weixin.qq.com/s/F_rC_eOsUvsuLqV9pcUu7g) |
-| 7 | 安全圈的“降维打击”！VulnPlus：AI驱动全自动漏洞挖掘（文末有福利） | Doonsec | [https://mp.weixin.qq.com/s/ZVHFCzIBoD1i1QFtRA5aiA](https://mp.weixin.qq.com/s/ZVHFCzIBoD1i1QFtRA5aiA) |
-| 8 |  ] [今日（2026年5月5日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9) |
-| 9 |  ] [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c) |
+| 1 | 【论文速读】|生成漏洞验证测试以帮助增强复杂软件的安全性 | Doonsec | [https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q](https://mp.weixin.qq.com/s/RUgtM6UMQxAxihbAu-oj2Q) |
+| 2 | 【漏洞通告】Ollama 未授权内存泄露漏洞(CVE-2026-7482) | Doonsec | [https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg](https://mp.weixin.qq.com/s/suyeuaKwQSzS5JtMlo_-Hg) |
+| 3 | 【漏洞通告】Android ADB 认证绕过漏洞(CVE-2026-0073) | Doonsec | [https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA](https://mp.weixin.qq.com/s/N9OpLuxge7XVXhmPPlJsbA) |
+| 4 | 分析 Mythos：为什么十年检测经验让我觉得漏洞数字没那么可怕 | Doonsec | [https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA](https://mp.weixin.qq.com/s/l9R1P96icRMI2EyjCQxsSA) |
+| 5 | 【立即应急】cPanel &amp; WHM 认证绕过漏洞（CVE-2026-41940）已被大规模自动化利用 | Doonsec | [https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg](https://mp.weixin.qq.com/s/MErccH5iioHEJsU6RjzFgg) |
+| 6 | 【已复现】Android ADB 认证绕过漏洞(CVE-2026-0073)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw](https://mp.weixin.qq.com/s/Lbr65Cg3EKTCOjRLJjP0lw) |
+| 7 | 【在野利用】Palo Alto Networks PAN-OS 缓冲区溢出漏洞(CVE-2026-0300)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA](https://mp.weixin.qq.com/s/CVuwSix19RoeoXW0R-wpFA) |
+| 8 | 关键漏洞可致 30 万 Ollama 部署信息被盗 | Doonsec | [https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg](https://mp.weixin.qq.com/s/oQ3S6LWCYRhuolkShzKupg) |
+| 9 | 同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) |
+| 10 | 深度解析：OpenAI 的红队测试，如何在发布前找出模型漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow](https://mp.weixin.qq.com/s/zveO60reYLzH1AWA-A9Tow) |
+| 11 | 【漏洞预警】核弹级提权漏洞 CVE-2026-31431已复现 含Poc | Doonsec | [https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A](https://mp.weixin.qq.com/s/w7bK4SaiqCxoRDSAcQTt6A) |
+| 12 | 台湾23岁学生用SDR和手持电台瘫痪四列高铁：TETRA无线电漏洞让19年安全体系形同虚设 | Doonsec | [https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g](https://mp.weixin.qq.com/s/2FbP_KviNwol4rMc4Kil-g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安卓零点击 RCE 漏洞（CVE-2026-0073）深度解析：同一 WiFi 下，手机放着不动也会被入侵 | Doonsec | [https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og](https://mp.weixin.qq.com/s/n3gChSDS9gtAk1Hpj6U-Og) |
-| 2 | 某CMS最新版本前台RCE审计流程 | Doonsec | [https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA](https://mp.weixin.qq.com/s/k27h7AAfms33bBqnFOkmsA) |
-| 3 | 大模型安全深度学习指南：提示注入与越狱攻击专题(1) | Doonsec | [https://mp.weixin.qq.com/s/DLWMVQA0YxFKMOkX61bQhg](https://mp.weixin.qq.com/s/DLWMVQA0YxFKMOkX61bQhg) |
-| 4 |  ] [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c) |
+| 1 | 同享人力资源管理系统 TXEHR V15 PeiXun.asmx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ](https://mp.weixin.qq.com/s/THOGDCE80d2RQwDMixwQwQ) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [2026.05.05日，国家电网威胁情报，被挂马！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85) |
+| 1 | 企业赏金SRC实战案例三 | Doonsec | [https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw](https://mp.weixin.qq.com/s/NHFE0OxQ0Am-C-uvlf7Xaw) |
 
 
 ## 📁 归档路径
@@ -140,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -150,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-06 06:29:06*
+*生成时间: 2026-05-06 10:18:45*
 *报告工具: 微信文章安全归档系统*
