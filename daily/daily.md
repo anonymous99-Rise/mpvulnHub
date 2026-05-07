@@ -2,21 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 4篇
+  - BruceFeIix: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 12篇
+- **安全运营**: 4篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,17 +65,33 @@
 
 ### Doonsec
 
-- [LLM开源方案Ollama曝严重漏洞，30万个部署面临信息失窃风险](https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ) (发布日期: 2026-05-07)
-- [一个面向 Java 反序列化测试的桌面 GUI 工具（5月5日更新）](https://mp.weixin.qq.com/s/11Tp4cVvo3UWkAhb75_91Q) (发布日期: 2026-05-07)
-- [AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) (发布日期: 2026-05-07)
-- [【漏洞案例】页游websocket协议使用fatbeans改包一键通关](https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w) (发布日期: 2026-05-07)
-- [[安全工具]4 个 Ghost Bits Payload 生成工具](https://mp.weixin.qq.com/s/0256YyvDpjoHOFiy9gBP0Q) (发布日期: 2026-05-07)
-- [安卓高危0Day漏洞可远程获取Shell访问权限](https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA) (发布日期: 2026-05-07)
-- [Claude 间接提示词注入恶意样本分析](https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw) (发布日期: 2026-05-07)
-- [【SRC实战】|文件上传：这3个场景，比getshell更常见](https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg) (发布日期: 2026-05-07)
-- [TC260-TR-001-2026《智能驾驶网络和数据安全标准化研究》](https://mp.weixin.qq.com/s/fpBW_oK3GHW9yWp_Slb5tQ) (发布日期: 2026-05-07)
-- [中科院：中美网络安全漏洞披露与共享政策研究](https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA) (发布日期: 2026-05-07)
-- [代码审计篇——正则匹配](https://mp.weixin.qq.com/s/f3MBc2H8MeCOfYvMc9P4fg) (发布日期: 2026-05-07)
+- [别再只会说跟AI说“帮我进行代码审计”了：AI 代码审计 Prompt 工程：塑造 AI 的“代码审计人格” 实践总结](https://mp.weixin.qq.com/s/hVkniM1BnlzX8kTal3sYWA) (发布日期: 2026-05-07)
+- [CVE-2026-41940 POC](https://mp.weixin.qq.com/s/ecW5RevgLKLSLjNxEVr0sw) (发布日期: 2026-05-07)
+- [赛事招标丨网络安全攻防演练竞争性磋商公告](https://mp.weixin.qq.com/s/AmzXOFMj6ebD5pKFK9LbMg) (发布日期: 2026-05-07)
+- [关于发布国赛“美亚柏科杯”数据安全管理员竞赛总决赛排名公示](https://mp.weixin.qq.com/s/0moZxRIIwsURsx6s6ZMliA) (发布日期: 2026-05-07)
+
+### BruceFeIix
+
+- [ ] [威努特赋能烟草制造，筑牢全流程数据安全屏障](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141498&idx=1&sn=3a94c95b32e268951ef45a3af410ebba) (发布日期: 2026-05-07)
+- [ ] [【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505584&idx=1&sn=ca44217a8c928da367571bb4e022801c) (发布日期: 2026-05-07)
+- [ ] [Palo Alto PAN-OS 高危漏洞已遭在野利用：可获root权限，官方下周发补丁](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614579&idx=2&sn=ad625ae6a74ef9508c95bad9c6cea4ef) (发布日期: 2026-05-07)
+- [ ] [CNCERT：关于Linux内核存在本地权限提升漏洞的安全公告](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515890&idx=2&sn=01daa1c7be2168b06ef9189578893d6d) (发布日期: 2026-05-07)
+- [ ] [人工智能如何改变威胁检测](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542789&idx=1&sn=753630d95146336166bf1ab9b282c348) (发布日期: 2026-05-07)
+- [ ] [【安全圈】安卓高危0Day漏洞可远程获取Shell访问权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076197&idx=1&sn=f04ddcae84cf9ff13b2696de01ec65eb) (发布日期: 2026-05-07)
+- [ ] [【安全圈】上古软件DaemonTools被投毒埋下木马：直接卸载吧 已经没啥用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076197&idx=2&sn=d5866e3f0b1ae35fa7de7fc57defec1d) (发布日期: 2026-05-07)
+- [ ] [全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141220&idx=2&sn=440899fbec56c3e3d84cb7f8e2790e74) (发布日期: 2026-05-07)
+- [ ] [Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=1&sn=cf1d9580501b94ce494712fa2e09e95c) (发布日期: 2026-05-07)
+- [ ] [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251) (发布日期: 2026-05-07)
+- [ ] [美团SRC助力 | 你敢信，他们都来了！HPW白帽世界大会2026全议程发布](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=1&sn=5b3d4f7d62a8e7212d9dff1cc4910a45) (发布日期: 2026-05-07)
+- [ ] [江湖征召令｜美团SRC专测活动进行中](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=2&sn=62b64d34eb01c165640ce5b18fc56cf3) (发布日期: 2026-05-07)
+- [ ] [CNVD漏洞周报2026年第17期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501551&idx=1&sn=18e7edf237362243bedb7a681a53cc15) (发布日期: 2026-05-07)
+- [ ] [谷歌Antigravity AI 智能体管理器曝出漏洞：可逃出沙箱，让攻击者实现远程代码执行](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d) (发布日期: 2026-05-07)
+- [ ] [2026白帽赏金挑战赛来袭｜MiSRC等你来战](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520766&idx=1&sn=92271a4ba532a217d567534920770763) (发布日期: 2026-05-07)
+- [ ] [利用302实现xss的一个思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499410&idx=1&sn=f8ee5f907fb162d3b81bdfa24a2291b7) (发布日期: 2026-05-07)
+- [ ] [[智能体攻防实战] 一.大模型赋能网络入侵检测实战探索（CodeBuddy和d.run实现）](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502909&idx=1&sn=efa7a5b44474921cb8788055d6f5a57a) (发布日期: 2026-05-07)
+- [ ] [【活动】白帽赏金挑战赛JSRC活动进行中！](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850845&idx=1&sn=b6102dccc8f9355e879212d5b703a867) (发布日期: 2026-05-07)
+- [ ] [CNVD漏洞周报2026年第17期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=1&sn=49bed22ebc39742e20c189f53538f961) (发布日期: 2026-05-07)
+- [ ] [上周关注度较高的产品安全漏洞(20260427-20260503)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=2&sn=1991f529308bac06911fe613c6256b3d) (发布日期: 2026-05-07)
 
 
 ## 🎯 威胁详情分析
@@ -84,24 +100,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LLM开源方案Ollama曝严重漏洞，30万个部署面临信息失窃风险 | Doonsec | [https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ](https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ) |
-| 2 | AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令 | Doonsec | [https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) |
-| 3 | 【漏洞案例】页游websocket协议使用fatbeans改包一键通关 | Doonsec | [https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w](https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w) |
-| 4 | 安卓高危0Day漏洞可远程获取Shell访问权限 | Doonsec | [https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA](https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA) |
-| 5 | 中科院：中美网络安全漏洞披露与共享政策研究 | Doonsec | [https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA](https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA) |
+| 1 | CVE-2026-41940 POC | Doonsec | [https://mp.weixin.qq.com/s/ecW5RevgLKLSLjNxEVr0sw](https://mp.weixin.qq.com/s/ecW5RevgLKLSLjNxEVr0sw) |
+| 2 |  ] [【已复现】Ollama 内存泄漏漏洞(CVE-2026-7482)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505584&idx=1&sn=ca44217a8c928da367571bb4e022801c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505584&idx=1&sn=ca44217a8c928da367571bb4e022801c) |
+| 3 |  ] [Palo Alto PAN-OS 高危漏洞已遭在野利用：可获root权限，官方下周发补丁 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614579&idx=2&sn=ad625ae6a74ef9508c95bad9c6cea4ef](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614579&idx=2&sn=ad625ae6a74ef9508c95bad9c6cea4ef) |
+| 4 |  ] [CNCERT：关于Linux内核存在本地权限提升漏洞的安全公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515890&idx=2&sn=01daa1c7be2168b06ef9189578893d6d](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515890&idx=2&sn=01daa1c7be2168b06ef9189578893d6d) |
+| 5 |  ] [【安全圈】安卓高危0Day漏洞可远程获取Shell访问权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076197&idx=1&sn=f04ddcae84cf9ff13b2696de01ec65eb](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076197&idx=1&sn=f04ddcae84cf9ff13b2696de01ec65eb) |
+| 6 |  ] [全球首例！美国州政府起诉 AI 聊天机器人非法冒充执业医师；CNNVD 发布 AI 漏洞通报：213 个漏洞集中爆发，超危 8 个高危 89 个| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141220&idx=2&sn=440899fbec56c3e3d84cb7f8e2790e74](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141220&idx=2&sn=440899fbec56c3e3d84cb7f8e2790e74) |
+| 7 |  ] [Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=1&sn=cf1d9580501b94ce494712fa2e09e95c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=1&sn=cf1d9580501b94ce494712fa2e09e95c) |
+| 8 |  ] [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251) |
+| 9 |  ] [CNVD漏洞周报2026年第17期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501551&idx=1&sn=18e7edf237362243bedb7a681a53cc15](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501551&idx=1&sn=18e7edf237362243bedb7a681a53cc15) |
+| 10 |  ] [谷歌Antigravity AI 智能体管理器曝出漏洞：可逃出沙箱，让攻击者实现远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d) |
+| 11 |  ] [CNVD漏洞周报2026年第17期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=1&sn=49bed22ebc39742e20c189f53538f961](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=1&sn=49bed22ebc39742e20c189f53538f961) |
+| 12 |  ] [上周关注度较高的产品安全漏洞(20260427-20260503) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=2&sn=1991f529308bac06911fe613c6256b3d](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496900&idx=2&sn=1991f529308bac06911fe613c6256b3d) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令 | Doonsec | [https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) |
-| 2 | Claude 间接提示词注入恶意样本分析 | Doonsec | [https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw](https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw) |
+| 1 |  ] [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525932&idx=2&sn=a1f8acec7865ec3eec445777c4ad6251) |
+| 2 |  ] [谷歌Antigravity AI 智能体管理器曝出漏洞：可逃出沙箱，让攻击者实现远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486593&idx=1&sn=2e77c910fc4084754cfa7361c288ae4d) |
+| 3 |  ] [利用302实现xss的一个思路 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499410&idx=1&sn=f8ee5f907fb162d3b81bdfa24a2291b7](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499410&idx=1&sn=f8ee5f907fb162d3b81bdfa24a2291b7) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【SRC实战】|文件上传：这3个场景，比getshell更常见 | Doonsec | [https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg](https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg) |
+| 1 |  ] [美团SRC助力 | 你敢信，他们都来了！HPW白帽世界大会2026全议程发布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=1&sn=5b3d4f7d62a8e7212d9dff1cc4910a45](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=1&sn=5b3d4f7d62a8e7212d9dff1cc4910a45) |
+| 2 |  ] [江湖征召令｜美团SRC专测活动进行中 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=2&sn=62b64d34eb01c165640ce5b18fc56cf3](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494896&idx=2&sn=62b64d34eb01c165640ce5b18fc56cf3) |
+| 3 |  ] [2026白帽赏金挑战赛来袭｜MiSRC等你来战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520766&idx=1&sn=92271a4ba532a217d567534920770763](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520766&idx=1&sn=92271a4ba532a217d567534920770763) |
+| 4 |  ] [【活动】白帽赏金挑战赛JSRC活动进行中！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850845&idx=1&sn=b6102dccc8f9355e879212d5b703a867](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850845&idx=1&sn=b6102dccc8f9355e879212d5b703a867) |
 
 
 ## 📁 归档路径
@@ -117,8 +144,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -127,5 +154,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-07 02:53:06*
+*生成时间: 2026-05-07 06:34:43*
 *报告工具: 微信文章安全归档系统*
