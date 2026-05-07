@@ -1,20 +1,22 @@
-# 2026-05-06 安全威胁态势报告
+# 2026-05-07 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,22 +65,17 @@
 
 ### Doonsec
 
-- [200秒拿到Shell，6分钟打穿域控：全自动渗透已经把攻防拖进了“秒级”时代](https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A) (发布日期: 2026-05-06)
-- [高危安卓零点击漏洞可远程获取Shell访问权限](https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng) (发布日期: 2026-05-06)
-- [具身智能威胁分析的分层方法和全景图](https://mp.weixin.qq.com/s/lXkKpvotnsJNmAzUZloufw) (发布日期: 2026-05-06)
-- [[智能体攻防实战] 一.大模型赋能网络入侵检测实战探索（CodeBuddy和d.run实现）](https://mp.weixin.qq.com/s/iatnItf7YOAYAQyVA69AJg) (发布日期: 2026-05-06)
-- [优秀论文 | 南京理工大学逄淑超：面向无目标后门攻击的投毒样本检测方法](https://mp.weixin.qq.com/s/L2CDDSxjqusF3KTTrqL_Tw) (发布日期: 2026-05-06)
-- [MCP+BurpSuite 实现AI漏洞挖掘](https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw) (发布日期: 2026-05-06)
-- [渗透测试Payload速查手册](https://mp.weixin.qq.com/s/cj091LxuiMmWzGosxKTNVw) (发布日期: 2026-05-06)
-- [360SRC | 第四届白帽赏金挑战赛正式开启！诚邀全网顶尖白帽，共探安全边界](https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw) (发布日期: 2026-05-06)
-- [一次挖矿病毒处置真实案例](https://mp.weixin.qq.com/s/p2nH6aV8Ki-GJ3uhJcmOjg) (发布日期: 2026-05-06)
-- [人工智能重要安全漏洞通报Ollama安全漏洞](https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag) (发布日期: 2026-05-06)
-- [Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞](https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ) (发布日期: 2026-05-06)
-- [Palo Alto 提醒注意严重的 PAN-OS RCE漏洞](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) (发布日期: 2026-05-06)
-- [2026未来CSO训练营xa0|xa0首期回顾：大模型、具身智能、安全治理、攻防实战](https://mp.weixin.qq.com/s/Wm__323cGUstAweVfWcfhA) (发布日期: 2026-05-06)
-- [智能体驱动的漏洞挖掘实践](https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw) (发布日期: 2026-05-06)
-- [AIGC大模型数据安全分析研究](https://mp.weixin.qq.com/s/ZG8P45C1-iljaOSPUyvZCg) (发布日期: 2026-05-06)
-- [仅34%网络安全专业人员愿留任 CISO面临留住人才压力](https://mp.weixin.qq.com/s/Ka_lZTv1ESMLbtUN-J5dCw) (发布日期: 2026-05-06)
+- [LLM开源方案Ollama曝严重漏洞，30万个部署面临信息失窃风险](https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ) (发布日期: 2026-05-07)
+- [一个面向 Java 反序列化测试的桌面 GUI 工具（5月5日更新）](https://mp.weixin.qq.com/s/11Tp4cVvo3UWkAhb75_91Q) (发布日期: 2026-05-07)
+- [AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) (发布日期: 2026-05-07)
+- [【漏洞案例】页游websocket协议使用fatbeans改包一键通关](https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w) (发布日期: 2026-05-07)
+- [[安全工具]4 个 Ghost Bits Payload 生成工具](https://mp.weixin.qq.com/s/0256YyvDpjoHOFiy9gBP0Q) (发布日期: 2026-05-07)
+- [安卓高危0Day漏洞可远程获取Shell访问权限](https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA) (发布日期: 2026-05-07)
+- [Claude 间接提示词注入恶意样本分析](https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw) (发布日期: 2026-05-07)
+- [【SRC实战】|文件上传：这3个场景，比getshell更常见](https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg) (发布日期: 2026-05-07)
+- [TC260-TR-001-2026《智能驾驶网络和数据安全标准化研究》](https://mp.weixin.qq.com/s/fpBW_oK3GHW9yWp_Slb5tQ) (发布日期: 2026-05-07)
+- [中科院：中美网络安全漏洞披露与共享政策研究](https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA) (发布日期: 2026-05-07)
+- [代码审计篇——正则匹配](https://mp.weixin.qq.com/s/f3MBc2H8MeCOfYvMc9P4fg) (发布日期: 2026-05-07)
 
 
 ## 🎯 威胁详情分析
@@ -87,30 +84,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 高危安卓零点击漏洞可远程获取Shell访问权限 | Doonsec | [https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng](https://mp.weixin.qq.com/s/BDVEi3LzN3A32-ofzXWgng) |
-| 2 | MCP+BurpSuite 实现AI漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw](https://mp.weixin.qq.com/s/qbVvalyDCVG1GM01LXZxUw) |
-| 3 | 人工智能重要安全漏洞通报Ollama安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag](https://mp.weixin.qq.com/s/RG9TeSJXxyUwDFD5nFy2ag) |
-| 4 | Progress 提醒注意严重的 MOVEit 自动化认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ](https://mp.weixin.qq.com/s/Mz1h3sZza39OfrZxPbCzDQ) |
-| 5 | Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) |
-| 6 | 智能体驱动的漏洞挖掘实践 | Doonsec | [https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw](https://mp.weixin.qq.com/s/dnAi9Gz0i6TlBdaZ2YYQBw) |
+| 1 | LLM开源方案Ollama曝严重漏洞，30万个部署面临信息失窃风险 | Doonsec | [https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ](https://mp.weixin.qq.com/s/DAj0tAzmqtJMqtCB2ADVDQ) |
+| 2 | AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令 | Doonsec | [https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) |
+| 3 | 【漏洞案例】页游websocket协议使用fatbeans改包一键通关 | Doonsec | [https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w](https://mp.weixin.qq.com/s/UVL5ZgDZSA3a8_Epbxce_w) |
+| 4 | 安卓高危0Day漏洞可远程获取Shell访问权限 | Doonsec | [https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA](https://mp.weixin.qq.com/s/1zni52lkAEjK2OW4petsfA) |
+| 5 | 中科院：中美网络安全漏洞披露与共享政策研究 | Doonsec | [https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA](https://mp.weixin.qq.com/s/At9ES_gQJ0ENduntSyvzgA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 200秒拿到Shell，6分钟打穿域控：全自动渗透已经把攻防拖进了“秒级”时代 | Doonsec | [https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A](https://mp.weixin.qq.com/s/YpX3pZOvDOAvtCC_dPSb0A) |
-| 2 | Palo Alto 提醒注意严重的 PAN-OS RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w](https://mp.weixin.qq.com/s/VqaBYT8TN6xcERGTqvKi8w) |
+| 1 | AntSword |蚁剑 高危漏洞：XSS 转 RCE 终端注入可执行系统命令 | Doonsec | [https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q](https://mp.weixin.qq.com/s/bYPmZQ7Ld3QNeHTArGX75Q) |
+| 2 | Claude 间接提示词注入恶意样本分析 | Doonsec | [https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw](https://mp.weixin.qq.com/s/vv9CHjqL7Vg-qaCf7pWqGw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 360SRC | 第四届白帽赏金挑战赛正式开启！诚邀全网顶尖白帽，共探安全边界 | Doonsec | [https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw](https://mp.weixin.qq.com/s/Nm5woX3Fuv1Z7NED4GaEzw) |
+| 1 | 【SRC实战】|文件上传：这3个场景，比getshell更常见 | Doonsec | [https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg](https://mp.weixin.qq.com/s/1Xbj0rRELqwPv5igGh-iFg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W19/2026-05-06/`
+文章已归档到: `doc/2026/2026-05/2026-W19/2026-05-07/`
 
 ## 🔗 数据源说明
 
@@ -121,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-06 14:11:54*
+*生成时间: 2026-05-07 02:53:06*
 *报告工具: 微信文章安全归档系统*
