@@ -2,17 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 33
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 33篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 18篇
+- **攻击技术**: 3篇
+- **供应链**: 3篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,15 +67,39 @@
 
 ### Doonsec
 
-- [能信安：漏洞通告](https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA) (发布日期: 2026-05-08)
-- [走出误区！正确认识 IPSec VPN、SSL VPN与安全认证网关](https://mp.weixin.qq.com/s/CJfkac7_wQiCORr4-3Wv5Q) (发布日期: 2026-05-08)
-- [某高校系统服务器遭木马入侵 行政处罚敲响网络安全警钟](https://mp.weixin.qq.com/s/hjfpF_iF4vaVdzIOlbjR2g) (发布日期: 2026-05-08)
-- [扩展Burp Suite——Montoya API实战（第三篇）：WebSocket消息处理](https://mp.weixin.qq.com/s/WNnMqNYQNokZ_vmUvlyiAA) (发布日期: 2026-05-08)
-- [在北京科博会，安博通让防火墙学会了“智能运维”，让桌面学会了“自己干活”](https://mp.weixin.qq.com/s/BC3ygLc43VWvvnSHMKunVg) (发布日期: 2026-05-08)
-- [全网紧急！Linux Dirty Frag漏洞POC已流出！](https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w) (发布日期: 2026-05-08)
-- [CVE-2026-31431 Copy Fail 通杀版 EXP：动态偏移计算实现任意 ELF 提权](https://mp.weixin.qq.com/s/e5MqEr-N4_sCFoSZ8LS7zA) (发布日期: 2026-05-08)
-- [【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）](https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ) (发布日期: 2026-05-08)
-- [高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root](https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q) (发布日期: 2026-05-08)
+- [【情报实战】汉坦病毒肺综合症暴发](https://mp.weixin.qq.com/s/dCZSQiK6vrzHTB5HDhD5IQ) (发布日期: 2026-05-08)
+- [Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞](https://mp.weixin.qq.com/s/35JeIrZM3E4BR_rLbO5hvA) (发布日期: 2026-05-08)
+- [从 Vim Modeline 到 CVE-2026-44656：编辑器里的隐蔽攻击面](https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ) (发布日期: 2026-05-08)
+- [【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag](https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A) (发布日期: 2026-05-08)
+- [知名安全公司Trellix 被勒索软件RansomHouse 列上墙](https://mp.weixin.qq.com/s/MDHbOs1qDsp9fUG0gQHSnA) (发布日期: 2026-05-08)
+- [CISSP｜CCSP认证课程的详细解析](https://mp.weixin.qq.com/s/oqKzkd0wWXrfEwXMyubt3A) (发布日期: 2026-05-08)
+- [(2)漏洞复现-Tomcat-upload \"幽灵比特位\"](https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA) (发布日期: 2026-05-08)
+- [“我没黑进去，智能体自己干的” - Meta安全工程师Aditya Om @2026白帽世界大会](https://mp.weixin.qq.com/s/DWEdnCqgTi1PHydphfbrIw) (发布日期: 2026-05-08)
+- [供应链攻击解析](https://mp.weixin.qq.com/s/gTqwYcAIFE8tqfgttXWyjg) (发布日期: 2026-05-08)
+- [【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级](https://mp.weixin.qq.com/s/I5Fgf3Jy_vlp864XImL9tA) (发布日期: 2026-05-08)
+- [【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击](https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg) (发布日期: 2026-05-08)
+- [OceanLotus 借 PyPI 投递 ZiChatBot：一次伪装成 Python 依赖的供应链攻击](https://mp.weixin.qq.com/s/0w7sXp6T7SUVkoT0wyqFMQ) (发布日期: 2026-05-08)
+- [征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载](https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ) (发布日期: 2026-05-08)
+- [【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径](https://mp.weixin.qq.com/s/Uy5Pw0mMsXmEOkiu0uyRXg) (发布日期: 2026-05-08)
+- [用AI重新定义数据安全监测，让数据安全变简单](https://mp.weixin.qq.com/s/Im663UjQ-Re4knyFHGEBnQ) (发布日期: 2026-05-08)
+- [实战SQL注入某面板防火墙绕过](https://mp.weixin.qq.com/s/GLLhVmIFYUINVi4Qr2TWkA) (发布日期: 2026-05-08)
+- [Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析](https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg) (发布日期: 2026-05-08)
+- [青藤防病毒能力金融行业认可简报](https://mp.weixin.qq.com/s/wDRrvs6HS-AofCN-zmEaWA) (发布日期: 2026-05-08)
+- [【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞](https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw) (发布日期: 2026-05-08)
+- [网络攻击引发美国校园大混乱：2.8亿条数据泄露，学生课堂、作业与期末考试全部被打乱](https://mp.weixin.qq.com/s/QUW36qfW_JZcYlnL5BVjqw) (发布日期: 2026-05-08)
+- [页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告](https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A) (发布日期: 2026-05-08)
+- [Dirty Frag 漏洞曝光，影响所有主流 Linux 发行版](https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ) (发布日期: 2026-05-08)
+- [数据安全≠隐私保护？90%企业都搞错了](https://mp.weixin.qq.com/s/RTAaYI692LYOwfY4KY5mZA) (发布日期: 2026-05-08)
+- [备考CISSP丨CISSP在线英文培训课程计划](https://mp.weixin.qq.com/s/OxFrYtoiJfsbcwV6vP2Iqw) (发布日期: 2026-05-08)
+- [信息安全漏洞月报（2026年04月）](https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw) (发布日期: 2026-05-08)
+- [信息安全漏洞周报（2026年第18期）](https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw) (发布日期: 2026-05-08)
+- [多智能体协同，绿盟科技开启Agentic SOC新范式](https://mp.weixin.qq.com/s/ta53h-8RcrRTaCf49EO7dg) (发布日期: 2026-05-08)
+- [【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）](https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ) (发布日期: 2026-05-08)
+- [安全威胁情报周报（2026/05/02-2026/05/08）](https://mp.weixin.qq.com/s/v80V-rEtsEMeEZ0gcyVgJQ) (发布日期: 2026-05-08)
+- [【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918)](https://mp.weixin.qq.com/s/QtV5NWoPcwddMf5r5Vui7w) (发布日期: 2026-05-08)
+- [代码里的“特洛伊木马”：当AI接管开发，你的软件供应链还安全吗？](https://mp.weixin.qq.com/s/sn32ufD03xYs4ffSCJAxIg) (发布日期: 2026-05-08)
+- [高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响](https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ) (发布日期: 2026-05-08)
+- [新的Linux漏洞732 字节通杀Linux内核](https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q) (发布日期: 2026-05-08)
 
 
 ## 🎯 威胁详情分析
@@ -78,11 +108,52 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA](https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA) |
-| 2 | 全网紧急！Linux Dirty Frag漏洞POC已流出！ | Doonsec | [https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w](https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w) |
-| 3 | CVE-2026-31431 Copy Fail 通杀版 EXP：动态偏移计算实现任意 ELF 提权 | Doonsec | [https://mp.weixin.qq.com/s/e5MqEr-N4_sCFoSZ8LS7zA](https://mp.weixin.qq.com/s/e5MqEr-N4_sCFoSZ8LS7zA) |
-| 4 | 【漏洞通告】Linux内核权限提升漏洞（Dirty Frag） | Doonsec | [https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ](https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ) |
-| 5 | 高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root | Doonsec | [https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q](https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q) |
+| 1 | Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞 | Doonsec | [https://mp.weixin.qq.com/s/35JeIrZM3E4BR_rLbO5hvA](https://mp.weixin.qq.com/s/35JeIrZM3E4BR_rLbO5hvA) |
+| 2 | 从 Vim Modeline 到 CVE-2026-44656：编辑器里的隐蔽攻击面 | Doonsec | [https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ](https://mp.weixin.qq.com/s/qsj_HjH8bcdrJEZB2av0BQ) |
+| 3 | 【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag | Doonsec | [https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A](https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A) |
+| 4 | (2)漏洞复现-Tomcat-upload \"幽灵比特位\" | Doonsec | [https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA](https://mp.weixin.qq.com/s/Hq3bBSJrBVHPqS6Zj-D1QA) |
+| 5 | 【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级 | Doonsec | [https://mp.weixin.qq.com/s/I5Fgf3Jy_vlp864XImL9tA](https://mp.weixin.qq.com/s/I5Fgf3Jy_vlp864XImL9tA) |
+| 6 | 【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg](https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg) |
+| 7 | 征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载 | Doonsec | [https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ](https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ) |
+| 8 | 【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径 | Doonsec | [https://mp.weixin.qq.com/s/Uy5Pw0mMsXmEOkiu0uyRXg](https://mp.weixin.qq.com/s/Uy5Pw0mMsXmEOkiu0uyRXg) |
+| 9 | Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析 | Doonsec | [https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg](https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg) |
+| 10 | 【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw](https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw) |
+| 11 | 页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告 | Doonsec | [https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A](https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A) |
+| 12 | Dirty Frag 漏洞曝光，影响所有主流 Linux 发行版 | Doonsec | [https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ](https://mp.weixin.qq.com/s/_iGuAHVlA8WmHxjDzSnicQ) |
+| 13 | 信息安全漏洞月报（2026年04月） | Doonsec | [https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw](https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw) |
+| 14 | 信息安全漏洞周报（2026年第18期） | Doonsec | [https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw](https://mp.weixin.qq.com/s/Temwf2rq8XDgnx2DImKPZw) |
+| 15 | 【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284） | Doonsec | [https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ](https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ) |
+| 16 | 【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918) | Doonsec | [https://mp.weixin.qq.com/s/QtV5NWoPcwddMf5r5Vui7w](https://mp.weixin.qq.com/s/QtV5NWoPcwddMf5r5Vui7w) |
+| 17 | 高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响 | Doonsec | [https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ](https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ) |
+| 18 | 新的Linux漏洞732 字节通杀Linux内核 | Doonsec | [https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q](https://mp.weixin.qq.com/s/cEqITgbvKNtvCWIagFEL9Q) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg](https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg) |
+| 2 | 实战SQL注入某面板防火墙绕过 | Doonsec | [https://mp.weixin.qq.com/s/GLLhVmIFYUINVi4Qr2TWkA](https://mp.weixin.qq.com/s/GLLhVmIFYUINVi4Qr2TWkA) |
+| 3 | 【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284） | Doonsec | [https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ](https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全威胁情报周报（2026/05/02-2026/05/08） | Doonsec | [https://mp.weixin.qq.com/s/v80V-rEtsEMeEZ0gcyVgJQ](https://mp.weixin.qq.com/s/v80V-rEtsEMeEZ0gcyVgJQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络攻击引发美国校园大混乱：2.8亿条数据泄露，学生课堂、作业与期末考试全部被打乱 | Doonsec | [https://mp.weixin.qq.com/s/QUW36qfW_JZcYlnL5BVjqw](https://mp.weixin.qq.com/s/QUW36qfW_JZcYlnL5BVjqw) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 供应链攻击解析 | Doonsec | [https://mp.weixin.qq.com/s/gTqwYcAIFE8tqfgttXWyjg](https://mp.weixin.qq.com/s/gTqwYcAIFE8tqfgttXWyjg) |
+| 2 | OceanLotus 借 PyPI 投递 ZiChatBot：一次伪装成 Python 依赖的供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/0w7sXp6T7SUVkoT0wyqFMQ](https://mp.weixin.qq.com/s/0w7sXp6T7SUVkoT0wyqFMQ) |
+| 3 | 代码里的“特洛伊木马”：当AI接管开发，你的软件供应链还安全吗？ | Doonsec | [https://mp.weixin.qq.com/s/sn32ufD03xYs4ffSCJAxIg](https://mp.weixin.qq.com/s/sn32ufD03xYs4ffSCJAxIg) |
 
 
 ## 📁 归档路径
@@ -98,8 +169,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 18 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +179,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-08 09:21:36*
+*生成时间: 2026-05-08 17:18:02*
 *报告工具: 微信文章安全归档系统*
