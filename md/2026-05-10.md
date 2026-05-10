@@ -2,22 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 3
 - **数据源分布**:
-  - BruceFeIix: 16篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **供应链**: 2篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,70 +57,14 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [Microsoft 365 Copilot 多个严重漏洞可导致敏感信息暴露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525959&idx=1&sn=c447f4cb6c61f03248a015b4f72927f1) (发布日期: 2026-05-10)
-- [ ] [Chromium项目史上最大规模：Chrome 148一次性修复127个漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505667&idx=1&sn=a8495867e1a57d53c473e8d416c6009f) (发布日期: 2026-05-10)
-- [ ] [【公益译文】2026年国际AI安全报告（六）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499888&idx=1&sn=b4090c29fdb8a78cf8e3b584cf9026ff) (发布日期: 2026-05-10)
-- [ ] [CNNVD | 重要安全漏洞通报（2026年第二期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262395&idx=1&sn=23aa56726180c772418711b802f8d79f) (发布日期: 2026-05-10)
-- [ ] [【安全圈】时尚品牌 Zara 遭数据泄露，约 19.74 万用户恐面临钓鱼风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076265&idx=1&sn=773b345e50b16054ce8e371645450c82) (发布日期: 2026-05-10)
-- [ ] [【安全圈】安全公司曝光黑客架设山寨 Claude AI 网站，散播 Beagle 恶意木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076265&idx=2&sn=9a88abc61308285d39770d2a294d7ae3) (发布日期: 2026-05-10)
-- [ ] [版块上线 | 奇安信攻防社区AI安全工具版块发布，文末抽新款T恤](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510720&idx=1&sn=10fac99f8fcb67691fcd0fe635a1ff89) (发布日期: 2026-05-10)
-- [ ] [抢先加入AI时代顶尖安全团队！阿里云2027届实习生招聘来了！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998861&idx=1&sn=99f73bbc6c48d19f5ef1675fd3d6edb7) (发布日期: 2026-05-10)
-- [ ] [Claude Opus写了一个EXP 用了2283美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=1&sn=681fec119daead073cec40e3d69f9452) (发布日期: 2026-05-10)
-- [ ] [AI无法给安全运营中心补漏洞，反而会造成漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142) (发布日期: 2026-05-10)
-- [ ] [威胁情报｜仿冒 TronLink 的 Chrome 扩展钓鱼攻击分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504920&idx=2&sn=476c39eb63c7323cc18604a3ccc5d487) (发布日期: 2026-05-10)
-- [ ] [360上线Skill安全检测平台 发布高风险Skill清单](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585921&idx=1&sn=60dcb98347bdd29ed1bee324aa5d8583) (发布日期: 2026-05-10)
-- [ ] [断网亦难防！伊朗指控美国借后门瘫痪核心网络设备，全球供应链安全拉响红色警报](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141298&idx=1&sn=b9abc171b6854e31c91354e5e287ac9e) (发布日期: 2026-05-10)
-- [ ] [AI+软件供应链安全领航者丨悬镜安全持续引领《2026 中国 AI 赋能网络安全全景图》](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799430&idx=1&sn=22c813492b4dbe3e60e1b5f6fb2c1ec6) (发布日期: 2026-05-10)
-- [ ] [【漏洞通告】FreeBSD dhclient 远程代码执行(CVE-2026-42511)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92) (发布日期: 2026-05-10)
-- [ ] [8 个高危漏洞拉响警报：Linux/Tomcat/ActiveMQ 等 4 月必修清单](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497553&idx=1&sn=1560b8dc68804729cbbc82e00a4c4ed9) (发布日期: 2026-05-10)
+- [新能源出海必看：一张表看懂全球网络安全合规红线](https://mp.weixin.qq.com/s/Bqp8P-zUq7JN_C1LLp-82w) (发布日期: 2026-05-10)
+- [攻防千层饼：新时代渗透测试攻防全景拆解](https://mp.weixin.qq.com/s/u-_vwHYVYF3wMKbl3jIUEA) (发布日期: 2026-05-10)
+- [北京大学大数据分析与应用技术国家工程实验室招聘网络安全工程师](https://mp.weixin.qq.com/s/O51-lBI0jdS01ebkvHYOXQ) (发布日期: 2026-05-10)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Microsoft 365 Copilot 多个严重漏洞可导致敏感信息暴露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525959&idx=1&sn=c447f4cb6c61f03248a015b4f72927f1](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525959&idx=1&sn=c447f4cb6c61f03248a015b4f72927f1) |
-| 2 |  ] [Chromium项目史上最大规模：Chrome 148一次性修复127个漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505667&idx=1&sn=a8495867e1a57d53c473e8d416c6009f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505667&idx=1&sn=a8495867e1a57d53c473e8d416c6009f) |
-| 3 |  ] [CNNVD | 重要安全漏洞通报（2026年第二期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262395&idx=1&sn=23aa56726180c772418711b802f8d79f](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262395&idx=1&sn=23aa56726180c772418711b802f8d79f) |
-| 4 |  ] [Claude Opus写了一个EXP 用了2283美元 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=1&sn=681fec119daead073cec40e3d69f9452](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=1&sn=681fec119daead073cec40e3d69f9452) |
-| 5 |  ] [AI无法给安全运营中心补漏洞，反而会造成漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142) |
-| 6 |  ] [【漏洞通告】FreeBSD dhclient 远程代码执行(CVE-2026-42511) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92) |
-| 7 |  ] [8 个高危漏洞拉响警报：Linux/Tomcat/ActiveMQ 等 4 月必修清单 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497553&idx=1&sn=1560b8dc68804729cbbc82e00a4c4ed9](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497553&idx=1&sn=1560b8dc68804729cbbc82e00a4c4ed9) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【漏洞通告】FreeBSD dhclient 远程代码执行(CVE-2026-42511) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525551&idx=1&sn=e0910e9cbc4926fc58dc4fca4045af92) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [威胁情报｜仿冒 TronLink 的 Chrome 扩展钓鱼攻击分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504920&idx=2&sn=476c39eb63c7323cc18604a3ccc5d487](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504920&idx=2&sn=476c39eb63c7323cc18604a3ccc5d487) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [AI无法给安全运营中心补漏洞，反而会造成漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542813&idx=2&sn=769dcd9d1008731dba227d14a23cf142) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【安全圈】时尚品牌 Zara 遭数据泄露，约 19.74 万用户恐面临钓鱼风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076265&idx=1&sn=773b345e50b16054ce8e371645450c82](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076265&idx=1&sn=773b345e50b16054ce8e371645450c82) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [断网亦难防！伊朗指控美国借后门瘫痪核心网络设备，全球供应链安全拉响红色警报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141298&idx=1&sn=b9abc171b6854e31c91354e5e287ac9e](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141298&idx=1&sn=b9abc171b6854e31c91354e5e287ac9e) |
-| 2 |  ] [AI+软件供应链安全领航者丨悬镜安全持续引领《2026 中国 AI 赋能网络安全全景图》 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799430&idx=1&sn=22c813492b4dbe3e60e1b5f6fb2c1ec6](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799430&idx=1&sn=22c813492b4dbe3e60e1b5f6fb2c1ec6) |
 
 
 ## 📁 归档路径
@@ -143,8 +80,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -153,5 +90,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-10 06:36:51*
+*生成时间: 2026-05-10 13:18:51*
 *报告工具: 微信文章安全归档系统*
