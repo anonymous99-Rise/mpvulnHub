@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 3篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +61,11 @@
 
 ### Doonsec
 
-- [解剖 UAT-8302：一个 APT 组织的完整恶意软件图谱](https://mp.weixin.qq.com/s/4h9hDJj9Mhq0dOMR_GQ5Jg) (发布日期: 2026-05-11)
-- [关于近期某白帽安全测试活动影响生产业务的通报](https://mp.weixin.qq.com/s/mheXlCqnoFVTKEXDfGGbog) (发布日期: 2026-05-11)
-- [【红队工具】ExchangeHound](https://mp.weixin.qq.com/s/Q4H6hbtOU7Zz3rgVHN0e1Q) (发布日期: 2026-05-11)
-- [早报早占位！5月CISP直播班即将开课](https://mp.weixin.qq.com/s/PaoSfhNofqaLRCA9dMoOJw) (发布日期: 2026-05-11)
-- [CISP vs CISSP 全方位对比：考试难度、职业适配、报考条件](https://mp.weixin.qq.com/s/4vjpWErTxBkmD9gAmyb0xA) (发布日期: 2026-05-11)
-- [JDownloader 下载器遭入侵，用户被植入新型 Python 远控木马](https://mp.weixin.qq.com/s/90q38E8GKrO2alavTNm_eA) (发布日期: 2026-05-11)
-- [cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险](https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ) (发布日期: 2026-05-11)
-- [Next.js高危漏洞可致SSRF攻击、DoS瘫痪](https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A) (发布日期: 2026-05-11)
-- [AI 原生安全测试平台 - CyberStrikeAI](https://mp.weixin.qq.com/s/PiuCq-9adu-5t9W-Hpwk0g) (发布日期: 2026-05-11)
-- [JDownloader 下载器被黑客入侵，使用新型 Python 远程控制木马感染用户](https://mp.weixin.qq.com/s/R3y3BW3-zzUb8IE3x41q0g) (发布日期: 2026-05-11)
-- [macOS恶意软件利用Google广告和合法的Claude.ai共享聊天记录传播恶意软件](https://mp.weixin.qq.com/s/LqpDkh5ljtoMo2CBgeZgRg) (发布日期: 2026-05-11)
+- [PHP unserialize() 潜伏21年致命Use-After-Free漏洞](https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA) (发布日期: 2026-05-11)
+- [拆解公共高级威胁情报的衰落](https://mp.weixin.qq.com/s/n13-lVHwmxXyuP7qU7qyIw) (发布日期: 2026-05-11)
+- [Blinko plugins路径遍历漏洞存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ) (发布日期: 2026-05-11)
+- [假冒软件分发恶意软件系列活动](https://mp.weixin.qq.com/s/PN2NFs_otqoliyt9r2TIiQ) (发布日期: 2026-05-11)
+- [从嵌入式基础到真实漏洞挖掘](https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g) (发布日期: 2026-05-11)
 
 
 ## 🎯 威胁详情分析
@@ -82,20 +74,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险 | Doonsec | [https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ](https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ) |
-| 2 | Next.js高危漏洞可致SSRF攻击、DoS瘫痪 | Doonsec | [https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A](https://mp.weixin.qq.com/s/FNxwrq5MdzBVTUbWfDgR9A) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险 | Doonsec | [https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ](https://mp.weixin.qq.com/s/XB8J58Eh--JnAVefQ7z1jQ) |
+| 1 | PHP unserialize() 潜伏21年致命Use-After-Free漏洞 | Doonsec | [https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA](https://mp.weixin.qq.com/s/YufKn9BT3T5iHElqTptkdA) |
+| 2 | Blinko plugins路径遍历漏洞存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ](https://mp.weixin.qq.com/s/G3nX_Sk5SNhT-JM_uCrEJQ) |
+| 3 | 从嵌入式基础到真实漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g](https://mp.weixin.qq.com/s/pERVXxNNWMjZq8glq0FW-g) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 解剖 UAT-8302：一个 APT 组织的完整恶意软件图谱 | Doonsec | [https://mp.weixin.qq.com/s/4h9hDJj9Mhq0dOMR_GQ5Jg](https://mp.weixin.qq.com/s/4h9hDJj9Mhq0dOMR_GQ5Jg) |
+| 1 | 拆解公共高级威胁情报的衰落 | Doonsec | [https://mp.weixin.qq.com/s/n13-lVHwmxXyuP7qU7qyIw](https://mp.weixin.qq.com/s/n13-lVHwmxXyuP7qU7qyIw) |
 
 
 ## 📁 归档路径
@@ -111,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-11 14:52:34*
+*生成时间: 2026-05-11 17:54:08*
 *报告工具: 微信文章安全归档系统*
