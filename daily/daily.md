@@ -2,23 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 15篇
-  - BruceFeIix: 3篇
+  - Doonsec: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 4篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,27 +65,25 @@
 
 ### Doonsec
 
-- [小拉SRC端午礼盒活动惊喜上线！](https://mp.weixin.qq.com/s/JXD8SVI20_e5M4sq2c-tqA) (发布日期: 2026-05-11)
-- [博硕BGM 系统存在默认口令漏洞复现](https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ) (发布日期: 2026-05-11)
-- [白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准](https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg) (发布日期: 2026-05-11)
-- [记一次护网通过外网弱口令一路到内网](https://mp.weixin.qq.com/s/mKzTS4HN-fcEebZYhq5b5w) (发布日期: 2026-05-11)
-- [银行外网艰难打点至内网渗透实战解析（HW护网专项+真实案例贯穿版）](https://mp.weixin.qq.com/s/bjQNVOJuiQiZjNrEWt16bA) (发布日期: 2026-05-11)
-- [AI不会接管SOC 它正在将分析师变为SOC指挥官核心看点](https://mp.weixin.qq.com/s/hQ7Mq_dXkDDa8MkL9eq_uA) (发布日期: 2026-05-11)
-- [React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞](https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g) (发布日期: 2026-05-11)
-- [常见未授权访问漏洞总结](https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA) (发布日期: 2026-05-11)
-- [VECT 勒索软件解密器？](https://mp.weixin.qq.com/s/2KzHJLr78mfHQXioDRMsaw) (发布日期: 2026-05-11)
-- [荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞](https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ) (发布日期: 2026-05-11)
-- [暗网情报预警：所谓 “JF军机密数据泄露” 叫卖事件跟踪（2026-05-10）](https://mp.weixin.qq.com/s/fw0ilHsIELTNThfS_CAn6g) (发布日期: 2026-05-11)
-- [双罚！因数据安全中行某省分行被罚，金融科技部人员连带受罚](https://mp.weixin.qq.com/s/_fDaMvf5AbF1YdoGivGldA) (发布日期: 2026-05-11)
-- [让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅](https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ) (发布日期: 2026-05-11)
-- [航电系统信息安全防护工程培训课程2026](https://mp.weixin.qq.com/s/H-796ulT9c-Db1VjAlMruw) (发布日期: 2026-05-11)
-- [一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本](https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw) (发布日期: 2026-05-11)
-
-### BruceFeIix
-
-- [ ] [今日（2026年5月10日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505710&idx=1&sn=1bbefe5abcea4225c415ab03499775ef) (发布日期: 2026-05-11)
-- [ ] [专题·个人信息保护 | 大模型时代个人信息泄露风险与治理路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262421&idx=1&sn=977a45a83fb7b8b0324122aadf1445e5) (发布日期: 2026-05-11)
-- [ ] [【安全圈】“Dirty Frag”：一种新的 Linux 提权漏洞已在野外出现](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076309&idx=3&sn=7c377bc2b093b887d9cafa553f8db622) (发布日期: 2026-05-11)
+- [亿格云完成数亿元B轮融资，加码“人+AI”统一安全治理](https://mp.weixin.qq.com/s/VR4D3KlW9Jfx5KZbhRNAXQ) (发布日期: 2026-05-11)
+- [【AI-Red攻防学习篇】：AI 红队的全新攻击哲学与实战架构](https://mp.weixin.qq.com/s/BwZSvIgqqjWBCNCZlngekg) (发布日期: 2026-05-11)
+- [警惕！新型银行木马TCLBANKER曝光](https://mp.weixin.qq.com/s/MgQeXdXlSfT1luJHc1EFZw) (发布日期: 2026-05-11)
+- [一次异常艰难的渗透测试](https://mp.weixin.qq.com/s/QZtJz3_AtLxdGgzB1iXaOQ) (发布日期: 2026-05-11)
+- [今日（2026年5月11日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA) (发布日期: 2026-05-11)
+- [咱网安人自己的度娘，漏洞情报查询一步直达](https://mp.weixin.qq.com/s/onNP6j9oNurHwZZp5U7z-A) (发布日期: 2026-05-11)
+- [CNVD漏洞周报2026年第18期](https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg) (发布日期: 2026-05-11)
+- [上周关注度较高的产品安全漏洞(20260504-20260510)](https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg) (发布日期: 2026-05-11)
+- [天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞](https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g) (发布日期: 2026-05-11)
+- [应急响应实战方案手册，网安人必备！](https://mp.weixin.qq.com/s/r6VUujyqUCBgScQr0Kgl5Q) (发布日期: 2026-05-11)
+- [【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析](https://mp.weixin.qq.com/s/c30OU3STwWdvcLF0cbeUzA) (发布日期: 2026-05-11)
+- [2026 年网络安全入行指南 - 蓝队与 SOC 岗位从零到一](https://mp.weixin.qq.com/s/xjaS-8EqdS7lqw1YSqyvug) (发布日期: 2026-05-11)
+- [【活动】LPSRC 翻倍活动开启！！最高三倍积分！！！](https://mp.weixin.qq.com/s/Hv7JKTXStbkfoa2K3moAHA) (发布日期: 2026-05-11)
+- [CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！](https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww) (发布日期: 2026-05-11)
+- [系统上线前，你必须过的那道「密码关」—商用密码应用安全性评估全流程拆解](https://mp.weixin.qq.com/s/f6xGy_EklkHiO-_EifRUbQ) (发布日期: 2026-05-11)
+- [睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞](https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ) (发布日期: 2026-05-11)
+- [雷神众测漏洞周报2026.4.27-2026.5.10](https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg) (发布日期: 2026-05-11)
+- [CVE-2026-7458-UserVerificationByPickPlugins-认证绕过漏洞分析报告](https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw) (发布日期: 2026-05-11)
+- [2026年3月CISP考试成绩](https://mp.weixin.qq.com/s/nLof24PGB35Et8IO_BwLbA) (发布日期: 2026-05-11)
 
 
 ## 🎯 威胁详情分析
@@ -96,36 +92,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 博硕BGM 系统存在默认口令漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ](https://mp.weixin.qq.com/s/APFaBDWPmdEuc-G8cCA0DQ) |
-| 2 | 白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准 | Doonsec | [https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg](https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg) |
-| 3 | React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞 | Doonsec | [https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g](https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g) |
-| 4 | 常见未授权访问漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA](https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA) |
-| 5 | 荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞 | Doonsec | [https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ](https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ) |
-| 6 | 让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅 | Doonsec | [https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ](https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ) |
-| 7 | 一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本 | Doonsec | [https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw](https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw) |
-| 8 |  ] [今日（2026年5月10日）热点网络安全漏洞动态 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505710&idx=1&sn=1bbefe5abcea4225c415ab03499775ef](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505710&idx=1&sn=1bbefe5abcea4225c415ab03499775ef) |
-| 9 |  ] [【安全圈】“Dirty Frag”：一种新的 Linux 提权漏洞已在野外出现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076309&idx=3&sn=7c377bc2b093b887d9cafa553f8db622](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076309&idx=3&sn=7c377bc2b093b887d9cafa553f8db622) |
+| 1 | 今日（2026年5月11日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA](https://mp.weixin.qq.com/s/vk5fU91FeZy9wnfnQUCEYA) |
+| 2 | 咱网安人自己的度娘，漏洞情报查询一步直达 | Doonsec | [https://mp.weixin.qq.com/s/onNP6j9oNurHwZZp5U7z-A](https://mp.weixin.qq.com/s/onNP6j9oNurHwZZp5U7z-A) |
+| 3 | CNVD漏洞周报2026年第18期 | Doonsec | [https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg](https://mp.weixin.qq.com/s/yDlveLAva4m2YJ-hL1FTEg) |
+| 4 | 上周关注度较高的产品安全漏洞(20260504-20260510) | Doonsec | [https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg](https://mp.weixin.qq.com/s/xGp_ssbM95m1TJ1JQShgVg) |
+| 5 | 天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g](https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g) |
+| 6 | 【天穹】内核暗渡：Linux Copy Fail 漏洞 CVE-2026-31431 利用分析 | Doonsec | [https://mp.weixin.qq.com/s/c30OU3STwWdvcLF0cbeUzA](https://mp.weixin.qq.com/s/c30OU3STwWdvcLF0cbeUzA) |
+| 7 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww](https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww) |
+| 8 | 睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ](https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ) |
+| 9 | 雷神众测漏洞周报2026.4.27-2026.5.10 | Doonsec | [https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg](https://mp.weixin.qq.com/s/Y-MeVpGfMNwLZTL8geTnsg) |
+| 10 | CVE-2026-7458-UserVerificationByPickPlugins-认证绕过漏洞分析报告 | Doonsec | [https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw](https://mp.weixin.qq.com/s/eb-wgbyPgFwafnOAwYSsUw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次护网通过外网弱口令一路到内网 | Doonsec | [https://mp.weixin.qq.com/s/mKzTS4HN-fcEebZYhq5b5w](https://mp.weixin.qq.com/s/mKzTS4HN-fcEebZYhq5b5w) |
-| 2 | 银行外网艰难打点至内网渗透实战解析（HW护网专项+真实案例贯穿版） | Doonsec | [https://mp.weixin.qq.com/s/bjQNVOJuiQiZjNrEWt16bA](https://mp.weixin.qq.com/s/bjQNVOJuiQiZjNrEWt16bA) |
-| 3 | React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞 | Doonsec | [https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g](https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g) |
-| 4 | 让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅 | Doonsec | [https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ](https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ) |
+| 1 | 天地伟业Easy7 /Easy7/rest/user/getAuthorityByUserId SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g](https://mp.weixin.qq.com/s/M5YTxIOA6ZU1EVWyNkNM-g) |
+| 2 | CVE‑2026‑41940：cPanel/WHM认证绕过可直接RCE，数百万服务器告急！！！ | Doonsec | [https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww](https://mp.weixin.qq.com/s/pPE2eaPvDzntVPpv1elPww) |
+| 3 | 睡了个觉+花费2 元，AI挖出我的第一个 IOT RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ](https://mp.weixin.qq.com/s/sNP0A3p_J4pTjpxdSsmFzQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 应急响应实战方案手册，网安人必备！ | Doonsec | [https://mp.weixin.qq.com/s/r6VUujyqUCBgScQr0Kgl5Q](https://mp.weixin.qq.com/s/r6VUujyqUCBgScQr0Kgl5Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 小拉SRC端午礼盒活动惊喜上线！ | Doonsec | [https://mp.weixin.qq.com/s/JXD8SVI20_e5M4sq2c-tqA](https://mp.weixin.qq.com/s/JXD8SVI20_e5M4sq2c-tqA) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 暗网情报预警：所谓 “JF军机密数据泄露” 叫卖事件跟踪（2026-05-10） | Doonsec | [https://mp.weixin.qq.com/s/fw0ilHsIELTNThfS_CAn6g](https://mp.weixin.qq.com/s/fw0ilHsIELTNThfS_CAn6g) |
+| 1 | 【活动】LPSRC 翻倍活动开启！！最高三倍积分！！！ | Doonsec | [https://mp.weixin.qq.com/s/Hv7JKTXStbkfoa2K3moAHA](https://mp.weixin.qq.com/s/Hv7JKTXStbkfoa2K3moAHA) |
 
 
 ## 📁 归档路径
@@ -141,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -151,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-11 07:41:06*
+*生成时间: 2026-05-11 11:20:46*
 *报告工具: 微信文章安全归档系统*
