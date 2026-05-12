@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 3篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 3篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -65,21 +63,28 @@
 
 ### Doonsec
 
-- [360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业](https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ) (发布日期: 2026-05-12)
-- [安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开](https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew) (发布日期: 2026-05-12)
-- [【高危漏洞预警】PHP SOAP扩展内存错误引用漏洞(CVE-2026-6722)](https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA) (发布日期: 2026-05-12)
-- [Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486）](https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg) (发布日期: 2026-05-12)
-- [今日（2026年5月12日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw) (发布日期: 2026-05-12)
-- [免费代发招聘信息第54期：北京 安全运营驻场直招5人](https://mp.weixin.qq.com/s/bUZzKOulF7K3qL6C8e4TUw) (发布日期: 2026-05-12)
-- [【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过](https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g) (发布日期: 2026-05-12)
-- [数据泄露重灾区！拒绝影子AI：企业如何守住AI时代的最后一道防线](https://mp.weixin.qq.com/s/rSjiSmmKGR01stAZCCg1dg) (发布日期: 2026-05-12)
-- [谷歌首次发现利用AI开发“零日漏洞”攻击工具](https://mp.weixin.qq.com/s/WclheteS7Q_j7Pg2IJ5MYg) (发布日期: 2026-05-12)
-- [在Burp插件中玩转Collaborator：检测Java反序列化的实战教程（第七部分）](https://mp.weixin.qq.com/s/WNFxCG2pi5goXGwIpH_dzQ) (发布日期: 2026-05-12)
-- [通过不安全反序列化导致的远程代码执行：Wazuh XDR/SIEM（CVE-2026–25769）](https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ) (发布日期: 2026-05-12)
-- [没有凭证？没问题。我们相信你-越权访问漏洞](https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg) (发布日期: 2026-05-12)
-- [消费金融行业移动安全实践：梆梆安全助力构建可信应用生态](https://mp.weixin.qq.com/s/0vIi5icgmOOASMbRXWq9kw) (发布日期: 2026-05-12)
-- [ShadowScan 安全扫描器](https://mp.weixin.qq.com/s/vEbTHhYls_vBR4emIYd4LQ) (发布日期: 2026-05-12)
-- [iOS 26.5 引入了 iPhone 和 Android 之间的默认端到端加密 RCS 消息](https://mp.weixin.qq.com/s/SLLxnvcCmPv8nHTi1e8Lzw) (发布日期: 2026-05-12)
+- [威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署](https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA) (发布日期: 2026-05-12)
+- [Grav CMS 组合拳漏洞| CVE-2026-42613&amp;CVE-2026-42607复现&amp;研究](https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ) (发布日期: 2026-05-12)
+- [空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root](https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw) (发布日期: 2026-05-12)
+- [CertiK《Skynet朝鲜加密威胁报告》：朝鲜黑客造成2025年约60%数字资产失窃，攻击模式转向“线下渗透”](https://mp.weixin.qq.com/s/iVhZKVHJ1tVMLXRcL_AJtg) (发布日期: 2026-05-12)
+- [Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗](https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q) (发布日期: 2026-05-12)
+- [你的紫队并非真正融合——只是红蓝队共处一室](https://mp.weixin.qq.com/s/J66hp8wS5ZNXruNCwqa7ag) (发布日期: 2026-05-12)
+- [黑客利用伪造DeepSeek TUI GitHub仓库传播恶意软件](https://mp.weixin.qq.com/s/jCu1hHqoAA7k8jvZwPsp3w) (发布日期: 2026-05-12)
+- [蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) (发布日期: 2026-05-12)
+- [链锁裂变｜TeamPCP 供应链攻击劫持 guardrails-ai，七模块凭据收割全景分析](https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw) (发布日期: 2026-05-12)
+- [一款功能强大的Web 漏洞扫描器(11种检测模块)](https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw) (发布日期: 2026-05-12)
+- [【恶意文件通告】Linux多功能病毒分析](https://mp.weixin.qq.com/s/Zq8Yo1-czb-X358CnBuUNA) (发布日期: 2026-05-12)
+- [数据投毒、后门操控…你的AI正在悄悄“变坏”@2026白帽世界大会](https://mp.weixin.qq.com/s/ABA71JvAXZaw7LhkoMKsgQ) (发布日期: 2026-05-12)
+- [针对 Windows 11 的新型 BitUnlocker 降级攻击可在 5 分钟内访问加密磁盘](https://mp.weixin.qq.com/s/oNRHKr8lkKy8AGrf3bACmg) (发布日期: 2026-05-12)
+- [PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) (发布日期: 2026-05-12)
+- [Mini Shai-Hulud 蠕虫式投毒继续扩散，TanStack、Mistral、Squawk 等生态受影响，周下载量超千万](https://mp.weixin.qq.com/s/DLcTz51h5NnIH7mjcxWDjQ) (发布日期: 2026-05-12)
+- [黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器](https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ) (发布日期: 2026-05-12)
+- [端到端加密要崩？法国议会秘密给情报部门开“幽灵后门”](https://mp.weixin.qq.com/s/9pK4YxAmr8mjdku6H9q5bA) (发布日期: 2026-05-12)
+- [谷歌首次发现“AI自主开发”0Day漏洞攻击工具](https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA) (发布日期: 2026-05-12)
+- [首次发现！AI生成零日漏洞利用工具并实施网络攻击](https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw) (发布日期: 2026-05-12)
+- [【公益译文】2026年国际AI安全报告（七）](https://mp.weixin.qq.com/s/9E76oLNSa39CmRSh3-15Fg) (发布日期: 2026-05-12)
+- [BitUnlocker降级攻击数分钟内即可绕过Windows 11磁盘加密](https://mp.weixin.qq.com/s/AGjYLjAN6S8F6rw0t3Ex2g) (发布日期: 2026-05-12)
+- [PHP SOAP扩展漏洞或致远程代码执行](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) (发布日期: 2026-05-12)
 
 
 ## 🎯 威胁详情分析
@@ -88,34 +93,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业 | Doonsec | [https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ](https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ) |
-| 2 | 安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开 | Doonsec | [https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew](https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew) |
-| 3 | 【高危漏洞预警】PHP SOAP扩展内存错误引用漏洞(CVE-2026-6722) | Doonsec | [https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA](https://mp.weixin.qq.com/s/GyAx7mJ6GeT1DhL4YbvZtA) |
-| 4 | Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486） | Doonsec | [https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg](https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg) |
-| 5 | 今日（2026年5月12日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw](https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw) |
-| 6 | 【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过 | Doonsec | [https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g](https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g) |
-| 7 | 谷歌首次发现利用AI开发“零日漏洞”攻击工具 | Doonsec | [https://mp.weixin.qq.com/s/WclheteS7Q_j7Pg2IJ5MYg](https://mp.weixin.qq.com/s/WclheteS7Q_j7Pg2IJ5MYg) |
-| 8 | 通过不安全反序列化导致的远程代码执行：Wazuh XDR/SIEM（CVE-2026–25769） | Doonsec | [https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ](https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ) |
-| 9 | 没有凭证？没问题。我们相信你-越权访问漏洞 | Doonsec | [https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg](https://mp.weixin.qq.com/s/gSvzPB-plzqc452CVoXuUg) |
+| 1 | 威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署 | Doonsec | [https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA](https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA) |
+| 2 | Grav CMS 组合拳漏洞| CVE-2026-42613&amp;CVE-2026-42607复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ](https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ) |
+| 3 | 空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root | Doonsec | [https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw](https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw) |
+| 4 | Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗 | Doonsec | [https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q](https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q) |
+| 5 | 蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？ | Doonsec | [https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) |
+| 6 | 一款功能强大的Web 漏洞扫描器(11种检测模块) | Doonsec | [https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw](https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw) |
+| 7 | PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) |
+| 8 | 黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器 | Doonsec | [https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ](https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ) |
+| 9 | 谷歌首次发现“AI自主开发”0Day漏洞攻击工具 | Doonsec | [https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA](https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA) |
+| 10 | 首次发现！AI生成零日漏洞利用工具并实施网络攻击 | Doonsec | [https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw](https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw) |
+| 11 | PHP SOAP扩展漏洞或致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Tomcat Tribes EncryptInterceptor 加密绕过反序列化漏洞分析（CVE-2026-34486） | Doonsec | [https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg](https://mp.weixin.qq.com/s/q6W0t4fsx_SStzcXlXCCKg) |
-| 2 | 通过不安全反序列化导致的远程代码执行：Wazuh XDR/SIEM（CVE-2026–25769） | Doonsec | [https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ](https://mp.weixin.qq.com/s/E186F3A-_hDMaO6OvRLPQQ) |
+| 1 | 蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？ | Doonsec | [https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) |
+| 2 | PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) |
+| 3 | PHP SOAP扩展漏洞或致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 免费代发招聘信息第54期：北京 安全运营驻场直招5人 | Doonsec | [https://mp.weixin.qq.com/s/bUZzKOulF7K3qL6C8e4TUw](https://mp.weixin.qq.com/s/bUZzKOulF7K3qL6C8e4TUw) |
-
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露重灾区！拒绝影子AI：企业如何守住AI时代的最后一道防线 | Doonsec | [https://mp.weixin.qq.com/s/rSjiSmmKGR01stAZCCg1dg](https://mp.weixin.qq.com/s/rSjiSmmKGR01stAZCCg1dg) |
+| 1 | 链锁裂变｜TeamPCP 供应链攻击劫持 guardrails-ai，七模块凭据收割全景分析 | Doonsec | [https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw](https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw) |
 
 
 ## 📁 归档路径
@@ -131,8 +133,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -141,5 +143,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-12 10:31:29*
+*生成时间: 2026-05-12 14:25:44*
 *报告工具: 微信文章安全归档系统*
