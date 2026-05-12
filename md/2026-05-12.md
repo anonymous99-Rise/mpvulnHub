@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 3篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,28 +61,10 @@
 
 ### Doonsec
 
-- [威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署](https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA) (发布日期: 2026-05-12)
-- [Grav CMS 组合拳漏洞| CVE-2026-42613&amp;CVE-2026-42607复现&amp;研究](https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ) (发布日期: 2026-05-12)
-- [空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root](https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw) (发布日期: 2026-05-12)
-- [CertiK《Skynet朝鲜加密威胁报告》：朝鲜黑客造成2025年约60%数字资产失窃，攻击模式转向“线下渗透”](https://mp.weixin.qq.com/s/iVhZKVHJ1tVMLXRcL_AJtg) (发布日期: 2026-05-12)
-- [Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗](https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q) (发布日期: 2026-05-12)
-- [你的紫队并非真正融合——只是红蓝队共处一室](https://mp.weixin.qq.com/s/J66hp8wS5ZNXruNCwqa7ag) (发布日期: 2026-05-12)
-- [黑客利用伪造DeepSeek TUI GitHub仓库传播恶意软件](https://mp.weixin.qq.com/s/jCu1hHqoAA7k8jvZwPsp3w) (发布日期: 2026-05-12)
-- [蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) (发布日期: 2026-05-12)
-- [链锁裂变｜TeamPCP 供应链攻击劫持 guardrails-ai，七模块凭据收割全景分析](https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw) (发布日期: 2026-05-12)
-- [一款功能强大的Web 漏洞扫描器(11种检测模块)](https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw) (发布日期: 2026-05-12)
-- [【恶意文件通告】Linux多功能病毒分析](https://mp.weixin.qq.com/s/Zq8Yo1-czb-X358CnBuUNA) (发布日期: 2026-05-12)
-- [数据投毒、后门操控…你的AI正在悄悄“变坏”@2026白帽世界大会](https://mp.weixin.qq.com/s/ABA71JvAXZaw7LhkoMKsgQ) (发布日期: 2026-05-12)
-- [针对 Windows 11 的新型 BitUnlocker 降级攻击可在 5 分钟内访问加密磁盘](https://mp.weixin.qq.com/s/oNRHKr8lkKy8AGrf3bACmg) (发布日期: 2026-05-12)
-- [PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) (发布日期: 2026-05-12)
-- [Mini Shai-Hulud 蠕虫式投毒继续扩散，TanStack、Mistral、Squawk 等生态受影响，周下载量超千万](https://mp.weixin.qq.com/s/DLcTz51h5NnIH7mjcxWDjQ) (发布日期: 2026-05-12)
-- [黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器](https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ) (发布日期: 2026-05-12)
-- [端到端加密要崩？法国议会秘密给情报部门开“幽灵后门”](https://mp.weixin.qq.com/s/9pK4YxAmr8mjdku6H9q5bA) (发布日期: 2026-05-12)
-- [谷歌首次发现“AI自主开发”0Day漏洞攻击工具](https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA) (发布日期: 2026-05-12)
-- [首次发现！AI生成零日漏洞利用工具并实施网络攻击](https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw) (发布日期: 2026-05-12)
-- [【公益译文】2026年国际AI安全报告（七）](https://mp.weixin.qq.com/s/9E76oLNSa39CmRSh3-15Fg) (发布日期: 2026-05-12)
-- [BitUnlocker降级攻击数分钟内即可绕过Windows 11磁盘加密](https://mp.weixin.qq.com/s/AGjYLjAN6S8F6rw0t3Ex2g) (发布日期: 2026-05-12)
-- [PHP SOAP扩展漏洞或致远程代码执行](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) (发布日期: 2026-05-12)
+- [WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC](https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg) (发布日期: 2026-05-12)
+- [360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业](https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ) (发布日期: 2026-05-12)
+- [A²GRC智能体安全免疫模型：Agentic AI时代，企业安全体系如何从“防系统”走向“管智能体”](https://mp.weixin.qq.com/s/wqXbFE2c9UxKloQdiJ-e8w) (发布日期: 2026-05-12)
+- [如何在linux上检测恶意软件](https://mp.weixin.qq.com/s/Fz8CWplz7DNncIHDPvIi_w) (发布日期: 2026-05-12)
 
 
 ## 🎯 威胁详情分析
@@ -93,31 +73,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁行为者Mr_Rot13积极利用CVE-2026-41940漏洞实施后门部署 | Doonsec | [https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA](https://mp.weixin.qq.com/s/2iUEEejnBxRdQWrwTisEPA) |
-| 2 | Grav CMS 组合拳漏洞| CVE-2026-42613&amp;CVE-2026-42607复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ](https://mp.weixin.qq.com/s/fScOkKDIDsdUSyOlYyNkpQ) |
-| 3 | 空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root | Doonsec | [https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw](https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw) |
-| 4 | Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗 | Doonsec | [https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q](https://mp.weixin.qq.com/s/HbXkqDe0-vyHhKaNdHLY5Q) |
-| 5 | 蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？ | Doonsec | [https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) |
-| 6 | 一款功能强大的Web 漏洞扫描器(11种检测模块) | Doonsec | [https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw](https://mp.weixin.qq.com/s/MOnAGljdhFGkh7eGBK-Auw) |
-| 7 | PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) |
-| 8 | 黑客利用 CVE-2026-41940 漏洞控制 cPanel 和 WHM 服务器 | Doonsec | [https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ](https://mp.weixin.qq.com/s/IBV42dfZcRMquHpYOfTMzQ) |
-| 9 | 谷歌首次发现“AI自主开发”0Day漏洞攻击工具 | Doonsec | [https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA](https://mp.weixin.qq.com/s/lHGi9W1fjnrqwgg4bmkXzA) |
-| 10 | 首次发现！AI生成零日漏洞利用工具并实施网络攻击 | Doonsec | [https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw](https://mp.weixin.qq.com/s/4OWzmOw1oH11TwmlEmq9jw) |
-| 11 | PHP SOAP扩展漏洞或致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) |
+| 1 | WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg](https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg) |
+| 2 | 360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业 | Doonsec | [https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ](https://mp.weixin.qq.com/s/AKyjmlv4vfperRsGS8njsQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 蚁剑最新高危漏洞分析：为什么一个“终端输出”最后变成了客户端 RCE？ | Doonsec | [https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA](https://mp.weixin.qq.com/s/6lAzHpefcbFDM3s6a2R0gA) |
-| 2 | PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg](https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg) |
-| 3 | PHP SOAP扩展漏洞或致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g](https://mp.weixin.qq.com/s/mFK47EiAfZTEblT2Mfmw9g) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 链锁裂变｜TeamPCP 供应链攻击劫持 guardrails-ai，七模块凭据收割全景分析 | Doonsec | [https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw](https://mp.weixin.qq.com/s/P4LnwNy2wVbLDEk12-3XIw) |
+| 1 | WAVLINK-WN530HG4 live_api.cgi接口存在远程命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg](https://mp.weixin.qq.com/s/A1VK7zrvm93AYwfhl1E1gg) |
 
 
 ## 📁 归档路径
@@ -133,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-12 14:25:44*
+*生成时间: 2026-05-12 17:58:49*
 *报告工具: 微信文章安全归档系统*
