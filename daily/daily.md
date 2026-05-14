@@ -1,20 +1,24 @@
-# 2026-05-13 安全威胁态势报告
+# 2026-05-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 17篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
 - **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,21 +67,31 @@
 
 ### Doonsec
 
-- [Node-RED EXEC 节点未授权命令执行漏洞复现](https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA) (发布日期: 2026-05-13)
-- [SRC实战 | Host碰撞还能碰到吗？到底该如何挖？单靠Host碰撞打榜某众测第二](https://mp.weixin.qq.com/s/BS0zQcffy3IgZHNTpAOSOA) (发布日期: 2026-05-13)
-- [守护数据安全，保护个人信息](https://mp.weixin.qq.com/s/WN2p3EhuWkfEs_hqv4VACQ) (发布日期: 2026-05-13)
-- [新闻 | 好导师讲座：杨珉教授受邀作《人工智能安全与治理》专题报告](https://mp.weixin.qq.com/s/0fIK3JULHRiVpDoZbJGa8A) (发布日期: 2026-05-13)
-- [linux提权漏洞喜加一](https://mp.weixin.qq.com/s/IaBbKIaNWLzJ6xda39Gwqw) (发布日期: 2026-05-13)
-- [弱口令为什么至今还是企业噩梦](https://mp.weixin.qq.com/s/719nFH4-qqBwBeIqPmxMSQ) (发布日期: 2026-05-13)
-- [SandboxJS 逃逸漏洞严重，可能导致主机被接管](https://mp.weixin.qq.com/s/evx6EPYWV480lhWB9oR83g) (发布日期: 2026-05-13)
-- [号称全球最“危险”的AI，Anthropic Mythos实测curl仅找到一个真实漏洞](https://mp.weixin.qq.com/s/LghjpqnG00xbGXwXKbrXIw) (发布日期: 2026-05-13)
-- [Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商](https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g) (发布日期: 2026-05-13)
-- [谷歌推出AI驱动的Android移动安全增强方案](https://mp.weixin.qq.com/s/GN8TbrtCggJoa3qiRNgqlg) (发布日期: 2026-05-13)
-- [Microsoft Teams 漏洞可导致黑客实施欺骗攻击](https://mp.weixin.qq.com/s/pzRVNuZP6l7TxzPZV0Ta4g) (发布日期: 2026-05-13)
-- [【安全圈】苹果修复 macOS 和 iOS 系统数十个漏洞](https://mp.weixin.qq.com/s/CazQkRAVpprC7DMsGx_crw) (发布日期: 2026-05-13)
-- [【安全圈】Windows 11遭新型BitUnlocker降级攻击：5分钟内可解密加密磁盘](https://mp.weixin.qq.com/s/jLv7O743kX1FCGw0QgK77w) (发布日期: 2026-05-13)
-- [【安全圈】Exim 新 BDAT 漏洞致 GnuTLS 构建面临代码执行风险](https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A) (发布日期: 2026-05-13)
-- [【AI-Red攻防学习篇】 攻击单个 Agent：提示词注入、记忆投毒与目标劫持](https://mp.weixin.qq.com/s/a4NBM5iEviR3AmfGBZX4ng) (发布日期: 2026-05-13)
+- [CVE复现 | CVE-2025-58360漏洞复现](https://mp.weixin.qq.com/s/BtkmHs3kCnSgnkVeAxq5ng) (发布日期: 2026-05-14)
+- [【漏洞通告】泛微 E-cology10 invoke命令执行漏洞](https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ) (发布日期: 2026-05-14)
+- [【漏洞通告】OpenClaw 安全漏洞（CVE-2026-41365）](https://mp.weixin.qq.com/s/u49Yf_ftvomVOQfY1N13ig) (发布日期: 2026-05-14)
+- [nginx Rift（CVE-2026-42945）攻击者可触发 worker 崩溃，特定条件下可远程代码执行](https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw) (发布日期: 2026-05-14)
+- [【已复现】漏洞通告 | Linux 内核 Fragnesia 权限提升漏洞(CVE-2026-46300)](https://mp.weixin.qq.com/s/G--7OVlmwJfe4d506K06sQ) (发布日期: 2026-05-14)
+- [TurboMail mailmain 信息泄露漏洞](https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww) (发布日期: 2026-05-14)
+- [今年，我们是否还要继续为员工做网络安全意识宣传工作？](https://mp.weixin.qq.com/s/FXxFqF-E2o56HcXvDSqKPQ) (发布日期: 2026-05-14)
+- [【已复现】Linux Kernel Fragnesia 本地权限提升漏洞(CVE-2026-46300)安全风险通告](https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q) (发布日期: 2026-05-14)
+- [首次发现！AI生成零日漏洞利用工具并实施网络攻击](https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ) (发布日期: 2026-05-14)
+- [Dirty Frag：无需漏洞触发条件的 Linux 本地提权，你的防御控制真的在工作吗？](https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA) (发布日期: 2026-05-14)
+- [合法签名也能是木马，供应链投毒正在让企业防线陷入失明](https://mp.weixin.qq.com/s/wIqgMla1i5NFwyzyMjeSkg) (发布日期: 2026-05-14)
+- [在人工智能深度伪造冒充攻击活动后，对 Python 后门威胁进行了分析](https://mp.weixin.qq.com/s/Lw_axGxenit_wpfcBdohEA) (发布日期: 2026-05-14)
+- [神秘的微软漏洞发现者持续公开Windows 0day](https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw) (发布日期: 2026-05-14)
+- [2026年Q1勒索软件攻击导致2,122个组织受影响，攻击集团数量减少但影响更大](https://mp.weixin.qq.com/s/LoIVRpo7Q0VRHAnatnrVRg) (发布日期: 2026-05-14)
+- [【具身智能】赋能【网络安全运营】研究方法论框架](https://mp.weixin.qq.com/s/8As0lAY0_rK6fpiG5_Q3RA) (发布日期: 2026-05-14)
+- [2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高](https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg) (发布日期: 2026-05-14)
+- [针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复](https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw) (发布日期: 2026-05-14)
+- [Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门](https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g) (发布日期: 2026-05-14)
+- [OpenLoop Health 确认 2026 年 1 月发生数据泄露事件，波及 71.6 万名用户](https://mp.weixin.qq.com/s/rUKHpCA2iQUIoe0jeu9wVQ) (发布日期: 2026-05-14)
+- [Pwn2Own被0day狂潮冲垮：一场暴露行业底层逻辑崩溃的安全危机](https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g) (发布日期: 2026-05-14)
+- [逻辑漏洞渗透](https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ) (发布日期: 2026-05-14)
+- [【严重】FlipperCode 插件曝出 CVE-2026-6433：未经身份验证即可通过 eval() 接管系统](https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ) (发布日期: 2026-05-14)
+- [AI 智能体安全评估（1）——“守望”智能体安全检查工具](https://mp.weixin.qq.com/s/QAdOnP1Ln_GsSnyTcXuXnA) (发布日期: 2026-05-14)
+- [苹果设备现已支持端到端加密RCS：苹果设备已正式推出端到端加密RCS消息功能](https://mp.weixin.qq.com/s/2306_QG-_PwvHcWTq9lQNw) (发布日期: 2026-05-14)
+- [Google检测到首个AI生成的Zero-Day漏洞利用链](https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ) (发布日期: 2026-05-14)
 
 
 ## 🎯 威胁详情分析
@@ -86,33 +100,53 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Node-RED EXEC 节点未授权命令执行漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA](https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA) |
-| 2 | linux提权漏洞喜加一 | Doonsec | [https://mp.weixin.qq.com/s/IaBbKIaNWLzJ6xda39Gwqw](https://mp.weixin.qq.com/s/IaBbKIaNWLzJ6xda39Gwqw) |
-| 3 | SandboxJS 逃逸漏洞严重，可能导致主机被接管 | Doonsec | [https://mp.weixin.qq.com/s/evx6EPYWV480lhWB9oR83g](https://mp.weixin.qq.com/s/evx6EPYWV480lhWB9oR83g) |
-| 4 | 号称全球最“危险”的AI，Anthropic Mythos实测curl仅找到一个真实漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LghjpqnG00xbGXwXKbrXIw](https://mp.weixin.qq.com/s/LghjpqnG00xbGXwXKbrXIw) |
-| 5 | Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商 | Doonsec | [https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g](https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g) |
-| 6 | Microsoft Teams 漏洞可导致黑客实施欺骗攻击 | Doonsec | [https://mp.weixin.qq.com/s/pzRVNuZP6l7TxzPZV0Ta4g](https://mp.weixin.qq.com/s/pzRVNuZP6l7TxzPZV0Ta4g) |
-| 7 | 【安全圈】苹果修复 macOS 和 iOS 系统数十个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CazQkRAVpprC7DMsGx_crw](https://mp.weixin.qq.com/s/CazQkRAVpprC7DMsGx_crw) |
-| 8 | 【安全圈】Exim 新 BDAT 漏洞致 GnuTLS 构建面临代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A](https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A) |
+| 1 | CVE复现 | CVE-2025-58360漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/BtkmHs3kCnSgnkVeAxq5ng](https://mp.weixin.qq.com/s/BtkmHs3kCnSgnkVeAxq5ng) |
+| 2 | 【漏洞通告】泛微 E-cology10 invoke命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ](https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ) |
+| 3 | 【漏洞通告】OpenClaw 安全漏洞（CVE-2026-41365） | Doonsec | [https://mp.weixin.qq.com/s/u49Yf_ftvomVOQfY1N13ig](https://mp.weixin.qq.com/s/u49Yf_ftvomVOQfY1N13ig) |
+| 4 | nginx Rift（CVE-2026-42945）攻击者可触发 worker 崩溃，特定条件下可远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw](https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw) |
+| 5 | 【已复现】漏洞通告 | Linux 内核 Fragnesia 权限提升漏洞(CVE-2026-46300) | Doonsec | [https://mp.weixin.qq.com/s/G--7OVlmwJfe4d506K06sQ](https://mp.weixin.qq.com/s/G--7OVlmwJfe4d506K06sQ) |
+| 6 | TurboMail mailmain 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww](https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww) |
+| 7 | 【已复现】Linux Kernel Fragnesia 本地权限提升漏洞(CVE-2026-46300)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q](https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q) |
+| 8 | 首次发现！AI生成零日漏洞利用工具并实施网络攻击 | Doonsec | [https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ](https://mp.weixin.qq.com/s/3fklcZ8Sx51BHn0CPFE4fQ) |
+| 9 | Dirty Frag：无需漏洞触发条件的 Linux 本地提权，你的防御控制真的在工作吗？ | Doonsec | [https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA](https://mp.weixin.qq.com/s/XWNHIKRs_uykWPtT3ekfyA) |
+| 10 | 神秘的微软漏洞发现者持续公开Windows 0day | Doonsec | [https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw](https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw) |
+| 11 | 2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高 | Doonsec | [https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg](https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg) |
+| 12 | 针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复 | Doonsec | [https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw](https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw) |
+| 13 | Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门 | Doonsec | [https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g](https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g) |
+| 14 | Pwn2Own被0day狂潮冲垮：一场暴露行业底层逻辑崩溃的安全危机 | Doonsec | [https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g](https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g) |
+| 15 | 逻辑漏洞渗透 | Doonsec | [https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ](https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ) |
+| 16 | 【严重】FlipperCode 插件曝出 CVE-2026-6433：未经身份验证即可通过 eval() 接管系统 | Doonsec | [https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ](https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ) |
+| 17 | Google检测到首个AI生成的Zero-Day漏洞利用链 | Doonsec | [https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ](https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Node-RED EXEC 节点未授权命令执行漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA](https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA) |
-| 2 | 【安全圈】Exim 新 BDAT 漏洞致 GnuTLS 构建面临代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A](https://mp.weixin.qq.com/s/jz2esBqKqwTAu6frORFX9A) |
-| 3 | 【AI-Red攻防学习篇】 攻击单个 Agent：提示词注入、记忆投毒与目标劫持 | Doonsec | [https://mp.weixin.qq.com/s/a4NBM5iEviR3AmfGBZX4ng](https://mp.weixin.qq.com/s/a4NBM5iEviR3AmfGBZX4ng) |
+| 1 | 【漏洞通告】泛微 E-cology10 invoke命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ](https://mp.weixin.qq.com/s/oTvDu7ct1hXG9ccPDZbgAQ) |
+| 2 | nginx Rift（CVE-2026-42945）攻击者可触发 worker 崩溃，特定条件下可远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw](https://mp.weixin.qq.com/s/a1QEQ9CYZ9vt1tnTdWikOw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC实战 | Host碰撞还能碰到吗？到底该如何挖？单靠Host碰撞打榜某众测第二 | Doonsec | [https://mp.weixin.qq.com/s/BS0zQcffy3IgZHNTpAOSOA](https://mp.weixin.qq.com/s/BS0zQcffy3IgZHNTpAOSOA) |
+| 1 | 【具身智能】赋能【网络安全运营】研究方法论框架 | Doonsec | [https://mp.weixin.qq.com/s/8As0lAY0_rK6fpiG5_Q3RA](https://mp.weixin.qq.com/s/8As0lAY0_rK6fpiG5_Q3RA) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | OpenLoop Health 确认 2026 年 1 月发生数据泄露事件，波及 71.6 万名用户 | Doonsec | [https://mp.weixin.qq.com/s/rUKHpCA2iQUIoe0jeu9wVQ](https://mp.weixin.qq.com/s/rUKHpCA2iQUIoe0jeu9wVQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 合法签名也能是木马，供应链投毒正在让企业防线陷入失明 | Doonsec | [https://mp.weixin.qq.com/s/wIqgMla1i5NFwyzyMjeSkg](https://mp.weixin.qq.com/s/wIqgMla1i5NFwyzyMjeSkg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W20/2026-05-13/`
+文章已归档到: `doc/2026/2026-05/2026-W20/2026-05-14/`
 
 ## 🔗 数据源说明
 
@@ -123,8 +157,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 17 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +167,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-13 14:34:19*
+*生成时间: 2026-05-14 03:28:56*
 *报告工具: 微信文章安全归档系统*
