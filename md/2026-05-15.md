@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
+- **漏洞利用**: 6篇
 - **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **威胁情报**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,24 +64,18 @@
 
 ### Doonsec
 
-- [282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）](https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg) (发布日期: 2026-05-15)
-- [生成式人工智能大规模个人信息泄露的协同治理路径](https://mp.weixin.qq.com/s/gMLbU-BGv24_1xyYjwP62g) (发布日期: 2026-05-15)
-- [【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开](https://mp.weixin.qq.com/s/mutmN1nje_x5bZAmQm8I9g) (发布日期: 2026-05-15)
-- [Web Fuzzer 强化：AI自动修改数据包与智能测漏洞](https://mp.weixin.qq.com/s/kqLGRhmQa8fs5HifQHqMsQ) (发布日期: 2026-05-15)
-- [【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）](https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q) (发布日期: 2026-05-15)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（05/11-05/15）](https://mp.weixin.qq.com/s/6veyJePz3ELYvS2di8QE_A) (发布日期: 2026-05-15)
-- [邀请函｜「数安漕河泾」系列活动：AI时代的企业数据安全](https://mp.weixin.qq.com/s/pIHXz9H100HpWuf07rcDQg) (发布日期: 2026-05-15)
-- [商用密码应用安全性评估实战-物理与环境安全层面测评全过程讲解](https://mp.weixin.qq.com/s/kBMOsQfwanRIHLMGtrMdYA) (发布日期: 2026-05-15)
-- [伪装成 Google Gemini CLI 的新型 Windows 恶意软件攻击活动分析](https://mp.weixin.qq.com/s/ZruHEc_FUxwuKrPl-sb4aw) (发布日期: 2026-05-15)
-- [免杀分析 | PowerShell命令执行、检测与绕过](https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ) (发布日期: 2026-05-15)
-- [【免费领】国内第一本Android应用安全与逆向分析教程](https://mp.weixin.qq.com/s/uyyEFTv_tI8poDSNs_MJUA) (发布日期: 2026-05-15)
-- [是时候让安全运营Agent“直连”数据底座了](https://mp.weixin.qq.com/s/nGlZxV9j7BSnXTLHKwA94Q) (发布日期: 2026-05-15)
-- [【漏洞通告】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)](https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q) (发布日期: 2026-05-15)
-- [我终于成功组装了我的Socket 775 + AGP电脑，主板：Intel D865GSA，CPU：奔腾 4 HT 641，内存：2GB DDR400，GPU：128MB PNY GeForce 6200](https://mp.weixin.qq.com/s/B3xab2GMKLpWDFQ__qXnNg) (发布日期: 2026-05-15)
-- [【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告](https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA) (发布日期: 2026-05-15)
-- [能信安：漏洞通告](https://mp.weixin.qq.com/s/izVy1U113E-dxqZ_edKunA) (发布日期: 2026-05-15)
-- [实战逻辑漏洞（短信横向）利用](https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g) (发布日期: 2026-05-15)
-- [2026年攻防演练即将开启：以攻击面管理为核心，构筑主动防御新防线](https://mp.weixin.qq.com/s/zpw8YLQ1twXB-qaYzxt-Mg) (发布日期: 2026-05-15)
+- [终端隐形链：OSC 8超链接注入攻击](https://mp.weixin.qq.com/s/v3ES8XbXVu4GKjwKXBlHNA) (发布日期: 2026-05-15)
+- [筑牢智能时代的数字长城：Token经济呼唤全域全栈安全防护体系](https://mp.weixin.qq.com/s/-mCRYppiZyx_VsqJj5gdbQ) (发布日期: 2026-05-15)
+- [真实企业攻防演练现场,到底有多恐怖？](https://mp.weixin.qq.com/s/ysw6Ah_QeeF2In6j3EesfQ) (发布日期: 2026-05-15)
+- [威胁情报｜node-ipc 遭供应链入侵投毒攻击分析](https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww) (发布日期: 2026-05-15)
+- [威胁情报｜Mistral AI 官方 SDK 供应链投毒分析](https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ) (发布日期: 2026-05-15)
+- [微软警告：HPE Operations Agent 可能在无恶意软件攻击中被滥用](https://mp.weixin.qq.com/s/n9TqWGWGQCfe0MNsIc7u2w) (发布日期: 2026-05-15)
+- [一个月内第三起！Linux内核再曝Fragnesia高危漏洞](https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw) (发布日期: 2026-05-15)
+- [Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞](https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ) (发布日期: 2026-05-15)
+- [Windows DNS客户端漏洞可导致远程代码执行攻击](https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw) (发布日期: 2026-05-15)
+- [【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）](https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w) (发布日期: 2026-05-15)
+- [【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)](https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q) (发布日期: 2026-05-15)
+- [【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)](https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw) (发布日期: 2026-05-15)
 
 
 ## 🎯 威胁详情分析
@@ -91,33 +84,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业） | Doonsec | [https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg](https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg) |
-| 2 | 【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开 | Doonsec | [https://mp.weixin.qq.com/s/mutmN1nje_x5bZAmQm8I9g](https://mp.weixin.qq.com/s/mutmN1nje_x5bZAmQm8I9g) |
-| 3 | Web Fuzzer 强化：AI自动修改数据包与智能测漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kqLGRhmQa8fs5HifQHqMsQ](https://mp.weixin.qq.com/s/kqLGRhmQa8fs5HifQHqMsQ) |
-| 4 | 【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415） | Doonsec | [https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q](https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q) |
-| 5 | 【漏洞通告】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945) | Doonsec | [https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q](https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q) |
-| 6 | 【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA](https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA) |
-| 7 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/izVy1U113E-dxqZ_edKunA](https://mp.weixin.qq.com/s/izVy1U113E-dxqZ_edKunA) |
-| 8 | 实战逻辑漏洞（短信横向）利用 | Doonsec | [https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g](https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g) |
+| 1 | 一个月内第三起！Linux内核再曝Fragnesia高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw](https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw) |
+| 2 | Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ](https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ) |
+| 3 | Windows DNS客户端漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw](https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw) |
+| 4 | 【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265） | Doonsec | [https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w](https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w) |
+| 5 | 【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945) | Doonsec | [https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q](https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q) |
+| 6 | 【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300) | Doonsec | [https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw](https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 免杀分析 | PowerShell命令执行、检测与绕过 | Doonsec | [https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ](https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ) |
-| 2 | 我终于成功组装了我的Socket 775 + AGP电脑，主板：Intel D865GSA，CPU：奔腾 4 HT 641，内存：2GB DDR400，GPU：128MB PNY GeForce 6200 | Doonsec | [https://mp.weixin.qq.com/s/B3xab2GMKLpWDFQ__qXnNg](https://mp.weixin.qq.com/s/B3xab2GMKLpWDFQ__qXnNg) |
+| 1 | 终端隐形链：OSC 8超链接注入攻击 | Doonsec | [https://mp.weixin.qq.com/s/v3ES8XbXVu4GKjwKXBlHNA](https://mp.weixin.qq.com/s/v3ES8XbXVu4GKjwKXBlHNA) |
+| 2 | Windows DNS客户端漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw](https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（05/11-05/15） | Doonsec | [https://mp.weixin.qq.com/s/6veyJePz3ELYvS2di8QE_A](https://mp.weixin.qq.com/s/6veyJePz3ELYvS2di8QE_A) |
+| 1 | 威胁情报｜node-ipc 遭供应链入侵投毒攻击分析 | Doonsec | [https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww](https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww) |
+| 2 | 威胁情报｜Mistral AI 官方 SDK 供应链投毒分析 | Doonsec | [https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ](https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ) |
 
-### 安全运营
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 是时候让安全运营Agent“直连”数据底座了 | Doonsec | [https://mp.weixin.qq.com/s/nGlZxV9j7BSnXTLHKwA94Q](https://mp.weixin.qq.com/s/nGlZxV9j7BSnXTLHKwA94Q) |
+| 1 | 威胁情报｜node-ipc 遭供应链入侵投毒攻击分析 | Doonsec | [https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww](https://mp.weixin.qq.com/s/8iUR6_plQg7zuFlgmuu_Ww) |
+| 2 | 威胁情报｜Mistral AI 官方 SDK 供应链投毒分析 | Doonsec | [https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ](https://mp.weixin.qq.com/s/psAhg1D3wbsNeNwyg4R2HQ) |
 
 
 ## 📁 归档路径
@@ -133,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-15 10:23:25*
+*生成时间: 2026-05-15 14:07:14*
 *报告工具: 微信文章安全归档系统*
