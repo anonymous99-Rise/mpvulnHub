@@ -2,24 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 33
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 2篇
-  - BruceFeIix: 31篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 14篇
-- **威胁情报**: 4篇
-- **供应链**: 4篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
+- **漏洞利用**: 10篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,42 +63,26 @@
 
 ### Doonsec
 
-- [新手挖漏洞神器：50 个高危端口完整版清单](https://mp.weixin.qq.com/s/WdL2QmyngffrLS_jfcZYnA) (发布日期: 2026-05-16)
-- [我们如何为邮件安全构建高速威胁狩猎](https://mp.weixin.qq.com/s/R1OnZnMtMUTGCICYiYw8Ng) (发布日期: 2026-05-16)
-
-### BruceFeIix
-
-- [ ] [红队攻击 Web3 AI 代理攻击途径的指南攻击](https://mp.weixin.qq.com/s/_BDvYVudigZa_fTDThIYJA) (发布日期: 2026-05-16)
-- [ ] [AI 驱动的渗透测试 CLI 工具 — 说人话，打漏洞](https://mp.weixin.qq.com/s/M58-s1GDTAjSJT1cSI8jeg) (发布日期: 2026-05-16)
-- [ ] [天锐绿盾审批系统findOnlineUserForPage.do接口存在信息泄露漏洞 附POC](https://mp.weixin.qq.com/s/PdUpr8J3aW_kqYsQmRqj_w) (发布日期: 2026-05-16)
-- [ ] [【红队工具】SOAPy--SOCKS5代理与ADWS进攻性交互](https://mp.weixin.qq.com/s/DGISHzgE5aUMKZb2u7l6rQ) (发布日期: 2026-05-16)
-- [ ] [AI赋能安全测试-APK文件逆向分析(jadx-ai-mcp)](https://mp.weixin.qq.com/s/PJrpsQoDiKno2ytjSDuzkA) (发布日期: 2026-05-16)
-- [ ] [恐怖如斯！Mythos搞定18个V8漏洞，AI漏洞利用比人类还稳?](https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg) (发布日期: 2026-05-16)
-- [ ] [国际认可 | 绿盟科技入选Gartner®《网络威胁情报技术魔力象限》远见者象限](https://mp.weixin.qq.com/s/ve-TNGlJEld-jDtOei9ryw) (发布日期: 2026-05-16)
-- [ ] [数字化转型背景下重构油气炼化行业工控安全防护体系](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141613&idx=1&sn=8e1f6f4937999de5a444f24ece1291c3) (发布日期: 2026-05-16)
-- [ ] [【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505839&idx=1&sn=6b738b4bdf330f23c5c9e2c7369a138c) (发布日期: 2026-05-16)
-- [ ] [生成式人工智能大规模个人信息泄露的协同治理路径](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515944&idx=2&sn=bafd1ac39cfb071e6842b41b57ef9196) (发布日期: 2026-05-16)
-- [ ] [思科：注意已遭利用的满分 SD-WAN 新 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=1&sn=a356c936f290fca11bdc81d87da6081f) (发布日期: 2026-05-16)
-- [ ] [已存在18年的 Nginx 漏洞可导致 RCE 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d) (发布日期: 2026-05-16)
-- [ ] [黑客团伙设赌注发动供应链攻击竞赛；node-ipc npm 包再受陷](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=3&sn=6f238f373449bd7ade3043d253e72718) (发布日期: 2026-05-16)
-- [ ] [每周高级威胁情报解读(2026.05.08~05.14)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518815&idx=1&sn=bc9a60ac5943fb9a8e839c9be78483f8) (发布日期: 2026-05-16)
-- [ ] [OpenAI 推出 Daybreak，对标 Anthropic Mythos 发力 AI 网络防御；CNNVD发布关于微软多个安全漏洞的通报| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141364&idx=2&sn=d335881f17dd59da610237880440da71) (发布日期: 2026-05-16)
-- [ ] [抢先加入AI时代顶尖安全团队！阿里云2027届实习生招聘来了！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998874&idx=1&sn=204cedf06aa543d6ee35062de8e9cd9f) (发布日期: 2026-05-16)
-- [ ] [【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497563&idx=1&sn=7d07cd3ae00c707873cecb78adc26675) (发布日期: 2026-05-16)
-- [ ] [【公益译文】2026年国际AI安全报告（七）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499898&idx=1&sn=ba7c2c7da58ce5e68471b1b543ec72c7) (发布日期: 2026-05-16)
-- [ ] [威胁情报｜node-ipc 遭供应链入侵投毒攻击分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=1&sn=d99d7f743d73c3f53f24b1cd2d71ddbf) (发布日期: 2026-05-16)
-- [ ] [威胁情报｜Mistral AI 官方 SDK 供应链投毒分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=2&sn=b921a0eaa914c68c5b819df6b2af116d) (发布日期: 2026-05-16)
-- [ ] [【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=1&sn=1b0f5add038e08a736263f502e4cd35b) (发布日期: 2026-05-16)
-- [ ] [【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=2&sn=cf15a9fe232a95f5f9af354e449ed6f6) (发布日期: 2026-05-16)
-- [ ] [【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=3&sn=71147ace39e5cb83bb48d2dc74302c28) (发布日期: 2026-05-16)
-- [ ] [缓存投毒导致的 XSS 接管账号](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499445&idx=1&sn=ab3e978cb7b499afac2b1c57e87b2c9f) (发布日期: 2026-05-16)
-- [ ] [【火绒安全周报】富士康美国工厂遭网络攻击/斯柯达数据泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532723&idx=2&sn=cd4ba5b9a8d536d91b6b9ace2f91bc9c) (发布日期: 2026-05-16)
-- [ ] [【活动】奖励翻倍！2026 BSRC白帽赏金挑战赛上线！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544074&idx=1&sn=523f69688025b2ae73c8b4f6526fa4f1) (发布日期: 2026-05-16)
-- [ ] [Web Fuzzer 强化：AI自动修改数据包与智能测漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529794&idx=1&sn=c3679fba273e0aec1c10f18624c02e12) (发布日期: 2026-05-16)
-- [ ] [AI原生安全治理 | 灵脉AI全面进化，代码护栏赋能AI Coding 安全！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799501&idx=1&sn=9ab1d10680d92acd5b00e6eeeb83bae1) (发布日期: 2026-05-16)
-- [ ] [【安全圈】新型远程控制木马被披露，黑客伪造苹果与雅虎 CDN 域名攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=1&sn=ffae0916c178fdfdfc63e5f205db23f8) (发布日期: 2026-05-16)
-- [ ] [【安全圈】OpenAI 确认在 TanStack 供应链攻击中出现安全漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263) (发布日期: 2026-05-16)
-- [ ] [是时候让安全运营Agent“直连”数据底座了](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495400&idx=1&sn=894119a00218b7a456f96fab123ee9b5) (发布日期: 2026-05-16)
+- [“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞](https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ) (发布日期: 2026-05-16)
+- [安天AVL SDK反病毒引擎升级通告（20260516）](https://mp.weixin.qq.com/s/8LVpyAhPjwAyMt_MzC6sxw) (发布日期: 2026-05-16)
+- [哪里可以找到能够注册的XP SP3 ISO镜像文件，真心想要一个能在2026年正常上网而不会让电脑感染病毒的版本](https://mp.weixin.qq.com/s/B9NCzcCQCEY4QAsiNiDwuQ) (发布日期: 2026-05-16)
+- [多智能体协作的自主渗透测试框架Abyss，像专家一样思考](https://mp.weixin.qq.com/s/TnAgDNoFvytZJcragivbAQ) (发布日期: 2026-05-16)
+- [安全警报 | 公益组织数据安全拉响警报！黑客组织声称攻破中国狮子联会管理平台](https://mp.weixin.qq.com/s/5_YqmWPzFYnLOYK1OtCmhw) (发布日期: 2026-05-16)
+- [冰蝎 v4.1 被曝 0‑click 高危漏洞，一连接就被反制，可窃取凭据...！](https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw) (发布日期: 2026-05-16)
+- [记录一次对校内系统的安全测试](https://mp.weixin.qq.com/s/dF64jY2-z_z6jQKAlP1_5g) (发布日期: 2026-05-16)
+- [Pwn2Own柏林2026次日战报：DEVCORE狂揽$405,000领跑，Exchange漏洞引爆全场](https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ) (发布日期: 2026-05-16)
+- [年度渗透测试报告：AI的漏洞比传统软件严重得多](https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w) (发布日期: 2026-05-16)
+- [弱口令到Root Shell  配置正确的重要性](https://mp.weixin.qq.com/s/jQ9GGUXsCKJLS2zmIeJ_Uw) (发布日期: 2026-05-16)
+- [暗网线报 | 台湾对外贸协数据泄露：千余条员工信息遭曝光，全球办事处架构一览无余](https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA) (发布日期: 2026-05-16)
+- [在看 | 周报：中行福建省分行因多项违规被罚；谷歌确认黑客利用AI生成零日漏洞发动攻击](https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg) (发布日期: 2026-05-16)
+- [VMware Fusion漏洞可致攻击者获取root权限](https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ) (发布日期: 2026-05-16)
+- [OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击](https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g) (发布日期: 2026-05-16)
+- [记一次对某211大学敏感信息泄露](https://mp.weixin.qq.com/s/Bh_Di66OwgaszjI26b8mZA) (发布日期: 2026-05-16)
+- [伪装成 Google Gemini CLI 的新型 Windows 恶意软件攻击活动分析](https://mp.weixin.qq.com/s/WJF0n601BGOonfD1vTxcTg) (发布日期: 2026-05-16)
+- [【0day】Windows 提权漏洞喜加一](https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw) (发布日期: 2026-05-16)
+- [密评工具箱大横评：分组密码算法工作模式，ECB加密解密差点全军覆没](https://mp.weixin.qq.com/s/U37VZgNgbBdZMCKiOKnQ3A) (发布日期: 2026-05-16)
+- [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg) (发布日期: 2026-05-16)
+- [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA) (发布日期: 2026-05-16)
 
 
 ## 🎯 威胁详情分析
@@ -112,58 +91,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新手挖漏洞神器：50 个高危端口完整版清单 | Doonsec | [https://mp.weixin.qq.com/s/WdL2QmyngffrLS_jfcZYnA](https://mp.weixin.qq.com/s/WdL2QmyngffrLS_jfcZYnA) |
-| 2 |  ] [AI 驱动的渗透测试 CLI 工具 — 说人话，打漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/M58-s1GDTAjSJT1cSI8jeg](https://mp.weixin.qq.com/s/M58-s1GDTAjSJT1cSI8jeg) |
-| 3 |  ] [天锐绿盾审批系统findOnlineUserForPage.do接口存在信息泄露漏洞 附POC | BruceFeIix | [https://mp.weixin.qq.com/s/PdUpr8J3aW_kqYsQmRqj_w](https://mp.weixin.qq.com/s/PdUpr8J3aW_kqYsQmRqj_w) |
-| 4 |  ] [恐怖如斯！Mythos搞定18个V8漏洞，AI漏洞利用比人类还稳? | BruceFeIix | [https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg](https://mp.weixin.qq.com/s/0Nn65decO4Tl9_TA34Dwzg) |
-| 5 |  ] [【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505839&idx=1&sn=6b738b4bdf330f23c5c9e2c7369a138c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505839&idx=1&sn=6b738b4bdf330f23c5c9e2c7369a138c) |
-| 6 |  ] [思科：注意已遭利用的满分 SD-WAN 新 0day | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=1&sn=a356c936f290fca11bdc81d87da6081f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=1&sn=a356c936f290fca11bdc81d87da6081f) |
-| 7 |  ] [已存在18年的 Nginx 漏洞可导致 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d) |
-| 8 |  ] [OpenAI 推出 Daybreak，对标 Anthropic Mythos 发力 AI 网络防御；CNNVD发布关于微软多个安全漏洞的通报| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141364&idx=2&sn=d335881f17dd59da610237880440da71](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141364&idx=2&sn=d335881f17dd59da610237880440da71) |
-| 9 |  ] [【漏洞预警】Linux Kernel 越权任意文件读取漏洞，PoC 已公开 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497563&idx=1&sn=7d07cd3ae00c707873cecb78adc26675](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497563&idx=1&sn=7d07cd3ae00c707873cecb78adc26675) |
-| 10 |  ] [【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=1&sn=1b0f5add038e08a736263f502e4cd35b](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=1&sn=1b0f5add038e08a736263f502e4cd35b) |
-| 11 |  ] [【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=2&sn=cf15a9fe232a95f5f9af354e449ed6f6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=2&sn=cf15a9fe232a95f5f9af354e449ed6f6) |
-| 12 |  ] [【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=3&sn=71147ace39e5cb83bb48d2dc74302c28](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525652&idx=3&sn=71147ace39e5cb83bb48d2dc74302c28) |
-| 13 |  ] [Web Fuzzer 强化：AI自动修改数据包与智能测漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529794&idx=1&sn=c3679fba273e0aec1c10f18624c02e12](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529794&idx=1&sn=c3679fba273e0aec1c10f18624c02e12) |
-| 14 |  ] [【安全圈】OpenAI 确认在 TanStack 供应链攻击中出现安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [已存在18年的 Nginx 漏洞可导致 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=2&sn=ff7a5425883dc59896247c3cc01d5e4d) |
-| 2 |  ] [缓存投毒导致的 XSS 接管账号 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499445&idx=1&sn=ab3e978cb7b499afac2b1c57e87b2c9f](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499445&idx=1&sn=ab3e978cb7b499afac2b1c57e87b2c9f) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [国际认可 | 绿盟科技入选Gartner®《网络威胁情报技术魔力象限》远见者象限 | BruceFeIix | [https://mp.weixin.qq.com/s/ve-TNGlJEld-jDtOei9ryw](https://mp.weixin.qq.com/s/ve-TNGlJEld-jDtOei9ryw) |
-| 2 |  ] [每周高级威胁情报解读(2026.05.08~05.14) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518815&idx=1&sn=bc9a60ac5943fb9a8e839c9be78483f8](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518815&idx=1&sn=bc9a60ac5943fb9a8e839c9be78483f8) |
-| 3 |  ] [威胁情报｜node-ipc 遭供应链入侵投毒攻击分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=1&sn=d99d7f743d73c3f53f24b1cd2d71ddbf](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=1&sn=d99d7f743d73c3f53f24b1cd2d71ddbf) |
-| 4 |  ] [威胁情报｜Mistral AI 官方 SDK 供应链投毒分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=2&sn=b921a0eaa914c68c5b819df6b2af116d](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=2&sn=b921a0eaa914c68c5b819df6b2af116d) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【活动】奖励翻倍！2026 BSRC白帽赏金挑战赛上线！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544074&idx=1&sn=523f69688025b2ae73c8b4f6526fa4f1](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544074&idx=1&sn=523f69688025b2ae73c8b4f6526fa4f1) |
-| 2 |  ] [是时候让安全运营Agent“直连”数据底座了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495400&idx=1&sn=894119a00218b7a456f96fab123ee9b5](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495400&idx=1&sn=894119a00218b7a456f96fab123ee9b5) |
+| 1 | “分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞 | Doonsec | [https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ](https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ) |
+| 2 | 冰蝎 v4.1 被曝 0‑click 高危漏洞，一连接就被反制，可窃取凭据...！ | Doonsec | [https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw](https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw) |
+| 3 | Pwn2Own柏林2026次日战报：DEVCORE狂揽$405,000领跑，Exchange漏洞引爆全场 | Doonsec | [https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ](https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ) |
+| 4 | 年度渗透测试报告：AI的漏洞比传统软件严重得多 | Doonsec | [https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w](https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w) |
+| 5 | 在看 | 周报：中行福建省分行因多项违规被罚；谷歌确认黑客利用AI生成零日漏洞发动攻击 | Doonsec | [https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg](https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg) |
+| 6 | VMware Fusion漏洞可致攻击者获取root权限 | Doonsec | [https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ](https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ) |
+| 7 | OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击 | Doonsec | [https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g](https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g) |
+| 8 | 【0day】Windows 提权漏洞喜加一 | Doonsec | [https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw](https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw) |
+| 9 | QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机 | Doonsec | [https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg](https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg) |
+| 10 | 今日（2026年5月16日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA](https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【火绒安全周报】富士康美国工厂遭网络攻击/斯柯达数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532723&idx=2&sn=cd4ba5b9a8d536d91b6b9ace2f91bc9c](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532723&idx=2&sn=cd4ba5b9a8d536d91b6b9ace2f91bc9c) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [黑客团伙设赌注发动供应链攻击竞赛；node-ipc npm 包再受陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=3&sn=6f238f373449bd7ade3043d253e72718](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526019&idx=3&sn=6f238f373449bd7ade3043d253e72718) |
-| 2 |  ] [威胁情报｜node-ipc 遭供应链入侵投毒攻击分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=1&sn=d99d7f743d73c3f53f24b1cd2d71ddbf](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=1&sn=d99d7f743d73c3f53f24b1cd2d71ddbf) |
-| 3 |  ] [威胁情报｜Mistral AI 官方 SDK 供应链投毒分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=2&sn=b921a0eaa914c68c5b819df6b2af116d](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505005&idx=2&sn=b921a0eaa914c68c5b819df6b2af116d) |
-| 4 |  ] [【安全圈】OpenAI 确认在 TanStack 供应链攻击中出现安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076488&idx=3&sn=cffc7b6754f6e27eeac5cfa00da6a263) |
+| 1 | 暗网线报 | 台湾对外贸协数据泄露：千余条员工信息遭曝光，全球办事处架构一览无余 | Doonsec | [https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA](https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA) |
 
 
 ## 📁 归档路径
@@ -179,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -189,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-16 06:21:56*
+*生成时间: 2026-05-16 20:48:35*
 *报告工具: 微信文章安全归档系统*
