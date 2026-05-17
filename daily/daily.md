@@ -1,20 +1,19 @@
-# 2026-05-16 安全威胁态势报告
+# 2026-05-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 20
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 20篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **信息泄露**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 - **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,55 +62,25 @@
 
 ### Doonsec
 
-- [“分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞](https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ) (发布日期: 2026-05-16)
-- [安天AVL SDK反病毒引擎升级通告（20260516）](https://mp.weixin.qq.com/s/8LVpyAhPjwAyMt_MzC6sxw) (发布日期: 2026-05-16)
-- [哪里可以找到能够注册的XP SP3 ISO镜像文件，真心想要一个能在2026年正常上网而不会让电脑感染病毒的版本](https://mp.weixin.qq.com/s/B9NCzcCQCEY4QAsiNiDwuQ) (发布日期: 2026-05-16)
-- [多智能体协作的自主渗透测试框架Abyss，像专家一样思考](https://mp.weixin.qq.com/s/TnAgDNoFvytZJcragivbAQ) (发布日期: 2026-05-16)
-- [安全警报 | 公益组织数据安全拉响警报！黑客组织声称攻破中国狮子联会管理平台](https://mp.weixin.qq.com/s/5_YqmWPzFYnLOYK1OtCmhw) (发布日期: 2026-05-16)
-- [冰蝎 v4.1 被曝 0‑click 高危漏洞，一连接就被反制，可窃取凭据...！](https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw) (发布日期: 2026-05-16)
-- [记录一次对校内系统的安全测试](https://mp.weixin.qq.com/s/dF64jY2-z_z6jQKAlP1_5g) (发布日期: 2026-05-16)
-- [Pwn2Own柏林2026次日战报：DEVCORE狂揽$405,000领跑，Exchange漏洞引爆全场](https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ) (发布日期: 2026-05-16)
-- [年度渗透测试报告：AI的漏洞比传统软件严重得多](https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w) (发布日期: 2026-05-16)
-- [弱口令到Root Shell  配置正确的重要性](https://mp.weixin.qq.com/s/jQ9GGUXsCKJLS2zmIeJ_Uw) (发布日期: 2026-05-16)
-- [暗网线报 | 台湾对外贸协数据泄露：千余条员工信息遭曝光，全球办事处架构一览无余](https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA) (发布日期: 2026-05-16)
-- [在看 | 周报：中行福建省分行因多项违规被罚；谷歌确认黑客利用AI生成零日漏洞发动攻击](https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg) (发布日期: 2026-05-16)
-- [VMware Fusion漏洞可致攻击者获取root权限](https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ) (发布日期: 2026-05-16)
-- [OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击](https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g) (发布日期: 2026-05-16)
-- [记一次对某211大学敏感信息泄露](https://mp.weixin.qq.com/s/Bh_Di66OwgaszjI26b8mZA) (发布日期: 2026-05-16)
-- [伪装成 Google Gemini CLI 的新型 Windows 恶意软件攻击活动分析](https://mp.weixin.qq.com/s/WJF0n601BGOonfD1vTxcTg) (发布日期: 2026-05-16)
-- [【0day】Windows 提权漏洞喜加一](https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw) (发布日期: 2026-05-16)
-- [密评工具箱大横评：分组密码算法工作模式，ECB加密解密差点全军覆没](https://mp.weixin.qq.com/s/U37VZgNgbBdZMCKiOKnQ3A) (发布日期: 2026-05-16)
-- [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg) (发布日期: 2026-05-16)
-- [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA) (发布日期: 2026-05-16)
+- [某厂商安全设备前台RCE](https://mp.weixin.qq.com/s/WJRZRrAaYVwzzo2RaO4vQw) (发布日期: 2026-05-17)
+- [LovelyERes：AWD适用的蓝队综合工具](https://mp.weixin.qq.com/s/zueMBGZNkl9jUjpRTFrH2A) (发布日期: 2026-05-17)
+- [r0ysue-安卓应用安全进阶培训班 资料分享](https://mp.weixin.qq.com/s/7osCr2CFNSGCbAMXUQiQrQ) (发布日期: 2026-05-17)
+- [原型污染 + DOM XSS，赏金猎人必会的挖洞连招](https://mp.weixin.qq.com/s/4YPxmP_-T2HwqC4INKud5A) (发布日期: 2026-05-17)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | “分片失忆”——Dirty Frag补丁如何催生了Fragnesia漏洞 | Doonsec | [https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ](https://mp.weixin.qq.com/s/KO2L3ZRv43BXQMT0E5PSOQ) |
-| 2 | 冰蝎 v4.1 被曝 0‑click 高危漏洞，一连接就被反制，可窃取凭据...！ | Doonsec | [https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw](https://mp.weixin.qq.com/s/6LP7Izufmkq20Es7gNFoPw) |
-| 3 | Pwn2Own柏林2026次日战报：DEVCORE狂揽$405,000领跑，Exchange漏洞引爆全场 | Doonsec | [https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ](https://mp.weixin.qq.com/s/pW6ihfvEMa8QBRjymahIqQ) |
-| 4 | 年度渗透测试报告：AI的漏洞比传统软件严重得多 | Doonsec | [https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w](https://mp.weixin.qq.com/s/MPco5sdyXA2nG0qBAaU59w) |
-| 5 | 在看 | 周报：中行福建省分行因多项违规被罚；谷歌确认黑客利用AI生成零日漏洞发动攻击 | Doonsec | [https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg](https://mp.weixin.qq.com/s/7GhGSC5ybgr9PUyvnlnCsg) |
-| 6 | VMware Fusion漏洞可致攻击者获取root权限 | Doonsec | [https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ](https://mp.weixin.qq.com/s/Mej9s5_vLeu62bG2Fq4dQQ) |
-| 7 | OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击 | Doonsec | [https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g](https://mp.weixin.qq.com/s/Wxqixof2NyhiaNhlVHEa5g) |
-| 8 | 【0day】Windows 提权漏洞喜加一 | Doonsec | [https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw](https://mp.weixin.qq.com/s/7ndZ8YzLCEd08ixveIGzbw) |
-| 9 | QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机 | Doonsec | [https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg](https://mp.weixin.qq.com/s/8fRMQKdKux7iyAziVvdEcg) |
-| 10 | 今日（2026年5月16日）热点网络安全漏洞动态 | Doonsec | [https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA](https://mp.weixin.qq.com/s/Oifip77LM0bJP4nINQKhZA) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 暗网线报 | 台湾对外贸协数据泄露：千余条员工信息遭曝光，全球办事处架构一览无余 | Doonsec | [https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA](https://mp.weixin.qq.com/s/UKwMR3YaTscZlHe7EmjcfA) |
+| 1 | 某厂商安全设备前台RCE | Doonsec | [https://mp.weixin.qq.com/s/WJRZRrAaYVwzzo2RaO4vQw](https://mp.weixin.qq.com/s/WJRZRrAaYVwzzo2RaO4vQw) |
+| 2 | 原型污染 + DOM XSS，赏金猎人必会的挖洞连招 | Doonsec | [https://mp.weixin.qq.com/s/4YPxmP_-T2HwqC4INKud5A](https://mp.weixin.qq.com/s/4YPxmP_-T2HwqC4INKud5A) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W20/2026-05-16/`
+文章已归档到: `doc/2026/2026-05/2026-W20/2026-05-17/`
 
 ## 🔗 数据源说明
 
@@ -122,8 +91,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +101,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-16 20:48:35*
+*生成时间: 2026-05-17 03:29:14*
 *报告工具: 微信文章安全归档系统*
