@@ -2,16 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,9 +65,18 @@
 
 ### Doonsec
 
-- [一次一口吃掉大象：PHP中与JPEG相关的内存安全漏洞](https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA) (发布日期: 2026-05-17)
-- [第一次参加地市级攻防演练，我被这个 Axis 服务的“边界条件”上了一课](https://mp.weixin.qq.com/s/TZsNWmSgrkh0_DVb3iqhSw) (发布日期: 2026-05-17)
-- [CVE-2019-0227漏洞复现](https://mp.weixin.qq.com/s/mPNPN2JnOtGjhw-n0DI9KA) (发布日期: 2026-05-17)
+- [2026命令注入WAF绕过实战清单：IFS替换、通配符扩展、编码链组合，42条Payload直击盲区](https://mp.weixin.qq.com/s/E7pFegXWZVW_Hec0o-YZAQ) (发布日期: 2026-05-17)
+- [CTF之xss注入——一切都似乎没有问题](https://mp.weixin.qq.com/s/iPWkiZsb7kRgd7Kp8SEfcA) (发布日期: 2026-05-17)
+- [AI智能体“攻击面”的构成与威胁分析](https://mp.weixin.qq.com/s/Xd4D5xnT-zGtz-roCXlMlg) (发布日期: 2026-05-17)
+- [产教融合筑防线 云端守护安万家——郑州汉如斯，打造河南网络安全运营新标杆](https://mp.weixin.qq.com/s/1wX5aqRXGkn9vUVbZCwDag) (发布日期: 2026-05-17)
+- [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击](https://mp.weixin.qq.com/s/BUzZBnN07Iqe_zyiDwsvtQ) (发布日期: 2026-05-17)
+- [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击](https://mp.weixin.qq.com/s/wxXwtTn6epofgw0Cl-D-gA) (发布日期: 2026-05-17)
+- [钓鱼警报：通过 Evernote 的 AI 驱动“氛围编码”钓鱼攻击](https://mp.weixin.qq.com/s/_cQ829g1bGkeaEet4vH-Ow) (发布日期: 2026-05-17)
+- [首个公开的针对苹果M5的macOS内核漏洞利用程序，使用Mythos Preview在五天内完成](https://mp.weixin.qq.com/s/-JLMLlpVoEyUnV2jQ_s1Fw) (发布日期: 2026-05-17)
+- [CVE-2015-1328 Overlayfs内核本地提权复现](https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg) (发布日期: 2026-05-17)
+- [自动化渗透测试利器NucleiFuzzer](https://mp.weixin.qq.com/s/5NlCon9G6u3Y-S7QuRiInA) (发布日期: 2026-05-17)
+- [红队免杀技巧分享：无需加载任何网络 C2 植入体实现](https://mp.weixin.qq.com/s/p2xHul1iM_Kf6agWGGp_hQ) (发布日期: 2026-05-17)
+- [安全产品开始“去界面化”：云安全巨头Sysdig发布了一款没有界面的云安全产品](https://mp.weixin.qq.com/s/macyDjRwIky_n-_XRF-QGg) (发布日期: 2026-05-17)
 
 
 ## 🎯 威胁详情分析
@@ -71,8 +85,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一次一口吃掉大象：PHP中与JPEG相关的内存安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA](https://mp.weixin.qq.com/s/Hsdo8b1x8O9Tbk4fIuxOaA) |
-| 2 | CVE-2019-0227漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/mPNPN2JnOtGjhw-n0DI9KA](https://mp.weixin.qq.com/s/mPNPN2JnOtGjhw-n0DI9KA) |
+| 1 | 【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击 | Doonsec | [https://mp.weixin.qq.com/s/BUzZBnN07Iqe_zyiDwsvtQ](https://mp.weixin.qq.com/s/BUzZBnN07Iqe_zyiDwsvtQ) |
+| 2 | 【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击 | Doonsec | [https://mp.weixin.qq.com/s/wxXwtTn6epofgw0Cl-D-gA](https://mp.weixin.qq.com/s/wxXwtTn6epofgw0Cl-D-gA) |
+| 3 | 首个公开的针对苹果M5的macOS内核漏洞利用程序，使用Mythos Preview在五天内完成 | Doonsec | [https://mp.weixin.qq.com/s/-JLMLlpVoEyUnV2jQ_s1Fw](https://mp.weixin.qq.com/s/-JLMLlpVoEyUnV2jQ_s1Fw) |
+| 4 | CVE-2015-1328 Overlayfs内核本地提权复现 | Doonsec | [https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg](https://mp.weixin.qq.com/s/KSaJfV_qU6iokXy4v8-jLg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026命令注入WAF绕过实战清单：IFS替换、通配符扩展、编码链组合，42条Payload直击盲区 | Doonsec | [https://mp.weixin.qq.com/s/E7pFegXWZVW_Hec0o-YZAQ](https://mp.weixin.qq.com/s/E7pFegXWZVW_Hec0o-YZAQ) |
+| 2 | CTF之xss注入——一切都似乎没有问题 | Doonsec | [https://mp.weixin.qq.com/s/iPWkiZsb7kRgd7Kp8SEfcA](https://mp.weixin.qq.com/s/iPWkiZsb7kRgd7Kp8SEfcA) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 产教融合筑防线 云端守护安万家——郑州汉如斯，打造河南网络安全运营新标杆 | Doonsec | [https://mp.weixin.qq.com/s/1wX5aqRXGkn9vUVbZCwDag](https://mp.weixin.qq.com/s/1wX5aqRXGkn9vUVbZCwDag) |
 
 
 ## 📁 归档路径
@@ -88,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-17 09:47:00*
+*生成时间: 2026-05-17 16:57:00*
 *报告工具: 微信文章安全归档系统*
