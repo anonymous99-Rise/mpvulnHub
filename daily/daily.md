@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 27篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 16篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,33 +62,14 @@
 
 ### Doonsec
 
-- [Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7](https://mp.weixin.qq.com/s/vHLjBK2608i_L1wzS_U59Q) (发布日期: 2026-05-19)
-- [人工智能重要漏洞通报（2026年第七期）](https://mp.weixin.qq.com/s/r0SFHbEEZ_H9uLpr_FgutQ) (发布日期: 2026-05-19)
-- [人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/-7uDx2VafYdGH78FtcHRRg) (发布日期: 2026-05-19)
-- [信息安全漏洞周报（2026年第20期）](https://mp.weixin.qq.com/s/zCdlbywODuqMWspBGBJoVQ) (发布日期: 2026-05-19)
-- [供应链安全 | 深入解析 npm 投毒机制、构建流劫持与跨会话持久化控制](https://mp.weixin.qq.com/s/g1AxykG7hM4VH19TmAO6aw) (发布日期: 2026-05-19)
-- [Windows“MiniPlasma”零日漏洞可使攻击者获得SYSTEM权限——概念验证代码已发布](https://mp.weixin.qq.com/s/GmINFY9tJ8IVVluqDqunpg) (发布日期: 2026-05-19)
-- [WordPress插件严重漏洞使网站面临身份验证绕过攻击风险](https://mp.weixin.qq.com/s/7aiu0QKC8mg1wo89Vjjx9A) (发布日期: 2026-05-19)
-- [CVE-2020-17103 显然未修复或补丁已被撤销，无论如何，这是 cldflt.sys 中 LPE 的 PoC](https://mp.weixin.qq.com/s/o95KZlzNTYn_6rQ9G5Yt4Q) (发布日期: 2026-05-19)
-- [针对 Nginx CVE-2026-42945 的 PoC](https://mp.weixin.qq.com/s/y_SnusnFpjiA9CzVkggI0Q) (发布日期: 2026-05-19)
-- [API接口渗透测试工具 ApiHunter](https://mp.weixin.qq.com/s/71noaDtLm-YkAMbUsGHZrQ) (发布日期: 2026-05-19)
-- [网安必知：防火墙里的“黑话”大全，搞懂这些才算真正入门网络安全！](https://mp.weixin.qq.com/s/BXX6L6o8_SXo4WJlkIvxSg) (发布日期: 2026-05-19)
-- [实力上榜！众安天下跻身工信部首批网络产品安全漏洞收集备案平台](https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ) (发布日期: 2026-05-19)
-- [专家解读 | 刘博：推动人工智能创新发展行稳致远筑牢伦理安全治理屏障](https://mp.weixin.qq.com/s/lqWtjNfD8Z6-k-gWfqOYmw) (发布日期: 2026-05-19)
-- [【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南](https://mp.weixin.qq.com/s/pVBvm545PMvDAmHTI8DhCA) (发布日期: 2026-05-19)
-- [[工具推荐]sql注入快速检测burp插件DetSql](https://mp.weixin.qq.com/s/ezdjGTH9aWZt5QYS3rQqsA) (发布日期: 2026-05-19)
-- [AI生成的代码正在疯狂泄密！CISO必须斩断这根导火索](https://mp.weixin.qq.com/s/3b0Mmv0a7TP2wsSoYI3xJQ) (发布日期: 2026-05-19)
-- [【漏洞通告】Windows Cloud Files Mini Filter Driver 本地权限提升漏洞(CVE-2020-17103)](https://mp.weixin.qq.com/s/YmHeEd6It-lED_aMwArdBQ) (发布日期: 2026-05-19)
-- [软件所在生成式AI内容安全检测与模型安全方面取得系列进展](https://mp.weixin.qq.com/s/HLgNTCIiJI4pMe3UaUTZfw) (发布日期: 2026-05-19)
-- [威胁日简报 - AN-OS 远程代码执行漏洞（CVE-2026-0300）已在野利用](https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ) (发布日期: 2026-05-19)
-- [Nginx 致命漏洞 CVE-2026-42945 复现](https://mp.weixin.qq.com/s/KLDxXBL1unCcM7qqFbrtVw) (发布日期: 2026-05-19)
-- [vm2沙箱逃逸满分漏洞？AI有点东西](https://mp.weixin.qq.com/s/3dYNnSzYJrMiR7kcZznK4g) (发布日期: 2026-05-19)
-- [看懂银狐源码需要安全工程方面哪些知识？如何学习？](https://mp.weixin.qq.com/s/_pLuuuuttUto45-v--VQpA) (发布日期: 2026-05-19)
-- [【转载】面向工业互联网的密钥管理平台设计与实现](https://mp.weixin.qq.com/s/fkI5gXsoQyjUy7IS65jzJQ) (发布日期: 2026-05-19)
-- [急急急急急招！！！！2026HVV蓝队人员大量招募，初/中/高级均可投！](https://mp.weixin.qq.com/s/Oghukq3_WxDXvV1qYP3pXg) (发布日期: 2026-05-19)
-- [“百密一疏”：轻量TCP/IP协议栈 lwIP（Lightweight IP）SMTP客户端堆溢出致RCE](https://mp.weixin.qq.com/s/wOkzIx_N9sk8uHEul01z8A) (发布日期: 2026-05-19)
-- [【已复现】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)安全风险通告](https://mp.weixin.qq.com/s/VyE4DgTqcT4j-m6Vcs_fFg) (发布日期: 2026-05-19)
-- [【已复现】PostgreSQL pgcrypto 堆缓冲区溢出漏洞(CVE-2026-2005)安全风险通告](https://mp.weixin.qq.com/s/G5XOCRU31tojEa7xs2jLuw) (发布日期: 2026-05-19)
+- [【提权漏洞】MiniPlasma-SYSTEM](https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ) (发布日期: 2026-05-19)
+- [2026“工赋砺网”xa0|xa0AI赋能常态化安全运营技术实践专场培训启动报名](https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA) (发布日期: 2026-05-19)
+- [CNNVD | 人工智能重要漏洞通报（2026年第七期）](https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug) (发布日期: 2026-05-19)
+- [CNNVD | 最新OpenClaw多个安全漏洞通报](https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg) (发布日期: 2026-05-19)
+- [2026“天枢杯”青少年人工智能安全创新大赛决赛圆满收官](https://mp.weixin.qq.com/s/8A_azZX4Q8qns1CrHRhclA) (发布日期: 2026-05-19)
+- [面向AI智能体的红队测试实战：基于OWASP ASI 2026的金融场景攻防实践](https://mp.weixin.qq.com/s/56pHw9qZPjDGYroYg1G9Iw) (发布日期: 2026-05-19)
+- [Gentlemen勒索软件攻击Windows、Linux、NAS、BSD和ESXi系统](https://mp.weixin.qq.com/s/xLoBkG-XEr09C6PzAdq3PQ) (发布日期: 2026-05-19)
+- [Kimsuky利用LNK和JSE的诱饵来锁定招聘人员、加密货币用户和国防官员](https://mp.weixin.qq.com/s/I0HWAJ9EuHeRaXLtXp4Bsg) (发布日期: 2026-05-19)
 
 
 ## 🎯 威胁详情分析
@@ -100,42 +78,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7 | Doonsec | [https://mp.weixin.qq.com/s/vHLjBK2608i_L1wzS_U59Q](https://mp.weixin.qq.com/s/vHLjBK2608i_L1wzS_U59Q) |
-| 2 | 人工智能重要漏洞通报（2026年第七期） | Doonsec | [https://mp.weixin.qq.com/s/r0SFHbEEZ_H9uLpr_FgutQ](https://mp.weixin.qq.com/s/r0SFHbEEZ_H9uLpr_FgutQ) |
-| 3 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-7uDx2VafYdGH78FtcHRRg](https://mp.weixin.qq.com/s/-7uDx2VafYdGH78FtcHRRg) |
-| 4 | 信息安全漏洞周报（2026年第20期） | Doonsec | [https://mp.weixin.qq.com/s/zCdlbywODuqMWspBGBJoVQ](https://mp.weixin.qq.com/s/zCdlbywODuqMWspBGBJoVQ) |
-| 5 | Windows“MiniPlasma”零日漏洞可使攻击者获得SYSTEM权限——概念验证代码已发布 | Doonsec | [https://mp.weixin.qq.com/s/GmINFY9tJ8IVVluqDqunpg](https://mp.weixin.qq.com/s/GmINFY9tJ8IVVluqDqunpg) |
-| 6 | WordPress插件严重漏洞使网站面临身份验证绕过攻击风险 | Doonsec | [https://mp.weixin.qq.com/s/7aiu0QKC8mg1wo89Vjjx9A](https://mp.weixin.qq.com/s/7aiu0QKC8mg1wo89Vjjx9A) |
-| 7 | CVE-2020-17103 显然未修复或补丁已被撤销，无论如何，这是 cldflt.sys 中 LPE 的 PoC | Doonsec | [https://mp.weixin.qq.com/s/o95KZlzNTYn_6rQ9G5Yt4Q](https://mp.weixin.qq.com/s/o95KZlzNTYn_6rQ9G5Yt4Q) |
-| 8 | 针对 Nginx CVE-2026-42945 的 PoC | Doonsec | [https://mp.weixin.qq.com/s/y_SnusnFpjiA9CzVkggI0Q](https://mp.weixin.qq.com/s/y_SnusnFpjiA9CzVkggI0Q) |
-| 9 | 实力上榜！众安天下跻身工信部首批网络产品安全漏洞收集备案平台 | Doonsec | [https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ](https://mp.weixin.qq.com/s/aZ1nOJoi8X3zOyTTZGp_zQ) |
-| 10 | 【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南 | Doonsec | [https://mp.weixin.qq.com/s/pVBvm545PMvDAmHTI8DhCA](https://mp.weixin.qq.com/s/pVBvm545PMvDAmHTI8DhCA) |
-| 11 | 【漏洞通告】Windows Cloud Files Mini Filter Driver 本地权限提升漏洞(CVE-2020-17103) | Doonsec | [https://mp.weixin.qq.com/s/YmHeEd6It-lED_aMwArdBQ](https://mp.weixin.qq.com/s/YmHeEd6It-lED_aMwArdBQ) |
-| 12 | 威胁日简报 - AN-OS 远程代码执行漏洞（CVE-2026-0300）已在野利用 | Doonsec | [https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ](https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ) |
-| 13 | Nginx 致命漏洞 CVE-2026-42945 复现 | Doonsec | [https://mp.weixin.qq.com/s/KLDxXBL1unCcM7qqFbrtVw](https://mp.weixin.qq.com/s/KLDxXBL1unCcM7qqFbrtVw) |
-| 14 | vm2沙箱逃逸满分漏洞？AI有点东西 | Doonsec | [https://mp.weixin.qq.com/s/3dYNnSzYJrMiR7kcZznK4g](https://mp.weixin.qq.com/s/3dYNnSzYJrMiR7kcZznK4g) |
-| 15 | 【已复现】Next.js 服务器端请求伪造漏洞(CVE-2026-44578)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/VyE4DgTqcT4j-m6Vcs_fFg](https://mp.weixin.qq.com/s/VyE4DgTqcT4j-m6Vcs_fFg) |
-| 16 | 【已复现】PostgreSQL pgcrypto 堆缓冲区溢出漏洞(CVE-2026-2005)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/G5XOCRU31tojEa7xs2jLuw](https://mp.weixin.qq.com/s/G5XOCRU31tojEa7xs2jLuw) |
+| 1 | 【提权漏洞】MiniPlasma-SYSTEM | Doonsec | [https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ](https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ) |
+| 2 | CNNVD | 人工智能重要漏洞通报（2026年第七期） | Doonsec | [https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug](https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug) |
+| 3 | CNNVD | 最新OpenClaw多个安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg](https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg) |
 
-### 攻击技术
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [工具推荐]sql注入快速检测burp插件DetSql | Doonsec | [https://mp.weixin.qq.com/s/ezdjGTH9aWZt5QYS3rQqsA](https://mp.weixin.qq.com/s/ezdjGTH9aWZt5QYS3rQqsA) |
-| 2 | 威胁日简报 - AN-OS 远程代码执行漏洞（CVE-2026-0300）已在野利用 | Doonsec | [https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ](https://mp.weixin.qq.com/s/ECLo6bRHiIQETIjhLYllgQ) |
-| 3 | “百密一疏”：轻量TCP/IP协议栈 lwIP（Lightweight IP）SMTP客户端堆溢出致RCE | Doonsec | [https://mp.weixin.qq.com/s/wOkzIx_N9sk8uHEul01z8A](https://mp.weixin.qq.com/s/wOkzIx_N9sk8uHEul01z8A) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 看懂银狐源码需要安全工程方面哪些知识？如何学习？ | Doonsec | [https://mp.weixin.qq.com/s/_pLuuuuttUto45-v--VQpA](https://mp.weixin.qq.com/s/_pLuuuuttUto45-v--VQpA) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 供应链安全 | 深入解析 npm 投毒机制、构建流劫持与跨会话持久化控制 | Doonsec | [https://mp.weixin.qq.com/s/g1AxykG7hM4VH19TmAO6aw](https://mp.weixin.qq.com/s/g1AxykG7hM4VH19TmAO6aw) |
+| 1 | 2026“工赋砺网”xa0|xa0AI赋能常态化安全运营技术实践专场培训启动报名 | Doonsec | [https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA](https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA) |
 
 
 ## 📁 归档路径
@@ -151,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -161,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-19 11:17:39*
+*生成时间: 2026-05-19 15:21:55*
 *报告工具: 微信文章安全归档系统*
