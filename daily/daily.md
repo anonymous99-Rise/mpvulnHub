@@ -1,18 +1,23 @@
-# 2026-05-18 安全威胁态势报告
+# 2026-05-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 31
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 31篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 19篇
+- **攻击技术**: 4篇
+- **安全运营**: 3篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 4篇
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,7 +66,37 @@
 
 ### Doonsec
 
-- [【文末抽奖】21天跑通海外SRC漏洞挖掘闭环！海外漏洞赏金猎人共学营等你来战～](https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag) (发布日期: 2026-05-18)
+- [红队金矿：从 MDT 部署共享中提取凭据](https://mp.weixin.qq.com/s/q1NZlc0eJJfJpG4OHcAXrQ) (发布日期: 2026-05-19)
+- [理解 Windows 内核漏洞利用中的整数溢出](https://mp.weixin.qq.com/s/Sww5vEo2DJ2pNGvC6LsSjQ) (发布日期: 2026-05-19)
+- [SRC每日漏洞复现学习系列（第4篇）目录遍历 / 任意文件读取漏洞](https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw) (发布日期: 2026-05-19)
+- [【src实战】| 业务逻辑漏洞](https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw) (发布日期: 2026-05-19)
+- [n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点](https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg) (发布日期: 2026-05-19)
+- [2026，企事业单位网络安全意识宣贯怎么做？](https://mp.weixin.qq.com/s/SWDvr05a09Qq0Q_QKHJZyQ) (发布日期: 2026-05-19)
+- [CISA 管理员将 AWS GovCloud 密钥泄漏](https://mp.weixin.qq.com/s/nItc7LX6QOU9otywczI4Tg) (发布日期: 2026-05-19)
+- [MiniPlasma：可在完全修补的 Windows 系统提权【PoC已公开】](https://mp.weixin.qq.com/s/oKLDfvFTgK1ML4Sbq4eLCg) (发布日期: 2026-05-19)
+- [小程序渗透测试工具 -- WMPFDebugger](https://mp.weixin.qq.com/s/SvQZYtXt3XoKBU7XLYrtiQ) (发布日期: 2026-05-19)
+- [关于举办江苏省第四届数据安全技术应用职业技能竞赛的通知](https://mp.weixin.qq.com/s/l0eztI9IH8uZxvq-o-i4Eg) (发布日期: 2026-05-19)
+- [以赛励技 守护数据安全丨国网北京信通公司在全国行业职业技能竞赛中斩获佳绩](https://mp.weixin.qq.com/s/HipajSjq5DcJXIy2jaVEDQ) (发布日期: 2026-05-19)
+- [【喜报】分部运维中心 | 在第四届全国数据安全职业技能竞赛中喜获佳绩](https://mp.weixin.qq.com/s/_tPvBkTBE7qk52OLz9ElOw) (发布日期: 2026-05-19)
+- [OpenAI又被黑了！敏感密钥和证书泄露，供应链攻击防不胜防](https://mp.weixin.qq.com/s/J0UOZM518btc7tMjcXnrvQ) (发布日期: 2026-05-19)
+- [2026-05-19 最新CVE漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s/no7Y6bEN9XcFjRg0ps3xFw) (发布日期: 2026-05-19)
+- [CNVD漏洞周报2026年第19期](https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA) (发布日期: 2026-05-19)
+- [内卷的风还是吹到了漏洞利用：ExploitGym 全自动漏洞利用Agent评估](https://mp.weixin.qq.com/s/jg8kSb4afAnmS3-I1AKrnA) (发布日期: 2026-05-19)
+- [白昼信安内部漏洞知识库开放注册](https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA) (发布日期: 2026-05-19)
+- [Linux ssh-keysign-pwn漏洞在K8s中的影响](https://mp.weixin.qq.com/s/pmv8kGL1J7dZbugcEacq7A) (发布日期: 2026-05-19)
+- [CVE-2026-42945，Nginx高危漏洞 | 可致RCE或服务崩溃](https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ) (发布日期: 2026-05-19)
+- [强烈建议安全运维人把这几个核心场景吃透，因为真的能速通](https://mp.weixin.qq.com/s/tlODmeLUorZ3OZoYrMRnmg) (发布日期: 2026-05-19)
+- [在野利用确认！带你吃透Ivanti EPMM最新RCE漏洞（CVE-2026-6973）的底层逻辑](https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ) (发布日期: 2026-05-19)
+- [首款由AI研发的零日漏洞利用程序](https://mp.weixin.qq.com/s/ynYiD7N1VJt9yx9Q5waUnw) (发布日期: 2026-05-19)
+- [西华大学: 车载自组网中基于密钥协商的条件隐私保护认证方案](https://mp.weixin.qq.com/s/WB1ZKpYLNVhLUmno3IpY6w) (发布日期: 2026-05-19)
+- [漏洞预警 | Apache HTTP Server双重释放漏洞](https://mp.weixin.qq.com/s/DXH2BE4TwIN1WKywjEVoBQ) (发布日期: 2026-05-19)
+- [漏洞预警 | 天地伟业Easy7 SSRF和文件写入漏洞](https://mp.weixin.qq.com/s/wBAoAh1X5znJrfcT9cHxpg) (发布日期: 2026-05-19)
+- [Grafana Labs 确认发生涉及 GitHub 代码库访问的安全事件](https://mp.weixin.qq.com/s/5iRq4r3g_sY8CLCXuOunPg) (发布日期: 2026-05-19)
+- [漏洞预警 CVSS 8.1 【严重】Exchange Server OWA 在野 0day：一封邮件即可劫持会话](https://mp.weixin.qq.com/s/fTSIdjqJmf_yBB1r991PNA) (发布日期: 2026-05-19)
+- [改变战局！Cloudflare亲测Mythos，AI漏洞审计进入生产](https://mp.weixin.qq.com/s/zcKAch-50vHOZre84ggafw) (发布日期: 2026-05-19)
+- [学员挖掘母校实战案例+4月湘安漏洞库平台优秀实战案例](https://mp.weixin.qq.com/s/nwhYMH1xYopMdWIh_qezmA) (发布日期: 2026-05-19)
+- [小红薯可能存在xss漏洞？](https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg) (发布日期: 2026-05-19)
+- [五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码)](https://mp.weixin.qq.com/s/ufulLDq4ckablRCLmXBqrA) (发布日期: 2026-05-19)
 
 
 ## 🎯 威胁详情分析
@@ -70,18 +105,54 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【文末抽奖】21天跑通海外SRC漏洞挖掘闭环！海外漏洞赏金猎人共学营等你来战～ | Doonsec | [https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag](https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag) |
+| 1 | 理解 Windows 内核漏洞利用中的整数溢出 | Doonsec | [https://mp.weixin.qq.com/s/Sww5vEo2DJ2pNGvC6LsSjQ](https://mp.weixin.qq.com/s/Sww5vEo2DJ2pNGvC6LsSjQ) |
+| 2 | SRC每日漏洞复现学习系列（第4篇）目录遍历 / 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw](https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw) |
+| 3 | 【src实战】| 业务逻辑漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw](https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw) |
+| 4 | n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点 | Doonsec | [https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg](https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg) |
+| 5 | MiniPlasma：可在完全修补的 Windows 系统提权【PoC已公开】 | Doonsec | [https://mp.weixin.qq.com/s/oKLDfvFTgK1ML4Sbq4eLCg](https://mp.weixin.qq.com/s/oKLDfvFTgK1ML4Sbq4eLCg) |
+| 6 | 2026-05-19 最新CVE漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s/no7Y6bEN9XcFjRg0ps3xFw](https://mp.weixin.qq.com/s/no7Y6bEN9XcFjRg0ps3xFw) |
+| 7 | CNVD漏洞周报2026年第19期 | Doonsec | [https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA](https://mp.weixin.qq.com/s/ykECLyXm582BOfJvzHVyfA) |
+| 8 | 内卷的风还是吹到了漏洞利用：ExploitGym 全自动漏洞利用Agent评估 | Doonsec | [https://mp.weixin.qq.com/s/jg8kSb4afAnmS3-I1AKrnA](https://mp.weixin.qq.com/s/jg8kSb4afAnmS3-I1AKrnA) |
+| 9 | 白昼信安内部漏洞知识库开放注册 | Doonsec | [https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA](https://mp.weixin.qq.com/s/o53e2E3n_dZqRpU7qxAlKA) |
+| 10 | Linux ssh-keysign-pwn漏洞在K8s中的影响 | Doonsec | [https://mp.weixin.qq.com/s/pmv8kGL1J7dZbugcEacq7A](https://mp.weixin.qq.com/s/pmv8kGL1J7dZbugcEacq7A) |
+| 11 | CVE-2026-42945，Nginx高危漏洞 | 可致RCE或服务崩溃 | Doonsec | [https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ](https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ) |
+| 12 | 在野利用确认！带你吃透Ivanti EPMM最新RCE漏洞（CVE-2026-6973）的底层逻辑 | Doonsec | [https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ](https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ) |
+| 13 | 首款由AI研发的零日漏洞利用程序 | Doonsec | [https://mp.weixin.qq.com/s/ynYiD7N1VJt9yx9Q5waUnw](https://mp.weixin.qq.com/s/ynYiD7N1VJt9yx9Q5waUnw) |
+| 14 | 漏洞预警 | Apache HTTP Server双重释放漏洞 | Doonsec | [https://mp.weixin.qq.com/s/DXH2BE4TwIN1WKywjEVoBQ](https://mp.weixin.qq.com/s/DXH2BE4TwIN1WKywjEVoBQ) |
+| 15 | 漏洞预警 | 天地伟业Easy7 SSRF和文件写入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wBAoAh1X5znJrfcT9cHxpg](https://mp.weixin.qq.com/s/wBAoAh1X5znJrfcT9cHxpg) |
+| 16 | 漏洞预警 CVSS 8.1 【严重】Exchange Server OWA 在野 0day：一封邮件即可劫持会话 | Doonsec | [https://mp.weixin.qq.com/s/fTSIdjqJmf_yBB1r991PNA](https://mp.weixin.qq.com/s/fTSIdjqJmf_yBB1r991PNA) |
+| 17 | 改变战局！Cloudflare亲测Mythos，AI漏洞审计进入生产 | Doonsec | [https://mp.weixin.qq.com/s/zcKAch-50vHOZre84ggafw](https://mp.weixin.qq.com/s/zcKAch-50vHOZre84ggafw) |
+| 18 | 学员挖掘母校实战案例+4月湘安漏洞库平台优秀实战案例 | Doonsec | [https://mp.weixin.qq.com/s/nwhYMH1xYopMdWIh_qezmA](https://mp.weixin.qq.com/s/nwhYMH1xYopMdWIh_qezmA) |
+| 19 | 小红薯可能存在xss漏洞？ | Doonsec | [https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg](https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点 | Doonsec | [https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg](https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg) |
+| 2 | CVE-2026-42945，Nginx高危漏洞 | 可致RCE或服务崩溃 | Doonsec | [https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ](https://mp.weixin.qq.com/s/NSFBeJYyoVP3niLc8WH1oQ) |
+| 3 | 在野利用确认！带你吃透Ivanti EPMM最新RCE漏洞（CVE-2026-6973）的底层逻辑 | Doonsec | [https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ](https://mp.weixin.qq.com/s/czQxJ27cnJZtqzyit8IptQ) |
+| 4 | 小红薯可能存在xss漏洞？ | Doonsec | [https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg](https://mp.weixin.qq.com/s/Fb9MWPExnhCGNsTKsScSdg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【文末抽奖】21天跑通海外SRC漏洞挖掘闭环！海外漏洞赏金猎人共学营等你来战～ | Doonsec | [https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag](https://mp.weixin.qq.com/s/vX7Y9OkDp3qTkBah8cWDag) |
+| 1 | SRC每日漏洞复现学习系列（第4篇）目录遍历 / 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw](https://mp.weixin.qq.com/s/jCFVY_RUw6pC_Krb4mLQTw) |
+| 2 | 【src实战】| 业务逻辑漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw](https://mp.weixin.qq.com/s/0zRquuwa7xBhKyOS-owhxw) |
+| 3 | 五一弯道超车！深情版Edu+SRC培训限时低价，文末免费抽奖(两份kfc+五个无影激活码) | Doonsec | [https://mp.weixin.qq.com/s/ufulLDq4ckablRCLmXBqrA](https://mp.weixin.qq.com/s/ufulLDq4ckablRCLmXBqrA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点 | Doonsec | [https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg](https://mp.weixin.qq.com/s/VFoGmtQ5fEpAoNpgFOvzCg) |
+| 2 | OpenAI又被黑了！敏感密钥和证书泄露，供应链攻击防不胜防 | Doonsec | [https://mp.weixin.qq.com/s/J0UOZM518btc7tMjcXnrvQ](https://mp.weixin.qq.com/s/J0UOZM518btc7tMjcXnrvQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-18/`
+文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-19/`
 
 ## 🔗 数据源说明
 
@@ -92,8 +163,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 19 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -102,5 +173,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-18 18:00:14*
+*生成时间: 2026-05-19 03:35:35*
 *报告工具: 微信文章安全归档系统*
