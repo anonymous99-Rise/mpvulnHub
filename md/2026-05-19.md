@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,14 +62,9 @@
 
 ### Doonsec
 
-- [【提权漏洞】MiniPlasma-SYSTEM](https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ) (发布日期: 2026-05-19)
-- [2026“工赋砺网”xa0|xa0AI赋能常态化安全运营技术实践专场培训启动报名](https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA) (发布日期: 2026-05-19)
-- [CNNVD | 人工智能重要漏洞通报（2026年第七期）](https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug) (发布日期: 2026-05-19)
-- [CNNVD | 最新OpenClaw多个安全漏洞通报](https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg) (发布日期: 2026-05-19)
-- [2026“天枢杯”青少年人工智能安全创新大赛决赛圆满收官](https://mp.weixin.qq.com/s/8A_azZX4Q8qns1CrHRhclA) (发布日期: 2026-05-19)
-- [面向AI智能体的红队测试实战：基于OWASP ASI 2026的金融场景攻防实践](https://mp.weixin.qq.com/s/56pHw9qZPjDGYroYg1G9Iw) (发布日期: 2026-05-19)
-- [Gentlemen勒索软件攻击Windows、Linux、NAS、BSD和ESXi系统](https://mp.weixin.qq.com/s/xLoBkG-XEr09C6PzAdq3PQ) (发布日期: 2026-05-19)
-- [Kimsuky利用LNK和JSE的诱饵来锁定招聘人员、加密货币用户和国防官员](https://mp.weixin.qq.com/s/I0HWAJ9EuHeRaXLtXp4Bsg) (发布日期: 2026-05-19)
+- [Android Pixel 10 零点击漏洞利用链](https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA) (发布日期: 2026-05-19)
+- [ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具](https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA) (发布日期: 2026-05-19)
+- [别测主站了！2026年SRC捡漏刷分实战：把别人漏掉的资产变成你的赏金](https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A) (发布日期: 2026-05-19)
 
 
 ## 🎯 威胁详情分析
@@ -78,15 +73,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【提权漏洞】MiniPlasma-SYSTEM | Doonsec | [https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ](https://mp.weixin.qq.com/s/AOji2g77ggCyiZC6lG1WBQ) |
-| 2 | CNNVD | 人工智能重要漏洞通报（2026年第七期） | Doonsec | [https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug](https://mp.weixin.qq.com/s/VYZ_p9EW9uq45kxVaPg6ug) |
-| 3 | CNNVD | 最新OpenClaw多个安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg](https://mp.weixin.qq.com/s/qWBz42_US3OBn5gHP41cTg) |
+| 1 | Android Pixel 10 零点击漏洞利用链 | Doonsec | [https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA](https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA) |
+| 2 | ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具 | Doonsec | [https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA](https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2026“工赋砺网”xa0|xa0AI赋能常态化安全运营技术实践专场培训启动报名 | Doonsec | [https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA](https://mp.weixin.qq.com/s/uQUxE-l8K_vcghsYhZRjxA) |
+| 1 | 别测主站了！2026年SRC捡漏刷分实战：把别人漏掉的资产变成你的赏金 | Doonsec | [https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A](https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A) |
 
 
 ## 📁 归档路径
@@ -102,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -112,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-19 15:21:55*
+*生成时间: 2026-05-19 18:05:29*
 *报告工具: 微信文章安全归档系统*
