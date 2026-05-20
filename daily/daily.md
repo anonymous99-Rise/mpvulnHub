@@ -1,19 +1,23 @@
-# 2026-05-19 安全威胁态势报告
+# 2026-05-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 27
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 27篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
+- **攻击技术**: 10篇
+- **漏洞利用**: 8篇
+- **安全运营**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 5篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,9 +66,33 @@
 
 ### Doonsec
 
-- [Android Pixel 10 零点击漏洞利用链](https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA) (发布日期: 2026-05-19)
-- [ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具](https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA) (发布日期: 2026-05-19)
-- [别测主站了！2026年SRC捡漏刷分实战：把别人漏掉的资产变成你的赏金](https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A) (发布日期: 2026-05-19)
+- [sql注入的字符类型的探测](https://mp.weixin.qq.com/s/8P8Hy6bKQiIIyjd1eXGA-A) (发布日期: 2026-05-20)
+- [紧急预警：开源生态遭遇迷你沙虫”（Mini Shai-Hulud）蠕虫大规模投毒，数百万开发者受影响！](https://mp.weixin.qq.com/s/Icx7A1cy0PNWtfE2IUAbgA) (发布日期: 2026-05-20)
+- [SRC每日漏洞复现学习系列（第5篇）业务逻辑绕过漏洞](https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw) (发布日期: 2026-05-20)
+- [成都链安子公司链必安科技携手航贸联盟共启新篇，以领先的区块链安全技术赋能航贸数字化安全新发展](https://mp.weixin.qq.com/s/_6_18s_2jKUgjfijsJbHEw) (发布日期: 2026-05-20)
+- [关于举办江苏省第四届数据安全技术应用职业技能竞赛的通知](https://mp.weixin.qq.com/s/1RuzBx8YOK2nZQCxMsgtVA) (发布日期: 2026-05-20)
+- [【直播预告】简单聊聊&lt;think>事件和一种针对开源大模型的提示词注入手法](https://mp.weixin.qq.com/s/_TSIAvzz1eyOS-jqk9ILoQ) (发布日期: 2026-05-20)
+- [SQL注入的方法0x004](https://mp.weixin.qq.com/s/PgKIYdOGoCV-kxvZiHolug) (发布日期: 2026-05-20)
+- [记一次电脑中病毒（银狐木马）事件](https://mp.weixin.qq.com/s/m6wXG_Azr4UEu8q255ACDg) (发布日期: 2026-05-20)
+- [5月30日上海线下闭门沙龙【聊AI 和企业安全】活动安排](https://mp.weixin.qq.com/s/hEkdt9xX_F20XhmCEuaDFw) (发布日期: 2026-05-20)
+- [【AI安全】5月攻防全景：从模型漏洞到全栈基建防护](https://mp.weixin.qq.com/s/zPLuxI--B0ddmYm0Ml8PlQ) (发布日期: 2026-05-20)
+- [数字类型解析绕过IDOR校验漏洞](https://mp.weixin.qq.com/s/9YcQUd1Pnlv8_YNdquxnpg) (发布日期: 2026-05-20)
+- [加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告](https://mp.weixin.qq.com/s/wVtexuoSbtp2CNoMoGWOew) (发布日期: 2026-05-20)
+- [【SRC实战】|两个小程序之间的越权漏洞](https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ) (发布日期: 2026-05-20)
+- [node-ipc npm 包遭到入侵，传播信息窃取恶意软件](https://mp.weixin.qq.com/s/WBXBftv3tbuGISGXuyIOGQ) (发布日期: 2026-05-20)
+- [VS命令执行与防御](https://mp.weixin.qq.com/s/H8HpOlnpiDGDmi1LZ2D2XQ) (发布日期: 2026-05-20)
+- [gRPC渗透测试入门指南：从协议差异到模糊测试实战](https://mp.weixin.qq.com/s/ASkqp1LXyDUIAV1x-nhBfA) (发布日期: 2026-05-20)
+- [MongoDB NoSQL注入攻破API登录端点：当$gt成为万能钥匙](https://mp.weixin.qq.com/s/AzDKnd_In32E8nNaCgcMSA) (发布日期: 2026-05-20)
+- [【工具推荐】红队内网高并发扫描工具](https://mp.weixin.qq.com/s/4K0IR_O77nCvneTwHOTgjA) (发布日期: 2026-05-20)
+- [PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析](https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA) (发布日期: 2026-05-20)
+- [抓包 + AI 逆向神器来了！全平台通吃，自动解析协议与加密](https://mp.weixin.qq.com/s/zeZbrRVKEBZ3ob5vKcLyFw) (发布日期: 2026-05-20)
+- [电信网和互联网勒索软件防范指南](https://mp.weixin.qq.com/s/-rjPsL6pOnPFGW2Gp8JPeg) (发布日期: 2026-05-20)
+- [漏洞预警 | MiroFish命令注入和路径遍历漏洞](https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA) (发布日期: 2026-05-20)
+- [漏洞预警 | 天地伟业Easy7 SQL注入漏洞](https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA) (发布日期: 2026-05-20)
+- [网络安全运营和事件管理（十一）：分析之误用检测](https://mp.weixin.qq.com/s/oXAFlTtDSOuqCG6z-kRRww) (发布日期: 2026-05-20)
+- [Pentest-Swarm-AI：AI 渗透测试蜂群](https://mp.weixin.qq.com/s/JG32MdyDgSM_0g_q9Ha9AA) (发布日期: 2026-05-20)
+- [【内网渗透】从域内凭据泄露到内网沦陷：Ra 靶场渗透全记录](https://mp.weixin.qq.com/s/AAeS38KyCFGx-INS02Egyw) (发布日期: 2026-05-20)
+- [全网最全病毒专杀工具](https://mp.weixin.qq.com/s/TOWHqne7Bs8zNz6HEaJYog) (发布日期: 2026-05-20)
 
 
 ## 🎯 威胁详情分析
@@ -73,19 +101,48 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Android Pixel 10 零点击漏洞利用链 | Doonsec | [https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA](https://mp.weixin.qq.com/s/BIQ7soODCMNk8og7roM0iA) |
-| 2 | ShiroExploit：一款Shiro反序列化漏洞一站式综合测试工具 | Doonsec | [https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA](https://mp.weixin.qq.com/s/H_IorauDWKypM7Ec_QLRIA) |
+| 1 | SRC每日漏洞复现学习系列（第5篇）业务逻辑绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw](https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw) |
+| 2 | 【AI安全】5月攻防全景：从模型漏洞到全栈基建防护 | Doonsec | [https://mp.weixin.qq.com/s/zPLuxI--B0ddmYm0Ml8PlQ](https://mp.weixin.qq.com/s/zPLuxI--B0ddmYm0Ml8PlQ) |
+| 3 | 数字类型解析绕过IDOR校验漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9YcQUd1Pnlv8_YNdquxnpg](https://mp.weixin.qq.com/s/9YcQUd1Pnlv8_YNdquxnpg) |
+| 4 | 加密机制、性能与系统安全的“三体”平衡——Linux内核“Dirty 家族”漏洞三连的总结报告 | Doonsec | [https://mp.weixin.qq.com/s/wVtexuoSbtp2CNoMoGWOew](https://mp.weixin.qq.com/s/wVtexuoSbtp2CNoMoGWOew) |
+| 5 | 【SRC实战】|两个小程序之间的越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ](https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ) |
+| 6 | PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析 | Doonsec | [https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA](https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA) |
+| 7 | 漏洞预警 | MiroFish命令注入和路径遍历漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA](https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA) |
+| 8 | 漏洞预警 | 天地伟业Easy7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA](https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | sql注入的字符类型的探测 | Doonsec | [https://mp.weixin.qq.com/s/8P8Hy6bKQiIIyjd1eXGA-A](https://mp.weixin.qq.com/s/8P8Hy6bKQiIIyjd1eXGA-A) |
+| 2 | 【直播预告】简单聊聊&lt;think>事件和一种针对开源大模型的提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s/_TSIAvzz1eyOS-jqk9ILoQ](https://mp.weixin.qq.com/s/_TSIAvzz1eyOS-jqk9ILoQ) |
+| 3 | SQL注入的方法0x004 | Doonsec | [https://mp.weixin.qq.com/s/PgKIYdOGoCV-kxvZiHolug](https://mp.weixin.qq.com/s/PgKIYdOGoCV-kxvZiHolug) |
+| 4 | VS命令执行与防御 | Doonsec | [https://mp.weixin.qq.com/s/H8HpOlnpiDGDmi1LZ2D2XQ](https://mp.weixin.qq.com/s/H8HpOlnpiDGDmi1LZ2D2XQ) |
+| 5 | MongoDB NoSQL注入攻破API登录端点：当$gt成为万能钥匙 | Doonsec | [https://mp.weixin.qq.com/s/AzDKnd_In32E8nNaCgcMSA](https://mp.weixin.qq.com/s/AzDKnd_In32E8nNaCgcMSA) |
+| 6 | 【工具推荐】红队内网高并发扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/4K0IR_O77nCvneTwHOTgjA](https://mp.weixin.qq.com/s/4K0IR_O77nCvneTwHOTgjA) |
+| 7 | PostgreSQL JDBC Driver RCE（CVE-2022-21724）与任意文件写入漏洞利用与分析 | Doonsec | [https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA](https://mp.weixin.qq.com/s/QUiMkU6qL9kcIJ4hGTPEHA) |
+| 8 | 漏洞预警 | MiroFish命令注入和路径遍历漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA](https://mp.weixin.qq.com/s/Uo58p2CFnfqz8bj-7aZYaA) |
+| 9 | 漏洞预警 | 天地伟业Easy7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA](https://mp.weixin.qq.com/s/LKIqXRTyAb6rpNhVHDhPMA) |
+| 10 | 【内网渗透】从域内凭据泄露到内网沦陷：Ra 靶场渗透全记录 | Doonsec | [https://mp.weixin.qq.com/s/AAeS38KyCFGx-INS02Egyw](https://mp.weixin.qq.com/s/AAeS38KyCFGx-INS02Egyw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次电脑中病毒（银狐木马）事件 | Doonsec | [https://mp.weixin.qq.com/s/m6wXG_Azr4UEu8q255ACDg](https://mp.weixin.qq.com/s/m6wXG_Azr4UEu8q255ACDg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 别测主站了！2026年SRC捡漏刷分实战：把别人漏掉的资产变成你的赏金 | Doonsec | [https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A](https://mp.weixin.qq.com/s/2-zaZFJs-iIZSiYrcy412A) |
+| 1 | SRC每日漏洞复现学习系列（第5篇）业务逻辑绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw](https://mp.weixin.qq.com/s/BZPg_sQgv8NxG4Ll-i1jcw) |
+| 2 | 【SRC实战】|两个小程序之间的越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ](https://mp.weixin.qq.com/s/8p4_PDk7TIoQjpl5U4n6lQ) |
+| 3 | 网络安全运营和事件管理（十一）：分析之误用检测 | Doonsec | [https://mp.weixin.qq.com/s/oXAFlTtDSOuqCG6z-kRRww](https://mp.weixin.qq.com/s/oXAFlTtDSOuqCG6z-kRRww) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-19/`
+文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-20/`
 
 ## 🔗 数据源说明
 
@@ -96,8 +153,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 5 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -106,5 +163,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-19 18:05:29*
+*生成时间: 2026-05-20 03:35:57*
 *报告工具: 微信文章安全归档系统*
