@@ -2,21 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,15 +63,19 @@
 
 ### Doonsec
 
-- [AI智能体安全评估（2）：基座模型的安全合规与对抗评估](https://mp.weixin.qq.com/s/6veOL3PUWcY7iUWSGchM5Q) (发布日期: 2026-05-21)
-- [Next.js 服务器端请求伪造漏洞 | CVE-2026-44578复现&amp;研究](https://mp.weixin.qq.com/s/s9hDc0HgZFDW_hxQSmUVSA) (发布日期: 2026-05-21)
-- [【漏洞通告】Linux Kernel PinTheft 权限提升漏洞](https://mp.weixin.qq.com/s/yN0FKhITnBCTwZj0dbRsyA) (发布日期: 2026-05-21)
-- [开发者工作站沦陷：史上最高调的IDE扩展供应链攻击深度解析](https://mp.weixin.qq.com/s/15I3VSQpY3ftkjCVcE2T0g) (发布日期: 2026-05-21)
-- [初中学历、早年辍学，凭什么能霸榜 SRC，靠挖漏洞开上 BBA？](https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g) (发布日期: 2026-05-21)
-- [AI 治理、数据泄露、深度伪造、物理安全全面爆发](https://mp.weixin.qq.com/s/GFgOJQiC7LAw225l7H6KKA) (发布日期: 2026-05-21)
-- [预警报告丨针对我国用户的“银狐”系列木马病毒攻击活动](https://mp.weixin.qq.com/s/ewKKMEiwekkc_DJ6LRZ4AQ) (发布日期: 2026-05-21)
-- [黑客利用 CVE-2026-26980 攻陷 Ghost CMS，大量站点沦为 ClickFix 攻击帮凶](https://mp.weixin.qq.com/s/9lTmEDWuciP536ZOn_lSAA) (发布日期: 2026-05-21)
-- [为什么数据安全工作举步维艰](https://mp.weixin.qq.com/s/onGMkipXNUS_Wed8E_a8hA) (发布日期: 2026-05-21)
+- [你用的 AI 中转站，安全吗？研究揭 API 中转站「暗藏后门」](https://mp.weixin.qq.com/s/0HO6J_DYVI7u3tlW-l828g) (发布日期: 2026-05-21)
+- [Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC](https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA) (发布日期: 2026-05-21)
+- [owasp top10 2025版本](https://mp.weixin.qq.com/s/3vss1tvKd22tBpnfdLKVmQ) (发布日期: 2026-05-21)
+- [【重磅深度】2026威瑞森DBIR安全报告解析：漏洞利用首超凭证窃取，影子AI成为最大内部威胁！](https://mp.weixin.qq.com/s/HvTph9ylwEIFCFcVbgNxuw) (发布日期: 2026-05-21)
+- [AICryptoProxy：AI 驱动的 JS 逆向分析渗透测试自动化代理框架](https://mp.weixin.qq.com/s/l6YxR4KQkCS-_0BojVJWRA) (发布日期: 2026-05-21)
+- [什么？？还有人不会AI漏洞挖掘](https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA) (发布日期: 2026-05-21)
+- [关于针对我国用户的“银狐”系列木马病毒攻击活动的预警报告](https://mp.weixin.qq.com/s/lqeA9hD_1O_MDx-QwU6o_g) (发布日期: 2026-05-21)
+- [Nginx 最新0day](https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA) (发布日期: 2026-05-21)
+- [Cisco 安全工作负载中的关键漏洞威胁企业 API 安全](https://mp.weixin.qq.com/s/ix43LSr6BnMQNN5pqX4OfQ) (发布日期: 2026-05-21)
+- [BadIIS恶意软件劫持IIS服务器，将用户重定向到非法网站](https://mp.weixin.qq.com/s/HADgWzNC7UIRofmhfP6QPA) (发布日期: 2026-05-21)
+- [论坛·数据安全治理 | 我国人工智能数据安全风险及监管模式研究](https://mp.weixin.qq.com/s/B0oQzzTeYHGPvyHrwI-0BQ) (发布日期: 2026-05-21)
+- [奇安信蝉联国家信息安全漏洞库CNNVD最高等级技术支撑单位](https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA) (发布日期: 2026-05-21)
+- [0164.我是如何通过 XSS 和开放重定向发现账户盗用 (ATO) 的](https://mp.weixin.qq.com/s/D3FVRT6QtmaSVL9DZk8Bdg) (发布日期: 2026-05-21)
 
 
 ## 🎯 威胁详情分析
@@ -82,34 +84,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Next.js 服务器端请求伪造漏洞 | CVE-2026-44578复现&amp;研究 | Doonsec | [https://mp.weixin.qq.com/s/s9hDc0HgZFDW_hxQSmUVSA](https://mp.weixin.qq.com/s/s9hDc0HgZFDW_hxQSmUVSA) |
-| 2 | 【漏洞通告】Linux Kernel PinTheft 权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yN0FKhITnBCTwZj0dbRsyA](https://mp.weixin.qq.com/s/yN0FKhITnBCTwZj0dbRsyA) |
-| 3 | 初中学历、早年辍学，凭什么能霸榜 SRC，靠挖漏洞开上 BBA？ | Doonsec | [https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g](https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g) |
-| 4 | 黑客利用 CVE-2026-26980 攻陷 Ghost CMS，大量站点沦为 ClickFix 攻击帮凶 | Doonsec | [https://mp.weixin.qq.com/s/9lTmEDWuciP536ZOn_lSAA](https://mp.weixin.qq.com/s/9lTmEDWuciP536ZOn_lSAA) |
+| 1 | Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC | Doonsec | [https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA](https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA) |
+| 2 | 【重磅深度】2026威瑞森DBIR安全报告解析：漏洞利用首超凭证窃取，影子AI成为最大内部威胁！ | Doonsec | [https://mp.weixin.qq.com/s/HvTph9ylwEIFCFcVbgNxuw](https://mp.weixin.qq.com/s/HvTph9ylwEIFCFcVbgNxuw) |
+| 3 | 什么？？还有人不会AI漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA](https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA) |
+| 4 | Nginx 最新0day | Doonsec | [https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA](https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA) |
+| 5 | Cisco 安全工作负载中的关键漏洞威胁企业 API 安全 | Doonsec | [https://mp.weixin.qq.com/s/ix43LSr6BnMQNN5pqX4OfQ](https://mp.weixin.qq.com/s/ix43LSr6BnMQNN5pqX4OfQ) |
+| 6 | 奇安信蝉联国家信息安全漏洞库CNNVD最高等级技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA](https://mp.weixin.qq.com/s/CrdpvVzNKTNRj-1Y0r5RWA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 0164.我是如何通过 XSS 和开放重定向发现账户盗用 (ATO) 的 | Doonsec | [https://mp.weixin.qq.com/s/D3FVRT6QtmaSVL9DZk8Bdg](https://mp.weixin.qq.com/s/D3FVRT6QtmaSVL9DZk8Bdg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 预警报告丨针对我国用户的“银狐”系列木马病毒攻击活动 | Doonsec | [https://mp.weixin.qq.com/s/ewKKMEiwekkc_DJ6LRZ4AQ](https://mp.weixin.qq.com/s/ewKKMEiwekkc_DJ6LRZ4AQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 初中学历、早年辍学，凭什么能霸榜 SRC，靠挖漏洞开上 BBA？ | Doonsec | [https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g](https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AI 治理、数据泄露、深度伪造、物理安全全面爆发 | Doonsec | [https://mp.weixin.qq.com/s/GFgOJQiC7LAw225l7H6KKA](https://mp.weixin.qq.com/s/GFgOJQiC7LAw225l7H6KKA) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 开发者工作站沦陷：史上最高调的IDE扩展供应链攻击深度解析 | Doonsec | [https://mp.weixin.qq.com/s/15I3VSQpY3ftkjCVcE2T0g](https://mp.weixin.qq.com/s/15I3VSQpY3ftkjCVcE2T0g) |
+| 1 | 关于针对我国用户的“银狐”系列木马病毒攻击活动的预警报告 | Doonsec | [https://mp.weixin.qq.com/s/lqeA9hD_1O_MDx-QwU6o_g](https://mp.weixin.qq.com/s/lqeA9hD_1O_MDx-QwU6o_g) |
 
 
 ## 📁 归档路径
@@ -125,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -135,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-21 11:25:14*
+*生成时间: 2026-05-21 17:58:35*
 *报告工具: 微信文章安全归档系统*
