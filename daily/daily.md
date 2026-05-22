@@ -2,18 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 2篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,27 +64,44 @@
 
 ### Doonsec
 
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（05/18-05/22）](https://mp.weixin.qq.com/s/HSu8_Xm_JcbLWf55qwyVEg) (发布日期: 2026-05-22)
-- [连续两次通过国家级权威认可  奇安信再次顺利通过CCRC数据安全管理认证](https://mp.weixin.qq.com/s/AHLKBFxlo_pSV9aUyM9o9Q) (发布日期: 2026-05-22)
-- [97.7% 告警降噪：腾讯云安全运营Agent实践](https://mp.weixin.qq.com/s/Rirx0LftwRtrZZlBxkNNFA) (发布日期: 2026-05-22)
-- [CNCERT：关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示](https://mp.weixin.qq.com/s/vcL-4DZsgsU-TQwq713deA) (发布日期: 2026-05-22)
-- [勒索软件组织Shadowbyt3$攻击星巴克公司](https://mp.weixin.qq.com/s/Aa4ZVnTfgadX8gyjgYBF7A) (发布日期: 2026-05-22)
+- [Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7](https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg) (发布日期: 2026-05-22)
+- [5 个月 9.2 万次攻击，伪装成 AI 工具的恶意软件，正盯上你的电脑！](https://mp.weixin.qq.com/s/wfuU8HedMr2UQyTM2yOaBA) (发布日期: 2026-05-22)
+- [基于 TGW 的整车 OTA 系统安全设计](https://mp.weixin.qq.com/s/IbYatgs4b3Nq70YdsYmyfw) (发布日期: 2026-05-22)
+- [基于动态权重分配的智能汽车网络安全评估模型](https://mp.weixin.qq.com/s/pg63S5Q92e-93wzLMmoerg) (发布日期: 2026-05-22)
+- [\"巨齿鲨\"恶意软件6小时攻陷5500+GitHub仓库，窃取云凭证与密钥](https://mp.weixin.qq.com/s/3-U6w4A4ycbp48BNFLmKyQ) (发布日期: 2026-05-22)
+- [潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥](https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw) (发布日期: 2026-05-22)
+- [Apache Flink 高危漏洞可导致远程代码执行攻击](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) (发布日期: 2026-05-22)
+- [Orchid Security安全报告：三分之二非人类账户处于失控状态](https://mp.weixin.qq.com/s/GVifbQVIRaUKllhtv3RFOw) (发布日期: 2026-05-22)
+- [【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) (发布日期: 2026-05-22)
+- [【漏洞预警】 cPanel/WP2 高危任意文件读取CVE-2026-29205](https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw) (发布日期: 2026-05-22)
+- [【海外SRC指南】5750美元赏金的IDOR奇妙之旅](https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ) (发布日期: 2026-05-22)
+- [黑客利用拥抱脸传播 npm 恶意软件](https://mp.weixin.qq.com/s/J1Y0H3tgLEsFn40M8ulyfA) (发布日期: 2026-05-22)
 
 
 ## 🎯 威胁详情分析
 
-### 威胁情报
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（05/18-05/22） | Doonsec | [https://mp.weixin.qq.com/s/HSu8_Xm_JcbLWf55qwyVEg](https://mp.weixin.qq.com/s/HSu8_Xm_JcbLWf55qwyVEg) |
-| 2 | CNCERT：关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/vcL-4DZsgsU-TQwq713deA](https://mp.weixin.qq.com/s/vcL-4DZsgsU-TQwq713deA) |
+| 1 | Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7 | Doonsec | [https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg](https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg) |
+| 2 | 潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥 | Doonsec | [https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw](https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw) |
+| 3 | Apache Flink 高危漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) |
+| 4 | 【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082 | Doonsec | [https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) |
+| 5 | 【漏洞预警】 cPanel/WP2 高危任意文件读取CVE-2026-29205 | Doonsec | [https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw](https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Apache Flink 高危漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) |
+| 2 | 【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082 | Doonsec | [https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 97.7% 告警降噪：腾讯云安全运营Agent实践 | Doonsec | [https://mp.weixin.qq.com/s/Rirx0LftwRtrZZlBxkNNFA](https://mp.weixin.qq.com/s/Rirx0LftwRtrZZlBxkNNFA) |
+| 1 | 【海外SRC指南】5750美元赏金的IDOR奇妙之旅 | Doonsec | [https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ](https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ) |
 
 
 ## 📁 归档路径
@@ -98,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-22 10:50:34*
+*生成时间: 2026-05-22 14:39:31*
 *报告工具: 微信文章安全归档系统*
