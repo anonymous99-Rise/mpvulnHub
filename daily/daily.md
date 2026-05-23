@@ -1,21 +1,21 @@
-# 2026-05-22 安全威胁态势报告
+# 2026-05-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 5篇
 - **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +64,17 @@
 
 ### Doonsec
 
-- [Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7](https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg) (发布日期: 2026-05-22)
-- [5 个月 9.2 万次攻击，伪装成 AI 工具的恶意软件，正盯上你的电脑！](https://mp.weixin.qq.com/s/wfuU8HedMr2UQyTM2yOaBA) (发布日期: 2026-05-22)
-- [基于 TGW 的整车 OTA 系统安全设计](https://mp.weixin.qq.com/s/IbYatgs4b3Nq70YdsYmyfw) (发布日期: 2026-05-22)
-- [基于动态权重分配的智能汽车网络安全评估模型](https://mp.weixin.qq.com/s/pg63S5Q92e-93wzLMmoerg) (发布日期: 2026-05-22)
-- [\"巨齿鲨\"恶意软件6小时攻陷5500+GitHub仓库，窃取云凭证与密钥](https://mp.weixin.qq.com/s/3-U6w4A4ycbp48BNFLmKyQ) (发布日期: 2026-05-22)
-- [潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥](https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw) (发布日期: 2026-05-22)
-- [Apache Flink 高危漏洞可导致远程代码执行攻击](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) (发布日期: 2026-05-22)
-- [Orchid Security安全报告：三分之二非人类账户处于失控状态](https://mp.weixin.qq.com/s/GVifbQVIRaUKllhtv3RFOw) (发布日期: 2026-05-22)
-- [【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) (发布日期: 2026-05-22)
-- [【漏洞预警】 cPanel/WP2 高危任意文件读取CVE-2026-29205](https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw) (发布日期: 2026-05-22)
-- [【海外SRC指南】5750美元赏金的IDOR奇妙之旅](https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ) (发布日期: 2026-05-22)
-- [黑客利用拥抱脸传播 npm 恶意软件](https://mp.weixin.qq.com/s/J1Y0H3tgLEsFn40M8ulyfA) (发布日期: 2026-05-22)
+- [从古早的PPTP到如今的云原生网格，VPN的技术演进早已跳出“加密隧道”的简单窠臼](https://mp.weixin.qq.com/s/qxwOI8npAnGcwMHgQkESqQ) (发布日期: 2026-05-23)
+- [HTTP头部注入（下）](https://mp.weixin.qq.com/s/Bntzpw9YLAYfm3wCpPcZWQ) (发布日期: 2026-05-23)
+- [2026攻防演练考核加码，攻击面收敛全攻略](https://mp.weixin.qq.com/s/UZyhH0-98BBsaL1pipdDPQ) (发布日期: 2026-05-23)
+- [安全圈的狼来了：那些\"高危\"漏洞为何最终用不上](https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg) (发布日期: 2026-05-23)
+- [被强制安装的“后门”：白宫新应用如何以政治之名威胁联邦网络安全](https://mp.weixin.qq.com/s/nkUVxWQmOFVx66Inlvt2-g) (发布日期: 2026-05-23)
+- [【漏洞通告】FreeBSD setcred(2) 栈缓冲区溢出漏洞(CVE-2026-45250)](https://mp.weixin.qq.com/s/6wzPutc6oLROtttQJBsSvA) (发布日期: 2026-05-23)
+- [关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示](https://mp.weixin.qq.com/s/NWtljhHoANZBNkqwXuOj6Q) (发布日期: 2026-05-23)
+- [CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施](https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w) (发布日期: 2026-05-23)
+- [漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞](https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg) (发布日期: 2026-05-23)
+- [Cisco修复CVSS 10.0严重漏洞，影响Secure Workload](https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg) (发布日期: 2026-05-23)
+- [JS逆向 -- 某登录接口加密逻辑逆向分析测试](https://mp.weixin.qq.com/s/cZyceEs9FIHGwNk9VwGdpw) (发布日期: 2026-05-23)
 
 
 ## 🎯 威胁详情分析
@@ -84,29 +83,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux 本地提权工具 支持多个Linux 内核和 Polkit 漏洞 | AnolisOS、openEuler、统信UOS、openKylin、Ubuntu、CentOS 7 | Doonsec | [https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg](https://mp.weixin.qq.com/s/-T4cC7Vx3yeYvifFaDmFIg) |
-| 2 | 潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥 | Doonsec | [https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw](https://mp.weixin.qq.com/s/s4mWHy1z-130O-cr_EXGWw) |
-| 3 | Apache Flink 高危漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) |
-| 4 | 【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082 | Doonsec | [https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) |
-| 5 | 【漏洞预警】 cPanel/WP2 高危任意文件读取CVE-2026-29205 | Doonsec | [https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw](https://mp.weixin.qq.com/s/qjHb8IDzobpN3s05UdrOYw) |
+| 1 | 安全圈的狼来了：那些\"高危\"漏洞为何最终用不上 | Doonsec | [https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg](https://mp.weixin.qq.com/s/yQhU6JcXX6NLGVx7X9pfGg) |
+| 2 | 【漏洞通告】FreeBSD setcred(2) 栈缓冲区溢出漏洞(CVE-2026-45250) | Doonsec | [https://mp.weixin.qq.com/s/6wzPutc6oLROtttQJBsSvA](https://mp.weixin.qq.com/s/6wzPutc6oLROtttQJBsSvA) |
+| 3 | CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施 | Doonsec | [https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w](https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w) |
+| 4 | 漏洞报告泛滥！ProjectDiscovery发布Triage自动验证漏洞 | Doonsec | [https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg](https://mp.weixin.qq.com/s/a9veyIqOekhg4g-aTZYkgg) |
+| 5 | Cisco修复CVSS 10.0严重漏洞，影响Secure Workload | Doonsec | [https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg](https://mp.weixin.qq.com/s/hncIeoim1rJ3szto2eFcVg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Flink 高危漏洞可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w](https://mp.weixin.qq.com/s/WIXEfyxPSfttZoR9cYGX_w) |
-| 2 | 【高危漏洞预警】Drupalxa0Corexa0PostgreSQL数据库抽象APIxa0SQL注入漏洞CVE-2026-9082 | Doonsec | [https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg](https://mp.weixin.qq.com/s/83xZJO4QVgNHKZ7I8PccDg) |
+| 1 | HTTP头部注入（下） | Doonsec | [https://mp.weixin.qq.com/s/Bntzpw9YLAYfm3wCpPcZWQ](https://mp.weixin.qq.com/s/Bntzpw9YLAYfm3wCpPcZWQ) |
+| 2 | CVSS 10.0 【严重】CVE-2026-45829 ChromaDB 爆出未授权 RCE：ChromaToast 横扫 AI 基础设施 | Doonsec | [https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w](https://mp.weixin.qq.com/s/PxrCxZMixYE0EXgoGaQy6w) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【海外SRC指南】5750美元赏金的IDOR奇妙之旅 | Doonsec | [https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ](https://mp.weixin.qq.com/s/y19ZiG5GjJ3d7F2ef2bHhQ) |
+| 1 | 关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/NWtljhHoANZBNkqwXuOj6Q](https://mp.weixin.qq.com/s/NWtljhHoANZBNkqwXuOj6Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-22/`
+文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-23/`
 
 ## 🔗 数据源说明
 
@@ -118,7 +117,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -127,5 +126,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-22 14:39:31*
+*生成时间: 2026-05-23 02:57:11*
 *报告工具: 微信文章安全归档系统*
