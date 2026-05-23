@@ -2,14 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,15 +61,12 @@
 
 ### Doonsec
 
-- [在看 | 周报：屏南农信社因数据安全及案防违规被罚65万；江苏银行北京分行因五项违规被央行处罚](https://mp.weixin.qq.com/s/eetVFIuvzWaXQoLB1wReOw) (发布日期: 2026-05-23)
-- [【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用](https://mp.weixin.qq.com/s/8HV7g9Os5K8mSy96YrYufg) (发布日期: 2026-05-23)
-- [Chrome安全漏洞或使攻击者能够远程执行代码](https://mp.weixin.qq.com/s/z4wthxePisDjY6eYFtHmZg) (发布日期: 2026-05-23)
-- [Microsoft Defender零日漏洞已在野外遭积极利用](https://mp.weixin.qq.com/s/mzawD-_crDMa0Awmk-i8eQ) (发布日期: 2026-05-23)
-- [没预算做安全整治？6个开源安全工具实测，我们正在用](https://mp.weixin.qq.com/s/WLLEjfj_I78E3YZQLfMZUQ) (发布日期: 2026-05-23)
-- [Claude Mythos Preview首月发现超万个0Day漏洞](https://mp.weixin.qq.com/s/2vlzln_L0sEBs-sH66rzSw) (发布日期: 2026-05-23)
-- [GitHub 4000个私有仓库被窃取；Claude Code深度链接解析漏洞可被武器化 | FreeBuf周报](https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw) (发布日期: 2026-05-23)
-- [2026腾讯游戏安全竞赛决赛安卓客户端安全分析](https://mp.weixin.qq.com/s/Vn6k_9-eSCQskYzHwrmLhw) (发布日期: 2026-05-23)
-- [红队实战手册：车企全场景攻防拆解](https://mp.weixin.qq.com/s/xv52Ei6DMTSJV1Yuaq-KQg) (发布日期: 2026-05-23)
+- [AutoPentestAI：MoE 架构 + 100+ 工具，AI 自动执行完整渗透测试](https://mp.weixin.qq.com/s/uKDQlIGHUbrxsppPyd2bqQ) (发布日期: 2026-05-23)
+- [勒索病毒解密工具](https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA) (发布日期: 2026-05-23)
+- [亚马逊、脸书、ICE 与 FBI 共享西雅图警方运营的秘密情报共享网络](https://mp.weixin.qq.com/s/AkoZlYXYG5uvvGEgIrC47Q) (发布日期: 2026-05-23)
+- [做风险评估的7个致命误区，90%的企业中招](https://mp.weixin.qq.com/s/n6bqn1Tqn2rWx96P_6wF4Q) (发布日期: 2026-05-23)
+- [若依及其二开系统的渗透测试指南](https://mp.weixin.qq.com/s/aq2lp-xKk5SoS0YRj3jWIA) (发布日期: 2026-05-23)
+- [PLC逻辑代码漏洞的严重性及隐蔽性分析](https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w) (发布日期: 2026-05-23)
 
 
 ## 🎯 威胁详情分析
@@ -77,11 +75,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用 | Doonsec | [https://mp.weixin.qq.com/s/8HV7g9Os5K8mSy96YrYufg](https://mp.weixin.qq.com/s/8HV7g9Os5K8mSy96YrYufg) |
-| 2 | Chrome安全漏洞或使攻击者能够远程执行代码 | Doonsec | [https://mp.weixin.qq.com/s/z4wthxePisDjY6eYFtHmZg](https://mp.weixin.qq.com/s/z4wthxePisDjY6eYFtHmZg) |
-| 3 | Microsoft Defender零日漏洞已在野外遭积极利用 | Doonsec | [https://mp.weixin.qq.com/s/mzawD-_crDMa0Awmk-i8eQ](https://mp.weixin.qq.com/s/mzawD-_crDMa0Awmk-i8eQ) |
-| 4 | Claude Mythos Preview首月发现超万个0Day漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2vlzln_L0sEBs-sH66rzSw](https://mp.weixin.qq.com/s/2vlzln_L0sEBs-sH66rzSw) |
-| 5 | GitHub 4000个私有仓库被窃取；Claude Code深度链接解析漏洞可被武器化 | FreeBuf周报 | Doonsec | [https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw](https://mp.weixin.qq.com/s/js1AYhWtrLBCmo7CJGADKw) |
+| 1 | PLC逻辑代码漏洞的严重性及隐蔽性分析 | Doonsec | [https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w](https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 勒索病毒解密工具 | Doonsec | [https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA](https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA) |
 
 
 ## 📁 归档路径
@@ -97,7 +97,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -107,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-23 13:25:22*
+*生成时间: 2026-05-23 16:58:36*
 *报告工具: 微信文章安全归档系统*
