@@ -2,17 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 3
 - **数据源分布**:
   - Doonsec: 3篇
-  - BruceFeIix: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 2篇
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,15 +61,9 @@
 
 ### Doonsec
 
-- [专门针对我国用户！“银狐”木马病毒出现新变种，官方预警→](https://mp.weixin.qq.com/s/SUlxYuiS3VMyQVPJ6N3A_Q) (发布日期: 2026-05-24)
-- [基于firefox源码添加的web逆向分析工具支持无痕抓包、劫持修改包、js注入与hook](https://mp.weixin.qq.com/s/1H7vDBtR65hHtCKb19CXsQ) (发布日期: 2026-05-24)
-- [别只盯着模型本身，恶意代码技能的动态上下文才是更隐蔽的定时炸弹](https://mp.weixin.qq.com/s/TNcvlquBQK_ZAwiL0ycRTg) (发布日期: 2026-05-24)
-
-### BruceFeIix
-
-- [ ] [亚马逊、脸书、ICE 与 FBI 共享西雅图警方运营的秘密情报共享网络](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186804&idx=1&sn=3ce20a98dff1476c724eac45677fac29) (发布日期: 2026-05-24)
-- [ ] [2026腾讯游戏安全竞赛决赛安卓客户端安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615450&idx=2&sn=5b372737248ca9dbc68c515e055e3636) (发布日期: 2026-05-24)
-- [ ] [【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=3&sn=957360c8847377bd11e2714149619033) (发布日期: 2026-05-24)
+- [Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！](https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA) (发布日期: 2026-05-24)
+- [StubZero：在 Google Cloud 生产环境中造成 148,337 美元的远程代码执行损失](https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw) (发布日期: 2026-05-24)
+- [PyrsistenceSniper – 一款能够检测 Windows、Linux 和 macOS 系统上 117 种持久性恶意软件技术的工具](https://mp.weixin.qq.com/s/ynqZ9n0RenxRCY3scsV0gg) (发布日期: 2026-05-24)
 
 
 ## 🎯 威胁详情分析
@@ -80,19 +72,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=3&sn=957360c8847377bd11e2714149619033](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=3&sn=957360c8847377bd11e2714149619033) |
+| 1 | Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！ | Doonsec | [https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA](https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 基于firefox源码添加的web逆向分析工具支持无痕抓包、劫持修改包、js注入与hook | Doonsec | [https://mp.weixin.qq.com/s/1H7vDBtR65hHtCKb19CXsQ](https://mp.weixin.qq.com/s/1H7vDBtR65hHtCKb19CXsQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 专门针对我国用户！“银狐”木马病毒出现新变种，官方预警→ | Doonsec | [https://mp.weixin.qq.com/s/SUlxYuiS3VMyQVPJ6N3A_Q](https://mp.weixin.qq.com/s/SUlxYuiS3VMyQVPJ6N3A_Q) |
+| 1 | Nginx-poolslip 漏洞可导致拒绝服务攻击和代码执行攻击——立即修复！ | Doonsec | [https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA](https://mp.weixin.qq.com/s/A7CbMz5UNGW-hX94qeZ6yA) |
+| 2 | StubZero：在 Google Cloud 生产环境中造成 148,337 美元的远程代码执行损失 | Doonsec | [https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw](https://mp.weixin.qq.com/s/RXkL8sIL15oX-xjS2pHUNw) |
 
 
 ## 📁 归档路径
@@ -108,7 +95,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -118,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-24 07:20:37*
+*生成时间: 2026-05-24 09:54:18*
 *报告工具: 微信文章安全归档系统*
