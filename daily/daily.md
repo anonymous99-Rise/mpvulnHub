@@ -1,18 +1,22 @@
-# 2026-05-23 安全威胁态势报告
+# 2026-05-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
+- **信息泄露**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,12 +65,26 @@
 
 ### Doonsec
 
-- [AutoPentestAI：MoE 架构 + 100+ 工具，AI 自动执行完整渗透测试](https://mp.weixin.qq.com/s/uKDQlIGHUbrxsppPyd2bqQ) (发布日期: 2026-05-23)
-- [勒索病毒解密工具](https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA) (发布日期: 2026-05-23)
-- [亚马逊、脸书、ICE 与 FBI 共享西雅图警方运营的秘密情报共享网络](https://mp.weixin.qq.com/s/AkoZlYXYG5uvvGEgIrC47Q) (发布日期: 2026-05-23)
-- [做风险评估的7个致命误区，90%的企业中招](https://mp.weixin.qq.com/s/n6bqn1Tqn2rWx96P_6wF4Q) (发布日期: 2026-05-23)
-- [若依及其二开系统的渗透测试指南](https://mp.weixin.qq.com/s/aq2lp-xKk5SoS0YRj3jWIA) (发布日期: 2026-05-23)
-- [PLC逻辑代码漏洞的严重性及隐蔽性分析](https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w) (发布日期: 2026-05-23)
+- [访问控制：数据安全第一道防线](https://mp.weixin.qq.com/s/zMydv9WERXusMtNSFDU6qQ) (发布日期: 2026-05-24)
+- [腾讯实习，安全工程师-面经(二进制安全)](https://mp.weixin.qq.com/s/9QBKFzBm8vCOV5EgSUbbUQ) (发布日期: 2026-05-24)
+- [别等了！CISP-PTE/PTS/DSG/TRE等认证，618 破价！](https://mp.weixin.qq.com/s/lNtsMHBaYy6rEhjR0WbnUQ) (发布日期: 2026-05-24)
+- [鼎夏智能AI安全网关：筑牢企业AI应用安全防线，护航大模型从效率工具迈向安全可信新范式](https://mp.weixin.qq.com/s/3-A7UgBVMtJ7KkcMIZFqcA) (发布日期: 2026-05-24)
+- [我算了三遍才敢信：Anthropic让AI当黑客，首月1万漏洞修比找更难](https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ) (发布日期: 2026-05-24)
+- [邮箱密码重置流程的IDOR漏洞](https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A) (发布日期: 2026-05-24)
+- [CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击](https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ) (发布日期: 2026-05-24)
+- [WhatsApp被曝30亿用户数据泄露危机：加密谎言与隐私崩塌](https://mp.weixin.qq.com/s/SKaCBiwTGhSaT7t2c_snLA) (发布日期: 2026-05-24)
+- [Google意外公开未修复Chromium漏洞PoC：你的浏览器可能正在被黑客\"征兵\"](https://mp.weixin.qq.com/s/H26-1SAykG70kUoHHtW1Iw) (发布日期: 2026-05-24)
+- [天启时代AI安全网关：筑牢企业AI应用安全防线，护航大模型从效率工具迈向安全可信新范式](https://mp.weixin.qq.com/s/l4zafoqRm-h4v7F9O_Qm4A) (发布日期: 2026-05-24)
+- [服务器安全防护全指南，每一步都关键](https://mp.weixin.qq.com/s/IkG-T3xITyj8h_EO1fGNpg) (发布日期: 2026-05-24)
+- [Android恶意软件会在用户不知情的情况下为其注册高级服务](https://mp.weixin.qq.com/s/cqTcsWVJ3c-yvHjILF3R4w) (发布日期: 2026-05-24)
+- [不用迷信Mythos ，开源AI以更低的成本发现漏洞](https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg) (发布日期: 2026-05-24)
+- [CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔](https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA) (发布日期: 2026-05-24)
+- [暗网泄露:印尼银行 (bni.co.id) 数据泄露 (2024-2026)](https://mp.weixin.qq.com/s/cIP1bvzSorkM4sT4GkQlGQ) (发布日期: 2026-05-24)
+- [BYOVD攻击面从漏洞驱动到合法证书的范式转移](https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw) (发布日期: 2026-05-24)
+- [数据安全架构图（多图分享，收藏保存）](https://mp.weixin.qq.com/s/k1AsIab_84GM9gDKfsegmw) (发布日期: 2026-05-24)
+- [异步投毒、fork触发的赏金杀招：服务端原型污染RCE拆解](https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw) (发布日期: 2026-05-24)
+- [一条弱口令引发的血案——从Web站打到虚拟化平台覆灭](https://mp.weixin.qq.com/s/nq2oKW2Y9aVofo4gKthEgQ) (发布日期: 2026-05-24)
+- [Kimwolf僵尸网络主犯被捕及全球DDoS打击行动](https://mp.weixin.qq.com/s/enQdRuzBmnCduPb_KTVeiw) (发布日期: 2026-05-24)
 
 
 ## 🎯 威胁详情分析
@@ -75,18 +93,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | PLC逻辑代码漏洞的严重性及隐蔽性分析 | Doonsec | [https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w](https://mp.weixin.qq.com/s/BNz1GsAIqR8lxl6vHtjW9w) |
+| 1 | 我算了三遍才敢信：Anthropic让AI当黑客，首月1万漏洞修比找更难 | Doonsec | [https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ](https://mp.weixin.qq.com/s/JCk4EoK4E2wkt-h2yKgEkQ) |
+| 2 | 邮箱密码重置流程的IDOR漏洞 | Doonsec | [https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A](https://mp.weixin.qq.com/s/YiDOhYU80igYUju5gNKD5A) |
+| 3 | CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击 | Doonsec | [https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ](https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ) |
+| 4 | Google意外公开未修复Chromium漏洞PoC：你的浏览器可能正在被黑客\"征兵\" | Doonsec | [https://mp.weixin.qq.com/s/H26-1SAykG70kUoHHtW1Iw](https://mp.weixin.qq.com/s/H26-1SAykG70kUoHHtW1Iw) |
+| 5 | 不用迷信Mythos ，开源AI以更低的成本发现漏洞 | Doonsec | [https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg](https://mp.weixin.qq.com/s/3MfkVTRU-hoPeihidpROJg) |
+| 6 | CVSS 9.1 【严重】CVE-2026-46376 FreePBX userman 模块硬编码凭证漏洞：企业电话系统门户全网裸奔 | Doonsec | [https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA](https://mp.weixin.qq.com/s/OcmRLBdXEMh0Js1TEa3cHA) |
+| 7 | BYOVD攻击面从漏洞驱动到合法证书的范式转移 | Doonsec | [https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw](https://mp.weixin.qq.com/s/-X-mwyVc108HBSOsZwM0Dw) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 勒索病毒解密工具 | Doonsec | [https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA](https://mp.weixin.qq.com/s/BrQDvhtcu3qsQoeumZs8zA) |
+| 1 | CVE-2026-9082：Drupal的高危SQL注入漏洞已遭活跃攻击 | Doonsec | [https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ](https://mp.weixin.qq.com/s/_V98j54Vts2evnV-5HU3wQ) |
+| 2 | 异步投毒、fork触发的赏金杀招：服务端原型污染RCE拆解 | Doonsec | [https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw](https://mp.weixin.qq.com/s/MI13YFhgSKTDnU9Mutc_Tw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | WhatsApp被曝30亿用户数据泄露危机：加密谎言与隐私崩塌 | Doonsec | [https://mp.weixin.qq.com/s/SKaCBiwTGhSaT7t2c_snLA](https://mp.weixin.qq.com/s/SKaCBiwTGhSaT7t2c_snLA) |
+| 2 | 暗网泄露:印尼银行 (bni.co.id) 数据泄露 (2024-2026) | Doonsec | [https://mp.weixin.qq.com/s/cIP1bvzSorkM4sT4GkQlGQ](https://mp.weixin.qq.com/s/cIP1bvzSorkM4sT4GkQlGQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-23/`
+文章已归档到: `doc/2026/2026-05/2026-W21/2026-05-24/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +129,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +139,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-23 16:58:36*
+*生成时间: 2026-05-24 03:38:04*
 *报告工具: 微信文章安全归档系统*
