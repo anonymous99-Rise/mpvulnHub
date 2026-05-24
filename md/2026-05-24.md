@@ -2,15 +2,13 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,29 +59,11 @@
 
 ### Doonsec
 
-- [别再迷信灵光一闪了！为什么说 OSCP 和渗透测试的本质是一场“SOP 降维打击”？](https://mp.weixin.qq.com/s/2yVEDcTAfuskkDDfFvrcxQ) (发布日期: 2026-05-24)
-- [JeecgBoot 指纹与漏洞利用工具](https://mp.weixin.qq.com/s/eu4KQdjSpJiiQ5vENQ2DZg) (发布日期: 2026-05-24)
-- [Lazarus Group 利用 Git 钩子隐藏恶意软件](https://mp.weixin.qq.com/s/pOdJ3gnBinoQCn4xZSXZVw) (发布日期: 2026-05-24)
-- [OSINT skills — 为国内src及攻防演练信息收集解放双手！](https://mp.weixin.qq.com/s/jfwxtWT_UudiQfzfaXUBzQ) (发布日期: 2026-05-24)
-- [万级漏洞AI：Anthropic秘密\"Mythos\"模型如何重塑网络韧性](https://mp.weixin.qq.com/s/98KYAIFyMCgIAdKj_Olffw) (发布日期: 2026-05-24)
-- [每周PDF资源：OpenClaw安全危机警示录；Linux 内核暴雷；代码审计使用技巧](https://mp.weixin.qq.com/s/_a0ISEcu_aaPbCThX3KVig) (发布日期: 2026-05-24)
-- [哈希、对称/非对称加密、数字签名，一次性讲清](https://mp.weixin.qq.com/s/8oo1ejzNvHg7jqFV4lpoWg) (发布日期: 2026-05-24)
+- [[更新]红队加载器LoaderV6.4](https://mp.weixin.qq.com/s/NQqcJjpDMfeyAvhzkG_n1g) (发布日期: 2026-05-24)
+- [多模态大模型打破加密流量“黑盒”，网络安全迎来里程碑变革！](https://mp.weixin.qq.com/s/T69vGsa3fSh-F9j73GmoqQ) (发布日期: 2026-05-24)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | JeecgBoot 指纹与漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/eu4KQdjSpJiiQ5vENQ2DZg](https://mp.weixin.qq.com/s/eu4KQdjSpJiiQ5vENQ2DZg) |
-| 2 | 万级漏洞AI：Anthropic秘密\"Mythos\"模型如何重塑网络韧性 | Doonsec | [https://mp.weixin.qq.com/s/98KYAIFyMCgIAdKj_Olffw](https://mp.weixin.qq.com/s/98KYAIFyMCgIAdKj_Olffw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OSINT skills — 为国内src及攻防演练信息收集解放双手！ | Doonsec | [https://mp.weixin.qq.com/s/jfwxtWT_UudiQfzfaXUBzQ](https://mp.weixin.qq.com/s/jfwxtWT_UudiQfzfaXUBzQ) |
 
 
 ## 📁 归档路径
@@ -99,7 +79,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -109,5 +89,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-24 13:26:34*
+*生成时间: 2026-05-24 17:01:20*
 *报告工具: 微信文章安全归档系统*
