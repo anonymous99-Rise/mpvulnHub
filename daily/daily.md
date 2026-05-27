@@ -1,22 +1,24 @@
-# 2026-05-26 安全威胁态势报告
+# 2026-05-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 14
 - **数据源分布**:
-  - BruceFeIix: 15篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 8篇
-- **攻击技术**: 3篇
-- **供应链**: 2篇
+- **攻击技术**: 4篇
 - **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,21 +67,20 @@
 
 ### BruceFeIix
 
-- [ ] [警惕Underminr新型网络规避技术：CDN共享边缘的隐形漏洞](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186831&idx=1&sn=7a0ed378ca1323a830b4cfb7f28b7ae5) (发布日期: 2026-05-26)
-- [ ] [趋势科技提醒注意已遭利用的 Apex One 0day 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=1&sn=d07e28ac6d092fa30327a6c688e850a5) (发布日期: 2026-05-26)
-- [ ] [自动化供应链攻击6小时内攻陷5561个 GitHub 仓库](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=2&sn=d06f127d835cfd48afbbe4980d54ed19) (发布日期: 2026-05-26)
-- [ ] [AI 定向注入攻击：加密货币窃取供应链攻击新邪招](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518885&idx=1&sn=2b936557ad35aca9d49d04dba256b222) (发布日期: 2026-05-26)
-- [ ] [官方预警 | “银狐”木马病毒出现专门针对我国用户的新变种，真实受害案例触目惊心](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503980&idx=1&sn=d8b085e50bcb1a86f429a3855f72f7e7) (发布日期: 2026-05-26)
-- [ ] [【安全圈】已修复：微软 Win11 内核曝 7.8 高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076871&idx=3&sn=8b7e1ab3adc698e9b50411d949be259c) (发布日期: 2026-05-26)
-- [ ] [兼顾创新与安全：美国人工智能行政命令草案提出建立前沿AI安全部署框架](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515993&idx=2&sn=552eaf396352b45e6cb3bd17898d41d6) (发布日期: 2026-05-26)
-- [ ] [黑客哲学的AI新篇章：Joey Melo与“不改规则，只控体验”的红队传奇](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141442&idx=1&sn=25d82d49e6988e4879ac2a8883999452) (发布日期: 2026-05-26)
-- [ ] [论坛·数据安全治理 | AI智能体的数据安全风险与合规监管研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262951&idx=1&sn=41b3e25293f7d86d817f4241a44ae7b3) (发布日期: 2026-05-26)
-- [ ] [AI安全案例分析：Prompts Become Shells —— 从提示词注入到AI Agent远程代码执行（RCE）（文末附邀请码）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495083&idx=1&sn=f13abeb4a11eb21249dc9e6e46d7e6e7) (发布日期: 2026-05-26)
-- [ ] [CNVD漏洞周报2026年第20期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=1&sn=ac3699b4b31bce4c5b16877fd623757d) (发布日期: 2026-05-26)
-- [ ] [上周关注度较高的产品安全漏洞(20260518-20260524)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=2&sn=e60e7fcef20b977ae462ccddd14972dc) (发布日期: 2026-05-26)
-- [ ] [【漏洞通告】Drupal Core SQL注入漏洞(CVE-2026-9082)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71) (发布日期: 2026-05-26)
-- [ ] [【漏洞通告】cPanel-WHM 任意文件读取漏洞(CVE-2026-29205)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=2&sn=d883b4663246394babb72bb364b34d39) (发布日期: 2026-05-26)
-- [ ] [AI带来的影响初现：互联网漏洞赏金大幅下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542986&idx=1&sn=b97ba56003ced175f3894af25166c243) (发布日期: 2026-05-26)
+- [ ] [AI 助手类应用通用安全漏洞：间接提示注入可窃取企业敏感数据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27) (发布日期: 2026-05-27)
+- [ ] [【已复现】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞(CVE-2026-9256)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=1&sn=c4ae2804d3056bb81d6bd96100f12d9b) (发布日期: 2026-05-27)
+- [ ] [【已复现】LiteLLM 权限提升漏洞(CVE-2026-47101)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=2&sn=f28e0c902b82e300d95f799ba1a7bebe) (发布日期: 2026-05-27)
+- [ ] [越南两个部委系统发生严重数据泄露，数百万用户受影响](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515997&idx=1&sn=6a963a6c5d687b5080a2af796dafd4e4) (发布日期: 2026-05-27)
+- [ ] [我国人工智能数据安全风险及监管模式研究](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515997&idx=2&sn=5bd583beae125568fa7a9dcf2376f9fd) (发布日期: 2026-05-27)
+- [ ] [雷神众测漏洞周报2026.5.18-2026.5.24](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503797&idx=1&sn=e8e58bddc7e1e53b3b290ce7f6c161f4) (发布日期: 2026-05-27)
+- [ ] [2026年CCF-腾讯犀牛鸟基金启动：科恩开放终端安全与威胁情报两大课题](https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513014&idx=1&sn=74690c4ea859bbdd77c96149dff6712a) (发布日期: 2026-05-27)
+- [ ] [Mythos 宇宙漫游指南：当 AI 开始帮你修漏洞，你才发现代码有多烂](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518891&idx=1&sn=30210c8d46e7f04405496429c99ff321) (发布日期: 2026-05-27)
+- [ ] [补天端午活动第二弹|专属SRC来袭，5大厂商奖励翻倍！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510783&idx=3&sn=07c8a69eadfefdd7b9353879628cd898) (发布日期: 2026-05-27)
+- [ ] [CNVD漏洞周报2026年第20期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501694&idx=1&sn=35afc2518a89d16100bc36091ceb392f) (发布日期: 2026-05-27)
+- [ ] [7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5) (发布日期: 2026-05-27)
+- [ ] [TrapDoor 供应链攻击通过 npm、PyPI 和 CratesIO 传播凭据窃取恶意软件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=1&sn=5bb0348b6f36ac8d144547cea211d8bd) (发布日期: 2026-05-27)
+- [ ] [7-Zip 多个新漏洞可导致任意代码执行和系统受陷](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1) (发布日期: 2026-05-27)
+- [ ] [通过缓存投毒导致的 XSS 接管账号](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499486&idx=1&sn=0d9d283c30b804de6468269a29d10d0d) (发布日期: 2026-05-27)
 
 
 ## 🎯 威胁详情分析
@@ -88,40 +89,52 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [警惕Underminr新型网络规避技术：CDN共享边缘的隐形漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186831&idx=1&sn=7a0ed378ca1323a830b4cfb7f28b7ae5](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186831&idx=1&sn=7a0ed378ca1323a830b4cfb7f28b7ae5) |
-| 2 |  ] [趋势科技提醒注意已遭利用的 Apex One 0day 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=1&sn=d07e28ac6d092fa30327a6c688e850a5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=1&sn=d07e28ac6d092fa30327a6c688e850a5) |
-| 3 |  ] [【安全圈】已修复：微软 Win11 内核曝 7.8 高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076871&idx=3&sn=8b7e1ab3adc698e9b50411d949be259c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076871&idx=3&sn=8b7e1ab3adc698e9b50411d949be259c) |
-| 4 |  ] [CNVD漏洞周报2026年第20期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=1&sn=ac3699b4b31bce4c5b16877fd623757d](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=1&sn=ac3699b4b31bce4c5b16877fd623757d) |
-| 5 |  ] [上周关注度较高的产品安全漏洞(20260518-20260524) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=2&sn=e60e7fcef20b977ae462ccddd14972dc](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496966&idx=2&sn=e60e7fcef20b977ae462ccddd14972dc) |
-| 6 |  ] [【漏洞通告】Drupal Core SQL注入漏洞(CVE-2026-9082) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71) |
-| 7 |  ] [【漏洞通告】cPanel-WHM 任意文件读取漏洞(CVE-2026-29205) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=2&sn=d883b4663246394babb72bb364b34d39](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=2&sn=d883b4663246394babb72bb364b34d39) |
-| 8 |  ] [AI带来的影响初现：互联网漏洞赏金大幅下降 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542986&idx=1&sn=b97ba56003ced175f3894af25166c243](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542986&idx=1&sn=b97ba56003ced175f3894af25166c243) |
+| 1 |  ] [AI 助手类应用通用安全漏洞：间接提示注入可窃取企业敏感数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27) |
+| 2 |  ] [【已复现】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞(CVE-2026-9256)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=1&sn=c4ae2804d3056bb81d6bd96100f12d9b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=1&sn=c4ae2804d3056bb81d6bd96100f12d9b) |
+| 3 |  ] [【已复现】LiteLLM 权限提升漏洞(CVE-2026-47101)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=2&sn=f28e0c902b82e300d95f799ba1a7bebe](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506015&idx=2&sn=f28e0c902b82e300d95f799ba1a7bebe) |
+| 4 |  ] [雷神众测漏洞周报2026.5.18-2026.5.24 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503797&idx=1&sn=e8e58bddc7e1e53b3b290ce7f6c161f4](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503797&idx=1&sn=e8e58bddc7e1e53b3b290ce7f6c161f4) |
+| 5 |  ] [Mythos 宇宙漫游指南：当 AI 开始帮你修漏洞，你才发现代码有多烂 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518891&idx=1&sn=30210c8d46e7f04405496429c99ff321](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518891&idx=1&sn=30210c8d46e7f04405496429c99ff321) |
+| 6 |  ] [CNVD漏洞周报2026年第20期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501694&idx=1&sn=35afc2518a89d16100bc36091ceb392f](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501694&idx=1&sn=35afc2518a89d16100bc36091ceb392f) |
+| 7 |  ] [7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5) |
+| 8 |  ] [7-Zip 多个新漏洞可导致任意代码执行和系统受陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [AI 定向注入攻击：加密货币窃取供应链攻击新邪招 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518885&idx=1&sn=2b936557ad35aca9d49d04dba256b222](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518885&idx=1&sn=2b936557ad35aca9d49d04dba256b222) |
-| 2 |  ] [AI安全案例分析：Prompts Become Shells —— 从提示词注入到AI Agent远程代码执行（RCE）（文末附邀请码） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495083&idx=1&sn=f13abeb4a11eb21249dc9e6e46d7e6e7](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495083&idx=1&sn=f13abeb4a11eb21249dc9e6e46d7e6e7) |
-| 3 |  ] [【漏洞通告】Drupal Core SQL注入漏洞(CVE-2026-9082) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525807&idx=1&sn=d2d585508a04051bd1604794e648dd71) |
+| 1 |  ] [AI 助手类应用通用安全漏洞：间接提示注入可窃取企业敏感数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186845&idx=1&sn=2faa3e9338baeb8eeff238a63188eb27) |
+| 2 |  ] [7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615525&idx=3&sn=deeb3affeda9640dfd6f5bea564a46b5) |
+| 3 |  ] [7-Zip 多个新漏洞可导致任意代码执行和系统受陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=2&sn=42086b8ee7fc8a8d7a402f058ce882f1) |
+| 4 |  ] [通过缓存投毒导致的 XSS 接管账号 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499486&idx=1&sn=0d9d283c30b804de6468269a29d10d0d](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499486&idx=1&sn=0d9d283c30b804de6468269a29d10d0d) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [官方预警 | “银狐”木马病毒出现专门针对我国用户的新变种，真实受害案例触目惊心 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503980&idx=1&sn=d8b085e50bcb1a86f429a3855f72f7e7](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503980&idx=1&sn=d8b085e50bcb1a86f429a3855f72f7e7) |
+| 1 |  ] [2026年CCF-腾讯犀牛鸟基金启动：科恩开放终端安全与威胁情报两大课题 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513014&idx=1&sn=74690c4ea859bbdd77c96149dff6712a](https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513014&idx=1&sn=74690c4ea859bbdd77c96149dff6712a) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [补天端午活动第二弹|专属SRC来袭，5大厂商奖励翻倍！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510783&idx=3&sn=07c8a69eadfefdd7b9353879628cd898](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510783&idx=3&sn=07c8a69eadfefdd7b9353879628cd898) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [越南两个部委系统发生严重数据泄露，数百万用户受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515997&idx=1&sn=6a963a6c5d687b5080a2af796dafd4e4](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515997&idx=1&sn=6a963a6c5d687b5080a2af796dafd4e4) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [自动化供应链攻击6小时内攻陷5561个 GitHub 仓库 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=2&sn=d06f127d835cfd48afbbe4980d54ed19](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526099&idx=2&sn=d06f127d835cfd48afbbe4980d54ed19) |
-| 2 |  ] [AI 定向注入攻击：加密货币窃取供应链攻击新邪招 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518885&idx=1&sn=2b936557ad35aca9d49d04dba256b222](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518885&idx=1&sn=2b936557ad35aca9d49d04dba256b222) |
+| 1 |  ] [TrapDoor 供应链攻击通过 npm、PyPI 和 CratesIO 传播凭据窃取恶意软件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=1&sn=5bb0348b6f36ac8d144547cea211d8bd](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526103&idx=1&sn=5bb0348b6f36ac8d144547cea211d8bd) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-26/`
+文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-27/`
 
 ## 🔗 数据源说明
 
@@ -133,7 +146,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -142,5 +155,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-26 07:47:50*
+*生成时间: 2026-05-27 08:04:06*
 *报告工具: 微信文章安全归档系统*
