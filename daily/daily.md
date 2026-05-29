@@ -1,23 +1,20 @@
-# 2026-05-28 安全威胁态势报告
+# 2026-05-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 14
 - **数据源分布**:
-  - BruceFeIix: 13篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 2篇
-- **供应链**: 2篇
+- **漏洞利用**: 6篇
+- **安全运营**: 3篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,19 +63,20 @@
 
 ### BruceFeIix
 
-- [ ] [2026 年上半年全球常规被利用漏洞全景分析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186850&idx=1&sn=47552902a24f58aec66f7d057fefbdd8) (发布日期: 2026-05-28)
-- [ ] [AI聊天机器人沦为病毒帮凶，高配电脑惨遭精准入侵](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615651&idx=3&sn=b3c7eb22fe2b01acc44d2a9398fc7efe) (发布日期: 2026-05-28)
-- [ ] [微软修复影响 SharePoint 多个版本的 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=1&sn=2dba11975b0d1b5a35299b0e18f14c1d) (发布日期: 2026-05-28)
-- [ ] [ConnectWise Automate 平台高危漏洞可导致攻击者绕过安全检查](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=2&sn=1eb3d2f31e394abe74da622bc4d6cf66) (发布日期: 2026-05-28)
-- [ ] [SOC 中的大模型：安全运营中心人机协作研究](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488659&idx=1&sn=1286f70b49e96f9fe9589fa1c65de07c) (发布日期: 2026-05-28)
-- [ ] [【安全圈】PC 玩家等不及要玩《GTA6》，黑客借此大肆传播恶意软件与钓鱼诈骗](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076961&idx=2&sn=ea7f31b62cad140f14f4c7d32ca74ce3) (发布日期: 2026-05-28)
-- [ ] [AI驱动防御：一国家要求AI辅助修漏洞，关键漏洞12小时修复](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516002&idx=1&sn=5398061bf3555207ae6f5e371823af67) (发布日期: 2026-05-28)
-- [ ] [Nightmare-Eclipse事件：零日漏洞武器化、供应链安全与国产化替代反思](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543009&idx=2&sn=6dd7c4c396a11e23f580df9f9c90f510) (发布日期: 2026-05-28)
-- [ ] [威胁情报｜TrapDoor 分析：横跨生态的供应链凭据窃取行动](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505111&idx=1&sn=c3675d907208d51e844097af665da8df) (发布日期: 2026-05-28)
-- [ ] [紧急：Akira勒索组织利用9.1分高危漏洞！ SonicWall Gen6 LDAP MFA完整利用链还原](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518898&idx=1&sn=f57bdfaa9e7277834b118c25f343f848) (发布日期: 2026-05-28)
-- [ ] [RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499490&idx=1&sn=ae6ad2c17beb5fae3bb2160c11724bf5) (发布日期: 2026-05-28)
-- [ ] [专家解读｜推动人工智能创新发展行稳致远 筑牢伦理安全治理屏障](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501695&idx=1&sn=c08f88d650f0a1f6c08f4c750f6083b0) (发布日期: 2026-05-28)
-- [ ] [【漏洞通告】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞(CVE-2026-9256)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525835&idx=1&sn=84f87c4476ff4e967561fef371be747a) (发布日期: 2026-05-28)
+- [ ] [【已复现】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506035&idx=1&sn=444122b3c72f3107dc00512bcab53a62) (发布日期: 2026-05-29)
+- [ ] [6月1日正式实施《网络安全等级保护数据安全基本要求》](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141854&idx=1&sn=ebefce816e60988bc7b1d77bee7135e0) (发布日期: 2026-05-29)
+- [ ] [2026年上半年全球常规被利用漏洞全景分析](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516011&idx=2&sn=98612c24ec1be4d53ba785c37d1332f3) (发布日期: 2026-05-29)
+- [ ] [欢迎「智元」入驻补天专属SRC！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510785&idx=1&sn=767e4fd7ad24b5878d48710063c76ca6) (发布日期: 2026-05-29)
+- [ ] [【安全圈】新浏览器侧信道攻击 FROST 曝光：分析 SSD 固态硬盘活动监视访客](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076993&idx=2&sn=8036c37a5fd24564f92ab1ed3bf02ec5) (发布日期: 2026-05-29)
+- [ ] [【安全圈】Gitea 漏洞无需身份验证即可暴露私有容器镜像](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076993&idx=3&sn=36b9169ea87d92b89d36eae6b3f2528e) (发布日期: 2026-05-29)
+- [ ] [思科用AI写安全事件报告 结果……](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543016&idx=1&sn=5cb53a64f73086973272653493dcabb3) (发布日期: 2026-05-29)
+- [ ] [顺丰科技梁博：安全运营、威胁情报&狩猎的AI重构与进化](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186624&idx=1&sn=da7745439304709a061ae5213455bc5a) (发布日期: 2026-05-29)
+- [ ] [别只盯漏洞！开源软件已是关键基础设施，企业必须重新审视风险](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141476&idx=1&sn=c286b17576292779c7e4f92d0757d743) (发布日期: 2026-05-29)
+- [ ] [FIFA世界杯成诈骗温床：4300个假冒域名发起“Ghost Stadium”攻击；国家安全部警示：警惕二维码陷阱，严防信息泄露与窃密风险| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141476&idx=2&sn=2d119eab94acb67d7bc3d009f7ae6b96) (发布日期: 2026-05-29)
+- [ ] [AI安全不止一条路：海外热议360漏洞挖掘智能体](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586067&idx=1&sn=524608965c10b006f474e2f5d48e8d46) (发布日期: 2026-05-29)
+- [ ] [ByteSRC 端午福利｜0 积分兑换「风光好」限定礼盒](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496263&idx=1&sn=f1fb1fe86fd352ec9006c08a015329db) (发布日期: 2026-05-29)
+- [ ] [立即更新！Notepad++ 高危漏洞曝光，可直接执行恶意代码](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615842&idx=2&sn=ddbb5a83b03f8d6a6589d2251d0218f8) (发布日期: 2026-05-29)
+- [ ] [权限绕过思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499499&idx=1&sn=8bd30b2f22bb2a61846d42d6175786c8) (发布日期: 2026-05-29)
 
 
 ## 🎯 威胁详情分析
@@ -87,45 +85,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [2026 年上半年全球常规被利用漏洞全景分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186850&idx=1&sn=47552902a24f58aec66f7d057fefbdd8](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186850&idx=1&sn=47552902a24f58aec66f7d057fefbdd8) |
-| 2 |  ] [微软修复影响 SharePoint 多个版本的 RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=1&sn=2dba11975b0d1b5a35299b0e18f14c1d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=1&sn=2dba11975b0d1b5a35299b0e18f14c1d) |
-| 3 |  ] [ConnectWise Automate 平台高危漏洞可导致攻击者绕过安全检查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=2&sn=1eb3d2f31e394abe74da622bc4d6cf66](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=2&sn=1eb3d2f31e394abe74da622bc4d6cf66) |
-| 4 |  ] [AI驱动防御：一国家要求AI辅助修漏洞，关键漏洞12小时修复 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516002&idx=1&sn=5398061bf3555207ae6f5e371823af67](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516002&idx=1&sn=5398061bf3555207ae6f5e371823af67) |
-| 5 |  ] [Nightmare-Eclipse事件：零日漏洞武器化、供应链安全与国产化替代反思 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543009&idx=2&sn=6dd7c4c396a11e23f580df9f9c90f510](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543009&idx=2&sn=6dd7c4c396a11e23f580df9f9c90f510) |
-| 6 |  ] [紧急：Akira勒索组织利用9.1分高危漏洞！ SonicWall Gen6 LDAP MFA完整利用链还原 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518898&idx=1&sn=f57bdfaa9e7277834b118c25f343f848](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518898&idx=1&sn=f57bdfaa9e7277834b118c25f343f848) |
-| 7 |  ] [RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499490&idx=1&sn=ae6ad2c17beb5fae3bb2160c11724bf5](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499490&idx=1&sn=ae6ad2c17beb5fae3bb2160c11724bf5) |
-| 8 |  ] [【漏洞通告】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞(CVE-2026-9256) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525835&idx=1&sn=84f87c4476ff4e967561fef371be747a](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525835&idx=1&sn=84f87c4476ff4e967561fef371be747a) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [微软修复影响 SharePoint 多个版本的 RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=1&sn=2dba11975b0d1b5a35299b0e18f14c1d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526116&idx=1&sn=2dba11975b0d1b5a35299b0e18f14c1d) |
-| 2 |  ] [RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499490&idx=1&sn=ae6ad2c17beb5fae3bb2160c11724bf5](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499490&idx=1&sn=ae6ad2c17beb5fae3bb2160c11724bf5) |
+| 1 |  ] [【已复现】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506035&idx=1&sn=444122b3c72f3107dc00512bcab53a62](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506035&idx=1&sn=444122b3c72f3107dc00512bcab53a62) |
+| 2 |  ] [2026年上半年全球常规被利用漏洞全景分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516011&idx=2&sn=98612c24ec1be4d53ba785c37d1332f3](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516011&idx=2&sn=98612c24ec1be4d53ba785c37d1332f3) |
+| 3 |  ] [【安全圈】Gitea 漏洞无需身份验证即可暴露私有容器镜像 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076993&idx=3&sn=36b9169ea87d92b89d36eae6b3f2528e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076993&idx=3&sn=36b9169ea87d92b89d36eae6b3f2528e) |
+| 4 |  ] [别只盯漏洞！开源软件已是关键基础设施，企业必须重新审视风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141476&idx=1&sn=c286b17576292779c7e4f92d0757d743](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141476&idx=1&sn=c286b17576292779c7e4f92d0757d743) |
+| 5 |  ] [AI安全不止一条路：海外热议360漏洞挖掘智能体 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586067&idx=1&sn=524608965c10b006f474e2f5d48e8d46](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586067&idx=1&sn=524608965c10b006f474e2f5d48e8d46) |
+| 6 |  ] [立即更新！Notepad++ 高危漏洞曝光，可直接执行恶意代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615842&idx=2&sn=ddbb5a83b03f8d6a6589d2251d0218f8](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615842&idx=2&sn=ddbb5a83b03f8d6a6589d2251d0218f8) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [威胁情报｜TrapDoor 分析：横跨生态的供应链凭据窃取行动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505111&idx=1&sn=c3675d907208d51e844097af665da8df](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505111&idx=1&sn=c3675d907208d51e844097af665da8df) |
+| 1 |  ] [顺丰科技梁博：安全运营、威胁情报&狩猎的AI重构与进化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186624&idx=1&sn=da7745439304709a061ae5213455bc5a](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186624&idx=1&sn=da7745439304709a061ae5213455bc5a) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [SOC 中的大模型：安全运营中心人机协作研究 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488659&idx=1&sn=1286f70b49e96f9fe9589fa1c65de07c](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488659&idx=1&sn=1286f70b49e96f9fe9589fa1c65de07c) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Nightmare-Eclipse事件：零日漏洞武器化、供应链安全与国产化替代反思 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543009&idx=2&sn=6dd7c4c396a11e23f580df9f9c90f510](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543009&idx=2&sn=6dd7c4c396a11e23f580df9f9c90f510) |
-| 2 |  ] [威胁情报｜TrapDoor 分析：横跨生态的供应链凭据窃取行动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505111&idx=1&sn=c3675d907208d51e844097af665da8df](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505111&idx=1&sn=c3675d907208d51e844097af665da8df) |
+| 1 |  ] [欢迎「智元」入驻补天专属SRC！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510785&idx=1&sn=767e4fd7ad24b5878d48710063c76ca6](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510785&idx=1&sn=767e4fd7ad24b5878d48710063c76ca6) |
+| 2 |  ] [顺丰科技梁博：安全运营、威胁情报&狩猎的AI重构与进化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186624&idx=1&sn=da7745439304709a061ae5213455bc5a](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186624&idx=1&sn=da7745439304709a061ae5213455bc5a) |
+| 3 |  ] [ByteSRC 端午福利｜0 积分兑换「风光好」限定礼盒 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496263&idx=1&sn=f1fb1fe86fd352ec9006c08a015329db](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496263&idx=1&sn=f1fb1fe86fd352ec9006c08a015329db) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-28/`
+文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-29/`
 
 ## 🔗 数据源说明
 
@@ -136,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-28 07:58:36*
+*生成时间: 2026-05-29 07:56:12*
 *报告工具: 微信文章安全归档系统*
