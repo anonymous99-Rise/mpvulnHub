@@ -1,20 +1,17 @@
-# 2026-05-30 安全威胁态势报告
+# 2026-05-31 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 1
 - **数据源分布**:
-  - BruceFeIix: 18篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,51 +60,21 @@
 
 ### BruceFeIix
 
-- [ ] [对OpenClaw和HermesAgent的安全威胁建模分析](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141924&idx=1&sn=b4a4eb358355e3a0eef463e29404fbaf) (发布日期: 2026-05-30)
-- [ ] [【已复现】Linux Kernel CIFSwitch 本地权限提升漏洞(QVD-2026-29453)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506048&idx=1&sn=33a96fd147d2fe736053b1799d65b73f) (发布日期: 2026-05-30)
-- [ ] [每周高级威胁情报解读(2026.05.22~05.28)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518980&idx=1&sn=c57564bc32807524cbac830dced1c801) (发布日期: 2026-05-30)
-- [ ] [征题启事｜DataCon2026:从大数据安全到AI安全，邀你定义人工智能安全竞赛新标杆  ！](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489560&idx=1&sn=9b4f958831880844a96af5cfbefd01db) (发布日期: 2026-05-30)
-- [ ] [一旦点击，木马将自动入侵！警惕这些泄密风险→](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504053&idx=1&sn=4daf84b29dad0ded0817a9e8ecf63ee2) (发布日期: 2026-05-30)
-- [ ] [奇安信入选全球《智能体驱动的开发安全工具全景图》代表厂商](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526126&idx=1&sn=bd9b9bd881cd115b3c97fa52c435ef56) (发布日期: 2026-05-30)
-- [ ] [通知 | 国家数据局等三部门联合印发《2026年交通运输、气象服务领域数据流通安全治理典型案例》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263090&idx=2&sn=2901ad126872fc97905190cba097e1bf) (发布日期: 2026-05-30)
-- [ ] [观点 | 科学把握数据安全能力建设的着力点](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263090&idx=4&sn=c8b283f67c2019d1348680d97686969e) (发布日期: 2026-05-30)
-- [ ] [不用漏扫也能查漏洞！罩妖镜+玄猫，三大场景解决用户真痛点](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543027&idx=2&sn=3e5df934d89825439620b89cc5ba6a8b) (发布日期: 2026-05-30)
-- [ ] [Anthropic 发布 Opus 4.8，动态工作流强化复杂任务安全管控；CNNVD 发布最新漏洞周报：WordPress 漏洞居首，AI 安全风险凸显| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141487&idx=2&sn=aab3f1735e81caacc42ec8cd678d002d) (发布日期: 2026-05-30)
-- [ ] [毒霸静默安装升级：内核驱动绕过安全防护](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534271&idx=1&sn=1b6b9105b711fa9dd1eb4e83d83daae0) (发布日期: 2026-05-30)
-- [ ] [【火绒安全周报】“银狐”木马病毒出现新变种/黑客借“破解版”游戏传播恶意软件](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534271&idx=3&sn=dc1c3d40213bc1a3c3c14320fce25fb3) (发布日期: 2026-05-30)
-- [ ] [AI靶场安全实战系列：从成员推断到隐私泄露——数据与知识安全深度剖析](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499951&idx=1&sn=acd892c925c869452c002c453ec8cdbb) (发布日期: 2026-05-30)
-- [ ] [【安全圈】新型 BTMOB 安卓恶意软件可实现设备完全接管](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077025&idx=2&sn=afec41bc95d29cbf851b77b5be5ece9e) (发布日期: 2026-05-30)
-- [ ] [【安全圈】黑客利用 FortiClient EMS 漏洞推送信息窃取恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077025&idx=3&sn=65c045cad2521dcbcb76ffeb9fd9520e) (发布日期: 2026-05-30)
-- [ ] [【PoC 已公开】Linux Kernel CIFSwitch 提权漏洞，本地用户可直取 root](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497614&idx=1&sn=17725f77d54ae7fbd07e62e47c7e2d65) (发布日期: 2026-05-30)
-- [ ] [【漏洞通告】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=1&sn=920a12a67e69e462696d3314cb9a660e) (发布日期: 2026-05-30)
-- [ ] [【漏洞通告】Linux Kernel CIFSwitch 权限提升漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=2&sn=e75184eb190a0a8ca4c8038630721fae) (发布日期: 2026-05-30)
+- [ ] [【安全圈】嘉年华数据泄露，600 万人信息遭曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4) (发布日期: 2026-05-31)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】Linux Kernel CIFSwitch 本地权限提升漏洞(QVD-2026-29453)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506048&idx=1&sn=33a96fd147d2fe736053b1799d65b73f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506048&idx=1&sn=33a96fd147d2fe736053b1799d65b73f) |
-| 2 |  ] [不用漏扫也能查漏洞！罩妖镜+玄猫，三大场景解决用户真痛点 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543027&idx=2&sn=3e5df934d89825439620b89cc5ba6a8b](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543027&idx=2&sn=3e5df934d89825439620b89cc5ba6a8b) |
-| 3 |  ] [Anthropic 发布 Opus 4.8，动态工作流强化复杂任务安全管控；CNNVD 发布最新漏洞周报：WordPress 漏洞居首，AI 安全风险凸显| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141487&idx=2&sn=aab3f1735e81caacc42ec8cd678d002d](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141487&idx=2&sn=aab3f1735e81caacc42ec8cd678d002d) |
-| 4 |  ] [【安全圈】黑客利用 FortiClient EMS 漏洞推送信息窃取恶意软件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077025&idx=3&sn=65c045cad2521dcbcb76ffeb9fd9520e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077025&idx=3&sn=65c045cad2521dcbcb76ffeb9fd9520e) |
-| 5 |  ] [【PoC 已公开】Linux Kernel CIFSwitch 提权漏洞，本地用户可直取 root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497614&idx=1&sn=17725f77d54ae7fbd07e62e47c7e2d65](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497614&idx=1&sn=17725f77d54ae7fbd07e62e47c7e2d65) |
-| 6 |  ] [【漏洞通告】Apache PyFory 反序列化策略绕过漏洞(CVE-2026-48207) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=1&sn=920a12a67e69e462696d3314cb9a660e](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=1&sn=920a12a67e69e462696d3314cb9a660e) |
-| 7 |  ] [【漏洞通告】Linux Kernel CIFSwitch 权限提升漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=2&sn=e75184eb190a0a8ca4c8038630721fae](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525862&idx=2&sn=e75184eb190a0a8ca4c8038630721fae) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.05.22~05.28) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518980&idx=1&sn=c57564bc32807524cbac830dced1c801](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518980&idx=1&sn=c57564bc32807524cbac830dced1c801) |
-| 2 |  ] [【火绒安全周报】“银狐”木马病毒出现新变种/黑客借“破解版”游戏传播恶意软件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534271&idx=3&sn=dc1c3d40213bc1a3c3c14320fce25fb3](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534271&idx=3&sn=dc1c3d40213bc1a3c3c14320fce25fb3) |
+| 1 |  ] [【安全圈】嘉年华数据泄露，600 万人信息遭曝光 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-30/`
+文章已归档到: `doc/2026/2026-05/2026-W22/2026-05-31/`
 
 ## 🔗 数据源说明
 
@@ -118,8 +85,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -128,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-05-30 06:45:04*
+*生成时间: 2026-05-31 07:46:03*
 *报告工具: 微信文章安全归档系统*
