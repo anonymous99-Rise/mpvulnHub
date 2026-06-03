@@ -1,21 +1,20 @@
-# 2026-06-02 安全威胁态势报告
+# 2026-06-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 10
 - **数据源分布**:
-  - BruceFeIix: 17篇
+  - BruceFeIix: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 5篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 - **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -65,23 +64,16 @@
 
 ### BruceFeIix
 
-- [ ] [【在野利用】Windows Netlogon 零点击远程代码执行漏洞(CVE-2026-41089)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9) (发布日期: 2026-06-02)
-- [ ] [PAN-OS GlobalProtect 认证绕过漏洞已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=1&sn=64865321252297906000fede942608f5) (发布日期: 2026-06-02)
-- [ ] [Comet Backup 服务器严重漏洞可导致客户数据被远程泄露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=2&sn=58f20be37a8c71d4f0e7d16aa1e8f1b5) (发布日期: 2026-06-02)
-- [ ] [【安全圈】紧急！紧急！2026年首个“核弹级”漏洞爆发！你的网站正在裸奔，请立即更新！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=2&sn=d3c366be59991023edf3faa2bbc3cdb3) (发布日期: 2026-06-02)
-- [ ] [【安全圈】警告！Palo Alto VPN重大漏洞正在被疯狂利用！你的企业内网可能已经“裸奔”！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b) (发布日期: 2026-06-02)
-- [ ] [Liquidjs 曝 RCE 漏洞，730万月下载用户面临系统接管风险](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4) (发布日期: 2026-06-02)
-- [ ] [从幻觉到真实入侵：Scenario框架用 Crescendo 策略，重构 AI 代理红队测试](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141498&idx=1&sn=43c8719d9fc5222511106b7325b35ff3) (发布日期: 2026-06-02)
-- [ ] [AI安全事件 | Grok与Gemini双双幻觉误判米纳布公墓照片](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495120&idx=1&sn=53efb76e80b78d025caf1585e245094a) (发布日期: 2026-06-02)
-- [ ] [共建Agent生态安全：威胁情报Skill安全守护计划矩阵发布](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511926&idx=1&sn=7790963ce68f0347bff9f164db8e12bb) (发布日期: 2026-06-02)
-- [ ] [数世咨询：《中国数据安全50强（2026）》发布](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543049&idx=1&sn=a4ad2b999c7cb54207b94e8ae73bee83) (发布日期: 2026-06-02)
-- [ ] [筑牢数据安全防线，共推行业生态发展——数据安全工作会在长沙顺利召开](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543049&idx=2&sn=916f573671cda045fecc022d8ece4dcf) (发布日期: 2026-06-02)
-- [ ] [青藤云安全携手长三角生态伙伴共建可信AI智算体系](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851383&idx=1&sn=83abfab29410e8633e6fe6ee678537d5) (发布日期: 2026-06-02)
-- [ ] [OSRC助力 | 第一届NCC白帽大会报名开启](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494927&idx=1&sn=9ee052e88ee7de1c974d3bb86502460b) (发布日期: 2026-06-02)
-- [ ] [从nginx堆溢出RCE到root提权漏洞分析与复现](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45) (发布日期: 2026-06-02)
-- [ ] [xss实战绕过](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499512&idx=1&sn=ada86350ac2b254d543ad99cfcc50b5a) (发布日期: 2026-06-02)
-- [ ] [CNVD漏洞周报2026年第21期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3) (发布日期: 2026-06-02)
-- [ ] [上周关注度较高的产品安全漏洞(20260525-20260531)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91) (发布日期: 2026-06-02)
+- [ ] [雷神众测漏洞周报2026.5.25-2026.5.31](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558) (发布日期: 2026-06-03)
+- [ ] [AI 时代，一个安全工程师的自述](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500587&idx=1&sn=26ed4c0dbec2499c41c0445332080a9c) (发布日期: 2026-06-03)
+- [ ] [CNNVD | 人工智能重要漏洞通报（2026年第八期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b) (发布日期: 2026-06-03)
+- [ ] [【安全圈】紧急！Red Hat 30+npm包被植Miasma病毒：密钥窃取危机来袭，开发者需立即行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077139&idx=3&sn=01d71c08c3fd23e5f70cd4528f7c6426) (发布日期: 2026-06-03)
+- [ ] [Red Hat npm包遭供应链投毒！超30个组件暗藏凭证窃取后门，开发者速查](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9) (发布日期: 2026-06-03)
+- [ ] [安全厂商共识：AI可接管告警处置，人类仍是SOC决策核心；CNVD 第 21 期漏洞周报：高危漏洞占比高，0day 漏洞成主要威胁| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7) (发布日期: 2026-06-03)
+- [ ] [58%的CISO表示愿意支付勒索赎金，与执法部门建议背道而驰](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543065&idx=1&sn=725f1c1993b0326a1525036e50e59fdd) (发布日期: 2026-06-03)
+- [ ] [网络首发 | 北京交通大学刘吉强教授团队：面向可信数据空间的密钥管理技术研究综述](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507646&idx=1&sn=322132c9f2b9fcf10079c4231166753f) (发布日期: 2026-06-03)
+- [ ] [【SRC实战】一次XSS三次绕过的真实记录](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) (发布日期: 2026-06-03)
+- [ ] [CNVD漏洞周报2026年第21期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b) (发布日期: 2026-06-03)
 
 
 ## 🎯 威胁详情分析
@@ -90,42 +82,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【在野利用】Windows Netlogon 零点击远程代码执行漏洞(CVE-2026-41089)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9) |
-| 2 |  ] [PAN-OS GlobalProtect 认证绕过漏洞已遭活跃利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=1&sn=64865321252297906000fede942608f5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=1&sn=64865321252297906000fede942608f5) |
-| 3 |  ] [Comet Backup 服务器严重漏洞可导致客户数据被远程泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=2&sn=58f20be37a8c71d4f0e7d16aa1e8f1b5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526149&idx=2&sn=58f20be37a8c71d4f0e7d16aa1e8f1b5) |
-| 4 |  ] [【安全圈】紧急！紧急！2026年首个“核弹级”漏洞爆发！你的网站正在裸奔，请立即更新！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=2&sn=d3c366be59991023edf3faa2bbc3cdb3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=2&sn=d3c366be59991023edf3faa2bbc3cdb3) |
-| 5 |  ] [【安全圈】警告！Palo Alto VPN重大漏洞正在被疯狂利用！你的企业内网可能已经“裸奔”！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b) |
-| 6 |  ] [Liquidjs 曝 RCE 漏洞，730万月下载用户面临系统接管风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4) |
-| 7 |  ] [从nginx堆溢出RCE到root提权漏洞分析与复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45) |
-| 8 |  ] [CNVD漏洞周报2026年第21期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=1&sn=7690d642293464e9f42ce580882a52f3) |
-| 9 |  ] [上周关注度较高的产品安全漏洞(20260525-20260531) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496982&idx=2&sn=ee3fe17716d285c547ebea8276b35a91) |
+| 1 |  ] [雷神众测漏洞周报2026.5.25-2026.5.31 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558) |
+| 2 |  ] [CNNVD | 人工智能重要漏洞通报（2026年第八期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b) |
+| 3 |  ] [安全厂商共识：AI可接管告警处置，人类仍是SOC决策核心；CNVD 第 21 期漏洞周报：高危漏洞占比高，0day 漏洞成主要威胁| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7) |
+| 4 |  ] [CNVD漏洞周报2026年第21期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【在野利用】Windows Netlogon 零点击远程代码执行漏洞(CVE-2026-41089)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506083&idx=1&sn=576c2a782ab030f6030666f787637cd9) |
-| 2 |  ] [【安全圈】警告！Palo Alto VPN重大漏洞正在被疯狂利用！你的企业内网可能已经“裸奔”！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077114&idx=3&sn=b1b1ff705f0f63b7c7f89b2c99d64d2b) |
-| 3 |  ] [Liquidjs 曝 RCE 漏洞，730万月下载用户面临系统接管风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616009&idx=3&sn=d0791374d6acd99a1da324b455dfe0c4) |
-| 4 |  ] [从nginx堆溢出RCE到root提权漏洞分析与复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488268&idx=1&sn=a175fcf0c3dc3d7a416dcbb7e2e3af45) |
-| 5 |  ] [xss实战绕过 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499512&idx=1&sn=ada86350ac2b254d543ad99cfcc50b5a](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499512&idx=1&sn=ada86350ac2b254d543ad99cfcc50b5a) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [共建Agent生态安全：威胁情报Skill安全守护计划矩阵发布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511926&idx=1&sn=7790963ce68f0347bff9f164db8e12bb](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511926&idx=1&sn=7790963ce68f0347bff9f164db8e12bb) |
+| 1 |  ] [【SRC实战】一次XSS三次绕过的真实记录 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [OSRC助力 | 第一届NCC白帽大会报名开启 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494927&idx=1&sn=9ee052e88ee7de1c974d3bb86502460b](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494927&idx=1&sn=9ee052e88ee7de1c974d3bb86502460b) |
+| 1 |  ] [【SRC实战】一次XSS三次绕过的真实记录 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [Red Hat npm包遭供应链投毒！超30个组件暗藏凭证窃取后门，开发者速查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-02/`
+文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-03/`
 
 ## 🔗 数据源说明
 
@@ -136,8 +119,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +129,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-02 08:42:59*
+*生成时间: 2026-06-03 12:41:15*
 *报告工具: 微信文章安全归档系统*
