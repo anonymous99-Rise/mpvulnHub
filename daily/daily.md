@@ -1,21 +1,22 @@
-# 2026-06-03 安全威胁态势报告
+# 2026-06-04 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 16
 - **数据源分布**:
-  - BruceFeIix: 10篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 4篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,16 +65,22 @@
 
 ### BruceFeIix
 
-- [ ] [雷神众测漏洞周报2026.5.25-2026.5.31](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558) (发布日期: 2026-06-03)
-- [ ] [AI 时代，一个安全工程师的自述](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500587&idx=1&sn=26ed4c0dbec2499c41c0445332080a9c) (发布日期: 2026-06-03)
-- [ ] [CNNVD | 人工智能重要漏洞通报（2026年第八期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b) (发布日期: 2026-06-03)
-- [ ] [【安全圈】紧急！Red Hat 30+npm包被植Miasma病毒：密钥窃取危机来袭，开发者需立即行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077139&idx=3&sn=01d71c08c3fd23e5f70cd4528f7c6426) (发布日期: 2026-06-03)
-- [ ] [Red Hat npm包遭供应链投毒！超30个组件暗藏凭证窃取后门，开发者速查](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9) (发布日期: 2026-06-03)
-- [ ] [安全厂商共识：AI可接管告警处置，人类仍是SOC决策核心；CNVD 第 21 期漏洞周报：高危漏洞占比高，0day 漏洞成主要威胁| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7) (发布日期: 2026-06-03)
-- [ ] [58%的CISO表示愿意支付勒索赎金，与执法部门建议背道而驰](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543065&idx=1&sn=725f1c1993b0326a1525036e50e59fdd) (发布日期: 2026-06-03)
-- [ ] [网络首发 | 北京交通大学刘吉强教授团队：面向可信数据空间的密钥管理技术研究综述](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507646&idx=1&sn=322132c9f2b9fcf10079c4231166753f) (发布日期: 2026-06-03)
-- [ ] [【SRC实战】一次XSS三次绕过的真实记录](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) (发布日期: 2026-06-03)
-- [ ] [CNVD漏洞周报2026年第21期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b) (发布日期: 2026-06-03)
+- [ ] [TP-Link：速修复这个严重漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=1&sn=d0ae405e9794aaabe6f66ce780e5f88c) (发布日期: 2026-06-04)
+- [ ] [XCharge C6电动汽车充电桩存在多个严重漏洞，可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7) (发布日期: 2026-06-04)
+- [ ] [4天内两波入侵：PAN-OS GlobalProtect认证绕过漏洞（CVE-2026-0257）利用攻击剖析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518995&idx=1&sn=018d3db3d1595052798589b766ad7d70) (发布日期: 2026-06-04)
+- [ ] [高危 HTTP/2 炸弹漏洞突袭！5大主流服务器全中招，家用宽带就能打崩站点](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616117&idx=2&sn=f55100b6a7b4ad1a3ec77d31a47927dc) (发布日期: 2026-06-04)
+- [ ] [吃透 Deepseek 安全开发：从提示词工程到 Agent、RAG 完整落地](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616117&idx=3&sn=405a8fd354cdd01066bdcf41bf27e4cd) (发布日期: 2026-06-04)
+- [ ] [【已复现】Redis Lua 脚本远程代码执行漏洞(CVE-2026-23631)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45) (发布日期: 2026-06-04)
+- [ ] [威努特AI智算平台&安全运营智能体丨算力管得住，安全兜得住](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142023&idx=1&sn=53807acbdba0f1709ec36b0277c25b7b) (发布日期: 2026-06-04)
+- [ ] [【安全圈】惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077214&idx=2&sn=fa5625366eefc6914680bb5245603722) (发布日期: 2026-06-04)
+- [ ] [AI时代，攻防先行——2026北京网络安全大会（BCS）开幕 ；CNNVD 发布 2026 第八期 AI 漏洞| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141521&idx=2&sn=e2b4b2aae8d3a993eb7af1bf0986335a) (发布日期: 2026-06-04)
+- [ ] [网络首发 | 安徽大学崔杰教授团队：车内网中基于属性加密的可撤销访问控制机制研究](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507669&idx=1&sn=e1b2821d2b26647a73801011e19c6430) (发布日期: 2026-06-04)
+- [ ] [BSRC助力｜第一届NCC白帽大会报名开启](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544079&idx=1&sn=caa1daafc077ffbd918473853601ee0a) (发布日期: 2026-06-04)
+- [ ] [Anthropic“玻璃翼计划”的50多家合作伙伴已发现约1万个关键/高危漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543080&idx=1&sn=98de9948cffe3e8c1cfaa0f2caffa048) (发布日期: 2026-06-04)
+- [ ] [威胁情报｜Red Hat Cloud Services npm 包供应链投毒](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505135&idx=1&sn=cb2fb9283b84262e0c3364ba753e3057) (发布日期: 2026-06-04)
+- [ ] [国家安全部：警惕科研领域敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263241&idx=2&sn=2d6a7b3ef3fb1cbd41ed07b72b5011d6) (发布日期: 2026-06-04)
+- [ ] [360发布《AI Agent攻防演练指南》 提出AI时代防守新方法](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586079&idx=1&sn=f1de6e1fa276bc4260f8ce00dfedaf78) (发布日期: 2026-06-04)
+- [ ] [漏洞预警 | Apache ActiveMQ Jolokia 远程代码执行漏洞（CVE-2026-42588）](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131) (发布日期: 2026-06-04)
 
 
 ## 🎯 威胁详情分析
@@ -82,33 +89,54 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [雷神众测漏洞周报2026.5.25-2026.5.31 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503828&idx=1&sn=8be0b40b97edbea59f07e9072cb07558) |
-| 2 |  ] [CNNVD | 人工智能重要漏洞通报（2026年第八期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263180&idx=1&sn=462c579296ee76347df937fa7a3dd32b) |
-| 3 |  ] [安全厂商共识：AI可接管告警处置，人类仍是SOC决策核心；CNVD 第 21 期漏洞周报：高危漏洞占比高，0day 漏洞成主要威胁| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141509&idx=2&sn=73fc2aa6fdcc3d272b65636c0f805fc7) |
-| 4 |  ] [CNVD漏洞周报2026年第21期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501721&idx=1&sn=4ede339288579eccad79666e8f729b1b) |
+| 1 |  ] [TP-Link：速修复这个严重漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=1&sn=d0ae405e9794aaabe6f66ce780e5f88c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=1&sn=d0ae405e9794aaabe6f66ce780e5f88c) |
+| 2 |  ] [XCharge C6电动汽车充电桩存在多个严重漏洞，可导致任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7) |
+| 3 |  ] [4天内两波入侵：PAN-OS GlobalProtect认证绕过漏洞（CVE-2026-0257）利用攻击剖析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518995&idx=1&sn=018d3db3d1595052798589b766ad7d70](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518995&idx=1&sn=018d3db3d1595052798589b766ad7d70) |
+| 4 |  ] [高危 HTTP/2 炸弹漏洞突袭！5大主流服务器全中招，家用宽带就能打崩站点 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616117&idx=2&sn=f55100b6a7b4ad1a3ec77d31a47927dc](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616117&idx=2&sn=f55100b6a7b4ad1a3ec77d31a47927dc) |
+| 5 |  ] [【已复现】Redis Lua 脚本远程代码执行漏洞(CVE-2026-23631)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45) |
+| 6 |  ] [【安全圈】惠普 VoIP 电话现严重漏洞，或致企业网络遭入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077214&idx=2&sn=fa5625366eefc6914680bb5245603722](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077214&idx=2&sn=fa5625366eefc6914680bb5245603722) |
+| 7 |  ] [AI时代，攻防先行——2026北京网络安全大会（BCS）开幕 ；CNNVD 发布 2026 第八期 AI 漏洞| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141521&idx=2&sn=e2b4b2aae8d3a993eb7af1bf0986335a](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141521&idx=2&sn=e2b4b2aae8d3a993eb7af1bf0986335a) |
+| 8 |  ] [Anthropic“玻璃翼计划”的50多家合作伙伴已发现约1万个关键/高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543080&idx=1&sn=98de9948cffe3e8c1cfaa0f2caffa048](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543080&idx=1&sn=98de9948cffe3e8c1cfaa0f2caffa048) |
+| 9 |  ] [漏洞预警 | Apache ActiveMQ Jolokia 远程代码执行漏洞（CVE-2026-42588） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【SRC实战】一次XSS三次绕过的真实记录 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) |
+| 1 |  ] [XCharge C6电动汽车充电桩存在多个严重漏洞，可导致任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526201&idx=2&sn=94f249f0b82ed4528faa20db71165ca7) |
+| 2 |  ] [【已复现】Redis Lua 脚本远程代码执行漏洞(CVE-2026-23631)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506107&idx=1&sn=ab9619c197f6e0980d741bcee13f2d45) |
+| 3 |  ] [网络首发 | 安徽大学崔杰教授团队：车内网中基于属性加密的可撤销访问控制机制研究 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507669&idx=1&sn=e1b2821d2b26647a73801011e19c6430](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507669&idx=1&sn=e1b2821d2b26647a73801011e19c6430) |
+| 4 |  ] [漏洞预警 | Apache ActiveMQ Jolokia 远程代码执行漏洞（CVE-2026-42588） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488276&idx=1&sn=d97727e1af44baf52675d3ce2eb3c131) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [威胁情报｜Red Hat Cloud Services npm 包供应链投毒 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505135&idx=1&sn=cb2fb9283b84262e0c3364ba753e3057](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505135&idx=1&sn=cb2fb9283b84262e0c3364ba753e3057) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【SRC实战】一次XSS三次绕过的真实记录 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499516&idx=1&sn=0d9d1d53df4a1181d1fdaaf6f65f57d8) |
+| 1 |  ] [威努特AI智算平台&安全运营智能体丨算力管得住，安全兜得住 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142023&idx=1&sn=53807acbdba0f1709ec36b0277c25b7b](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142023&idx=1&sn=53807acbdba0f1709ec36b0277c25b7b) |
+| 2 |  ] [BSRC助力｜第一届NCC白帽大会报名开启 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544079&idx=1&sn=caa1daafc077ffbd918473853601ee0a](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544079&idx=1&sn=caa1daafc077ffbd918473853601ee0a) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [国家安全部：警惕科研领域敏感数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263241&idx=2&sn=2d6a7b3ef3fb1cbd41ed07b72b5011d6](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263241&idx=2&sn=2d6a7b3ef3fb1cbd41ed07b72b5011d6) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Red Hat npm包遭供应链投毒！超30个组件暗藏凭证窃取后门，开发者速查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616087&idx=3&sn=e8d7c2542fab2fdac01b2048e02e07e9) |
+| 1 |  ] [威胁情报｜Red Hat Cloud Services npm 包供应链投毒 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505135&idx=1&sn=cb2fb9283b84262e0c3364ba753e3057](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505135&idx=1&sn=cb2fb9283b84262e0c3364ba753e3057) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-03/`
+文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-04/`
 
 ## 🔗 数据源说明
 
@@ -119,8 +147,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -129,5 +157,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-03 12:41:15*
+*生成时间: 2026-06-04 11:14:43*
 *报告工具: 微信文章安全归档系统*
