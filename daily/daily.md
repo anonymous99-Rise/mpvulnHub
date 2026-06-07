@@ -1,16 +1,14 @@
-# 2026-06-06 安全威胁态势报告
+# 2026-06-07 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 4
 - **数据源分布**:
-  - BruceFeIix: 14篇
+  - BruceFeIix: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **安全运营**: 4篇
 
 ### 漏洞类型分析
 
@@ -61,50 +59,18 @@
 
 ### BruceFeIix
 
-- [ ] [AI智能体驱动的自适应计算机蠕虫](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186947&idx=1&sn=4409ae4d0cea5239037eaa44099b38df) (发布日期: 2026-06-06)
-- [ ] [【活动公告】端午安康｜LYSRC双倍积分活动正式开启](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485432&idx=1&sn=c4ccfba6c886a509ce74915c4860d648) (发布日期: 2026-06-06)
-- [ ] [思科：注意无补丁但已遭利用的 SD-WAN 高危 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=1&sn=aa8606b21d2d15f6de0e55d784eef216) (发布日期: 2026-06-06)
-- [ ] [思科：Unified CM 严重漏洞的 PoC 已发布](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=2&sn=cbc3a57a98b3117c33dc6847aa4c4e14) (发布日期: 2026-06-06)
-- [ ] [【安全圈】WeedHack 恶意木马曝光，专针对《我的世界》玩家发起攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077261&idx=1&sn=8411ab957afc2b4e41af24e6da821584) (发布日期: 2026-06-06)
-- [ ] [【安全圈】谷歌云又裁员，安全团队也中招](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077261&idx=2&sn=e9d4366f0b41cbaa4e931f3f78e8e626) (发布日期: 2026-06-06)
-- [ ] [【安全圈】Gamaredon 利用 WinRAR 漏洞对乌克兰目标发起模块化间谍攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077261&idx=3&sn=0fdc29a5bdd38321cae81a6ef447631e) (发布日期: 2026-06-06)
-- [ ] [关于提交AI生成漏洞报告的行为规范及违规处置通告](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510812&idx=1&sn=1d4dfd70fd94c720aa66f487118d224d) (发布日期: 2026-06-06)
-- [ ] [漏洞实际价值“大众点评”，微信社群与小程序同步上线](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495446&idx=1&sn=67b20253fbab14532ca67ee8a4b1d468) (发布日期: 2026-06-06)
-- [ ] [共建开源生态安全！ByteSRC开源项目漏洞专测开启](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496271&idx=1&sn=a630bd22ae3422d027df864aca82d7a9) (发布日期: 2026-06-06)
-- [ ] [点个链接就能偷光你的GitHub仓库，VS Code零日漏洞遭研究员直接公开](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=3&sn=f4c250c9a1b1dd408dd66d17b01787e6) (发布日期: 2026-06-06)
-- [ ] [2026夏季班火热报名 | 系统0day安全-IOT设备漏洞挖掘（第6期）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=4&sn=1c6504123c6124e74d59f043a6aa73fe) (发布日期: 2026-06-06)
-- [ ] [0积分兑礼盒，OSRC祝您端午安康！](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494953&idx=2&sn=3d5a7274bcf042616a8a66bbb7c9a3cf) (发布日期: 2026-06-06)
-- [ ] [3倍积分相伴，共赴ZSRC十日之约~](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486661&idx=1&sn=2e22128c3a64d7d18bfc309ea4712862) (发布日期: 2026-06-06)
+- [ ] [抢先加入AI时代顶尖安全团队！阿里云2027届实习生招聘来了！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=2&sn=7bbc6bf72bfd3d1d0041a027c51d674e) (发布日期: 2026-06-07)
+- [ ] [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70) (发布日期: 2026-06-07)
+- [ ] [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7) (发布日期: 2026-06-07)
+- [ ] [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86) (发布日期: 2026-06-07)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [思科：注意无补丁但已遭利用的 SD-WAN 高危 0day | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=1&sn=aa8606b21d2d15f6de0e55d784eef216](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=1&sn=aa8606b21d2d15f6de0e55d784eef216) |
-| 2 |  ] [思科：Unified CM 严重漏洞的 PoC 已发布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=2&sn=cbc3a57a98b3117c33dc6847aa4c4e14](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526228&idx=2&sn=cbc3a57a98b3117c33dc6847aa4c4e14) |
-| 3 |  ] [【安全圈】Gamaredon 利用 WinRAR 漏洞对乌克兰目标发起模块化间谍攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077261&idx=3&sn=0fdc29a5bdd38321cae81a6ef447631e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077261&idx=3&sn=0fdc29a5bdd38321cae81a6ef447631e) |
-| 4 |  ] [关于提交AI生成漏洞报告的行为规范及违规处置通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510812&idx=1&sn=1d4dfd70fd94c720aa66f487118d224d](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510812&idx=1&sn=1d4dfd70fd94c720aa66f487118d224d) |
-| 5 |  ] [漏洞实际价值“大众点评”，微信社群与小程序同步上线 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495446&idx=1&sn=67b20253fbab14532ca67ee8a4b1d468](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495446&idx=1&sn=67b20253fbab14532ca67ee8a4b1d468) |
-| 6 |  ] [共建开源生态安全！ByteSRC开源项目漏洞专测开启 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496271&idx=1&sn=a630bd22ae3422d027df864aca82d7a9](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496271&idx=1&sn=a630bd22ae3422d027df864aca82d7a9) |
-| 7 |  ] [点个链接就能偷光你的GitHub仓库，VS Code零日漏洞遭研究员直接公开 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=3&sn=f4c250c9a1b1dd408dd66d17b01787e6](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=3&sn=f4c250c9a1b1dd408dd66d17b01787e6) |
-| 8 |  ] [2026夏季班火热报名 | 系统0day安全-IOT设备漏洞挖掘（第6期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=4&sn=1c6504123c6124e74d59f043a6aa73fe](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616264&idx=4&sn=1c6504123c6124e74d59f043a6aa73fe) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【活动公告】端午安康｜LYSRC双倍积分活动正式开启 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485432&idx=1&sn=c4ccfba6c886a509ce74915c4860d648](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485432&idx=1&sn=c4ccfba6c886a509ce74915c4860d648) |
-| 2 |  ] [共建开源生态安全！ByteSRC开源项目漏洞专测开启 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496271&idx=1&sn=a630bd22ae3422d027df864aca82d7a9](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496271&idx=1&sn=a630bd22ae3422d027df864aca82d7a9) |
-| 3 |  ] [0积分兑礼盒，OSRC祝您端午安康！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494953&idx=2&sn=3d5a7274bcf042616a8a66bbb7c9a3cf](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494953&idx=2&sn=3d5a7274bcf042616a8a66bbb7c9a3cf) |
-| 4 |  ] [3倍积分相伴，共赴ZSRC十日之约~ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486661&idx=1&sn=2e22128c3a64d7d18bfc309ea4712862](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486661&idx=1&sn=2e22128c3a64d7d18bfc309ea4712862) |
-
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-06/`
+文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-07/`
 
 ## 🔗 数据源说明
 
@@ -115,7 +81,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -125,5 +91,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-06 06:52:36*
+*生成时间: 2026-06-07 07:58:26*
 *报告工具: 微信文章安全归档系统*
