@@ -1,14 +1,16 @@
-# 2026-06-07 安全威胁态势报告
+# 2026-06-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 3
 - **数据源分布**:
-  - BruceFeIix: 4篇
+  - BruceFeIix: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 
@@ -59,18 +61,30 @@
 
 ### BruceFeIix
 
-- [ ] [抢先加入AI时代顶尖安全团队！阿里云2027届实习生招聘来了！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=2&sn=7bbc6bf72bfd3d1d0041a027c51d674e) (发布日期: 2026-06-07)
-- [ ] [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70) (发布日期: 2026-06-07)
-- [ ] [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7) (发布日期: 2026-06-07)
-- [ ] [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86) (发布日期: 2026-06-07)
+- [ ] [【AI复盘】AI编程代理提示词注入攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414) (发布日期: 2026-06-08)
+- [ ] [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a) (发布日期: 2026-06-08)
+- [ ] [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6) (发布日期: 2026-06-08)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a) |
+| 2 |  ] [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【AI复盘】AI编程代理提示词注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W23/2026-06-07/`
+文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-08/`
 
 ## 🔗 数据源说明
 
@@ -81,7 +95,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -91,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-07 07:58:26*
+*生成时间: 2026-06-08 12:27:41*
 *报告工具: 微信文章安全归档系统*
