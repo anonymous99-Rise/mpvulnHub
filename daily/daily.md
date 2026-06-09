@@ -1,18 +1,22 @@
-# 2026-06-08 安全威胁态势报告
+# 2026-06-09 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 15
 - **数据源分布**:
-  - BruceFeIix: 3篇
+  - BruceFeIix: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 7篇
+- **安全运营**: 2篇
 - **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +65,21 @@
 
 ### BruceFeIix
 
-- [ ] [【AI复盘】AI编程代理提示词注入攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414) (发布日期: 2026-06-08)
-- [ ] [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a) (发布日期: 2026-06-08)
-- [ ] [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6) (发布日期: 2026-06-08)
+- [ ] [7月1日新规施行：能源企业数据安全合规建设方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142161&idx=1&sn=ccf433d1c061e7b42fa8c24ffbb22338) (发布日期: 2026-06-09)
+- [ ] [CISA：SolarWinds Serv-U 高危漏洞已遭利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8) (发布日期: 2026-06-09)
+- [ ] [IronWorm 和 Miasma 蠕虫新变体瞄准 npm，发动供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87) (发布日期: 2026-06-09)
+- [ ] [CNNVD | 重要安全漏洞通报（2026年第三期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3) (发布日期: 2026-06-09)
+- [ ] [【安全圈】关键 Everest Forms Pro 漏洞被利用，可接管 WordPress 网站](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7) (发布日期: 2026-06-09)
+- [ ] [FUN粽一下，乐享时光 - VSRC端午活动来袭](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7) (发布日期: 2026-06-09)
+- [ ] [前威胁情报VP举报：IBM与AT&T被控VPN日志缺失令入侵成静默攻击](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef) (发布日期: 2026-06-09)
+- [ ] [开源邮件安全检测与内部邮箱盗用防护：小模型方案评估及群发拦截策略｜总第313周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492411&idx=1&sn=a7d1d2ddeb527e8020333a0ea2eea1f7) (发布日期: 2026-06-09)
+- [ ] [度享端阳｜BSRC端午限定礼盒等你来拿！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af) (发布日期: 2026-06-09)
+- [ ] [这届大甲方，搞定安全防护全是套路](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186714&idx=1&sn=b888a26487f6bc991587fe8a68bdb10b) (发布日期: 2026-06-09)
+- [ ] [Agentic AI赋能的 ARM Metis 系统，推动软件安全漏洞检测技术升级](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6) (发布日期: 2026-06-09)
+- [ ] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6) (发布日期: 2026-06-09)
+- [ ] [CNVD漏洞周报2026年第22期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da) (发布日期: 2026-06-09)
+- [ ] [上周关注度较高的产品安全漏洞(20260601-20260607)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937) (发布日期: 2026-06-09)
+- [ ] [绕过waf的一个xss](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044) (发布日期: 2026-06-09)
 
 
 ## 🎯 威胁详情分析
@@ -72,19 +88,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a) |
-| 2 |  ] [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6) |
+| 1 |  ] [CISA：SolarWinds Serv-U 高危漏洞已遭利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8) |
+| 2 |  ] [CNNVD | 重要安全漏洞通报（2026年第三期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3) |
+| 3 |  ] [【安全圈】关键 Everest Forms Pro 漏洞被利用，可接管 WordPress 网站 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7) |
+| 4 |  ] [Agentic AI赋能的 ARM Metis 系统，推动软件安全漏洞检测技术升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6) |
+| 5 |  ] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6) |
+| 6 |  ] [CNVD漏洞周报2026年第22期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da) |
+| 7 |  ] [上周关注度较高的产品安全漏洞(20260601-20260607) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【AI复盘】AI编程代理提示词注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414) |
+| 1 |  ] [绕过waf的一个xss | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [前威胁情报VP举报：IBM与AT&T被控VPN日志缺失令入侵成静默攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [FUN粽一下，乐享时光 - VSRC端午活动来袭 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7) |
+| 2 |  ] [度享端阳｜BSRC端午限定礼盒等你来拿！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [IronWorm 和 Miasma 蠕虫新变体瞄准 npm，发动供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-08/`
+文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-09/`
 
 ## 🔗 数据源说明
 
@@ -95,8 +135,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -105,5 +145,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-08 12:27:41*
+*生成时间: 2026-06-09 07:49:24*
 *报告工具: 微信文章安全归档系统*
