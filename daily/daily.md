@@ -1,22 +1,22 @@
-# 2026-06-09 安全威胁态势报告
+# 2026-06-10 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 16
 - **数据源分布**:
-  - BruceFeIix: 15篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **安全运营**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 2篇
 - **威胁情报**: 1篇
-- **供应链**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **网络攻击**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,21 +65,22 @@
 
 ### BruceFeIix
 
-- [ ] [7月1日新规施行：能源企业数据安全合规建设方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142161&idx=1&sn=ccf433d1c061e7b42fa8c24ffbb22338) (发布日期: 2026-06-09)
-- [ ] [CISA：SolarWinds Serv-U 高危漏洞已遭利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8) (发布日期: 2026-06-09)
-- [ ] [IronWorm 和 Miasma 蠕虫新变体瞄准 npm，发动供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87) (发布日期: 2026-06-09)
-- [ ] [CNNVD | 重要安全漏洞通报（2026年第三期）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3) (发布日期: 2026-06-09)
-- [ ] [【安全圈】关键 Everest Forms Pro 漏洞被利用，可接管 WordPress 网站](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7) (发布日期: 2026-06-09)
-- [ ] [FUN粽一下，乐享时光 - VSRC端午活动来袭](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7) (发布日期: 2026-06-09)
-- [ ] [前威胁情报VP举报：IBM与AT&T被控VPN日志缺失令入侵成静默攻击](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef) (发布日期: 2026-06-09)
-- [ ] [开源邮件安全检测与内部邮箱盗用防护：小模型方案评估及群发拦截策略｜总第313周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492411&idx=1&sn=a7d1d2ddeb527e8020333a0ea2eea1f7) (发布日期: 2026-06-09)
-- [ ] [度享端阳｜BSRC端午限定礼盒等你来拿！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af) (发布日期: 2026-06-09)
-- [ ] [这届大甲方，搞定安全防护全是套路](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186714&idx=1&sn=b888a26487f6bc991587fe8a68bdb10b) (发布日期: 2026-06-09)
-- [ ] [Agentic AI赋能的 ARM Metis 系统，推动软件安全漏洞检测技术升级](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6) (发布日期: 2026-06-09)
-- [ ] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6) (发布日期: 2026-06-09)
-- [ ] [CNVD漏洞周报2026年第22期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da) (发布日期: 2026-06-09)
-- [ ] [上周关注度较高的产品安全漏洞(20260601-20260607)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937) (发布日期: 2026-06-09)
-- [ ] [绕过waf的一个xss](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044) (发布日期: 2026-06-09)
+- [ ] [Qilin勒索软件利用Check Point VPN 0day漏洞（CVE-2026-50751）武器化攻击：跨厂商VPN已成突破口](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519053&idx=1&sn=7ff9f3cb3a7f056e23b11ec73b99c628) (发布日期: 2026-06-10)
+- [ ] [雷神众测漏洞周报2026.6.02-2024.6.07](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503835&idx=1&sn=25ee46b4e8794894bdecda4830fc2865) (发布日期: 2026-06-10)
+- [ ] [【AI复盘】AI Agent发现FFmpeg 21个0day](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487578&idx=1&sn=0bade105cbef9238dc73108a076b85e2) (发布日期: 2026-06-10)
+- [ ] [【在野利用】Google Chrome V8 越界读写漏洞(CVE-2026-11645)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506174&idx=1&sn=651a9f3d7f013ffce2a192909c3c6cc6) (发布日期: 2026-06-10)
+- [ ] [一个字符引起的 Linux Kernel 漏洞可导致本地 root 访问](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=1&sn=942ddc523d8dc55a98e7c1dd469ec6c9) (发布日期: 2026-06-10)
+- [ ] [谷歌紧急修复今年以来的第5个 Chrome 0day 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=2&sn=68e8292c0af96d6449b41e76e900ebba) (发布日期: 2026-06-10)
+- [ ] [【安全圈】Google 修复 2026 年第 5 个已遭利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=2&sn=4bb85f6cd2431ba75617f1d8cbfcf05d) (发布日期: 2026-06-10)
+- [ ] [【安全圈】Gogs 修复导致远程代码执行的严重零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404) (发布日期: 2026-06-10)
+- [ ] [5月必修漏洞清单：Dirty Frag、ChromaToast等8大高危，务必速查](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497729&idx=1&sn=fc16ade24a0b3a04dab1b977331f0497) (发布日期: 2026-06-10)
+- [ ] [【漏洞通告】Google Chrome V8 越界读写漏洞(CVE-2026-11645)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525890&idx=1&sn=d975402cc61c1dc6621effdc2840e123) (发布日期: 2026-06-10)
+- [ ] [CNVD漏洞周报2026年第22期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501738&idx=1&sn=987bb1e15f4c1586d4d6554df8f3b9ee) (发布日期: 2026-06-10)
+- [ ] [从POC到EXP：从0基础到v8 CVE-2021-38003复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=1&sn=11eb9317495fc02fe2d1a4d60fb692db) (发布日期: 2026-06-10)
+- [ ] [单字符Linux内核漏洞：普通用户直取宿主root，攻击代码已疯传](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=3&sn=b4e838270729d81162080e1f5192743e) (发布日期: 2026-06-10)
+- [ ] [网络首发 | 广州大学田志宏教授团队：APT攻击归因研究范式的批判审视与融合框架](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507716&idx=1&sn=1649faeca53f74aa2278b06ba8dc18dd) (发布日期: 2026-06-10)
+- [ ] [国家网信办、市场监管总局联合印发《网络测评活动规范》；OpenAI 推出 Lockdown Mode，强化 ChatGPT 提示注入攻击防护| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141626&idx=2&sn=8c505737c8dea93ad82659148949ee99) (发布日期: 2026-06-10)
+- [ ] [[文末抽奖]猎手小屋+海外SRC实战预备营正式上线！](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499559&idx=1&sn=7fd4a89208ff6273295d9b24d9d25833) (发布日期: 2026-06-10)
 
 
 ## 🎯 威胁详情分析
@@ -88,43 +89,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [CISA：SolarWinds Serv-U 高危漏洞已遭利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=1&sn=b82af1b66a48bb2e151a8dbfe889d0b8) |
-| 2 |  ] [CNNVD | 重要安全漏洞通报（2026年第三期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263332&idx=1&sn=77303f15aa352379a96f8227e6e296e3) |
-| 3 |  ] [【安全圈】关键 Everest Forms Pro 漏洞被利用，可接管 WordPress 网站 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077297&idx=2&sn=61e797a708a9e147ce97abc80cca35b7) |
-| 4 |  ] [Agentic AI赋能的 ARM Metis 系统，推动软件安全漏洞检测技术升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486767&idx=1&sn=0a2e19fb822c3ea77423c1e284e9d6f6) |
-| 5 |  ] [【漏洞通告】Apache Solr 硬编码凭据漏洞(CVE-2026-44825) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525873&idx=1&sn=68c4717d3f89c67bcc8a51edeee798c6) |
-| 6 |  ] [CNVD漏洞周报2026年第22期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=1&sn=1223fec580286cca1053f468d07327da) |
-| 7 |  ] [上周关注度较高的产品安全漏洞(20260601-20260607) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497001&idx=2&sn=828ccb1c060def926082f4d32dbd9937) |
+| 1 |  ] [Qilin勒索软件利用Check Point VPN 0day漏洞（CVE-2026-50751）武器化攻击：跨厂商VPN已成突破口 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519053&idx=1&sn=7ff9f3cb3a7f056e23b11ec73b99c628](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519053&idx=1&sn=7ff9f3cb3a7f056e23b11ec73b99c628) |
+| 2 |  ] [雷神众测漏洞周报2026.6.02-2024.6.07 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503835&idx=1&sn=25ee46b4e8794894bdecda4830fc2865](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503835&idx=1&sn=25ee46b4e8794894bdecda4830fc2865) |
+| 3 |  ] [【AI复盘】AI Agent发现FFmpeg 21个0day | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487578&idx=1&sn=0bade105cbef9238dc73108a076b85e2](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487578&idx=1&sn=0bade105cbef9238dc73108a076b85e2) |
+| 4 |  ] [【在野利用】Google Chrome V8 越界读写漏洞(CVE-2026-11645)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506174&idx=1&sn=651a9f3d7f013ffce2a192909c3c6cc6](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506174&idx=1&sn=651a9f3d7f013ffce2a192909c3c6cc6) |
+| 5 |  ] [一个字符引起的 Linux Kernel 漏洞可导致本地 root 访问 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=1&sn=942ddc523d8dc55a98e7c1dd469ec6c9](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=1&sn=942ddc523d8dc55a98e7c1dd469ec6c9) |
+| 6 |  ] [谷歌紧急修复今年以来的第5个 Chrome 0day 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=2&sn=68e8292c0af96d6449b41e76e900ebba](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526245&idx=2&sn=68e8292c0af96d6449b41e76e900ebba) |
+| 7 |  ] [【安全圈】Google 修复 2026 年第 5 个已遭利用的 Chrome 零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=2&sn=4bb85f6cd2431ba75617f1d8cbfcf05d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=2&sn=4bb85f6cd2431ba75617f1d8cbfcf05d) |
+| 8 |  ] [【安全圈】Gogs 修复导致远程代码执行的严重零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404) |
+| 9 |  ] [5月必修漏洞清单：Dirty Frag、ChromaToast等8大高危，务必速查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497729&idx=1&sn=fc16ade24a0b3a04dab1b977331f0497](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497729&idx=1&sn=fc16ade24a0b3a04dab1b977331f0497) |
+| 10 |  ] [【漏洞通告】Google Chrome V8 越界读写漏洞(CVE-2026-11645) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525890&idx=1&sn=d975402cc61c1dc6621effdc2840e123](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525890&idx=1&sn=d975402cc61c1dc6621effdc2840e123) |
+| 11 |  ] [CNVD漏洞周报2026年第22期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501738&idx=1&sn=987bb1e15f4c1586d4d6554df8f3b9ee](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501738&idx=1&sn=987bb1e15f4c1586d4d6554df8f3b9ee) |
+| 12 |  ] [从POC到EXP：从0基础到v8 CVE-2021-38003复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=1&sn=11eb9317495fc02fe2d1a4d60fb692db](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=1&sn=11eb9317495fc02fe2d1a4d60fb692db) |
+| 13 |  ] [单字符Linux内核漏洞：普通用户直取宿主root，攻击代码已疯传 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=3&sn=b4e838270729d81162080e1f5192743e](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616400&idx=3&sn=b4e838270729d81162080e1f5192743e) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [绕过waf的一个xss | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499536&idx=1&sn=5ab02f25c1a3436f298e2350f2d70044) |
+| 1 |  ] [【安全圈】Gogs 修复导致远程代码执行的严重零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077312&idx=3&sn=b9fba0c86b86feffe304adea43d44404) |
+| 2 |  ] [国家网信办、市场监管总局联合印发《网络测评活动规范》；OpenAI 推出 Lockdown Mode，强化 ChatGPT 提示注入攻击防护| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141626&idx=2&sn=8c505737c8dea93ad82659148949ee99](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141626&idx=2&sn=8c505737c8dea93ad82659148949ee99) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [前威胁情报VP举报：IBM与AT&T被控VPN日志缺失令入侵成静默攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519047&idx=1&sn=995d2900f3172b61c867025b0501d5ef) |
+| 1 |  ] [网络首发 | 广州大学田志宏教授团队：APT攻击归因研究范式的批判审视与融合框架 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507716&idx=1&sn=1649faeca53f74aa2278b06ba8dc18dd](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507716&idx=1&sn=1649faeca53f74aa2278b06ba8dc18dd) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [FUN粽一下，乐享时光 - VSRC端午活动来袭 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281759&idx=1&sn=35b32e1401d6769bffa97e4b81e0acd7) |
-| 2 |  ] [度享端阳｜BSRC端午限定礼盒等你来拿！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544089&idx=1&sn=e8e4f5e69ef8525c498f2e3c487f44af) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [IronWorm 和 Miasma 蠕虫新变体瞄准 npm，发动供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526239&idx=2&sn=f7915bdbcd30d770976ec7341c293a87) |
+| 1 |  ] [[文末抽奖]猎手小屋+海外SRC实战预备营正式上线！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499559&idx=1&sn=7fd4a89208ff6273295d9b24d9d25833](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499559&idx=1&sn=7fd4a89208ff6273295d9b24d9d25833) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-09/`
+文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-10/`
 
 ## 🔗 数据源说明
 
@@ -135,8 +136,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -145,5 +146,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-09 07:49:24*
+*生成时间: 2026-06-10 08:07:37*
 *报告工具: 微信文章安全归档系统*
