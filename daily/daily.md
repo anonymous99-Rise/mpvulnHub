@@ -1,20 +1,22 @@
-# 2026-06-12 安全威胁态势报告
+# 2026-06-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 15
 - **数据源分布**:
-  - BruceFeIix: 12篇
+  - BruceFeIix: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 6篇
+- **威胁情报**: 3篇
+- **攻击技术**: 2篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,18 +65,21 @@
 
 ### BruceFeIix
 
-- [ ] [Mythos可数小时内把漏洞变成武器：Anthropic还是未开放使用](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790051&idx=1&sn=52cfd439a009d5ae32e098a4bd6706b0) (发布日期: 2026-06-12)
-- [ ] [补丁空窗期告急：Anthropic公司称N日漏洞利用已进入“小时级”时代](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be) (发布日期: 2026-06-12)
-- [ ] [FortiSandbox 严重漏洞可导致未授权命令执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a) (发布日期: 2026-06-12)
-- [ ] [GitHub 推出 npm 安全变更，对抗供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=2&sn=c680ad4854702c179a3070ca44d72c78) (发布日期: 2026-06-12)
-- [ ] [【安全圈】AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d) (发布日期: 2026-06-12)
-- [ ] [【安全圈】信息窃取木马将数百万设备变成凭证盗窃机器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=2&sn=f7746ef0977dc146a9f40c71619f3a29) (发布日期: 2026-06-12)
-- [ ] [【安全圈】Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2) (发布日期: 2026-06-12)
-- [ ] [Ivanti Sentry漏洞已遭大规模在野利用，暴露网关极可能已失陷](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4) (发布日期: 2026-06-12)
-- [ ] [AI赋能SOC测评：只有10%从AI中获得高价值](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543203&idx=1&sn=67a8894e5170b7b44c41f0d5a556d05a) (发布日期: 2026-06-12)
-- [ ] [致命组合拳：Ivanti Sentry 两个10分漏洞允许未认证拿下企业移动网关](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba) (发布日期: 2026-06-12)
-- [ ] [Mythos 对阵 360 智能体：全球 AI 漏洞挖掘分化成两大技术路线](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=1&sn=6cfa7756ee3d6bacf47feae9aac9b93b) (发布日期: 2026-06-12)
-- [ ] [Mythos来了，政企安全运营进入AI快车道](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586223&idx=1&sn=ac07ead08849ebadd40c7027a424b36d) (发布日期: 2026-06-12)
+- [ ] [比病毒更可怕！这款勒索软件能“蠕虫式”自我复制，478个组织已沦陷](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616524&idx=3&sn=6acb6dde67b77411ed369888c40e9ec8) (发布日期: 2026-06-13)
+- [ ] [Langflow 高危漏洞被用于未认证RCE攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) (发布日期: 2026-06-13)
+- [ ] [每周高级威胁情报解读(2026.06.05~06.11)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937) (发布日期: 2026-06-13)
+- [ ] [【安全圈】紧急提醒！WinRAR漏洞仍未绝迹：大量用户已中招 立即检查更新](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743) (发布日期: 2026-06-13)
+- [ ] [【安全圈】甲骨文确认 PeopleSoft 漏洞被利用 已影响百余家机构](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb) (发布日期: 2026-06-13)
+- [ ] [专题·智能体安全 | 金融领域智能体技术的应用安全风险分析与建议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263518&idx=1&sn=59fbe88c055562fe04fa7d72ff3ba0f3) (发布日期: 2026-06-13)
+- [ ] [中央网信办发布关于30款App个人信息收集使用问题的通报；CNNVD关于微软多个安全漏洞的通报| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52) (发布日期: 2026-06-13)
+- [ ] [OpenAI 推出锁定模式，抵御提示注入攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901) (发布日期: 2026-06-13)
+- [ ] [南昌县区网信、公安联合处置两起网站被植入后门网络安全事件](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504161&idx=1&sn=3aab78af9dfe87ea661558310fcf36d7) (发布日期: 2026-06-13)
+- [ ] [【火绒安全周报】国家安全部发文/Instagram再曝严重安全漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4) (发布日期: 2026-06-13)
+- [ ] [让AI直接操作Burp做漏洞分析](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9) (发布日期: 2026-06-13)
+- [ ] [360获国内首个人工智能安全能力认证 智能体安全进入“持证时代”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=1&sn=08eae8d96a27a1c6e3b6b358160b9db1) (发布日期: 2026-06-13)
+- [ ] [应急争锋 聚力成军 | 360数字安全集团全程护航！上汽集团首届网络安全应急响应竞赛圆满收官](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a) (发布日期: 2026-06-13)
+- [ ] [威胁情报｜从 Python 到 Bun：Shai-Hulud Hades 变种跨运行时攻击链分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28) (发布日期: 2026-06-13)
+- [ ] [领航AI供应链安全！悬镜安全入选安在《2026人工智能安全产业全景图》](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0) (发布日期: 2026-06-13)
 
 
 ## 🎯 威胁详情分析
@@ -83,37 +88,38 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Mythos可数小时内把漏洞变成武器：Anthropic还是未开放使用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790051&idx=1&sn=52cfd439a009d5ae32e098a4bd6706b0](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790051&idx=1&sn=52cfd439a009d5ae32e098a4bd6706b0) |
-| 2 |  ] [补丁空窗期告急：Anthropic公司称N日漏洞利用已进入“小时级”时代 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be) |
-| 3 |  ] [FortiSandbox 严重漏洞可导致未授权命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a) |
-| 4 |  ] [【安全圈】AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d) |
-| 5 |  ] [【安全圈】Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2) |
-| 6 |  ] [Ivanti Sentry漏洞已遭大规模在野利用，暴露网关极可能已失陷 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4) |
-| 7 |  ] [致命组合拳：Ivanti Sentry 两个10分漏洞允许未认证拿下企业移动网关 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba) |
-| 8 |  ] [Mythos 对阵 360 智能体：全球 AI 漏洞挖掘分化成两大技术路线 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=1&sn=6cfa7756ee3d6bacf47feae9aac9b93b](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=1&sn=6cfa7756ee3d6bacf47feae9aac9b93b) |
+| 1 |  ] [Langflow 高危漏洞被用于未认证RCE攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) |
+| 2 |  ] [【安全圈】紧急提醒！WinRAR漏洞仍未绝迹：大量用户已中招 立即检查更新 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743) |
+| 3 |  ] [【安全圈】甲骨文确认 PeopleSoft 漏洞被利用 已影响百余家机构 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb) |
+| 4 |  ] [中央网信办发布关于30款App个人信息收集使用问题的通报；CNNVD关于微软多个安全漏洞的通报| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52) |
+| 5 |  ] [【火绒安全周报】国家安全部发文/Instagram再曝严重安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4) |
+| 6 |  ] [让AI直接操作Burp做漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [FortiSandbox 严重漏洞可导致未授权命令执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a) |
+| 1 |  ] [Langflow 高危漏洞被用于未认证RCE攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) |
+| 2 |  ] [OpenAI 推出锁定模式，抵御提示注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Mythos来了，政企安全运营进入AI快车道 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586223&idx=1&sn=ac07ead08849ebadd40c7027a424b36d](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586223&idx=1&sn=ac07ead08849ebadd40c7027a424b36d) |
+| 1 |  ] [每周高级威胁情报解读(2026.06.05~06.11) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937) |
+| 2 |  ] [应急争锋 聚力成军 | 360数字安全集团全程护航！上汽集团首届网络安全应急响应竞赛圆满收官 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a) |
+| 3 |  ] [威胁情报｜从 Python 到 Bun：Shai-Hulud Hades 变种跨运行时攻击链分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [GitHub 推出 npm 安全变更，对抗供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=2&sn=c680ad4854702c179a3070ca44d72c78](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=2&sn=c680ad4854702c179a3070ca44d72c78) |
+| 1 |  ] [领航AI供应链安全！悬镜安全入选安在《2026人工智能安全产业全景图》 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-12/`
+文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-13/`
 
 ## 🔗 数据源说明
 
@@ -124,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -134,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-12 08:38:29*
+*生成时间: 2026-06-13 07:47:14*
 *报告工具: 微信文章安全归档系统*
