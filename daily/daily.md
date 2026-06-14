@@ -1,22 +1,18 @@
-# 2026-06-13 安全威胁态势报告
+# 2026-06-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 4
 - **数据源分布**:
-  - BruceFeIix: 15篇
+  - BruceFeIix: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 3篇
-- **攻击技术**: 2篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,21 +61,10 @@
 
 ### BruceFeIix
 
-- [ ] [比病毒更可怕！这款勒索软件能“蠕虫式”自我复制，478个组织已沦陷](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616524&idx=3&sn=6acb6dde67b77411ed369888c40e9ec8) (发布日期: 2026-06-13)
-- [ ] [Langflow 高危漏洞被用于未认证RCE攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) (发布日期: 2026-06-13)
-- [ ] [每周高级威胁情报解读(2026.06.05~06.11)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937) (发布日期: 2026-06-13)
-- [ ] [【安全圈】紧急提醒！WinRAR漏洞仍未绝迹：大量用户已中招 立即检查更新](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743) (发布日期: 2026-06-13)
-- [ ] [【安全圈】甲骨文确认 PeopleSoft 漏洞被利用 已影响百余家机构](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb) (发布日期: 2026-06-13)
-- [ ] [专题·智能体安全 | 金融领域智能体技术的应用安全风险分析与建议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263518&idx=1&sn=59fbe88c055562fe04fa7d72ff3ba0f3) (发布日期: 2026-06-13)
-- [ ] [中央网信办发布关于30款App个人信息收集使用问题的通报；CNNVD关于微软多个安全漏洞的通报| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52) (发布日期: 2026-06-13)
-- [ ] [OpenAI 推出锁定模式，抵御提示注入攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901) (发布日期: 2026-06-13)
-- [ ] [南昌县区网信、公安联合处置两起网站被植入后门网络安全事件](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504161&idx=1&sn=3aab78af9dfe87ea661558310fcf36d7) (发布日期: 2026-06-13)
-- [ ] [【火绒安全周报】国家安全部发文/Instagram再曝严重安全漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4) (发布日期: 2026-06-13)
-- [ ] [让AI直接操作Burp做漏洞分析](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9) (发布日期: 2026-06-13)
-- [ ] [360获国内首个人工智能安全能力认证 智能体安全进入“持证时代”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=1&sn=08eae8d96a27a1c6e3b6b358160b9db1) (发布日期: 2026-06-13)
-- [ ] [应急争锋 聚力成军 | 360数字安全集团全程护航！上汽集团首届网络安全应急响应竞赛圆满收官](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a) (发布日期: 2026-06-13)
-- [ ] [威胁情报｜从 Python 到 Bun：Shai-Hulud Hades 变种跨运行时攻击链分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28) (发布日期: 2026-06-13)
-- [ ] [领航AI供应链安全！悬镜安全入选安在《2026人工智能安全产业全景图》](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0) (发布日期: 2026-06-13)
+- [ ] [恶意软件植入核武器文本骗过大模型安全扫描](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187020&idx=1&sn=6d187a96894114a53e9b34284cf18925) (发布日期: 2026-06-14)
+- [ ] [Anthropic Mythos——当AI能发现所有漏洞，谁来发现AI的漏洞？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a) (发布日期: 2026-06-14)
+- [ ] [【安全圈】一名乌克兰公民承认参与了Conti勒索软件行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=1&sn=1b774dbdae403293dc3e23b75cc814b8) (发布日期: 2026-06-14)
+- [ ] [【安全圈】执法机构捣毁 'AudiA6' 勒索软件加密货币洗钱服务](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=2&sn=523d5a2f51be07ba5de95b1a2701a1f4) (发布日期: 2026-06-14)
 
 
 ## 🎯 威胁详情分析
@@ -88,38 +73,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Langflow 高危漏洞被用于未认证RCE攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) |
-| 2 |  ] [【安全圈】紧急提醒！WinRAR漏洞仍未绝迹：大量用户已中招 立即检查更新 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=1&sn=35ee41cc4c3b1e7fec01cf1954699743) |
-| 3 |  ] [【安全圈】甲骨文确认 PeopleSoft 漏洞被利用 已影响百余家机构 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077359&idx=2&sn=f04ad531a707f7abdfca50819c7a8acb) |
-| 4 |  ] [中央网信办发布关于30款App个人信息收集使用问题的通报；CNNVD关于微软多个安全漏洞的通报| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141657&idx=2&sn=28eccd56beafa8f8a7d67ea5f1a04f52) |
-| 5 |  ] [【火绒安全周报】国家安全部发文/Instagram再曝严重安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534519&idx=2&sn=ab11387ca6aa5982cb4128f334e8c1d4) |
-| 6 |  ] [让AI直接操作Burp做漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499557&idx=1&sn=0d29b1a40e6c5aa235df0aba816c5ce9) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Langflow 高危漏洞被用于未认证RCE攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526269&idx=2&sn=0d7a31b3a12799330b0f67e3123dcd7c) |
-| 2 |  ] [OpenAI 推出锁定模式，抵御提示注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486787&idx=1&sn=d63e1d199a48b624c7e33b94396c0901) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.06.05~06.11) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519097&idx=1&sn=01b67f2e85bfa3e0d4bded68b643b937) |
-| 2 |  ] [应急争锋 聚力成军 | 360数字安全集团全程护航！上汽集团首届网络安全应急响应竞赛圆满收官 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586248&idx=2&sn=0d306dcc5d34eb349132d0e69c146e9a) |
-| 3 |  ] [威胁情报｜从 Python 到 Bun：Shai-Hulud Hades 变种跨运行时攻击链分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505155&idx=1&sn=c7e75283dea7f30f070386750851bc28) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [领航AI供应链安全！悬镜安全入选安在《2026人工智能安全产业全景图》 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799805&idx=1&sn=0f3602eed4e48bcf35b0ac50bcdf9fe0) |
+| 1 |  ] [Anthropic Mythos——当AI能发现所有漏洞，谁来发现AI的漏洞？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-13/`
+文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-14/`
 
 ## 🔗 数据源说明
 
@@ -130,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -140,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-13 07:47:14*
+*生成时间: 2026-06-14 10:48:14*
 *报告工具: 微信文章安全归档系统*
