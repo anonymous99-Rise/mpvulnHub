@@ -1,18 +1,18 @@
-# 2026-06-14 安全威胁态势报告
+# 2026-06-15 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 2
 - **数据源分布**:
-  - BruceFeIix: 4篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,10 +61,8 @@
 
 ### BruceFeIix
 
-- [ ] [恶意软件植入核武器文本骗过大模型安全扫描](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187020&idx=1&sn=6d187a96894114a53e9b34284cf18925) (发布日期: 2026-06-14)
-- [ ] [Anthropic Mythos——当AI能发现所有漏洞，谁来发现AI的漏洞？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a) (发布日期: 2026-06-14)
-- [ ] [【安全圈】一名乌克兰公民承认参与了Conti勒索软件行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=1&sn=1b774dbdae403293dc3e23b75cc814b8) (发布日期: 2026-06-14)
-- [ ] [【安全圈】执法机构捣毁 'AudiA6' 勒索软件加密货币洗钱服务](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=2&sn=523d5a2f51be07ba5de95b1a2701a1f4) (发布日期: 2026-06-14)
+- [ ] [海莲花黑客组织利用越南金融软件进行供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8) (发布日期: 2026-06-15)
+- [ ] [【安全圈】严重漏洞：UniFi OS 无需密码即可拿下 Root 权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052) (发布日期: 2026-06-15)
 
 
 ## 🎯 威胁详情分析
@@ -73,12 +71,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Anthropic Mythos——当AI能发现所有漏洞，谁来发现AI的漏洞？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a) |
+| 1 |  ] [【安全圈】严重漏洞：UniFi OS 无需密码即可拿下 Root 权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [海莲花黑客组织利用越南金融软件进行供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W24/2026-06-14/`
+文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-15/`
 
 ## 🔗 数据源说明
 
@@ -90,7 +94,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-14 10:48:14*
+*生成时间: 2026-06-15 13:54:54*
 *报告工具: 微信文章安全归档系统*
