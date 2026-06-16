@@ -1,18 +1,22 @@
-# 2026-06-15 安全威胁态势报告
+# 2026-06-16 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 16
 - **数据源分布**:
-  - BruceFeIix: 2篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,8 +65,22 @@
 
 ### BruceFeIix
 
-- [ ] [海莲花黑客组织利用越南金融软件进行供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8) (发布日期: 2026-06-15)
-- [ ] [【安全圈】严重漏洞：UniFi OS 无需密码即可拿下 Root 权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052) (发布日期: 2026-06-15)
+- [ ] [制药巨头诺和诺德遭遇安全事件：药企网络安全再敲警钟](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790068&idx=1&sn=ed7d53228ef279c16414c2c463c78e52) (发布日期: 2026-06-16)
+- [ ] [破产也逃不掉！知名企业因数据泄露赔偿超3亿元，中国用户有望获赔](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516084&idx=1&sn=76ced7d89ed81748f3d7da1c3646df43) (发布日期: 2026-06-16)
+- [ ] [黑客盯上Arch Linux用户：超20个AUR软件包被植入了后门](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616563&idx=3&sn=29fa920831813a37d28efaa959d7b53e) (发布日期: 2026-06-16)
+- [ ] [专题·智能体安全 | AI智能体的系统架构与安全治理：从输出风险到行动风险](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263644&idx=1&sn=05c3bed6d1f1b3dfddb90e499f3e1821) (发布日期: 2026-06-16)
+- [ ] [专家解读 | 杨建军：筑牢数据安全治理根基 引领金融信息服务规范发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263644&idx=2&sn=f27e300eea6dadf4e084b238b6730c49) (发布日期: 2026-06-16)
+- [ ] [【工具】sqlichecker  - 开源sql注入过滤关键字检测demo](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490901&idx=1&sn=90daf33a14b4273f6347399917115144) (发布日期: 2026-06-16)
+- [ ] [从RSAC2026看安全运营技术发展趋势(1)：Agentic AI重塑安全](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485249&idx=1&sn=4275bc18a9ca429c7bbd2744d5420914) (发布日期: 2026-06-16)
+- [ ] [CNVD漏洞周报2026年第23期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=1&sn=8020ac3e84ac35d4e81f23db98d031e4) (发布日期: 2026-06-16)
+- [ ] [上周关注度较高的产品安全漏洞(20260608-20260614)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=2&sn=00137171d6c664cded0154995a3b132c) (发布日期: 2026-06-16)
+- [ ] [2026，红队钓鱼的邪修手法](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186777&idx=1&sn=8c0f6e32c49aabc4475903d2ca06bcaa) (发布日期: 2026-06-16)
+- [ ] [一个有意思的xss](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499560&idx=1&sn=edf0b4a18fa8ae3905c4db800d06f795) (发布日期: 2026-06-16)
+- [ ] [CNVD漏洞周报2026年第23期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501776&idx=1&sn=9e18d5ef546f2d407a9023adc6dce79b) (发布日期: 2026-06-16)
+- [ ] [AI重塑SOC：当90%的告警实现全自动处理，安全分析师该做什么？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141689&idx=1&sn=ffba5a74085d557fe61da956606e3ea7) (发布日期: 2026-06-16)
+- [ ] [战报：从海量告警到精准漏洞 雳鉴SAST AI落地实践](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501857&idx=1&sn=3821c8f3284a6f293249c764f1382423) (发布日期: 2026-06-16)
+- [ ] [phpBB 论坛软件修复已存在10年的认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526272&idx=1&sn=f79160dd0916a71743130bac5538397f) (发布日期: 2026-06-16)
+- [ ] [攻防演练前，这679个漏洞建议先查一遍](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586255&idx=1&sn=4c4868f5bc1567c1f98e57f13e69cea5) (发布日期: 2026-06-16)
 
 
 ## 🎯 威胁详情分析
@@ -71,18 +89,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】严重漏洞：UniFi OS 无需密码即可拿下 Root 权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052) |
+| 1 |  ] [CNVD漏洞周报2026年第23期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=1&sn=8020ac3e84ac35d4e81f23db98d031e4](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=1&sn=8020ac3e84ac35d4e81f23db98d031e4) |
+| 2 |  ] [上周关注度较高的产品安全漏洞(20260608-20260614) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=2&sn=00137171d6c664cded0154995a3b132c](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497017&idx=2&sn=00137171d6c664cded0154995a3b132c) |
+| 3 |  ] [CNVD漏洞周报2026年第23期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501776&idx=1&sn=9e18d5ef546f2d407a9023adc6dce79b](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501776&idx=1&sn=9e18d5ef546f2d407a9023adc6dce79b) |
+| 4 |  ] [战报：从海量告警到精准漏洞 雳鉴SAST AI落地实践 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501857&idx=1&sn=3821c8f3284a6f293249c764f1382423](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501857&idx=1&sn=3821c8f3284a6f293249c764f1382423) |
+| 5 |  ] [phpBB 论坛软件修复已存在10年的认证绕过漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526272&idx=1&sn=f79160dd0916a71743130bac5538397f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526272&idx=1&sn=f79160dd0916a71743130bac5538397f) |
+| 6 |  ] [攻防演练前，这679个漏洞建议先查一遍 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586255&idx=1&sn=4c4868f5bc1567c1f98e57f13e69cea5](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586255&idx=1&sn=4c4868f5bc1567c1f98e57f13e69cea5) |
 
-### 供应链
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [海莲花黑客组织利用越南金融软件进行供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8) |
+| 1 |  ] [【工具】sqlichecker  - 开源sql注入过滤关键字检测demo | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490901&idx=1&sn=90daf33a14b4273f6347399917115144](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490901&idx=1&sn=90daf33a14b4273f6347399917115144) |
+| 2 |  ] [一个有意思的xss | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499560&idx=1&sn=edf0b4a18fa8ae3905c4db800d06f795](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499560&idx=1&sn=edf0b4a18fa8ae3905c4db800d06f795) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [从RSAC2026看安全运营技术发展趋势(1)：Agentic AI重塑安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485249&idx=1&sn=4275bc18a9ca429c7bbd2744d5420914](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485249&idx=1&sn=4275bc18a9ca429c7bbd2744d5420914) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [破产也逃不掉！知名企业因数据泄露赔偿超3亿元，中国用户有望获赔 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516084&idx=1&sn=76ced7d89ed81748f3d7da1c3646df43](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516084&idx=1&sn=76ced7d89ed81748f3d7da1c3646df43) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-15/`
+文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-16/`
 
 ## 🔗 数据源说明
 
@@ -93,8 +129,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +139,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-15 13:54:54*
+*生成时间: 2026-06-16 12:52:49*
 *报告工具: 微信文章安全归档系统*
