@@ -1,16 +1,18 @@
-# 2026-06-18 安全威胁态势报告
+# 2026-06-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,12 +63,16 @@
 
 ### Doonsec
 
-- [天融信入选AI安全代表厂商，典型案例入编《AI大模型安全评估与防护技术应用指南》](https://mp.weixin.qq.com/s/efqsE6hvb1_h-OJ7bIb8CA) (发布日期: 2026-06-18)
-- [国家网信办、工业和信息化部、公安部联合公布《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/xJoBin8fXt-Mgh3vaenCig) (发布日期: 2026-06-18)
-- [国家网信办、工业和信息化部、公安部联合公布《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/TpCGskKEJA0M_6qFuSfvyw) (发布日期: 2026-06-18)
-- [2026年国家电子政务外网安全培训会（第二期）在大连成功举办](https://mp.weixin.qq.com/s/0IhzPG-UcfyG9vH-pjUu4w) (发布日期: 2026-06-18)
-- [度小满SRC太有心意了](https://mp.weixin.qq.com/s/j64JLJo0RmXKuLvRKfhy_g) (发布日期: 2026-06-18)
-- [CNNVD | 人工智能重要漏洞通报（2026年第九期）](https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg) (发布日期: 2026-06-18)
+- [国家网信办 工信部 公安部联合公布《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/sKb1qGfVNnRHtpycTN6dMg) (发布日期: 2026-06-19)
+- [网络数据安全风险评估办法](https://mp.weixin.qq.com/s/BVrfIjs62ouAI9J3LdKiqw) (发布日期: 2026-06-19)
+- [国家金融监督管理总局发布《关于银行业保险业人工智能安全开发应用的指导意见》](https://mp.weixin.qq.com/s/qNb8Z1Voe2pKoZZknwYq0Q) (发布日期: 2026-06-19)
+- [第三方运营运维与供应链安全之间的矛盾如何弥合？](https://mp.weixin.qq.com/s/chedidiZnav74a4uccn2OQ) (发布日期: 2026-06-19)
+- [网信办等三部门联合公布《网络数据安全风险评估办法》（附答记者问）](https://mp.weixin.qq.com/s/PriQ3TLT32lefgzTupa9tw) (发布日期: 2026-06-19)
+- [从源代码到漏洞清单，全程零人工干预-未来已来](https://mp.weixin.qq.com/s/z1yssac_jL8kNwx3uSzSCw) (发布日期: 2026-06-19)
+- [法治日报：公安部网安局公布5起打击“银狐”木马病毒典型案例](https://mp.weixin.qq.com/s/5Mnvp43wznXSG9C9P53oVg) (发布日期: 2026-06-19)
+- [中危变高危，赏金翻3倍：我用AI改写漏洞报告的话术模板全公开](https://mp.weixin.qq.com/s/EX0iX63qfAkdEzvyQ-ta7g) (发布日期: 2026-06-19)
+- [分享一些开源网络安全工具（包含内测免费送！！）](https://mp.weixin.qq.com/s/1QJ6t4W1s43ApwfXmWODyQ) (发布日期: 2026-06-19)
+- [红队内网渗透利器，告别原版特征暴露（支持免杀）内网扫描爆破后渗透一站式落地](https://mp.weixin.qq.com/s/gyBWw8vcr6HyHLWa2CWKGw) (发布日期: 2026-06-19)
 
 
 ## 🎯 威胁详情分析
@@ -75,18 +81,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNNVD | 人工智能重要漏洞通报（2026年第九期） | Doonsec | [https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg](https://mp.weixin.qq.com/s/hoQIpeIG7tGKmMWRRwUWbg) |
+| 1 | 从源代码到漏洞清单，全程零人工干预-未来已来 | Doonsec | [https://mp.weixin.qq.com/s/z1yssac_jL8kNwx3uSzSCw](https://mp.weixin.qq.com/s/z1yssac_jL8kNwx3uSzSCw) |
+| 2 | 中危变高危，赏金翻3倍：我用AI改写漏洞报告的话术模板全公开 | Doonsec | [https://mp.weixin.qq.com/s/EX0iX63qfAkdEzvyQ-ta7g](https://mp.weixin.qq.com/s/EX0iX63qfAkdEzvyQ-ta7g) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 度小满SRC太有心意了 | Doonsec | [https://mp.weixin.qq.com/s/j64JLJo0RmXKuLvRKfhy_g](https://mp.weixin.qq.com/s/j64JLJo0RmXKuLvRKfhy_g) |
+| 1 | 红队内网渗透利器，告别原版特征暴露（支持免杀）内网扫描爆破后渗透一站式落地 | Doonsec | [https://mp.weixin.qq.com/s/gyBWw8vcr6HyHLWa2CWKGw](https://mp.weixin.qq.com/s/gyBWw8vcr6HyHLWa2CWKGw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 法治日报：公安部网安局公布5起打击“银狐”木马病毒典型案例 | Doonsec | [https://mp.weixin.qq.com/s/5Mnvp43wznXSG9C9P53oVg](https://mp.weixin.qq.com/s/5Mnvp43wznXSG9C9P53oVg) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 第三方运营运维与供应链安全之间的矛盾如何弥合？ | Doonsec | [https://mp.weixin.qq.com/s/chedidiZnav74a4uccn2OQ](https://mp.weixin.qq.com/s/chedidiZnav74a4uccn2OQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-18/`
+文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-19/`
 
 ## 🔗 数据源说明
 
@@ -97,7 +116,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -107,5 +126,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-18 15:24:04*
+*生成时间: 2026-06-19 04:19:59*
 *报告工具: 微信文章安全归档系统*
