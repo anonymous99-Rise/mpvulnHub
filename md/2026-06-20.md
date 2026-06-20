@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 23
 - **数据源分布**:
-  - BruceFeIix: 6篇
+  - Doonsec: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 2篇
-- **漏洞利用**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,14 +61,31 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [一僵尸网络被曝光与以色列上市公司有关](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187096&idx=1&sn=20637bec5530e3877c70110a533acaee) (发布日期: 2026-06-20)
-- [ ] [每周高级威胁情报解读(2026.06.12~06.18)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0) (发布日期: 2026-06-20)
-- [ ] [Lazarus APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508) (发布日期: 2026-06-20)
-- [ ] [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7) (发布日期: 2026-06-20)
-- [ ] [【安全圈】微软安全工具自己"翻车"了？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=1&sn=2f82a2ce79a628832be58c403dc20460) (发布日期: 2026-06-20)
-- [ ] [【安全圈】紧急！7.5万台防火墙被攻破，你的企业安全防线还扛得住吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=2&sn=465792e4afd7cabe02d9ec193207ca5f) (发布日期: 2026-06-20)
+- [hack-skills助力AI深耕安全测试保姆级教程](https://mp.weixin.qq.com/s/gPxm7q-beih_xFlDi-kAaQ) (发布日期: 2026-06-20)
+- [自动化信息泄露侦察工具 LeakDetector](https://mp.weixin.qq.com/s/tvpAH_6X8LpQcdRl_lpNiQ) (发布日期: 2026-06-20)
+- [WordPress关键插件漏洞或致100万个网站遭文件删除攻击](https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg) (发布日期: 2026-06-20)
+- [Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞](https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA) (发布日期: 2026-06-20)
+- [新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复](https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA) (发布日期: 2026-06-20)
+- [SSL/TLS 密码套件漏洞分析以及修复方法](https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA) (发布日期: 2026-06-20)
+- [渗透测试实战中url跳转漏洞](https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA) (发布日期: 2026-06-20)
+- [如何配置防火墙？让你菜鸟变大佬！（以华为防火墙为例）](https://mp.weixin.qq.com/s/qng9MxZKH4dJcNBy5tKrjA) (发布日期: 2026-06-20)
+- [一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相](https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw) (发布日期: 2026-06-20)
+- [漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪](https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA) (发布日期: 2026-06-20)
+- [CVE-2026-42530 NGINX 远程代码执行](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) (发布日期: 2026-06-20)
+- [【代码审计】URLDNS链](https://mp.weixin.qq.com/s/rItnutpXV9OVK_FOQmwozQ) (发布日期: 2026-06-20)
+- [CVE-2026-31635 | Linux内核RxGK\"DirtyCBC\"本地权限提升漏洞](https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ) (发布日期: 2026-06-20)
+- [AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测](https://mp.weixin.qq.com/s/E8IAGlM4NCZgIOKTruIQBg) (发布日期: 2026-06-20)
+- [【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331)](https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww) (发布日期: 2026-06-20)
+- [AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测](https://mp.weixin.qq.com/s/dzax7Fxzzi44_NSsOZ0U4w) (发布日期: 2026-06-20)
+- [行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套](https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g) (发布日期: 2026-06-20)
+- [[安全工具]JsonExp — Fastjson/Jackson 反序列化漏洞自动化检测利器](https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg) (发布日期: 2026-06-20)
+- [网络数据安全风险评估办法](https://mp.weixin.qq.com/s/LP8BgyAwZTL50X8Lt4qnMA) (发布日期: 2026-06-20)
+- [专家解读｜高质量开展网络数据安全风险评估 推动网络数据安全治理长效发展](https://mp.weixin.qq.com/s/LnOvCbqWK6H--mlTIcBiBQ) (发布日期: 2026-06-20)
+- [PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践](https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w) (发布日期: 2026-06-20)
+- [安言咨询  | 金发〔2026〕8号解读：金融业AI安全开发的\"总纲\"落地](https://mp.weixin.qq.com/s/Fk-wBhB682KTVdxF6chD9A) (发布日期: 2026-06-20)
+- [al-khaser-master恶意软件反检测工具](https://mp.weixin.qq.com/s/mfKXJppdyBWF9O-rymI-YA) (发布日期: 2026-06-20)
 
 
 ## 🎯 威胁详情分析
@@ -76,14 +94,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7) |
+| 1 | WordPress关键插件漏洞或致100万个网站遭文件删除攻击 | Doonsec | [https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg](https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg) |
+| 2 | Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA](https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA) |
+| 3 | 新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复 | Doonsec | [https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA](https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA) |
+| 4 | SSL/TLS 密码套件漏洞分析以及修复方法 | Doonsec | [https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA](https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA) |
+| 5 | 渗透测试实战中url跳转漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA](https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA) |
+| 6 | 一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相 | Doonsec | [https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw](https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw) |
+| 7 | 漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪 | Doonsec | [https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA](https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA) |
+| 8 | CVE-2026-42530 NGINX 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) |
+| 9 | CVE-2026-31635 | Linux内核RxGK\"DirtyCBC\"本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ](https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ) |
+| 10 | 【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331) | Doonsec | [https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww](https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww) |
+| 11 | 行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套 | Doonsec | [https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g](https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g) |
+| 12 | [安全工具]JsonExp — Fastjson/Jackson 反序列化漏洞自动化检测利器 | Doonsec | [https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg](https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg) |
+| 13 | PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践 | Doonsec | [https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w](https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.06.12~06.18) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0) |
-| 2 |  ] [Lazarus APT组织深度分析报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508) |
+| 1 | CVE-2026-42530 NGINX 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) |
 
 
 ## 📁 归档路径
@@ -99,8 +128,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-20 07:50:11*
+*生成时间: 2026-06-20 17:26:19*
 *报告工具: 微信文章安全归档系统*
