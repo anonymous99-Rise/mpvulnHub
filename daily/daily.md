@@ -1,24 +1,19 @@
-# 2026-06-19 安全威胁态势报告
+# 2026-06-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 39
+- **总文章数**: 6
 - **数据源分布**:
-  - BruceFeIix: 39篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 23篇
-- **威胁情报**: 3篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **威胁情报**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 2篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,45 +62,12 @@
 
 ### BruceFeIix
 
-- [ ] [天地伟业Easy7 queryDataByTypeEx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g) (发布日期: 2026-06-19)
-- [ ] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具](https://mp.weixin.qq.com/s/X9xlliFeMxd90MnrNmZvrg) (发布日期: 2026-06-19)
-- [ ] [伯克利上线「AI漏洞发现排行榜」，这家中国实验室冲到第一？](https://mp.weixin.qq.com/s/yhVN8zvrlS75Jeypo6m4ow) (发布日期: 2026-06-19)
-- [ ] [网络数据安全风险评估办法](https://mp.weixin.qq.com/s/m5yibM-YI8-Wdq88fV-eyg) (发布日期: 2026-06-19)
-- [ ] [国家网信办等三部门联合公布《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/QmXzWhLwDKm3-9TWYQ3vsA) (发布日期: 2026-06-19)
-- [ ] [【成功复现】Gitea未授权信息泄露漏洞(CVE-2026-27771)](https://mp.weixin.qq.com/s/I6ZE9r1ClwI2_CQvVYE5mA) (发布日期: 2026-06-19)
-- [ ] [【工具推荐】红队利器VueCrack](https://mp.weixin.qq.com/s/OxifmSk2oyEJeACkAc29fg) (发布日期: 2026-06-19)
-- [ ] [CipherBridge ——面向APP/Web 加解密逆向分析、渗透测试神器](https://mp.weixin.qq.com/s/SZ22dKTCwK25OZFZ64vDxw) (发布日期: 2026-06-19)
-- [ ] [逻辑漏洞之登录模块18种利用方法](https://mp.weixin.qq.com/s/0ScVykFvzJnw9Y9WkjQXcQ) (发布日期: 2026-06-19)
-- [ ] [银狐黑产组织内存查杀技术](https://mp.weixin.qq.com/s/2U6ifEEHte86Tar6FlhQEg) (发布日期: 2026-06-19)
-- [ ] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令](https://mp.weixin.qq.com/s/H8kFhVqIZi_zq-XyVi4rbw) (发布日期: 2026-06-19)
-- [ ] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露](https://mp.weixin.qq.com/s/1NCfwykzgi0z8KRbFDNM4A) (发布日期: 2026-06-19)
-- [ ] [【安全圈】FortiBleed 泄露事件暴露 73,000 台设备的 Fortinet VPN 凭证](https://mp.weixin.qq.com/s/pKSqk81RFBiVtMDVvhA8jA) (发布日期: 2026-06-19)
-- [ ] [一周安全事件回顾：AI失控与数据泄露正在重写企业安全的成本账单](https://mp.weixin.qq.com/s/0jxMn94j10iejRr12ry7Hg) (发布日期: 2026-06-19)
-- [ ] [360企业安全浏览器鸿蒙版获“鸿蒙办公行业先锋奖”！](https://mp.weixin.qq.com/s/Syy4icVwzNVwRbGj4eSuwA) (发布日期: 2026-06-19)
-- [ ] [2026年漏洞预测：AI推动CVE数量激增至6.6万](https://mp.weixin.qq.com/s/Hgfm7oDEFsFjLfU-XDdLBg) (发布日期: 2026-06-19)
-- [ ] [高危Chrome漏洞可导致攻击者执行任意代码，无需点击即可中招](https://mp.weixin.qq.com/s/fIKUI1cihccTAAZabrv-Pw) (发布日期: 2026-06-19)
-- [ ] [朝鲜黑客伪造macOS更新窃取密码与加密货币数据](https://mp.weixin.qq.com/s/KGIlleYIxkHmaduoZd8Bfg) (发布日期: 2026-06-19)
-- [ ] [【论文速读】| 守护代码理解：检测代码语言模型中的自然后门漏洞](https://mp.weixin.qq.com/s/H-Z2RAieW4DN7Pt183bkig) (发布日期: 2026-06-19)
-- [ ] [安全热点周报：Oracle 缓解了 PeopleSoft 零日漏洞在数据窃取攻击中的利用](https://mp.weixin.qq.com/s/CibPYDSRuZfV1GQRo4kClw) (发布日期: 2026-06-19)
-- [ ] [《网络数据安全风险评估办法》答记者问](https://mp.weixin.qq.com/s/uDy66cS_HgQ0I95Lju1Oxg) (发布日期: 2026-06-19)
-- [ ] [【漏洞预警】大华智慧园区综合管理平台未授权访问漏洞](https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q) (发布日期: 2026-06-19)
-- [ ] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187085&idx=1&sn=dfebfb0d691ba51a7ecdf6f8cb8e5d79) (发布日期: 2026-06-19)
-- [ ] [原创漏洞 | NGINX堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508753&idx=1&sn=b5ee55949e117ad9e73d583f957368c4) (发布日期: 2026-06-19)
-- [ ] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790099&idx=1&sn=17ef8b65a5934d609189271357051b6a) (发布日期: 2026-06-19)
-- [ ] [发新一个寄快递“漏洞”！运费直接省50%](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486107&idx=1&sn=aa97bfadad24a0e9a4cbda697cef52e2) (发布日期: 2026-06-19)
-- [ ] [无需交互即可提权至SYSTEM！微软承认Defender曝“RoguePlanet”高危零日漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616781&idx=2&sn=cdffb0e31362c473f09b0712e981f34c) (发布日期: 2026-06-19)
-- [ ] [银狐黑产组织内存查杀技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496802&idx=1&sn=129e3e786df2abe070086caf92feb7bd) (发布日期: 2026-06-19)
-- [ ] [CISA 要求联邦机构在本周五前修复Joomla 插件满分漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=1&sn=42e983016d623f7d964bffc4b9b3466e) (发布日期: 2026-06-19)
-- [ ] [Fortra 访问管理器漏洞可导致远程命令注入攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64) (发布日期: 2026-06-19)
-- [ ] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077470&idx=2&sn=e1fb1a4e832121ae7a088023cf1bf5f8) (发布日期: 2026-06-19)
-- [ ] [【安全圈】FortiBleed 泄露事件暴露 73,000 台设备的 Fortinet VPN 凭证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077470&idx=3&sn=d9993512bb783a74569e8df09225a9d5) (发布日期: 2026-06-19)
-- [ ] [首次！银狐使用非开源手法致盲EDR](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186829&idx=1&sn=fbc051e7402ec98a041228647f070ff7) (发布日期: 2026-06-19)
-- [ ] [从“零日漏洞”到国家级封禁：Fable 5与Mythos 5下架背后的AI安全权力博弈](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141720&idx=1&sn=eb04f766392c97e2ef29ef5c95fabd70) (发布日期: 2026-06-19)
-- [ ] [从RSAC2026看安全运营技术发展趋势(4)：综合观察与反思](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485258&idx=1&sn=db3a87cbb89dceaebb763ebef592a256) (发布日期: 2026-06-19)
-- [ ] [从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497782&idx=1&sn=26de363234b141e682c1fc30321013a1) (发布日期: 2026-06-19)
-- [ ] [【漏洞通告】Linux Kernel net/sched act_pedit 权限提升漏洞(CVE-2026-46331)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525944&idx=1&sn=0068a85063edf376b9e29d4bdf0baf00) (发布日期: 2026-06-19)
-- [ ] [360企业安全浏览器鸿蒙版获“鸿蒙办公行业先锋奖”！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586278&idx=1&sn=824e6d16df391d8e694d25e1e18a5d42) (发布日期: 2026-06-19)
-- [ ] [AI 不是在给安全团队提效，是在重写安全团队的价值](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239104&idx=1&sn=38bc19790f3b594b49bbd855293f5406) (发布日期: 2026-06-19)
+- [ ] [一僵尸网络被曝光与以色列上市公司有关](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187096&idx=1&sn=20637bec5530e3877c70110a533acaee) (发布日期: 2026-06-20)
+- [ ] [每周高级威胁情报解读(2026.06.12~06.18)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0) (发布日期: 2026-06-20)
+- [ ] [Lazarus APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508) (发布日期: 2026-06-20)
+- [ ] [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7) (发布日期: 2026-06-20)
+- [ ] [【安全圈】微软安全工具自己"翻车"了？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=1&sn=2f82a2ce79a628832be58c403dc20460) (发布日期: 2026-06-20)
+- [ ] [【安全圈】紧急！7.5万台防火墙被攻破，你的企业安全防线还扛得住吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077485&idx=2&sn=465792e4afd7cabe02d9ec193207ca5f) (发布日期: 2026-06-20)
 
 
 ## 🎯 威胁详情分析
@@ -114,61 +76,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [天地伟业Easy7 queryDataByTypeEx接口存在SQL注入漏洞 附POC | BruceFeIix | [https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g](https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g) |
-| 2 |  ] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具 | BruceFeIix | [https://mp.weixin.qq.com/s/X9xlliFeMxd90MnrNmZvrg](https://mp.weixin.qq.com/s/X9xlliFeMxd90MnrNmZvrg) |
-| 3 |  ] [伯克利上线「AI漏洞发现排行榜」，这家中国实验室冲到第一？ | BruceFeIix | [https://mp.weixin.qq.com/s/yhVN8zvrlS75Jeypo6m4ow](https://mp.weixin.qq.com/s/yhVN8zvrlS75Jeypo6m4ow) |
-| 4 |  ] [【成功复现】Gitea未授权信息泄露漏洞(CVE-2026-27771) | BruceFeIix | [https://mp.weixin.qq.com/s/I6ZE9r1ClwI2_CQvVYE5mA](https://mp.weixin.qq.com/s/I6ZE9r1ClwI2_CQvVYE5mA) |
-| 5 |  ] [逻辑漏洞之登录模块18种利用方法 | BruceFeIix | [https://mp.weixin.qq.com/s/0ScVykFvzJnw9Y9WkjQXcQ](https://mp.weixin.qq.com/s/0ScVykFvzJnw9Y9WkjQXcQ) |
-| 6 |  ] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令 | BruceFeIix | [https://mp.weixin.qq.com/s/H8kFhVqIZi_zq-XyVi4rbw](https://mp.weixin.qq.com/s/H8kFhVqIZi_zq-XyVi4rbw) |
-| 7 |  ] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露 | BruceFeIix | [https://mp.weixin.qq.com/s/1NCfwykzgi0z8KRbFDNM4A](https://mp.weixin.qq.com/s/1NCfwykzgi0z8KRbFDNM4A) |
-| 8 |  ] [2026年漏洞预测：AI推动CVE数量激增至6.6万 | BruceFeIix | [https://mp.weixin.qq.com/s/Hgfm7oDEFsFjLfU-XDdLBg](https://mp.weixin.qq.com/s/Hgfm7oDEFsFjLfU-XDdLBg) |
-| 9 |  ] [高危Chrome漏洞可导致攻击者执行任意代码，无需点击即可中招 | BruceFeIix | [https://mp.weixin.qq.com/s/fIKUI1cihccTAAZabrv-Pw](https://mp.weixin.qq.com/s/fIKUI1cihccTAAZabrv-Pw) |
-| 10 |  ] [【论文速读】| 守护代码理解：检测代码语言模型中的自然后门漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/H-Z2RAieW4DN7Pt183bkig](https://mp.weixin.qq.com/s/H-Z2RAieW4DN7Pt183bkig) |
-| 11 |  ] [安全热点周报：Oracle 缓解了 PeopleSoft 零日漏洞在数据窃取攻击中的利用 | BruceFeIix | [https://mp.weixin.qq.com/s/CibPYDSRuZfV1GQRo4kClw](https://mp.weixin.qq.com/s/CibPYDSRuZfV1GQRo4kClw) |
-| 12 |  ] [【漏洞预警】大华智慧园区综合管理平台未授权访问漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q](https://mp.weixin.qq.com/s/ZIlyS54lU2bUWaB3Y_Yo3Q) |
-| 13 |  ] [SearchLeak漏洞:微软365 Copilot如何沦为一键数据窃取工具 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187085&idx=1&sn=dfebfb0d691ba51a7ecdf6f8cb8e5d79](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187085&idx=1&sn=dfebfb0d691ba51a7ecdf6f8cb8e5d79) |
-| 14 |  ] [原创漏洞 | NGINX堆缓冲区溢出漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508753&idx=1&sn=b5ee55949e117ad9e73d583f957368c4](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508753&idx=1&sn=b5ee55949e117ad9e73d583f957368c4) |
-| 15 |  ] [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790099&idx=1&sn=17ef8b65a5934d609189271357051b6a](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790099&idx=1&sn=17ef8b65a5934d609189271357051b6a) |
-| 16 |  ] [发新一个寄快递“漏洞”！运费直接省50% | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486107&idx=1&sn=aa97bfadad24a0e9a4cbda697cef52e2](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486107&idx=1&sn=aa97bfadad24a0e9a4cbda697cef52e2) |
-| 17 |  ] [无需交互即可提权至SYSTEM！微软承认Defender曝“RoguePlanet”高危零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616781&idx=2&sn=cdffb0e31362c473f09b0712e981f34c](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616781&idx=2&sn=cdffb0e31362c473f09b0712e981f34c) |
-| 18 |  ] [CISA 要求联邦机构在本周五前修复Joomla 插件满分漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=1&sn=42e983016d623f7d964bffc4b9b3466e](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=1&sn=42e983016d623f7d964bffc4b9b3466e) |
-| 19 |  ] [Fortra 访问管理器漏洞可导致远程命令注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64) |
-| 20 |  ] [【安全圈】微软 Copilot 被曝高危漏洞：点击一个链接，验证码、邮件全泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077470&idx=2&sn=e1fb1a4e832121ae7a088023cf1bf5f8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077470&idx=2&sn=e1fb1a4e832121ae7a088023cf1bf5f8) |
-| 21 |  ] [从“零日漏洞”到国家级封禁：Fable 5与Mythos 5下架背后的AI安全权力博弈 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141720&idx=1&sn=eb04f766392c97e2ef29ef5c95fabd70](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141720&idx=1&sn=eb04f766392c97e2ef29ef5c95fabd70) |
-| 22 |  ] [从低权限 Key 到 AI Gateway 接管：LiteLLM 漏洞链完整剖析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497782&idx=1&sn=26de363234b141e682c1fc30321013a1](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497782&idx=1&sn=26de363234b141e682c1fc30321013a1) |
-| 23 |  ] [【漏洞通告】Linux Kernel net/sched act_pedit 权限提升漏洞(CVE-2026-46331) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525944&idx=1&sn=0068a85063edf376b9e29d4bdf0baf00](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525944&idx=1&sn=0068a85063edf376b9e29d4bdf0baf00) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [天地伟业Easy7 queryDataByTypeEx接口存在SQL注入漏洞 附POC | BruceFeIix | [https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g](https://mp.weixin.qq.com/s/rNx3yX6gGluZl3kS4J-T5g) |
-| 2 |  ] [Fortra 访问管理器漏洞可导致远程命令注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526330&idx=2&sn=634ff7aee7d1db205f90e279a8c74f64) |
+| 1 |  ] [【火绒安全周报】世界杯官方赛事系统曝漏洞/新一批重点防范境外恶意网址和恶意IP公布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534616&idx=3&sn=95b13e491c2ed2995691a24359d8b1f7) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [银狐黑产组织内存查杀技术 | BruceFeIix | [https://mp.weixin.qq.com/s/2U6ifEEHte86Tar6FlhQEg](https://mp.weixin.qq.com/s/2U6ifEEHte86Tar6FlhQEg) |
-| 2 |  ] [银狐黑产组织内存查杀技术 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496802&idx=1&sn=129e3e786df2abe070086caf92feb7bd](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496802&idx=1&sn=129e3e786df2abe070086caf92feb7bd) |
-| 3 |  ] [首次！银狐使用非开源手法致盲EDR | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186829&idx=1&sn=fbc051e7402ec98a041228647f070ff7](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186829&idx=1&sn=fbc051e7402ec98a041228647f070ff7) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [从RSAC2026看安全运营技术发展趋势(4)：综合观察与反思 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485258&idx=1&sn=db3a87cbb89dceaebb763ebef592a256](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485258&idx=1&sn=db3a87cbb89dceaebb763ebef592a256) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [一周安全事件回顾：AI失控与数据泄露正在重写企业安全的成本账单 | BruceFeIix | [https://mp.weixin.qq.com/s/0jxMn94j10iejRr12ry7Hg](https://mp.weixin.qq.com/s/0jxMn94j10iejRr12ry7Hg) |
+| 1 |  ] [每周高级威胁情报解读(2026.06.12~06.18) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519174&idx=1&sn=0b59a708b5f42ce1331707af08787fe0) |
+| 2 |  ] [Lazarus APT组织深度分析报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496822&idx=1&sn=d0dc658573a986aa2ee1539ca63eb508) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-19/`
+文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-20/`
 
 ## 🔗 数据源说明
 
@@ -179,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 23 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -189,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-19 12:05:44*
+*生成时间: 2026-06-20 07:50:11*
 *报告工具: 微信文章安全归档系统*
