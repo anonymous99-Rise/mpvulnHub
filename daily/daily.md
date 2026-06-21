@@ -1,20 +1,20 @@
-# 2026-06-20 安全威胁态势报告
+# 2026-06-21 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 23篇
+  - BruceFeIix: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 2篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,31 +61,12 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [hack-skills助力AI深耕安全测试保姆级教程](https://mp.weixin.qq.com/s/gPxm7q-beih_xFlDi-kAaQ) (发布日期: 2026-06-20)
-- [自动化信息泄露侦察工具 LeakDetector](https://mp.weixin.qq.com/s/tvpAH_6X8LpQcdRl_lpNiQ) (发布日期: 2026-06-20)
-- [WordPress关键插件漏洞或致100万个网站遭文件删除攻击](https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg) (发布日期: 2026-06-20)
-- [Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞](https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA) (发布日期: 2026-06-20)
-- [新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复](https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA) (发布日期: 2026-06-20)
-- [SSL/TLS 密码套件漏洞分析以及修复方法](https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA) (发布日期: 2026-06-20)
-- [渗透测试实战中url跳转漏洞](https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA) (发布日期: 2026-06-20)
-- [如何配置防火墙？让你菜鸟变大佬！（以华为防火墙为例）](https://mp.weixin.qq.com/s/qng9MxZKH4dJcNBy5tKrjA) (发布日期: 2026-06-20)
-- [一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相](https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw) (发布日期: 2026-06-20)
-- [漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪](https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA) (发布日期: 2026-06-20)
-- [CVE-2026-42530 NGINX 远程代码执行](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) (发布日期: 2026-06-20)
-- [【代码审计】URLDNS链](https://mp.weixin.qq.com/s/rItnutpXV9OVK_FOQmwozQ) (发布日期: 2026-06-20)
-- [CVE-2026-31635 | Linux内核RxGK\"DirtyCBC\"本地权限提升漏洞](https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ) (发布日期: 2026-06-20)
-- [AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测](https://mp.weixin.qq.com/s/E8IAGlM4NCZgIOKTruIQBg) (发布日期: 2026-06-20)
-- [【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331)](https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww) (发布日期: 2026-06-20)
-- [AI 原生代码审计的历史性拐点:点星的能力边界与横向对比实测](https://mp.weixin.qq.com/s/dzax7Fxzzi44_NSsOZ0U4w) (发布日期: 2026-06-20)
-- [行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套](https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g) (发布日期: 2026-06-20)
-- [[安全工具]JsonExp — Fastjson/Jackson 反序列化漏洞自动化检测利器](https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg) (发布日期: 2026-06-20)
-- [网络数据安全风险评估办法](https://mp.weixin.qq.com/s/LP8BgyAwZTL50X8Lt4qnMA) (发布日期: 2026-06-20)
-- [专家解读｜高质量开展网络数据安全风险评估 推动网络数据安全治理长效发展](https://mp.weixin.qq.com/s/LnOvCbqWK6H--mlTIcBiBQ) (发布日期: 2026-06-20)
-- [PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践](https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w) (发布日期: 2026-06-20)
-- [安言咨询  | 金发〔2026〕8号解读：金融业AI安全开发的\"总纲\"落地](https://mp.weixin.qq.com/s/Fk-wBhB682KTVdxF6chD9A) (发布日期: 2026-06-20)
-- [al-khaser-master恶意软件反检测工具](https://mp.weixin.qq.com/s/mfKXJppdyBWF9O-rymI-YA) (发布日期: 2026-06-20)
+- [ ] [面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7) (发布日期: 2026-06-21)
+- [ ] [DarkHotel APT组织最新攻击活动深度分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d) (发布日期: 2026-06-21)
+- [ ] [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041) (发布日期: 2026-06-21)
+- [ ] [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029) (发布日期: 2026-06-21)
 
 
 ## 🎯 威胁详情分析
@@ -94,30 +75,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | WordPress关键插件漏洞或致100万个网站遭文件删除攻击 | Doonsec | [https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg](https://mp.weixin.qq.com/s/uu5K1UMDvRHO2B15oVI1Rg) |
-| 2 | Node.js发布关键安全更新，修复影响120万站点的12个高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA](https://mp.weixin.qq.com/s/xkb7zrRB1roGvWVrJD_yKA) |
-| 3 | 新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复 | Doonsec | [https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA](https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA) |
-| 4 | SSL/TLS 密码套件漏洞分析以及修复方法 | Doonsec | [https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA](https://mp.weixin.qq.com/s/VFdTwEOE2_scDdlip_dAwA) |
-| 5 | 渗透测试实战中url跳转漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA](https://mp.weixin.qq.com/s/XvT5NiH_KapaYRpGlQEjlA) |
-| 6 | 一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相 | Doonsec | [https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw](https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw) |
-| 7 | 漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪 | Doonsec | [https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA](https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA) |
-| 8 | CVE-2026-42530 NGINX 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) |
-| 9 | CVE-2026-31635 | Linux内核RxGK\"DirtyCBC\"本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ](https://mp.weixin.qq.com/s/Nph5bsoQ4k1L1Et3m_2mqQ) |
-| 10 | 【成功复现】Linux内核act_pedit本地权限提升漏洞(CVE-2026-46331) | Doonsec | [https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww](https://mp.weixin.qq.com/s/CwoCkx5C-IUT4_VjhZy3ww) |
-| 11 | 行业资讯：某网络安全漏洞扫描产品采购项目中标结果显示，绿盟漏扫中标５套 | Doonsec | [https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g](https://mp.weixin.qq.com/s/fanoyyyq0cATDulcgy247g) |
-| 12 | [安全工具]JsonExp — Fastjson/Jackson 反序列化漏洞自动化检测利器 | Doonsec | [https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg](https://mp.weixin.qq.com/s/OXo-7q1Gn6gkogcvBcarWg) |
-| 13 | PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践 | Doonsec | [https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w](https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w) |
+| 1 |  ] [面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7) |
+| 2 |  ] [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041) |
 
-### 攻击技术
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-42530 NGINX 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg](https://mp.weixin.qq.com/s/-eu8nZly2SUHrccaov4ELg) |
+| 1 |  ] [DarkHotel APT组织最新攻击活动深度分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-20/`
+文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-21/`
 
 ## 🔗 数据源说明
 
@@ -128,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -138,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-20 17:26:19*
+*生成时间: 2026-06-21 11:16:02*
 *报告工具: 微信文章安全归档系统*
