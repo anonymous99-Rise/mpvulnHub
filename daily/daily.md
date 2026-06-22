@@ -1,20 +1,21 @@
-# 2026-06-21 安全威胁态势报告
+# 2026-06-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 15
 - **数据源分布**:
-  - BruceFeIix: 4篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
+- **安全运营**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,12 +62,23 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7) (发布日期: 2026-06-21)
-- [ ] [DarkHotel APT组织最新攻击活动深度分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d) (发布日期: 2026-06-21)
-- [ ] [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041) (发布日期: 2026-06-21)
-- [ ] [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029) (发布日期: 2026-06-21)
+- [FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动](https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ) (发布日期: 2026-06-22)
+- [全球 SocGholish 专项清理行动：已修复 14971 个 WordPress 站点](https://mp.weixin.qq.com/s/FWfeDKc6tg2aAWJgNyoqWw) (发布日期: 2026-06-22)
+- [数据安全风险评估费怎么测算](https://mp.weixin.qq.com/s/lPj8QPNAIKThtiKNRdZV_g) (发布日期: 2026-06-22)
+- [【研究报告】从内阁情报调查室到国家情报局：日本情报共同体改革与美日同盟情报共享机制变化研究（2013—2026）](https://mp.weixin.qq.com/s/GTzjLIXkzs_GZbDiXNnD4Q) (发布日期: 2026-06-22)
+- [代码执行+模型被盗！盘点谷歌云Vertex AI存储桶抢注Bug的底层前沿姿势](https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg) (发布日期: 2026-06-22)
+- [银狐黑产组织BYOVD攻击技术深度详解](https://mp.weixin.qq.com/s/5GfaxwR6cYlBK_vWxcHH3w) (发布日期: 2026-06-22)
+- [2026招聘蓝队HVV工程师第二批次招聘（含初级）](https://mp.weixin.qq.com/s/7vWev_UyFB9yItIHFheOAA) (发布日期: 2026-06-22)
+- [190页 网络安全运营体系建设方案](https://mp.weixin.qq.com/s/OPdADH9ImN_RzuMFGZPOfg) (发布日期: 2026-06-22)
+- [2025年主流病毒趋势分析报告](https://mp.weixin.qq.com/s/NbhZgvGqDQHQzlxD-AgH3g) (发布日期: 2026-06-22)
+- [车联网服务平台风险评估实施指南](https://mp.weixin.qq.com/s/O9MZc9EmJ47es4AHg8pCLw) (发布日期: 2026-06-22)
+- [给 AI 渗透助手装上\"安全带\"——不锁油门，只锁刹车 | AI Agent 在渗透测试场景下既能放手测试，又不会脱库、删库、留后门](https://mp.weixin.qq.com/s/WKCtc0FtPeEd6eOF1Cvmzg) (发布日期: 2026-06-22)
+- [[安全周报] $1000 挖出 21 个 0day + 11.6 亿次撞库破 8.6 万台防火墙——2026 年漏洞的\"发现\"和\"利用\"，同周进入量产](https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ) (发布日期: 2026-06-22)
+- [浙江海关成功破获加密矿机走私大案](https://mp.weixin.qq.com/s/UC28GLNLQeIChvtSYLizZA) (发布日期: 2026-06-22)
+- [非法植入病毒，四人落网阻断诈骗黑手](https://mp.weixin.qq.com/s/XkDSFvGVOc8jyA7JfAzpLw) (发布日期: 2026-06-22)
+- [【AI复盘】员工VibeCoding引发数据泄露事件](https://mp.weixin.qq.com/s/4GVQaXWj9Rf_w9TsdCFaeA) (发布日期: 2026-06-22)
 
 
 ## 🎯 威胁详情分析
@@ -75,25 +87,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7) |
-| 2 |  ] [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041) |
+| 1 | FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动 | Doonsec | [https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ](https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ) |
+| 2 | [安全周报] $1000 挖出 21 个 0day + 11.6 亿次撞库破 8.6 万台防火墙——2026 年漏洞的\"发现\"和\"利用\"，同周进入量产 | Doonsec | [https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ](https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 代码执行+模型被盗！盘点谷歌云Vertex AI存储桶抢注Bug的底层前沿姿势 | Doonsec | [https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg](https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [DarkHotel APT组织最新攻击活动深度分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d) |
+| 1 | 银狐黑产组织BYOVD攻击技术深度详解 | Doonsec | [https://mp.weixin.qq.com/s/5GfaxwR6cYlBK_vWxcHH3w](https://mp.weixin.qq.com/s/5GfaxwR6cYlBK_vWxcHH3w) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 190页 网络安全运营体系建设方案 | Doonsec | [https://mp.weixin.qq.com/s/OPdADH9ImN_RzuMFGZPOfg](https://mp.weixin.qq.com/s/OPdADH9ImN_RzuMFGZPOfg) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029) |
+| 1 | 【AI复盘】员工VibeCoding引发数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/4GVQaXWj9Rf_w9TsdCFaeA](https://mp.weixin.qq.com/s/4GVQaXWj9Rf_w9TsdCFaeA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W25/2026-06-21/`
+文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-22/`
 
 ## 🔗 数据源说明
 
@@ -105,7 +129,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-21 11:16:02*
+*生成时间: 2026-06-22 04:16:14*
 *报告工具: 微信文章安全归档系统*
