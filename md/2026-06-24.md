@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -64,16 +62,13 @@
 
 ### Doonsec
 
-- [CTF比赛入门第十期：文件上传漏洞全解](https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ) (发布日期: 2026-06-24)
-- [面向安全治理的大语言模型风险分析与应对策略研究丨中国工程科学](https://mp.weixin.qq.com/s/xOrgMlF6Un3thyNAocYzTg) (发布日期: 2026-06-24)
-- [一家AI公司被黑后，九家网络安全公司发生数据泄露](https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw) (发布日期: 2026-06-24)
-- [大学生人工智能安全竞赛作品赛启动报名🥁五大实战命题等你来攻坚！](https://mp.weixin.qq.com/s/HW1dP4MgExSUDQZcs8DqIg) (发布日期: 2026-06-24)
-- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/7LW0di4c44-zRcTmGHabww) (发布日期: 2026-06-24)
-- [CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) (发布日期: 2026-06-24)
-- [libssh2 CVE-2026-55200 PoC 和本地 RCE](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) (发布日期: 2026-06-24)
-- [别让一次断电，毁掉你所有的数据安全——UPS巡检为什么不能省？](https://mp.weixin.qq.com/s/ajNTrOZL2eIjUxTBQksciA) (发布日期: 2026-06-24)
-- [2026HVV蓝队中高级精英招聘](https://mp.weixin.qq.com/s/C0gzqjf-_bBDm5CJZJwcqQ) (发布日期: 2026-06-24)
-- [护网研判/安全分析/威胁分析数字专家/AI智能平台分享](https://mp.weixin.qq.com/s/4SL_Ph8AhbJCwF4i0Ud4aw) (发布日期: 2026-06-24)
+- [2026\"工赋砺网\" | 工业数据安全治理与实践专场培训启动报名](https://mp.weixin.qq.com/s/TlUJluF66rxYDW6fmJ8qWQ) (发布日期: 2026-06-24)
+- [安全419｜一周国际网安资讯：FortiBleed席卷全球 AI安全治理迫在眉睫](https://mp.weixin.qq.com/s/VnUPwr8lvcDqUIRNnsczEw) (发布日期: 2026-06-24)
+- [关于规范 AI 辅助漏洞报告提交标准的公告](https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ) (发布日期: 2026-06-24)
+- [Anthropic 的 Mythos 模型在美国政府系统中发现漏洞](https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg) (发布日期: 2026-06-24)
+- [数世咨询：ASIC安全芯片防火墙能力白皮书正式发布](https://mp.weixin.qq.com/s/drMAXr9XlNoUmoQfJZPeAg) (发布日期: 2026-06-24)
+- [邮件服务器预警：Exchange 多个 SSRF 漏洞利用细节已公开](https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw) (发布日期: 2026-06-24)
+- [用友U8 CRM getsrvtemplate.php SQL注入漏洞](https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w) (发布日期: 2026-06-24)
 
 
 ## 🎯 威胁详情分析
@@ -82,22 +77,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CTF比赛入门第十期：文件上传漏洞全解 | Doonsec | [https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ](https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ) |
-| 2 | CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) |
-| 3 | libssh2 CVE-2026-55200 PoC 和本地 RCE | Doonsec | [https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) |
+| 1 | 关于规范 AI 辅助漏洞报告提交标准的公告 | Doonsec | [https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ](https://mp.weixin.qq.com/s/YEm5YIvDE_8U7EZ4aeqcOQ) |
+| 2 | Anthropic 的 Mythos 模型在美国政府系统中发现漏洞 | Doonsec | [https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg](https://mp.weixin.qq.com/s/pAhdg_YyZY-pMDA_5-muwg) |
+| 3 | 邮件服务器预警：Exchange 多个 SSRF 漏洞利用细节已公开 | Doonsec | [https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw](https://mp.weixin.qq.com/s/52YAM_DXiI9hE4eXddOVlw) |
+| 4 | 用友U8 CRM getsrvtemplate.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w](https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) |
-| 2 | libssh2 CVE-2026-55200 PoC 和本地 RCE | Doonsec | [https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 一家AI公司被黑后，九家网络安全公司发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw](https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw) |
+| 1 | 用友U8 CRM getsrvtemplate.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w](https://mp.weixin.qq.com/s/Kp_lGaMx_tlm7uUbKFup2w) |
 
 
 ## 📁 归档路径
@@ -113,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-24 10:49:55*
+*生成时间: 2026-06-24 21:22:02*
 *报告工具: 微信文章安全归档系统*
