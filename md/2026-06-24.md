@@ -2,23 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 10
 - **数据源分布**:
-  - BruceFeIix: 25篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **信息泄露**: 3篇
-- **供应链**: 2篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
-- **系统漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,33 +62,18 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 / CVE-2026-48908）](https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g) (发布日期: 2026-06-24)
-- [ ] [【$5,000】Burp Suite Professional 中的RCE漏洞-PoC及视频演示](https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ) (发布日期: 2026-06-24)
-- [ ] [OpenAI推出\"修补地球\"项目，以AI维护开源供应链安全](https://mp.weixin.qq.com/s/9JM8tP7tZ_qtxgfQINXWtA) (发布日期: 2026-06-24)
-- [ ] [Claude Mythos Preview发现潜藏29年的“Squidbleed”漏洞](https://mp.weixin.qq.com/s/CnDm2DWTOSZi22ez7el_qw) (发布日期: 2026-06-24)
-- [ ] [黑客入侵GitHub上万个代码库植入恶意软件](https://mp.weixin.qq.com/s/mAy2GdVzudcntRF1OHB3Tg) (发布日期: 2026-06-24)
-- [ ] [西安新一代信息技术产教联合体开展银狐病毒专项安全培训](https://mp.weixin.qq.com/s/HtAvjSgXX8wyn-YIQVWRcQ) (发布日期: 2026-06-24)
-- [ ] [FFmpeg 严重漏洞允许攻击者利用媒体文件进行攻击](https://mp.weixin.qq.com/s/NyKqP_h4lq9qkqW8gVJN0w) (发布日期: 2026-06-24)
-- [ ] [新型网络钓鱼攻击利用 Outlook 和 Microsoft 365 群组功能攻击用户](https://mp.weixin.qq.com/s/nnVcDapOcMD32s6AN-3wKg) (发布日期: 2026-06-24)
-- [ ] [国际足联后台曝出高危漏洞，黑客可随意篡改世界杯直播](https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg) (发布日期: 2026-06-24)
-- [ ] [奇安信发布安全运营数字员工：7×24小时自动化完成研判与响应全流程](https://mp.weixin.qq.com/s/syFMQxnYPzJqclTimyHo9g) (发布日期: 2026-06-24)
-- [ ] [加拿大一AI公司被黑后，九家网络安全公司发生数据泄露](https://mp.weixin.qq.com/s/uWqR9B9o3CB8BqPnGMIs0A) (发布日期: 2026-06-24)
-- [ ] [一家AI公司被黑后，九家网络安全公司发生数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516132&idx=1&sn=dbeb1fad9d1a61e7fb30cc2e36df34db) (发布日期: 2026-06-24)
-- [ ] [“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=1&sn=207133ea8154315db4af728cf84cf2e5) (发布日期: 2026-06-24)
-- [ ] [谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=2&sn=347d85dad46151e681d50e79e8824f61) (发布日期: 2026-06-24)
-- [ ] [潜伏29年！Squidbleed 漏洞曝光，明文账号 Cookie 直接泄露](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616819&idx=3&sn=5ef5283583b302e88636f5228fd3b47b) (发布日期: 2026-06-24)
-- [ ] [雷神众测漏洞周报2026.6.15-2026.6.21](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503850&idx=1&sn=c9fd18a3b1fda1ae9a6865401506f92d) (发布日期: 2026-06-24)
-- [ ] [全球数据泄露态势月度报告（2026年5月）：数据安全威胁持续升级](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543333&idx=1&sn=8dc54070550f103adc35c59ec4809ea6) (发布日期: 2026-06-24)
-- [ ] [奇安信发布威胁分析数字专家，全行业免费公测](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519214&idx=1&sn=7e1e6af40847083e0c9fea4e751847a9) (发布日期: 2026-06-24)
-- [ ] [【安全圈】苹果手机出了个"绝症漏洞"：修不了、防不住，影响上亿部设备！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077535&idx=2&sn=ff2c18d1d3b61c782dd25fb2418b897c) (发布日期: 2026-06-24)
-- [ ] [【安全圈】WhatsApp 钓鱼攻击利用虚假商务文档入侵 PC](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077535&idx=3&sn=79128e8cfc4035c58148971ab0474668) (发布日期: 2026-06-24)
-- [ ] [AI供应链安全最佳实践速查表](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851459&idx=1&sn=3b9aceb2c0b7d18e117b06679261079f) (发布日期: 2026-06-24)
-- [ ] [人工智能如何加剧开源情报收集的难度](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568301&idx=1&sn=f119229f61e0f953d8532c1df50d037a) (发布日期: 2026-06-24)
-- [ ] [艾默生DeltaV DCS控制器 固件安全分析研究](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514312&idx=1&sn=848d8934aba2b24a8068c836e4bd204c) (发布日期: 2026-06-24)
-- [ ] [CNVD漏洞周报2026年第24期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501801&idx=1&sn=acf5f19f6f595e722444ab2c2bec59a4) (发布日期: 2026-06-24)
-- [ ] [5000刀的高危burp漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499590&idx=1&sn=66ec7d040f86ce65103b1c0a5d39a1af) (发布日期: 2026-06-24)
+- [CTF比赛入门第十期：文件上传漏洞全解](https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ) (发布日期: 2026-06-24)
+- [面向安全治理的大语言模型风险分析与应对策略研究丨中国工程科学](https://mp.weixin.qq.com/s/xOrgMlF6Un3thyNAocYzTg) (发布日期: 2026-06-24)
+- [一家AI公司被黑后，九家网络安全公司发生数据泄露](https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw) (发布日期: 2026-06-24)
+- [大学生人工智能安全竞赛作品赛启动报名🥁五大实战命题等你来攻坚！](https://mp.weixin.qq.com/s/HW1dP4MgExSUDQZcs8DqIg) (发布日期: 2026-06-24)
+- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/7LW0di4c44-zRcTmGHabww) (发布日期: 2026-06-24)
+- [CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) (发布日期: 2026-06-24)
+- [libssh2 CVE-2026-55200 PoC 和本地 RCE](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) (发布日期: 2026-06-24)
+- [别让一次断电，毁掉你所有的数据安全——UPS巡检为什么不能省？](https://mp.weixin.qq.com/s/ajNTrOZL2eIjUxTBQksciA) (发布日期: 2026-06-24)
+- [2026HVV蓝队中高级精英招聘](https://mp.weixin.qq.com/s/C0gzqjf-_bBDm5CJZJwcqQ) (发布日期: 2026-06-24)
+- [护网研判/安全分析/威胁分析数字专家/AI智能平台分享](https://mp.weixin.qq.com/s/4SL_Ph8AhbJCwF4i0Ud4aw) (发布日期: 2026-06-24)
 
 
 ## 🎯 威胁详情分析
@@ -100,51 +82,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Joomla JCE Editor 双高危漏洞预警（CVE-2026-48907 / CVE-2026-48908） | BruceFeIix | [https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g](https://mp.weixin.qq.com/s/fUnhFCG40nZ1Evik1wYz1g) |
-| 2 |  ] [【$5,000】Burp Suite Professional 中的RCE漏洞-PoC及视频演示 | BruceFeIix | [https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ](https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ) |
-| 3 |  ] [Claude Mythos Preview发现潜藏29年的“Squidbleed”漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/CnDm2DWTOSZi22ez7el_qw](https://mp.weixin.qq.com/s/CnDm2DWTOSZi22ez7el_qw) |
-| 4 |  ] [FFmpeg 严重漏洞允许攻击者利用媒体文件进行攻击 | BruceFeIix | [https://mp.weixin.qq.com/s/NyKqP_h4lq9qkqW8gVJN0w](https://mp.weixin.qq.com/s/NyKqP_h4lq9qkqW8gVJN0w) |
-| 5 |  ] [国际足联后台曝出高危漏洞，黑客可随意篡改世界杯直播 | BruceFeIix | [https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg](https://mp.weixin.qq.com/s/YV6Vlh7EGTXijGmu3rTSUg) |
-| 6 |  ] [“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=1&sn=207133ea8154315db4af728cf84cf2e5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=1&sn=207133ea8154315db4af728cf84cf2e5) |
-| 7 |  ] [谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=2&sn=347d85dad46151e681d50e79e8824f61](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526357&idx=2&sn=347d85dad46151e681d50e79e8824f61) |
-| 8 |  ] [潜伏29年！Squidbleed 漏洞曝光，明文账号 Cookie 直接泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616819&idx=3&sn=5ef5283583b302e88636f5228fd3b47b](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616819&idx=3&sn=5ef5283583b302e88636f5228fd3b47b) |
-| 9 |  ] [雷神众测漏洞周报2026.6.15-2026.6.21 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503850&idx=1&sn=c9fd18a3b1fda1ae9a6865401506f92d](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503850&idx=1&sn=c9fd18a3b1fda1ae9a6865401506f92d) |
-| 10 |  ] [【安全圈】苹果手机出了个"绝症漏洞"：修不了、防不住，影响上亿部设备！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077535&idx=2&sn=ff2c18d1d3b61c782dd25fb2418b897c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077535&idx=2&sn=ff2c18d1d3b61c782dd25fb2418b897c) |
-| 11 |  ] [CNVD漏洞周报2026年第24期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501801&idx=1&sn=acf5f19f6f595e722444ab2c2bec59a4](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501801&idx=1&sn=acf5f19f6f595e722444ab2c2bec59a4) |
-| 12 |  ] [5000刀的高危burp漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499590&idx=1&sn=66ec7d040f86ce65103b1c0a5d39a1af](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499590&idx=1&sn=66ec7d040f86ce65103b1c0a5d39a1af) |
+| 1 | CTF比赛入门第十期：文件上传漏洞全解 | Doonsec | [https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ](https://mp.weixin.qq.com/s/WFYj3seeH2_xti7RLU16vQ) |
+| 2 | CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) |
+| 3 | libssh2 CVE-2026-55200 PoC 和本地 RCE | Doonsec | [https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【$5,000】Burp Suite Professional 中的RCE漏洞-PoC及视频演示 | BruceFeIix | [https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ](https://mp.weixin.qq.com/s/bpFxlrCS9IzaAaSTHuTjRQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [西安新一代信息技术产教联合体开展银狐病毒专项安全培训 | BruceFeIix | [https://mp.weixin.qq.com/s/HtAvjSgXX8wyn-YIQVWRcQ](https://mp.weixin.qq.com/s/HtAvjSgXX8wyn-YIQVWRcQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [奇安信发布安全运营数字员工：7×24小时自动化完成研判与响应全流程 | BruceFeIix | [https://mp.weixin.qq.com/s/syFMQxnYPzJqclTimyHo9g](https://mp.weixin.qq.com/s/syFMQxnYPzJqclTimyHo9g) |
+| 1 | CVE-2026-41089：Windows Netlogon 通过 CLDAP 堆栈缓冲区溢出进行远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ](https://mp.weixin.qq.com/s/CbxafV85UwNkyL7lSRksrQ) |
+| 2 | libssh2 CVE-2026-55200 PoC 和本地 RCE | Doonsec | [https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A](https://mp.weixin.qq.com/s/3MEUCzesYJmxq1aHAreM4A) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [加拿大一AI公司被黑后，九家网络安全公司发生数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s/uWqR9B9o3CB8BqPnGMIs0A](https://mp.weixin.qq.com/s/uWqR9B9o3CB8BqPnGMIs0A) |
-| 2 |  ] [一家AI公司被黑后，九家网络安全公司发生数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516132&idx=1&sn=dbeb1fad9d1a61e7fb30cc2e36df34db](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516132&idx=1&sn=dbeb1fad9d1a61e7fb30cc2e36df34db) |
-| 3 |  ] [全球数据泄露态势月度报告（2026年5月）：数据安全威胁持续升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543333&idx=1&sn=8dc54070550f103adc35c59ec4809ea6](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543333&idx=1&sn=8dc54070550f103adc35c59ec4809ea6) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [OpenAI推出\"修补地球\"项目，以AI维护开源供应链安全 | BruceFeIix | [https://mp.weixin.qq.com/s/9JM8tP7tZ_qtxgfQINXWtA](https://mp.weixin.qq.com/s/9JM8tP7tZ_qtxgfQINXWtA) |
-| 2 |  ] [AI供应链安全最佳实践速查表 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851459&idx=1&sn=3b9aceb2c0b7d18e117b06679261079f](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851459&idx=1&sn=3b9aceb2c0b7d18e117b06679261079f) |
+| 1 | 一家AI公司被黑后，九家网络安全公司发生数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw](https://mp.weixin.qq.com/s/lIWEajVv2Ix2NWZ6CJLIxw) |
 
 
 ## 📁 归档路径
@@ -160,8 +113,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -170,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-24 07:40:40*
+*生成时间: 2026-06-24 10:49:55*
 *报告工具: 微信文章安全归档系统*
