@@ -1,21 +1,21 @@
-# 2026-06-23 安全威胁态势报告
+# 2026-06-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 30
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 30篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **供应链**: 2篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,36 +64,21 @@
 
 ### Doonsec
 
-- [苏州银行760万最大罚单！涉网络及数据安全等11项违规](https://mp.weixin.qq.com/s/y45eSCScbcwKeGbNI1QqCg) (发布日期: 2026-06-23)
-- [SkyGuard 与 CBC Tech进一步合作，携手共筑出海企业安全屏障](https://mp.weixin.qq.com/s/k8bhZLPcI_2_4AwhUuBupA) (发布日期: 2026-06-23)
-- [【转载】面向工业互联网的密钥管理平台设计与实现](https://mp.weixin.qq.com/s/I-MxoA6B7lEDn3thvBmhzw) (发布日期: 2026-06-23)
-- [AI供应链安全最佳实践速查表](https://mp.weixin.qq.com/s/UYYsGvtK20IbGMbLzIOEMw) (发布日期: 2026-06-23)
-- [【论文速读】| 前沿大语言模型残余越狱面量化研究—针对 Anthropic Fable 5 与 Opus 4.8 模型的红队测试](https://mp.weixin.qq.com/s/ZMKS9FN5BRSouGx59-JzGg) (发布日期: 2026-06-23)
-- [AI 安全三大核心赛道：赋能攻防、内生漏洞、自主系统失控风险详解](https://mp.weixin.qq.com/s/J92xTltFF_-WjjE_kDy9jg) (发布日期: 2026-06-23)
-- [H5渗透实战：从复数金额漏洞到签名绕过](https://mp.weixin.qq.com/s/wXvrIb9uJhHC7NRmucG9Cw) (发布日期: 2026-06-23)
-- [【免费领】HW护网蓝队面试题整理汇总（含答案及解析）](https://mp.weixin.qq.com/s/d_WbDDK5g3noIHF8dcvmWQ) (发布日期: 2026-06-23)
-- [蓝队防御 | OSIR、OSDA、CISP-TRE 拼齐你的“高段位”入场券](https://mp.weixin.qq.com/s/wHoxx_BDIt-FpsFE9VO0QQ) (发布日期: 2026-06-23)
-- [对某根域的一次渗透测试](https://mp.weixin.qq.com/s/SiskzGbPfbOzhH3zmILmNA) (发布日期: 2026-06-23)
-- [记一次挖矿木马样本分析](https://mp.weixin.qq.com/s/NtFXOYRJfOUjwrFctk1aHA) (发布日期: 2026-06-23)
-- [苏州银行760万最大罚单！涉网络及数据安全等11项违规](https://mp.weixin.qq.com/s/KWKiT-7FrN6HC5EbgsoSPA) (发布日期: 2026-06-23)
-- [关键信息基础设施供应链安全风险分析与应对策略](https://mp.weixin.qq.com/s/YQxIkWe219YYjEPkXbmx7Q) (发布日期: 2026-06-23)
-- [一款面向网络安全攻防演练场景的自动化信息收集工具 - 潜影【TraceHarvest】](https://mp.weixin.qq.com/s/lFjbHAU-n3RckGAlFBcxgg) (发布日期: 2026-06-23)
-- [重要数据处理者注意了！今后每年都要做网络数据安全风险评估](https://mp.weixin.qq.com/s/Ur2ka5tO-J77owQy7TyAVQ) (发布日期: 2026-06-23)
-- [特朗普连签两项行政命令，布局安全防护与量子技术领域](https://mp.weixin.qq.com/s/jVq6D91BQ4gpLjJQgWhIxQ) (发布日期: 2026-06-23)
-- [Groundsource：来自公开的全球洪水事件数据集](https://mp.weixin.qq.com/s/z79RMurKCSyQAIC0ouPKkA) (发布日期: 2026-06-23)
-- [直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约](https://mp.weixin.qq.com/s/powo7Rvy0JX8IQevZ3O1dQ) (发布日期: 2026-06-23)
-- [Joomla! 多个扩展存在未授权RCE漏洞](https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw) (发布日期: 2026-06-23)
-- [Decepticon：提出\"Vibe Hacking\"新范式，一条命令自动打完从侦察到持久化的完整红队链路](https://mp.weixin.qq.com/s/kgeE-9GCQjeiMt46EfLnvw) (发布日期: 2026-06-23)
-- [喜报 | 亿赛通成功中标运达股份终端数据安全项目](https://mp.weixin.qq.com/s/nJKLrNltpJ8YfJ9-sYnSmA) (发布日期: 2026-06-23)
-- [学海观澜｜中国密码学会开展2026年中国密码学会博士学位论文激励计划](https://mp.weixin.qq.com/s/KSVuvFPL9aMxaSkBRKD9uA) (发布日期: 2026-06-23)
-- [“乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现](https://mp.weixin.qq.com/s/WmcKqoAe_SHdKu5cL7h6rQ) (发布日期: 2026-06-23)
-- [谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金](https://mp.weixin.qq.com/s/24CpFv66uSmVpZU-Kht9Nw) (发布日期: 2026-06-23)
-- [网络数据安全风险评估办法](https://mp.weixin.qq.com/s/6A91IuNjNov-E9ng-5r_-w) (发布日期: 2026-06-23)
-- [近八成中招设备防护缺位，360发布5月勒索软件态势报告](https://mp.weixin.qq.com/s/dEUqpsLVgASX1HB9iLvjuw) (发布日期: 2026-06-23)
-- [全球74000家企业防火墙一夜被攻破，Oracle、三星、联邦快递全中招，你的数据可能早就在卖了](https://mp.weixin.qq.com/s/AMMtCT9AQT_ZBsBTbzGX9A) (发布日期: 2026-06-23)
-- [红队利器--魔改Frp绕过检测](https://mp.weixin.qq.com/s/ONqzi4uKcfjSaPmFihCxDw) (发布日期: 2026-06-23)
-- [14个开源项目、11个零权限RCE——这个AI审计系统开放公开挑战了](https://mp.weixin.qq.com/s/KwAlhq-n4QE8RvF8i1n7gA) (发布日期: 2026-06-23)
-- [14 个开源项目、11 个零权限 RCE——这个 AI 审计系统开放公开挑战了](https://mp.weixin.qq.com/s/NAcZiXCM5XaktsoMzwaYpw) (发布日期: 2026-06-23)
+- [苏州银行因网络安全和数据安全问题被罚 721 万元，网金部个人也被追责](https://mp.weixin.qq.com/s/pJ0JCK9QpXrMVYXrivpvnQ) (发布日期: 2026-06-24)
+- [AI渗透测试 -- SQL联合查询注入实战](https://mp.weixin.qq.com/s/hJXjfJ3I6zOqdx28W0hwAA) (发布日期: 2026-06-24)
+- [Shannon：Keygraph 开源 AI 渗透测试框架，从源码分析到真实漏洞利用](https://mp.weixin.qq.com/s/KDPO1p04xSVJGchnSC-qAQ) (发布日期: 2026-06-24)
+- [用 AI 挖掘 IDA Pro 任意代码执行漏洞](https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw) (发布日期: 2026-06-24)
+- [Webmin 2.641 修复三个漏洞，其中包括一个严重的身份验证绕过漏洞](https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ) (发布日期: 2026-06-24)
+- [三星 KNOX 内核释放后重用漏洞，数百万 Galaxy 系列手机面临风险](https://mp.weixin.qq.com/s/fnrsm_ZiyNdY5RO_mSafIQ) (发布日期: 2026-06-24)
+- [DifyTap：四大漏洞致使超百万个 AI 应用面临安全威胁](https://mp.weixin.qq.com/s/R5dOY9rgc_iDddVB1vtBHA) (发布日期: 2026-06-24)
+- [Android 应用安全分析工具集](https://mp.weixin.qq.com/s/ZBqg6LQuy2N_DHhsJAaN0A) (发布日期: 2026-06-24)
+- [漏洞产生的五个原因](https://mp.weixin.qq.com/s/wT1VgZOaLcQ0dEtwtCNytw) (发布日期: 2026-06-24)
+- [漏洞预警 | Linux kernel权限提升漏洞](https://mp.weixin.qq.com/s/Z-T84ceSUzTF9BoA697AZw) (发布日期: 2026-06-24)
+- [漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞](https://mp.weixin.qq.com/s/Rk9z5dbGcsGAv1wiCpH_VA) (发布日期: 2026-06-24)
+- [GB∕T 47697-2026 网络安全技术 鉴别与授权 基于属性的访问控制模型与管理规范](https://mp.weixin.qq.com/s/PKt9noZT_Ld_ivDsu9u_PQ) (发布日期: 2026-06-24)
+- [【培训通知】2026年第四期【电磁空间物理安全检测技术提升班】开班通知](https://mp.weixin.qq.com/s/XHi-LGe-5HXPdMWa1UA-mg) (发布日期: 2026-06-24)
+- [AI赋能！一个面向 Windows 主机应急响应场景的轻量化图形客户端](https://mp.weixin.qq.com/s/oRbhZC-mfmsrb4T8BenFEQ) (发布日期: 2026-06-24)
+- [速下载！600页PPT图解《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/pbIxnc04hY0wJPoH-ZJDRA) (发布日期: 2026-06-24)
 
 
 ## 🎯 威胁详情分析
@@ -102,33 +87,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI 安全三大核心赛道：赋能攻防、内生漏洞、自主系统失控风险详解 | Doonsec | [https://mp.weixin.qq.com/s/J92xTltFF_-WjjE_kDy9jg](https://mp.weixin.qq.com/s/J92xTltFF_-WjjE_kDy9jg) |
-| 2 | H5渗透实战：从复数金额漏洞到签名绕过 | Doonsec | [https://mp.weixin.qq.com/s/wXvrIb9uJhHC7NRmucG9Cw](https://mp.weixin.qq.com/s/wXvrIb9uJhHC7NRmucG9Cw) |
-| 3 | 直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约 | Doonsec | [https://mp.weixin.qq.com/s/powo7Rvy0JX8IQevZ3O1dQ](https://mp.weixin.qq.com/s/powo7Rvy0JX8IQevZ3O1dQ) |
-| 4 | Joomla! 多个扩展存在未授权RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw](https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw) |
-| 5 | “乌贼出血”漏洞：已存在29年，由 Mythos Preview 辅助发现 | Doonsec | [https://mp.weixin.qq.com/s/WmcKqoAe_SHdKu5cL7h6rQ](https://mp.weixin.qq.com/s/WmcKqoAe_SHdKu5cL7h6rQ) |
-| 6 | 谷歌拒修 Kubernetes 操作器满分漏洞并拒发赏金 | Doonsec | [https://mp.weixin.qq.com/s/24CpFv66uSmVpZU-Kht9Nw](https://mp.weixin.qq.com/s/24CpFv66uSmVpZU-Kht9Nw) |
+| 1 | Shannon：Keygraph 开源 AI 渗透测试框架，从源码分析到真实漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/KDPO1p04xSVJGchnSC-qAQ](https://mp.weixin.qq.com/s/KDPO1p04xSVJGchnSC-qAQ) |
+| 2 | 用 AI 挖掘 IDA Pro 任意代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw](https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw) |
+| 3 | Webmin 2.641 修复三个漏洞，其中包括一个严重的身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ](https://mp.weixin.qq.com/s/NL2Oa8h__B4pquR5ppN9NQ) |
+| 4 | 三星 KNOX 内核释放后重用漏洞，数百万 Galaxy 系列手机面临风险 | Doonsec | [https://mp.weixin.qq.com/s/fnrsm_ZiyNdY5RO_mSafIQ](https://mp.weixin.qq.com/s/fnrsm_ZiyNdY5RO_mSafIQ) |
+| 5 | DifyTap：四大漏洞致使超百万个 AI 应用面临安全威胁 | Doonsec | [https://mp.weixin.qq.com/s/R5dOY9rgc_iDddVB1vtBHA](https://mp.weixin.qq.com/s/R5dOY9rgc_iDddVB1vtBHA) |
+| 6 | 漏洞产生的五个原因 | Doonsec | [https://mp.weixin.qq.com/s/wT1VgZOaLcQ0dEtwtCNytw](https://mp.weixin.qq.com/s/wT1VgZOaLcQ0dEtwtCNytw) |
+| 7 | 漏洞预警 | Linux kernel权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Z-T84ceSUzTF9BoA697AZw](https://mp.weixin.qq.com/s/Z-T84ceSUzTF9BoA697AZw) |
+| 8 | 漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Rk9z5dbGcsGAv1wiCpH_VA](https://mp.weixin.qq.com/s/Rk9z5dbGcsGAv1wiCpH_VA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Groundsource：来自公开的全球洪水事件数据集 | Doonsec | [https://mp.weixin.qq.com/s/z79RMurKCSyQAIC0ouPKkA](https://mp.weixin.qq.com/s/z79RMurKCSyQAIC0ouPKkA) |
-| 2 | Joomla! 多个扩展存在未授权RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw](https://mp.weixin.qq.com/s/VmMBhvHaVHaf9g1WkkLvlw) |
-| 3 | 14个开源项目、11个零权限RCE——这个AI审计系统开放公开挑战了 | Doonsec | [https://mp.weixin.qq.com/s/KwAlhq-n4QE8RvF8i1n7gA](https://mp.weixin.qq.com/s/KwAlhq-n4QE8RvF8i1n7gA) |
-| 4 | 14 个开源项目、11 个零权限 RCE——这个 AI 审计系统开放公开挑战了 | Doonsec | [https://mp.weixin.qq.com/s/NAcZiXCM5XaktsoMzwaYpw](https://mp.weixin.qq.com/s/NAcZiXCM5XaktsoMzwaYpw) |
+| 1 | AI渗透测试 -- SQL联合查询注入实战 | Doonsec | [https://mp.weixin.qq.com/s/hJXjfJ3I6zOqdx28W0hwAA](https://mp.weixin.qq.com/s/hJXjfJ3I6zOqdx28W0hwAA) |
+| 2 | 用 AI 挖掘 IDA Pro 任意代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw](https://mp.weixin.qq.com/s/kskTQ5jSnmDAK47sVuzBkw) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI供应链安全最佳实践速查表 | Doonsec | [https://mp.weixin.qq.com/s/UYYsGvtK20IbGMbLzIOEMw](https://mp.weixin.qq.com/s/UYYsGvtK20IbGMbLzIOEMw) |
-| 2 | 关键信息基础设施供应链安全风险分析与应对策略 | Doonsec | [https://mp.weixin.qq.com/s/YQxIkWe219YYjEPkXbmx7Q](https://mp.weixin.qq.com/s/YQxIkWe219YYjEPkXbmx7Q) |
+| 1 | AI赋能！一个面向 Windows 主机应急响应场景的轻量化图形客户端 | Doonsec | [https://mp.weixin.qq.com/s/oRbhZC-mfmsrb4T8BenFEQ](https://mp.weixin.qq.com/s/oRbhZC-mfmsrb4T8BenFEQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-23/`
+文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-24/`
 
 ## 🔗 数据源说明
 
@@ -139,8 +123,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-23 14:48:46*
+*生成时间: 2026-06-24 03:36:19*
 *报告工具: 微信文章安全归档系统*
