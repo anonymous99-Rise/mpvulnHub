@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,27 +62,9 @@
 
 ### Doonsec
 
-- [【已复现】Gogs 远程代码执行漏洞(CVE-2026-52813)安全风险通告](https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA) (发布日期: 2026-06-25)
-- [【AI安全】Claude Code接管SOC！3人团队也能7×24](https://mp.weixin.qq.com/s/cM8-oQaSB7U4d0KfvoJMcg) (发布日期: 2026-06-25)
-- [客户端漏洞挖掘skills](https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw) (发布日期: 2026-06-25)
-- [哈尔滨工业大学（深圳）与中国科学技术大学合作完成：首个完全在FPGA硬件内实现自举密钥展开的独立TFHE全同态加密加速方案](https://mp.weixin.qq.com/s/7WFjUrJDoLdvxIiuqc6Muw) (发布日期: 2026-06-25)
-- [OpenClaw技能市场使人工智能代理面临供应链恶意软件和金融欺诈的风险](https://mp.weixin.qq.com/s/oTLr6_s5kWBfoN16dVi6Dw) (发布日期: 2026-06-25)
-- [Chrome 149 安全更新——修复可导致代码执行攻击的严重漏洞](https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A) (发布日期: 2026-06-25)
-- [亚信安全入选权威AI安全报告 智能体安全体系获行业深度认可](https://mp.weixin.qq.com/s/4S7GL3nHVlR9vwxjmpBw2A) (发布日期: 2026-06-25)
-- [Jenkins综合漏洞利用工具](https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA) (发布日期: 2026-06-25)
-- [披着“官方文件”外衣的窃密陷阱：从“银狐”木马看身份伪装式攻击的致命威胁](https://mp.weixin.qq.com/s/m07eH29exCVvrf854ME1_w) (发布日期: 2026-06-25)
-- [直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约](https://mp.weixin.qq.com/s/xPmomLLSLWiU0KFSk1YJ4A) (发布日期: 2026-06-25)
-- [政策解读 | 《网络数据安全风险评估办法》正式发布，重要数据处理者迎来年度\"必答题\"](https://mp.weixin.qq.com/s/BwnBZCPwzOgm4LdcV8-gAA) (发布日期: 2026-06-25)
-- [翻越围栏：智能体过度主动行为的安全分析](https://mp.weixin.qq.com/s/FiBoU-K5acoaAyI350-8XQ) (发布日期: 2026-06-25)
-- [国家金监总局发布《关于银行业保险业人工智能安全开发应用的指导意见》](https://mp.weixin.qq.com/s/DSK9HZGw97-XYDi8870xdA) (发布日期: 2026-06-25)
-- [【漏洞通告】FFmpeg MagicYUV PixelSmash 解码器堆越界写入漏洞(CVE-2026-8461)](https://mp.weixin.qq.com/s/ERSGCN3tPfRDBx0WZrvUrQ) (发布日期: 2026-06-25)
-- [【漏洞通告】Cisco Unified Communications Manager WebDialer 服务器端伪造请求漏洞(CVE-2026-20230)](https://mp.weixin.qq.com/s/xsym4OfXmJl3-VUooMVJ3A) (发布日期: 2026-06-25)
-- [xss利用冷门事件绕过阿里云waf](https://mp.weixin.qq.com/s/Rk5UNtjDruDVGV5q_3GiMA) (发布日期: 2026-06-25)
-- [【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现](https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ) (发布日期: 2026-06-25)
-- [双赛道实力登榜！华青融天入选嘶吼《2026xa0AI+网络安全产业图谱》安全运营与管理、数据资源与管理细分领域](https://mp.weixin.qq.com/s/0C3SFPY21xrDM0huMch1mA) (发布日期: 2026-06-25)
-- [瑞友天翼应用虚拟化系统SQL注入漏洞](https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg) (发布日期: 2026-06-25)
-- [与AI抢时间：美CISA颁布国家级漏洞防御新规](https://mp.weixin.qq.com/s/d4OV7oOmDfoZhZQPDZ8TJQ) (发布日期: 2026-06-25)
-- [全员共治 全域防控丨启明星辰出席波司登信息安全培训会议](https://mp.weixin.qq.com/s/JCYtNVbUIVe8XsfPCS14_w) (发布日期: 2026-06-25)
+- [记一次狗运逻辑漏洞接管前台账号](https://mp.weixin.qq.com/s/G0gY7NxkyEydZmpWVQhlQA) (发布日期: 2026-06-25)
+- [【高危漏洞预警】Gogs git rebase参数注入远程代码执行漏洞CVE-2026-52813](https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ) (发布日期: 2026-06-25)
+- [智行千里，善治为舵—AI做好数据安全治理](https://mp.weixin.qq.com/s/Q7WkkD5UH3MNO4IFQs6o1g) (发布日期: 2026-06-25)
 
 
 ## 🎯 威胁详情分析
@@ -94,43 +73,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】Gogs 远程代码执行漏洞(CVE-2026-52813)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA](https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA) |
-| 2 | 客户端漏洞挖掘skills | Doonsec | [https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw](https://mp.weixin.qq.com/s/swYPy3q5kBiRs4dNGdGiMw) |
-| 3 | Chrome 149 安全更新——修复可导致代码执行攻击的严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A](https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A) |
-| 4 | Jenkins综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA](https://mp.weixin.qq.com/s/BrEi4W3plsnveOcQotGgIA) |
-| 5 | 直播预告丨AI赋能的漏洞挖掘与风险管控，公开课第八节开放预约 | Doonsec | [https://mp.weixin.qq.com/s/xPmomLLSLWiU0KFSk1YJ4A](https://mp.weixin.qq.com/s/xPmomLLSLWiU0KFSk1YJ4A) |
-| 6 | 【漏洞通告】FFmpeg MagicYUV PixelSmash 解码器堆越界写入漏洞(CVE-2026-8461) | Doonsec | [https://mp.weixin.qq.com/s/ERSGCN3tPfRDBx0WZrvUrQ](https://mp.weixin.qq.com/s/ERSGCN3tPfRDBx0WZrvUrQ) |
-| 7 | 【漏洞通告】Cisco Unified Communications Manager WebDialer 服务器端伪造请求漏洞(CVE-2026-20230) | Doonsec | [https://mp.weixin.qq.com/s/xsym4OfXmJl3-VUooMVJ3A](https://mp.weixin.qq.com/s/xsym4OfXmJl3-VUooMVJ3A) |
-| 8 | 【论文速读】| OpenAnt：通过代码分解、对抗性验证与动态测试的LLM漏洞发现 | Doonsec | [https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ](https://mp.weixin.qq.com/s/apu4-rIhU8ZqynmvXJIPvQ) |
-| 9 | 瑞友天翼应用虚拟化系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg](https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg) |
-| 10 | 与AI抢时间：美CISA颁布国家级漏洞防御新规 | Doonsec | [https://mp.weixin.qq.com/s/d4OV7oOmDfoZhZQPDZ8TJQ](https://mp.weixin.qq.com/s/d4OV7oOmDfoZhZQPDZ8TJQ) |
+| 1 | 记一次狗运逻辑漏洞接管前台账号 | Doonsec | [https://mp.weixin.qq.com/s/G0gY7NxkyEydZmpWVQhlQA](https://mp.weixin.qq.com/s/G0gY7NxkyEydZmpWVQhlQA) |
+| 2 | 【高危漏洞预警】Gogs git rebase参数注入远程代码执行漏洞CVE-2026-52813 | Doonsec | [https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ](https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】Gogs 远程代码执行漏洞(CVE-2026-52813)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA](https://mp.weixin.qq.com/s/NZYzB9yYMUWKbkXkgzD9nA) |
-| 2 | Chrome 149 安全更新——修复可导致代码执行攻击的严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A](https://mp.weixin.qq.com/s/7v-1xbqVmA0-IlDCjkeb6A) |
-| 3 | xss利用冷门事件绕过阿里云waf | Doonsec | [https://mp.weixin.qq.com/s/Rk5UNtjDruDVGV5q_3GiMA](https://mp.weixin.qq.com/s/Rk5UNtjDruDVGV5q_3GiMA) |
-| 4 | 瑞友天翼应用虚拟化系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg](https://mp.weixin.qq.com/s/JI8ZinZ_oXARbjmq2KlZxg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 披着“官方文件”外衣的窃密陷阱：从“银狐”木马看身份伪装式攻击的致命威胁 | Doonsec | [https://mp.weixin.qq.com/s/m07eH29exCVvrf854ME1_w](https://mp.weixin.qq.com/s/m07eH29exCVvrf854ME1_w) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 双赛道实力登榜！华青融天入选嘶吼《2026xa0AI+网络安全产业图谱》安全运营与管理、数据资源与管理细分领域 | Doonsec | [https://mp.weixin.qq.com/s/0C3SFPY21xrDM0huMch1mA](https://mp.weixin.qq.com/s/0C3SFPY21xrDM0huMch1mA) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OpenClaw技能市场使人工智能代理面临供应链恶意软件和金融欺诈的风险 | Doonsec | [https://mp.weixin.qq.com/s/oTLr6_s5kWBfoN16dVi6Dw](https://mp.weixin.qq.com/s/oTLr6_s5kWBfoN16dVi6Dw) |
+| 1 | 【高危漏洞预警】Gogs git rebase参数注入远程代码执行漏洞CVE-2026-52813 | Doonsec | [https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ](https://mp.weixin.qq.com/s/ucH44lrRnMRD_pikAFl8hQ) |
 
 
 ## 📁 归档路径
@@ -146,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -156,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-25 14:33:10*
+*生成时间: 2026-06-25 18:09:45*
 *报告工具: 微信文章安全归档系统*
