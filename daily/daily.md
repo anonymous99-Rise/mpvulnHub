@@ -2,20 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **威胁情报**: 3篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,17 +64,8 @@
 
 ### Doonsec
 
-- [威胁情报｜Verana Blockchain 代码仓库遭投毒分析](https://mp.weixin.qq.com/s/Ld2YD9Dhzglc9qTPm0ggxw) (发布日期: 2026-06-26)
-- [威胁情报｜PostCSS 伪装 npm 包三件套关联攻击链分析](https://mp.weixin.qq.com/s/GvRuo-ngbFjzkW6MvpWG8w) (发布日期: 2026-06-26)
-- [GeoLocate CVE-2025-52465 - GeoServer漏洞利用](https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw) (发布日期: 2026-06-26)
-- [CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行](https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA) (发布日期: 2026-06-26)
-- [CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用](https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w) (发布日期: 2026-06-26)
-- [Minecraft恶意软件加载器使用RSA签名的智能合约更新来实现持久的C2通信](https://mp.weixin.qq.com/s/XAHtWvoDEug-deWh1w_szQ) (发布日期: 2026-06-26)
-- [KuinaExtractor 利用 Telegram 数据泄露、UAC 绕过和沙箱检测实现隐蔽传输](https://mp.weixin.qq.com/s/NgmBHlIV8zH0gxA66jVP8w) (发布日期: 2026-06-26)
-- [中国87亿条、国外240亿条信息泄露，业内人士称：泄露数十亿记录正成常态](https://mp.weixin.qq.com/s/K45uvStrmMg1kunDNdBt3A) (发布日期: 2026-06-26)
-- [浙商银行珠海分行因应急制度缺失领央行罚单，网络安全合规要求持续下沉](https://mp.weixin.qq.com/s/qCpKmJ4jVWb3LJ4qzORojg) (发布日期: 2026-06-26)
-- [当AI具备自主执行能力，数据加密面临的新命题](https://mp.weixin.qq.com/s/bkOphycxbJq8aMBxxZDtHA) (发布日期: 2026-06-26)
-- [萤火自动化应急响应工具](https://mp.weixin.qq.com/s/WtfbtDnkA-uKDwl_OKkuUg) (发布日期: 2026-06-26)
+- [朝鲜APT新型macOS后门的大模型检测对抗手法](https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA) (发布日期: 2026-06-26)
+- [AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) (发布日期: 2026-06-26)
 
 
 ## 🎯 威胁详情分析
@@ -83,29 +74,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | GeoLocate CVE-2025-52465 - GeoServer漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw](https://mp.weixin.qq.com/s/nKWR5Sypju9tNsac5zPGgw) |
-| 2 | CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA](https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA) |
-| 3 | CISA警告：思科统一配置管理（Cisco Unified CM）漏洞已被攻击者利用 | Doonsec | [https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w](https://mp.weixin.qq.com/s/3uepeUGGnQMGIHTggkhw6w) |
+| 1 | AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录 | Doonsec | [https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-25860 - OpenClinic GA 反射型 XSS 漏洞导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA](https://mp.weixin.qq.com/s/rqb5G7wrtgdmwCAvbIvqKA) |
+| 1 | AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录 | Doonsec | [https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报｜Verana Blockchain 代码仓库遭投毒分析 | Doonsec | [https://mp.weixin.qq.com/s/Ld2YD9Dhzglc9qTPm0ggxw](https://mp.weixin.qq.com/s/Ld2YD9Dhzglc9qTPm0ggxw) |
-| 2 | 威胁情报｜PostCSS 伪装 npm 包三件套关联攻击链分析 | Doonsec | [https://mp.weixin.qq.com/s/GvRuo-ngbFjzkW6MvpWG8w](https://mp.weixin.qq.com/s/GvRuo-ngbFjzkW6MvpWG8w) |
-| 3 | 萤火自动化应急响应工具 | Doonsec | [https://mp.weixin.qq.com/s/WtfbtDnkA-uKDwl_OKkuUg](https://mp.weixin.qq.com/s/WtfbtDnkA-uKDwl_OKkuUg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | KuinaExtractor 利用 Telegram 数据泄露、UAC 绕过和沙箱检测实现隐蔽传输 | Doonsec | [https://mp.weixin.qq.com/s/NgmBHlIV8zH0gxA66jVP8w](https://mp.weixin.qq.com/s/NgmBHlIV8zH0gxA66jVP8w) |
+| 1 | 朝鲜APT新型macOS后门的大模型检测对抗手法 | Doonsec | [https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA](https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA) |
 
 
 ## 📁 归档路径
@@ -121,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-26 14:24:43*
+*生成时间: 2026-06-26 17:47:56*
 *报告工具: 微信文章安全归档系统*
