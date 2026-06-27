@@ -1,21 +1,21 @@
-# 2026-06-26 安全威胁态势报告
+# 2026-06-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 4篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,8 +64,26 @@
 
 ### Doonsec
 
-- [朝鲜APT新型macOS后门的大模型检测对抗手法](https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA) (发布日期: 2026-06-26)
-- [AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) (发布日期: 2026-06-26)
+- [安天AVL SDK反病毒引擎升级通告（20260627）](https://mp.weixin.qq.com/s/sRCmkjBZiFEPFfZOS6VfOw) (发布日期: 2026-06-27)
+- [【一周安全资讯0627】国家网信办等三部门联合公布《网络数据安全风险评估办法》；印度塔塔电子遭勒索，苹果、特斯拉超630G数据泄露](https://mp.weixin.qq.com/s/Y5uS80LPL7XBmXi9L_SMng) (发布日期: 2026-06-27)
+- [Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链](https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ) (发布日期: 2026-06-27)
+- [漏洞复现 | 天问物业ERP系统 docfileDownLoad.aspx 文件读取漏洞](https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug) (发布日期: 2026-06-27)
+- [行业资讯：某网络运维和安全服务项目安恒信息中标](https://mp.weixin.qq.com/s/ITq7zfqo4tAOpxN6eTsyFQ) (发布日期: 2026-06-27)
+- [web-automator-Skill 基于BU的提示词注入自动化方案](https://mp.weixin.qq.com/s/gMLkP9U_Dk88z9jBreqErw) (发布日期: 2026-06-27)
+- [EtherRAT/EtherHiding 恶意软件活动](https://mp.weixin.qq.com/s/M5PoEYbc5XZ5pFt8X1iWfw) (发布日期: 2026-06-27)
+- [消息模板注入漏洞](https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q) (发布日期: 2026-06-27)
+- [一周安全事件回顾：从数据到银行、工厂，供应链风险开始跨域传导](https://mp.weixin.qq.com/s/786As2-6AC30MYrP8ADjNQ) (发布日期: 2026-06-27)
+- [研究员学习Hyper-V时意外挖出微软隐藏BUG：CVE-2024-21305](https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA) (发布日期: 2026-06-27)
+- [无线渗透测试：PMKID攻击详解](https://mp.weixin.qq.com/s/nPCX01M-bw2HyoIaorJYcA) (发布日期: 2026-06-27)
+- [我用AI挖了隐藏N年的组合拳漏洞](https://mp.weixin.qq.com/s/ZRo8c5NRLpNte0b1JaLtQg) (发布日期: 2026-06-27)
+- [不会找漏洞 试试Nuclei这款神器](https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g) (发布日期: 2026-06-27)
+- [任意文件读取&amp;下载漏洞的全面解析及利用](https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg) (发布日期: 2026-06-27)
+- [新加坡人工智能安全全景报告（2026）](https://mp.weixin.qq.com/s/T3UsMdq50Ybfz7kgg_1OVQ) (发布日期: 2026-06-27)
+- [HCIE 硬核进阶：一文玩转EVPN L3VPN over SRv6，打通算力网络大动脉](https://mp.weixin.qq.com/s/cl3UlQfGZ1Wat9vYGAmRWw) (发布日期: 2026-06-27)
+- [保密手机功能受限反酿安全漏洞：美特勤局人员被迫用私人手机执行保护任务](https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g) (发布日期: 2026-06-27)
+- [GitHub遭遇大规模攻击，恶意软件被注入1万个受感染的代码仓库](https://mp.weixin.qq.com/s/LjJTQFdONuix2jP3OFyxpw) (发布日期: 2026-06-27)
+- [挖洞思路｜CORS配置漏洞背后的信任陷阱，赏金猎人如何靠逻辑链破防？](https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw) (发布日期: 2026-06-27)
+- [恶意软件升级为后门平台，借助Tor网络长期潜伏](https://mp.weixin.qq.com/s/pvkkZDla0z_j-KP8EkTPyg) (发布日期: 2026-06-27)
 
 
 ## 🎯 威胁详情分析
@@ -74,24 +92,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录 | Doonsec | [https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) |
+| 1 | 漏洞复现 | 天问物业ERP系统 docfileDownLoad.aspx 文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug](https://mp.weixin.qq.com/s/eFJo2jC_jFcS4j3YkSKQug) |
+| 2 | 消息模板注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q](https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q) |
+| 3 | 研究员学习Hyper-V时意外挖出微软隐藏BUG：CVE-2024-21305 | Doonsec | [https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA](https://mp.weixin.qq.com/s/y15izv7ojxCyjrZ7BsswDA) |
+| 4 | 我用AI挖了隐藏N年的组合拳漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ZRo8c5NRLpNte0b1JaLtQg](https://mp.weixin.qq.com/s/ZRo8c5NRLpNte0b1JaLtQg) |
+| 5 | 不会找漏洞 试试Nuclei这款神器 | Doonsec | [https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g](https://mp.weixin.qq.com/s/6J6VJ_XGoC4lk-WrdM9N7g) |
+| 6 | 任意文件读取&amp;下载漏洞的全面解析及利用 | Doonsec | [https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg](https://mp.weixin.qq.com/s/cjKao6frX3v2JjmoZWMRjg) |
+| 7 | 保密手机功能受限反酿安全漏洞：美特勤局人员被迫用私人手机执行保护任务 | Doonsec | [https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g](https://mp.weixin.qq.com/s/zQiuwFTWRNIYV_uV5c7l4g) |
+| 8 | 挖洞思路｜CORS配置漏洞背后的信任陷阱，赏金猎人如何靠逻辑链破防？ | Doonsec | [https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw](https://mp.weixin.qq.com/s/p6rGDIcUDb56xsw3-a9tfw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI 生成 | Gogs CVE-2026-52813：从组织名路径穿越到 RCE 的复现全记录 | Doonsec | [https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg](https://mp.weixin.qq.com/s/I0klN0JtPqeTGVs1zJd9Sg) |
+| 1 | Cisco CUCM 任意文件写入到RCE：一条被低估的攻击链 | Doonsec | [https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ](https://mp.weixin.qq.com/s/bGi5a_ZLKNMmrNaIwmDAFQ) |
+| 2 | web-automator-Skill 基于BU的提示词注入自动化方案 | Doonsec | [https://mp.weixin.qq.com/s/gMLkP9U_Dk88z9jBreqErw](https://mp.weixin.qq.com/s/gMLkP9U_Dk88z9jBreqErw) |
+| 3 | 消息模板注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q](https://mp.weixin.qq.com/s/3IxDbhDRWVzFC-kE4ogi5Q) |
+| 4 | GitHub遭遇大规模攻击，恶意软件被注入1万个受感染的代码仓库 | Doonsec | [https://mp.weixin.qq.com/s/LjJTQFdONuix2jP3OFyxpw](https://mp.weixin.qq.com/s/LjJTQFdONuix2jP3OFyxpw) |
 
-### 威胁情报
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 朝鲜APT新型macOS后门的大模型检测对抗手法 | Doonsec | [https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA](https://mp.weixin.qq.com/s/hBNY3rmYiCE7UNMYlYSmkA) |
+| 1 | 【一周安全资讯0627】国家网信办等三部门联合公布《网络数据安全风险评估办法》；印度塔塔电子遭勒索，苹果、特斯拉超630G数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/Y5uS80LPL7XBmXi9L_SMng](https://mp.weixin.qq.com/s/Y5uS80LPL7XBmXi9L_SMng) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 一周安全事件回顾：从数据到银行、工厂，供应链风险开始跨域传导 | Doonsec | [https://mp.weixin.qq.com/s/786As2-6AC30MYrP8ADjNQ](https://mp.weixin.qq.com/s/786As2-6AC30MYrP8ADjNQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-26/`
+文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-27/`
 
 ## 🔗 数据源说明
 
@@ -102,7 +136,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -112,5 +146,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-26 17:47:56*
+*生成时间: 2026-06-27 03:29:01*
 *报告工具: 微信文章安全归档系统*
