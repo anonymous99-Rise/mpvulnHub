@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 4篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **供应链**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,23 +63,27 @@
 
 ### Doonsec
 
-- [自动化漏洞扫描器 -- hack_scanner](https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q) (发布日期: 2026-06-28)
-- [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s/g0ob85FYZXsaegUmsCqtRA) (发布日期: 2026-06-28)
-- [【工具推荐】红队移动端评估测试工具](https://mp.weixin.qq.com/s/9Mwsp3zhdnr0ttpUjm-8zw) (发布日期: 2026-06-28)
-- [AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！](https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A) (发布日期: 2026-06-28)
-- [CRA 分级大坑！内置防火墙≠高风险产品，一文分清重要 / 关键产品判定规则](https://mp.weixin.qq.com/s/iOoOx5xequdpNPryRxbmgg) (发布日期: 2026-06-28)
-- [福建省福州市金融领域数据安全职工技能竞赛举行](https://mp.weixin.qq.com/s/pTwH7a6awl7kK09Ph0Paag) (发布日期: 2026-06-28)
-- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/6qmuc1T_fFevqD97tDVhZQ) (发布日期: 2026-06-28)
-- [漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞](https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg) (发布日期: 2026-06-28)
-- [小米：车联网-站在研发视角挖漏洞](https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A) (发布日期: 2026-06-28)
-- [智能网联汽车功能安全开发实战培训（2026）](https://mp.weixin.qq.com/s/vY1dcC2EOPlfJLh-rla6_g) (发布日期: 2026-06-28)
-- [基于 TGW 的整车 OTA 系统安全设计](https://mp.weixin.qq.com/s/ZVRsr--Zl5ypDJDrGNKeww) (发布日期: 2026-06-28)
-- [网络安全运营参考架构图](https://mp.weixin.qq.com/s/b5UNZUA8ijycs1V1yzIZhg) (发布日期: 2026-06-28)
-- [关于银行业保险业人工智能安全开发应用的指导意见](https://mp.weixin.qq.com/s/Tvq04qeUaCFZ7zT-Shrb3A) (发布日期: 2026-06-28)
-- [Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险](https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A) (发布日期: 2026-06-28)
-- [暗网泄露:Dau.edu点vn 数据泄露](https://mp.weixin.qq.com/s/0TUt_pLlp_wcyZtDtuxLzQ) (发布日期: 2026-06-28)
-- [360网络安全专家边亮揭秘某些跑分王手机厂商云控特调猫腻](https://mp.weixin.qq.com/s/ZWHaV9cHXvUA3gmxYeobUQ) (发布日期: 2026-06-28)
-- [单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳](https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g) (发布日期: 2026-06-28)
+- [03 从告警到证据链：AI 如何辅助 SOC 研判？](https://mp.weixin.qq.com/s/6sug_9oztI2MOVgS_oRpKA) (发布日期: 2026-06-28)
+- [打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析](https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w) (发布日期: 2026-06-28)
+- [JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器](https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA) (发布日期: 2026-06-28)
+- [【网安基础篇】5大防火墙类型深度解析！](https://mp.weixin.qq.com/s/WiCBcT8_sp2bHmKICE50XQ) (发布日期: 2026-06-28)
+
+### BruceFeIix
+
+- [ ] [关于银行业保险业人工智能安全开发应用的指导意见](https://mp.weixin.qq.com/s/OJcIoq39JrTJIYUh1hrqCw) (发布日期: 2026-06-28)
+- [ ] [AI安全工具汇总](https://mp.weixin.qq.com/s/En9HsV-3de8ZqbZnjxLE_Q) (发布日期: 2026-06-28)
+- [ ] [在看 | 周报：上海携程因违法出境个人信息被罚1000万元；苏州银行涉网络及数据安全等11项违规，合计罚没760万元](https://mp.weixin.qq.com/s/vOUuP0dbV7AV1AhGqIovlg) (发布日期: 2026-06-28)
+- [ ] [探索CVE-2026-31431的热补丁修复方案](https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA) (发布日期: 2026-06-28)
+- [ ] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘](https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g) (发布日期: 2026-06-28)
+- [ ] [K8sPenTool：一款面向Kubernetes集群的综合渗透测试评估平台](https://mp.weixin.qq.com/s/iEhLsvzuTH4MdTEiqn0Q3g) (发布日期: 2026-06-28)
+- [ ] [入门网安必备！6款主流开源漏洞扫描神器](https://mp.weixin.qq.com/s/1-dTkVPBiySZGYrlcUhUaw) (发布日期: 2026-06-28)
+- [ ] [网络安全防护方案对比：Web应用防火墙 vs 防火墙 vs入侵检测/防御系统](https://mp.weixin.qq.com/s/fkHZcSUPYCRNNhnhvzjmBQ) (发布日期: 2026-06-28)
+- [ ] [用 AI 自动完成渗透测试流程，从发现漏洞到利用漏洞一步到位](https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ) (发布日期: 2026-06-28)
+- [ ] [国家网信办等三部门联合公布《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s/xk6Q129t2CozURPXsgzfpA) (发布日期: 2026-06-28)
+- [ ] [探索CVE-2026-31431的热补丁修复方案](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678) (发布日期: 2026-06-28)
+- [ ] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75) (发布日期: 2026-06-28)
+- [ ] [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe) (发布日期: 2026-06-28)
+- [ ] [最新Linux的本地提权漏洞分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9) (发布日期: 2026-06-28)
 
 
 ## 🎯 威胁详情分析
@@ -89,31 +92,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 自动化漏洞扫描器 -- hack_scanner | Doonsec | [https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q](https://mp.weixin.qq.com/s/HbEIBTCoOElCd_18VfWO-Q) |
-| 2 | AI是阿拉丁神灯？ AI漏洞挖掘系统上手教程！ | Doonsec | [https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A](https://mp.weixin.qq.com/s/1NYrbMOPYlyFLQFqrJ8V_A) |
-| 3 | 漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg](https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg) |
-| 4 | 小米：车联网-站在研发视角挖漏洞 | Doonsec | [https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A](https://mp.weixin.qq.com/s/al1TIUNMPJ6GZpVL1i5i2A) |
-| 5 | Lantronix工业设备高危漏洞遭在野利用，暴露OT设备补丁窗口期风险 | Doonsec | [https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A](https://mp.weixin.qq.com/s/wtTS-qK3Yd8vg3Cj_pzF8A) |
-| 6 | 单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳 | Doonsec | [https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g](https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g) |
+| 1 | 打开一个恶意仓库就能偷走你的云账号：Amazon Q 插件高危漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w](https://mp.weixin.qq.com/s/pUt3tAli7UbQlmlSDVdR6w) |
+| 2 | JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器 | Doonsec | [https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA](https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA) |
+| 3 |  ] [探索CVE-2026-31431的热补丁修复方案 | BruceFeIix | [https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA](https://mp.weixin.qq.com/s/DnqojdKDBdB4u7fOM53uYA) |
+| 4 |  ] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g](https://mp.weixin.qq.com/s/GyPRpnzp7jn5yZWpJJ637g) |
+| 5 |  ] [入门网安必备！6款主流开源漏洞扫描神器 | BruceFeIix | [https://mp.weixin.qq.com/s/1-dTkVPBiySZGYrlcUhUaw](https://mp.weixin.qq.com/s/1-dTkVPBiySZGYrlcUhUaw) |
+| 6 |  ] [用 AI 自动完成渗透测试流程，从发现漏洞到利用漏洞一步到位 | BruceFeIix | [https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ](https://mp.weixin.qq.com/s/wNDxXW1HFrVfYEUWFmf2HQ) |
+| 7 |  ] [探索CVE-2026-31431的热补丁修复方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678) |
+| 8 |  ] [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75) |
+| 9 |  ] [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe) |
+| 10 |  ] [最新Linux的本地提权漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | 天融信上网行为管理系统 pc.php 接口存在xss漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg](https://mp.weixin.qq.com/s/wNZgCl8G7V3S0RMvXyYjhg) |
-| 2 | 单看都是中低危，组合起来却拿下严重漏洞？赏金猎人都在练的CORS+反射XSS组合拳 | Doonsec | [https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g](https://mp.weixin.qq.com/s/zKBNTIsSQ8qbo0GYK2We9g) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 网络安全运营参考架构图 | Doonsec | [https://mp.weixin.qq.com/s/b5UNZUA8ijycs1V1yzIZhg](https://mp.weixin.qq.com/s/b5UNZUA8ijycs1V1yzIZhg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 暗网泄露:Dau.edu点vn 数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/0TUt_pLlp_wcyZtDtuxLzQ](https://mp.weixin.qq.com/s/0TUt_pLlp_wcyZtDtuxLzQ) |
+| 1 | JCE 编辑＜ 2.9.99.5 — 未认证远程代码执行（CVE-2026-48907）扫描器 | Doonsec | [https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA](https://mp.weixin.qq.com/s/NIG9PDJ-DUKEV-hSHhaCwA) |
 
 
 ## 📁 归档路径
@@ -129,8 +123,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **供应链** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-28 03:52:08*
+*生成时间: 2026-06-28 07:51:23*
 *报告工具: 微信文章安全归档系统*
