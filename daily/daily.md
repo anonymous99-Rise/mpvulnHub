@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +60,10 @@
 
 ### Doonsec
 
-- [SRC聚合分析赏金平台 - 功能上新](https://mp.weixin.qq.com/s/mAmudW1R5B6lX7wwiajfCg) (发布日期: 2026-06-28)
-- [【域渗透】主机权限提升](https://mp.weixin.qq.com/s/sulIBhuZfaNPxAVhhB-5uQ) (发布日期: 2026-06-28)
-- [fagent：支持 AI 调用的 C2，让 AI 的手伸进内网](https://mp.weixin.qq.com/s/amorUkSXLTv_qxbPSMD30Q) (发布日期: 2026-06-28)
-- [【安全圈】三星 Galaxy 手机被曝高危安全漏洞](https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg) (发布日期: 2026-06-28)
-- [【安全圈】波兰捣毁与数百万美元加密货币盗窃案相关的 SIM 卡交换团伙](https://mp.weixin.qq.com/s/7Rg7hm3q1ohTKJvtz8W3xA) (发布日期: 2026-06-28)
-- [【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析](https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ) (发布日期: 2026-06-28)
-- [某34国语言综合GP交易所存在前台SQL注入漏洞 (Java)](https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ) (发布日期: 2026-06-28)
-- [OAuth 2.0 身份验证漏洞--portswigger打靶](https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw) (发布日期: 2026-06-28)
+- [五月学员优秀edu漏洞挖掘案例分享](https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg) (发布日期: 2026-06-28)
+- [第19篇 全栈AI · Shannon-AI渗透测试中文增](https://mp.weixin.qq.com/s/yLP9eYJBfTOKVtCth4CxxA) (发布日期: 2026-06-28)
+- [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/BiFTtl3n2oAq9aiZ-b51Ig) (发布日期: 2026-06-28)
+- [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s/DRLJ7ifaNLmJQltElp4bzA) (发布日期: 2026-06-28)
 
 
 ## 🎯 威胁详情分析
@@ -80,23 +72,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】三星 Galaxy 手机被曝高危安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg](https://mp.weixin.qq.com/s/nqi-9yFYS-oWNEP1A0XOKg) |
-| 2 | 某34国语言综合GP交易所存在前台SQL注入漏洞 (Java) | Doonsec | [https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ](https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ) |
-| 3 | OAuth 2.0 身份验证漏洞--portswigger打靶 | Doonsec | [https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw](https://mp.weixin.qq.com/s/icBvY0qLBvHyrRncG_6ubw) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | fagent：支持 AI 调用的 C2，让 AI 的手伸进内网 | Doonsec | [https://mp.weixin.qq.com/s/amorUkSXLTv_qxbPSMD30Q](https://mp.weixin.qq.com/s/amorUkSXLTv_qxbPSMD30Q) |
-| 2 | 【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析 | Doonsec | [https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ](https://mp.weixin.qq.com/s/ma3z1HJPjejMXv7AmsLHiQ) |
-| 3 | 某34国语言综合GP交易所存在前台SQL注入漏洞 (Java) | Doonsec | [https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ](https://mp.weixin.qq.com/s/-dVfp5G0RhMsPU95U-0bQQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SRC聚合分析赏金平台 - 功能上新 | Doonsec | [https://mp.weixin.qq.com/s/mAmudW1R5B6lX7wwiajfCg](https://mp.weixin.qq.com/s/mAmudW1R5B6lX7wwiajfCg) |
+| 1 | 五月学员优秀edu漏洞挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg](https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg) |
 
 
 ## 📁 归档路径
@@ -112,8 +88,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-28 13:46:02*
+*生成时间: 2026-06-28 17:11:43*
 *报告工具: 微信文章安全归档系统*
