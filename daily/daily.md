@@ -1,17 +1,22 @@
-# 2026-06-28 安全威胁态势报告
+# 2026-06-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 30
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 30篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 6篇
+- **威胁情报**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,10 +65,36 @@
 
 ### Doonsec
 
-- [五月学员优秀edu漏洞挖掘案例分享](https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg) (发布日期: 2026-06-28)
-- [第19篇 全栈AI · Shannon-AI渗透测试中文增](https://mp.weixin.qq.com/s/yLP9eYJBfTOKVtCth4CxxA) (发布日期: 2026-06-28)
-- [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/BiFTtl3n2oAq9aiZ-b51Ig) (发布日期: 2026-06-28)
-- [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s/DRLJ7ifaNLmJQltElp4bzA) (发布日期: 2026-06-28)
+- [用AI检测“越权漏洞”，更快更灵！](https://mp.weixin.qq.com/s/8p6cbgnf4EtlobdCG9WKcw) (发布日期: 2026-06-29)
+- [浙商银行因“未制定网络安全事件应急预案”等被罚55万](https://mp.weixin.qq.com/s/s4Acinof_SqrVjIAWqpypg) (发布日期: 2026-06-29)
+- [Linux安全检查与应急响应一键脚本：这款工具让运维工程师彻底告别手动排查时代](https://mp.weixin.qq.com/s/hkQsQL1VsReH_c8o9ZfpVg) (发布日期: 2026-06-29)
+- [AI安全专家谭翔：权限才是AI Agent的安全边界](https://mp.weixin.qq.com/s/I7y-Vd-xA1NCHryqw5ZEOA) (发布日期: 2026-06-29)
+- [旧漏洞，新规则：不用捷径拿下 CVE-2023-36802](https://mp.weixin.qq.com/s/LoWuMtZzwi9BwO93BIW_kg) (发布日期: 2026-06-29)
+- [蓝凌EIS智慧协同平台 Getmobiles 存在SQL注入漏洞](https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A) (发布日期: 2026-06-29)
+- [2026年电力行业职业技能竞赛（网络与信息安全管理员S）决赛即将开赛](https://mp.weixin.qq.com/s/YkZQA_MOHo15j_5tQF89XQ) (发布日期: 2026-06-29)
+- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/VJ3pNRfbu0pjlv3dnHBQfw) (发布日期: 2026-06-29)
+- [DirtyClone：六周内第四起 Linux 内核漏洞，可提权至 Root 权限](https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA) (发布日期: 2026-06-29)
+- [Polymarket 第三方接口遭入侵，导致 294 万美元加密货币被盗](https://mp.weixin.qq.com/s/9waURHdRBof9fAGU5p7DLw) (发布日期: 2026-06-29)
+- [破解盲SSRF死局、进阶之路：利用重定向循环突破无回显限制，内网信息可直接提取](https://mp.weixin.qq.com/s/gF2xPY_lNQ3R3DGYanCWiQ) (发布日期: 2026-06-29)
+- [CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷](https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A) (发布日期: 2026-06-29)
+- [c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC](https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw) (发布日期: 2026-06-29)
+- [【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解](https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ) (发布日期: 2026-06-29)
+- [CVE-2026-48907 Scanner](https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg) (发布日期: 2026-06-29)
+- [【CVE-2026-43503】DirtyClone 本地用户通过克隆数据包获得 Root 权限](https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA) (发布日期: 2026-06-29)
+- [微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部](https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg) (发布日期: 2026-06-29)
+- [不止于算账！绩效评价-筑牢财政资金与项目监督“防火墙”](https://mp.weixin.qq.com/s/8T8M_B6k2NNLoWzAwguXYA) (发布日期: 2026-06-29)
+- [CVSS 10.0！Joomla内容编辑器JCE漏洞正被积极利用，GitHub公开扫描工具](https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg) (发布日期: 2026-06-29)
+- [周鸿祎急了：AI挖漏洞时代来了，中国必须有自己的Mythos](https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg) (发布日期: 2026-06-29)
+- [面试官：如何全面防御SQL注入？答出这8点直接录用](https://mp.weixin.qq.com/s/s-pN9jztRvTmDK76Yvp4iw) (发布日期: 2026-06-29)
+- [从多位群友感染银狐病毒事件，看社群诈骗背后的黑产链路](https://mp.weixin.qq.com/s/rbfmxThuoyW0wwP-7FiZsg) (发布日期: 2026-06-29)
+- [红队150+工具集RedTeam-Tools使用教程，3w字解析](https://mp.weixin.qq.com/s/jNwFdQ8Qk7thSzC8IGnVDg) (发布日期: 2026-06-29)
+- [蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q) (发布日期: 2026-06-29)
+- [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s/KzWnUd2U5WHn8ylmIknQZw) (发布日期: 2026-06-29)
+- [喜报！炼石中标华南某百年历史综合公立医院数据加密项目](https://mp.weixin.qq.com/s/bk2Gs0eT5yMU17e1txravA) (发布日期: 2026-06-29)
+- [安全工具丨一款AI安全审计工具。可实现目标准备、审计、漏洞利用构建和执行验证等](https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w) (发布日期: 2026-06-29)
+- [一站式 dnslog 漏洞检测平台](https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA) (发布日期: 2026-06-29)
+- [【我是如何在一个电商平台上发现一个高危IDOR漏洞的】](https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ) (发布日期: 2026-06-29)
+- [下一代 Kubernetes 渗透测试平台  | CDK 容器渗透手法、AI 驱动自动化攻击链xa0和xa0SOCKS5 代理隧道 内网 K8s 集群一键安全评估](https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg) (发布日期: 2026-06-29)
 
 
 ## 🎯 威胁详情分析
@@ -72,12 +103,51 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 五月学员优秀edu漏洞挖掘案例分享 | Doonsec | [https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg](https://mp.weixin.qq.com/s/uuVbj65Lyk9DqZAbehW7Rg) |
+| 1 | 用AI检测“越权漏洞”，更快更灵！ | Doonsec | [https://mp.weixin.qq.com/s/8p6cbgnf4EtlobdCG9WKcw](https://mp.weixin.qq.com/s/8p6cbgnf4EtlobdCG9WKcw) |
+| 2 | 旧漏洞，新规则：不用捷径拿下 CVE-2023-36802 | Doonsec | [https://mp.weixin.qq.com/s/LoWuMtZzwi9BwO93BIW_kg](https://mp.weixin.qq.com/s/LoWuMtZzwi9BwO93BIW_kg) |
+| 3 | 蓝凌EIS智慧协同平台 Getmobiles 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A](https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A) |
+| 4 | DirtyClone：六周内第四起 Linux 内核漏洞，可提权至 Root 权限 | Doonsec | [https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA](https://mp.weixin.qq.com/s/HNhBj9K6YtkheqzBk326LA) |
+| 5 | CVSS 10 分 Hoppscotch 批量赋值漏洞：服务器完全沦陷 | Doonsec | [https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A](https://mp.weixin.qq.com/s/XiIUKO034OyeZqvp3Hot7A) |
+| 6 | c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC | Doonsec | [https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw](https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw) |
+| 7 | 【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解 | Doonsec | [https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ](https://mp.weixin.qq.com/s/foiC9AB5OoD6S4XY3pe5TQ) |
+| 8 | CVE-2026-48907 Scanner | Doonsec | [https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg](https://mp.weixin.qq.com/s/TJQ5W9jsM2dEIaH2hO6yJg) |
+| 9 | 【CVE-2026-43503】DirtyClone 本地用户通过克隆数据包获得 Root 权限 | Doonsec | [https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA](https://mp.weixin.qq.com/s/L2Yj8iqgtIjJYTB1qd38BA) |
+| 10 | 微信小游戏有漏洞？这个工具让你像调试网页一样透视小程序内部 | Doonsec | [https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg](https://mp.weixin.qq.com/s/Sb_ySSfXpkbuEH-kJVolOg) |
+| 11 | CVSS 10.0！Joomla内容编辑器JCE漏洞正被积极利用，GitHub公开扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg](https://mp.weixin.qq.com/s/7beSUH9PKgLLpWiYoEzwWg) |
+| 12 | 周鸿祎急了：AI挖漏洞时代来了，中国必须有自己的Mythos | Doonsec | [https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg](https://mp.weixin.qq.com/s/nuI8dhxZZB7TEF_2ll1rWg) |
+| 13 | 蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q](https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q) |
+| 14 | 安全工具丨一款AI安全审计工具。可实现目标准备、审计、漏洞利用构建和执行验证等 | Doonsec | [https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w](https://mp.weixin.qq.com/s/bFVWWTVN9Tmw0kdILfa19w) |
+| 15 | 一站式 dnslog 漏洞检测平台 | Doonsec | [https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA](https://mp.weixin.qq.com/s/8YovEBZq2VKNx4lRGfCccA) |
+| 16 | 【我是如何在一个电商平台上发现一个高危IDOR漏洞的】 | Doonsec | [https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ](https://mp.weixin.qq.com/s/TH8OoTUHHgUsmCZT7MDXtQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 蓝凌EIS智慧协同平台 Getmobiles 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A](https://mp.weixin.qq.com/s/GxqFW15BkR0VkzdvI4wQ1A) |
+| 2 | 破解盲SSRF死局、进阶之路：利用重定向循环突破无回显限制，内网信息可直接提取 | Doonsec | [https://mp.weixin.qq.com/s/gF2xPY_lNQ3R3DGYanCWiQ](https://mp.weixin.qq.com/s/gF2xPY_lNQ3R3DGYanCWiQ) |
+| 3 | c-ares TCP Use-After-Free 漏洞深度解析：从 DNS 响应序列到本地 Calculator 代码执行 PoC | Doonsec | [https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw](https://mp.weixin.qq.com/s/gEE_xUhAQ1eOLWoPwI-jKw) |
+| 4 | 面试官：如何全面防御SQL注入？答出这8点直接录用 | Doonsec | [https://mp.weixin.qq.com/s/s-pN9jztRvTmDK76Yvp4iw](https://mp.weixin.qq.com/s/s-pN9jztRvTmDK76Yvp4iw) |
+| 5 | 蓝凌EIS智慧协同平台mobile_define.aspx/Getmobiles接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q](https://mp.weixin.qq.com/s/KCAkSVibPDd0dEn2gtxg7Q) |
+| 6 | 下一代 Kubernetes 渗透测试平台  | CDK 容器渗透手法、AI 驱动自动化攻击链xa0和xa0SOCKS5 代理隧道 内网 K8s 集群一键安全评估 | Doonsec | [https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg](https://mp.weixin.qq.com/s/ip4ymJl9Nw0Y3qYPKUY5Vg) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Linux安全检查与应急响应一键脚本：这款工具让运维工程师彻底告别手动排查时代 | Doonsec | [https://mp.weixin.qq.com/s/hkQsQL1VsReH_c8o9ZfpVg](https://mp.weixin.qq.com/s/hkQsQL1VsReH_c8o9ZfpVg) |
+| 2 | 从多位群友感染银狐病毒事件，看社群诈骗背后的黑产链路 | Doonsec | [https://mp.weixin.qq.com/s/rbfmxThuoyW0wwP-7FiZsg](https://mp.weixin.qq.com/s/rbfmxThuoyW0wwP-7FiZsg) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Polymarket 第三方接口遭入侵，导致 294 万美元加密货币被盗 | Doonsec | [https://mp.weixin.qq.com/s/9waURHdRBof9fAGU5p7DLw](https://mp.weixin.qq.com/s/9waURHdRBof9fAGU5p7DLw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-06/2026-W26/2026-06-28/`
+文章已归档到: `doc/2026/2026-06/2026-W27/2026-06-29/`
 
 ## 🔗 数据源说明
 
@@ -88,8 +158,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +168,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-28 17:11:43*
+*生成时间: 2026-06-29 03:57:02*
 *报告工具: 微信文章安全归档系统*
