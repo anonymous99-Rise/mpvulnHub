@@ -2,17 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **安全运营**: 2篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,19 +63,8 @@
 
 ### Doonsec
 
-- [Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营](https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw) (发布日期: 2026-06-30)
-- [日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关](https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w) (发布日期: 2026-06-30)
-- [BSSRC｜2026年5月排名奖励公布](https://mp.weixin.qq.com/s/uDFDIuZMxjf_nyo0qGkzTA) (发布日期: 2026-06-30)
-- [AI赋能挖掘&amp;&amp;某小程序任意用户登录漏洞](https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw) (发布日期: 2026-06-30)
-- [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/hcTSvW0vuonojPZFinuL0g) (发布日期: 2026-06-30)
-- [国企内推 - 高级红队研究员 Base成都](https://mp.weixin.qq.com/s/99PnVM8rbrgENcGsZt-RQA) (发布日期: 2026-06-30)
-- [传Claude Code内置隐藏后门，专门检测中国用户](https://mp.weixin.qq.com/s/bT-jN4uTjianx_qNsywhtw) (发布日期: 2026-06-30)
-- [ClawHub Skills暴露AI Agents远程控制后门与数据窃取风险](https://mp.weixin.qq.com/s/mahA44c1FxyUKdkXtoamAg) (发布日期: 2026-06-30)
-- [黑客滥用WM_COPYDATA回调路径，通过Win32k隐蔽执行恶意代码](https://mp.weixin.qq.com/s/0vOznWRPVjaexfMxm0jP4A) (发布日期: 2026-06-30)
-- [AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查](https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA) (发布日期: 2026-06-30)
-- [【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告](https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ) (发布日期: 2026-06-30)
-- [Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用](https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg) (发布日期: 2026-06-30)
-- [苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞](https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ) (发布日期: 2026-06-30)
+- [Infinite Campus 数据泄露事件影响了 137,000 个学校员工账户](https://mp.weixin.qq.com/s/BZ6RcT-QcQxB1pCMsD1hNA) (发布日期: 2026-06-30)
+- [【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE](https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw) (发布日期: 2026-06-30)
 
 
 ## 🎯 威胁详情分析
@@ -82,20 +73,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营 | Doonsec | [https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw](https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw) |
-| 2 | 日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关 | Doonsec | [https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w](https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w) |
-| 3 | AI赋能挖掘&amp;&amp;某小程序任意用户登录漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw](https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw) |
-| 4 | AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查 | Doonsec | [https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA](https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA) |
-| 5 | 【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告 | Doonsec | [https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ](https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ) |
-| 6 | Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg](https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg) |
-| 7 | 苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ](https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ) |
+| 1 | 【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE | Doonsec | [https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw](https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | BSSRC｜2026年5月排名奖励公布 | Doonsec | [https://mp.weixin.qq.com/s/uDFDIuZMxjf_nyo0qGkzTA](https://mp.weixin.qq.com/s/uDFDIuZMxjf_nyo0qGkzTA) |
-| 2 | 挖了半年SRC颗粒无收 | Doonsec | [https://mp.weixin.qq.com/s/hcTSvW0vuonojPZFinuL0g](https://mp.weixin.qq.com/s/hcTSvW0vuonojPZFinuL0g) |
+| 1 | 【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE | Doonsec | [https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw](https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Infinite Campus 数据泄露事件影响了 137,000 个学校员工账户 | Doonsec | [https://mp.weixin.qq.com/s/BZ6RcT-QcQxB1pCMsD1hNA](https://mp.weixin.qq.com/s/BZ6RcT-QcQxB1pCMsD1hNA) |
 
 
 ## 📁 归档路径
@@ -111,8 +101,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-06-30 14:18:30*
+*生成时间: 2026-06-30 17:53:34*
 *报告工具: 微信文章安全归档系统*
