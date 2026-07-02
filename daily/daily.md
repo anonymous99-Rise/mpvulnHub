@@ -2,19 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
 - **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -64,23 +63,17 @@
 
 ### Doonsec
 
-- [中标喜报｜安芯网盾中标国家级重点医疗健康信息系统安全运维项目](https://mp.weixin.qq.com/s/kbWCjUtyH8JjhmDCUbiP-w) (发布日期: 2026-07-02)
-- [Anthropic Buffa Rust库0Day漏洞可引发拒绝服务攻击](https://mp.weixin.qq.com/s/kAasLoB6qnrhLmwd2BmCbg) (发布日期: 2026-07-02)
-- [Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境](https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA) (发布日期: 2026-07-02)
-- [｜聚力铸盾，数智护航｜上海铸盾网络和数据安全治理研究中心揭牌成立](https://mp.weixin.qq.com/s/HDRxgdSJ21EtU08KzgovMg) (发布日期: 2026-07-02)
-- [跨境有界，安全无界——网御星云护航跨境安全合规防线](https://mp.weixin.qq.com/s/vvKm7G0vQ5AfVU_RFdUIrg) (发布日期: 2026-07-02)
-- [30秒从告警到封禁：默安智能体与XDR、防火墙联动落地实践](https://mp.weixin.qq.com/s/j3TcKWD_Jz8gbTqzj5pfwQ) (发布日期: 2026-07-02)
-- [关于 O+ Connect PC 端漏洞暂停收录的公告](https://mp.weixin.qq.com/s/X6rtcoH7fKOntR_XMblwcg) (发布日期: 2026-07-02)
-- [招聘｜黑灰产情报运营工程师，加入真实业务安全对抗一线](https://mp.weixin.qq.com/s/XTOMG9y6qqt5aECNw07mZQ) (发布日期: 2026-07-02)
-- [半夜摄像头突然亮起？可能是这7种病毒正在“偷窥”你的生活](https://mp.weixin.qq.com/s/Hb67nmWOGGEOJwRYNWrLLA) (发布日期: 2026-07-02)
-- [89%红队都能撕开AI防线！AI攻防已经彻底失衡](https://mp.weixin.qq.com/s/vfFir5fldn-4_J0GCtE3dA) (发布日期: 2026-07-02)
-- [面试必问：SQL注入与XSS的完整攻防链路（附真题解析）](https://mp.weixin.qq.com/s/7BrwlusOd_RynI6zS8Qgnw) (发布日期: 2026-07-02)
-- [【公示】2026年信息安全测试员职业技能等级认定成绩公示](https://mp.weixin.qq.com/s/6I3WwYzyY-zr4p2wWSomkQ) (发布日期: 2026-07-02)
-- [本周漏洞速递｜13个高危漏洞预警+漏洞复现](https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg) (发布日期: 2026-07-02)
-- [认证培训丨天创首期 CISP-TRS 威胁响应专家周末班火热进行中](https://mp.weixin.qq.com/s/Bg-eZUTnOXXRNx8v8sbp6Q) (发布日期: 2026-07-02)
-- [飞天诚信身份认证产品现已支持后量子密码（PQC）](https://mp.weixin.qq.com/s/_JKBVKgYRJdevjQzpY33wg) (发布日期: 2026-07-02)
-- [贯彻落实金发〔2026〕8号：银行业保险业人工智能安全开发应用的风险分析与防护实践](https://mp.weixin.qq.com/s/ytoPlSl8FR3BdWBe72BkFg) (发布日期: 2026-07-02)
-- [网络安全测试辅助工具集 -- security-toolkit](https://mp.weixin.qq.com/s/8X05YZIWfop_O1TKiKmj8w) (发布日期: 2026-07-02)
+- [.NET 代码安全审计平台](https://mp.weixin.qq.com/s/kvm9w53GYikZ4DH7Gk5n2Q) (发布日期: 2026-07-02)
+- [OSCP百日备考17｜Linux权限提升（下）：sudo滥用、Cron劫持、通配符注入到root的终极手册](https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg) (发布日期: 2026-07-02)
+- [数据分类、备份、加密：一条被90%企业忽视的法律红线](https://mp.weixin.qq.com/s/Fj4mpKT77N_zR7zqukWn_A) (发布日期: 2026-07-02)
+- [未授权漏洞检测工具 - Unauth-Vuln-Scanner](https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA) (发布日期: 2026-07-02)
+- [商用密码应用安全性评估——openHiTLS初识](https://mp.weixin.qq.com/s/PsAv6D71Q2xEao6_DLw2pw) (发布日期: 2026-07-02)
+- [企业ai代码审计构建函数图谱的重要性&amp;其他](https://mp.weixin.qq.com/s/ajMpxJKA13yNU8ZUBXfLng) (发布日期: 2026-07-02)
+- [2026年度基础软硬件产品漏洞生态联盟大会成功召开](https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA) (发布日期: 2026-07-02)
+- [正式实施！盛邦安全深度参与的国标GB/T46902-2025落地，重塑网络资产安全治理新标准](https://mp.weixin.qq.com/s/x0efcw7VAaRaANXEfyvjhw) (发布日期: 2026-07-02)
+- [普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) (发布日期: 2026-07-02)
+- [挖了漏洞却被秒拒？80%新手都在瞎忙活，一文讲透挖洞平台规则](https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A) (发布日期: 2026-07-02)
+- [网安技术 | 企业网络安全防护与应急响应操作参考指南](https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA) (发布日期: 2026-07-02)
 
 
 ## 🎯 威胁详情分析
@@ -89,23 +82,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Anthropic Buffa Rust库0Day漏洞可引发拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/kAasLoB6qnrhLmwd2BmCbg](https://mp.weixin.qq.com/s/kAasLoB6qnrhLmwd2BmCbg) |
-| 2 | Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境 | Doonsec | [https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA](https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA) |
-| 3 | 关于 O+ Connect PC 端漏洞暂停收录的公告 | Doonsec | [https://mp.weixin.qq.com/s/X6rtcoH7fKOntR_XMblwcg](https://mp.weixin.qq.com/s/X6rtcoH7fKOntR_XMblwcg) |
-| 4 | 本周漏洞速递｜13个高危漏洞预警+漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg](https://mp.weixin.qq.com/s/XfPzzlWD2JCjq1X7iS3Gsg) |
+| 1 | 未授权漏洞检测工具 - Unauth-Vuln-Scanner | Doonsec | [https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA](https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA) |
+| 2 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开 | Doonsec | [https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA](https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA) |
+| 3 | 普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客 | Doonsec | [https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) |
+| 4 | 挖了漏洞却被秒拒？80%新手都在瞎忙活，一文讲透挖洞平台规则 | Doonsec | [https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A](https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境 | Doonsec | [https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA](https://mp.weixin.qq.com/s/rqIj9J1ORa8Ik6Zj0Hy_vA) |
-| 2 | 面试必问：SQL注入与XSS的完整攻防链路（附真题解析） | Doonsec | [https://mp.weixin.qq.com/s/7BrwlusOd_RynI6zS8Qgnw](https://mp.weixin.qq.com/s/7BrwlusOd_RynI6zS8Qgnw) |
+| 1 | OSCP百日备考17｜Linux权限提升（下）：sudo滥用、Cron劫持、通配符注入到root的终极手册 | Doonsec | [https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg](https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg) |
+| 2 | 普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客 | Doonsec | [https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 招聘｜黑灰产情报运营工程师，加入真实业务安全对抗一线 | Doonsec | [https://mp.weixin.qq.com/s/XTOMG9y6qqt5aECNw07mZQ](https://mp.weixin.qq.com/s/XTOMG9y6qqt5aECNw07mZQ) |
+| 1 | 网安技术 | 企业网络安全防护与应急响应操作参考指南 | Doonsec | [https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA](https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA) |
 
 
 ## 📁 归档路径
@@ -122,7 +115,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-02 10:40:08*
+*生成时间: 2026-07-02 14:00:52*
 *报告工具: 微信文章安全归档系统*
