@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +60,7 @@
 
 ### Doonsec
 
-- [.NET 代码安全审计平台](https://mp.weixin.qq.com/s/kvm9w53GYikZ4DH7Gk5n2Q) (发布日期: 2026-07-02)
-- [OSCP百日备考17｜Linux权限提升（下）：sudo滥用、Cron劫持、通配符注入到root的终极手册](https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg) (发布日期: 2026-07-02)
-- [数据分类、备份、加密：一条被90%企业忽视的法律红线](https://mp.weixin.qq.com/s/Fj4mpKT77N_zR7zqukWn_A) (发布日期: 2026-07-02)
-- [未授权漏洞检测工具 - Unauth-Vuln-Scanner](https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA) (发布日期: 2026-07-02)
-- [商用密码应用安全性评估——openHiTLS初识](https://mp.weixin.qq.com/s/PsAv6D71Q2xEao6_DLw2pw) (发布日期: 2026-07-02)
-- [企业ai代码审计构建函数图谱的重要性&amp;其他](https://mp.weixin.qq.com/s/ajMpxJKA13yNU8ZUBXfLng) (发布日期: 2026-07-02)
-- [2026年度基础软硬件产品漏洞生态联盟大会成功召开](https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA) (发布日期: 2026-07-02)
-- [正式实施！盛邦安全深度参与的国标GB/T46902-2025落地，重塑网络资产安全治理新标准](https://mp.weixin.qq.com/s/x0efcw7VAaRaANXEfyvjhw) (发布日期: 2026-07-02)
-- [普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) (发布日期: 2026-07-02)
-- [挖了漏洞却被秒拒？80%新手都在瞎忙活，一文讲透挖洞平台规则](https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A) (发布日期: 2026-07-02)
-- [网安技术 | 企业网络安全防护与应急响应操作参考指南](https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA) (发布日期: 2026-07-02)
+- [【高危漏洞预警】Gitea act_runner 容器逃逸漏洞CVE-2026-58053](https://mp.weixin.qq.com/s/4-b7E_Uk6xodqrpMRd7sFA) (发布日期: 2026-07-02)
 
 
 ## 🎯 威胁详情分析
@@ -82,23 +69,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 未授权漏洞检测工具 - Unauth-Vuln-Scanner | Doonsec | [https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA](https://mp.weixin.qq.com/s/MmbGg048e-2w0wzL5rFKUA) |
-| 2 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开 | Doonsec | [https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA](https://mp.weixin.qq.com/s/x2m6ufscXfKqECLIyaoXUA) |
-| 3 | 普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客 | Doonsec | [https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) |
-| 4 | 挖了漏洞却被秒拒？80%新手都在瞎忙活，一文讲透挖洞平台规则 | Doonsec | [https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A](https://mp.weixin.qq.com/s/tTKquKTRgUZTWxwxZgiN5A) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OSCP百日备考17｜Linux权限提升（下）：sudo滥用、Cron劫持、通配符注入到root的终极手册 | Doonsec | [https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg](https://mp.weixin.qq.com/s/gLcYqGE1epvUy6anfzg-tg) |
-| 2 | 普通人也能通过AI几句话就来发现Github 上 46Kstar项目的命令执行漏洞来成为大黑客 | Doonsec | [https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA](https://mp.weixin.qq.com/s/FMR4WBic_bLvRgzn9UYiCA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 网安技术 | 企业网络安全防护与应急响应操作参考指南 | Doonsec | [https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA](https://mp.weixin.qq.com/s/6co1EegdyJrUI7hrEwefEA) |
+| 1 | 【高危漏洞预警】Gitea act_runner 容器逃逸漏洞CVE-2026-58053 | Doonsec | [https://mp.weixin.qq.com/s/4-b7E_Uk6xodqrpMRd7sFA](https://mp.weixin.qq.com/s/4-b7E_Uk6xodqrpMRd7sFA) |
 
 
 ## 📁 归档路径
@@ -114,8 +85,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-02 14:00:52*
+*生成时间: 2026-07-02 17:47:31*
 *报告工具: 微信文章安全归档系统*
