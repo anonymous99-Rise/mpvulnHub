@@ -1,14 +1,18 @@
-# 2026-07-01 安全威胁态势报告
+# 2026-07-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **安全运营**: 2篇
+- **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -59,16 +63,55 @@
 
 ### Doonsec
 
-- [G.O.S.S.I.P 阅读推荐 2026-07-01 如何教AI更好地发现密码学误用问题](https://mp.weixin.qq.com/s/pZrMOfcucWsp7NVRMS6oUw) (发布日期: 2026-07-01)
-- [[工具]VulnClawAI自动化渗透测试](https://mp.weixin.qq.com/s/K66_bvKjtIsgkFoxMDKiVA) (发布日期: 2026-07-01)
+- [重磅喜讯丨云天安全网络安全运营服务强势入选济南市“泉城好品”品牌](https://mp.weixin.qq.com/s/IVt9XDwX9Nku0Uox9jJzhQ) (发布日期: 2026-07-02)
+- [AI赋能挖掘&amp;&amp;某edusrc小程序任意用户登录漏洞](https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ) (发布日期: 2026-07-02)
+- [Helm模板YAML注入：从CI/CD到集群沦陷](https://mp.weixin.qq.com/s/xOr1nowiSEfwfixC2wkSyw) (发布日期: 2026-07-02)
+- [过滤了../照样拿下！赏金猎人必会的路径遍历“直通车”绕过术](https://mp.weixin.qq.com/s/1E8oo0UfAquDXcTe9vG4UA) (发布日期: 2026-07-02)
+- [硬核技术流： 评分9.2！教科书级的整数溢出：深度剖析 libssh2 最新严重漏洞（CVE-2026-55200）](https://mp.weixin.qq.com/s/3oOBtE_VB9S3Ag-ZNAdOSw) (发布日期: 2026-07-02)
+- [【安全测试】前端加密绕过！](https://mp.weixin.qq.com/s/dfuXhnPeYj_nwP8rlvuYUQ) (发布日期: 2026-07-02)
+- [护网实战：漏洞修不好，网站不能关，杀毒扫不掉？用“秒删”脚本硬刚Webshell](https://mp.weixin.qq.com/s/bsrVm_Tv81rlkN9wiBCIeg) (发布日期: 2026-07-02)
+- [数据安全招聘的“潜规则”：为什么CISP-DSG成了优先录用门槛？](https://mp.weixin.qq.com/s/HESRTRF-MHAUx2ioaK6XEA) (发布日期: 2026-07-02)
+- [速下载!2026上半年网络与数据安全165项政策/标准/报告合集](https://mp.weixin.qq.com/s/Wi2JLZRN33Gz0jaDnSqzJg) (发布日期: 2026-07-02)
+- [暗网泄露:日本商家数据泄露60万家](https://mp.weixin.qq.com/s/bE14AbogrVhl6adPy6OOAQ) (发布日期: 2026-07-02)
+- [企业级开源安全利器，整合漏洞管理、基线检查，威胁狩猎、情报联动，适配政企服务器安全运维](https://mp.weixin.qq.com/s/R6XGBKMw0L8E0Cuu0cPiQg) (发布日期: 2026-07-02)
+- [【成功复现】Linux内核Socket Buffer本地提权漏洞(CVE-2026-43503)](https://mp.weixin.qq.com/s/EUvgPLzwwHiJ09wCs0Eb0w) (发布日期: 2026-07-02)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | AI赋能挖掘&amp;&amp;某edusrc小程序任意用户登录漏洞 | Doonsec | [https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ](https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ) |
+| 2 | 硬核技术流： 评分9.2！教科书级的整数溢出：深度剖析 libssh2 最新严重漏洞（CVE-2026-55200） | Doonsec | [https://mp.weixin.qq.com/s/3oOBtE_VB9S3Ag-ZNAdOSw](https://mp.weixin.qq.com/s/3oOBtE_VB9S3Ag-ZNAdOSw) |
+| 3 | 护网实战：漏洞修不好，网站不能关，杀毒扫不掉？用“秒删”脚本硬刚Webshell | Doonsec | [https://mp.weixin.qq.com/s/bsrVm_Tv81rlkN9wiBCIeg](https://mp.weixin.qq.com/s/bsrVm_Tv81rlkN9wiBCIeg) |
+| 4 | 企业级开源安全利器，整合漏洞管理、基线检查，威胁狩猎、情报联动，适配政企服务器安全运维 | Doonsec | [https://mp.weixin.qq.com/s/R6XGBKMw0L8E0Cuu0cPiQg](https://mp.weixin.qq.com/s/R6XGBKMw0L8E0Cuu0cPiQg) |
+| 5 | 【成功复现】Linux内核Socket Buffer本地提权漏洞(CVE-2026-43503) | Doonsec | [https://mp.weixin.qq.com/s/EUvgPLzwwHiJ09wCs0Eb0w](https://mp.weixin.qq.com/s/EUvgPLzwwHiJ09wCs0Eb0w) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Helm模板YAML注入：从CI/CD到集群沦陷 | Doonsec | [https://mp.weixin.qq.com/s/xOr1nowiSEfwfixC2wkSyw](https://mp.weixin.qq.com/s/xOr1nowiSEfwfixC2wkSyw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 重磅喜讯丨云天安全网络安全运营服务强势入选济南市“泉城好品”品牌 | Doonsec | [https://mp.weixin.qq.com/s/IVt9XDwX9Nku0Uox9jJzhQ](https://mp.weixin.qq.com/s/IVt9XDwX9Nku0Uox9jJzhQ) |
+| 2 | AI赋能挖掘&amp;&amp;某edusrc小程序任意用户登录漏洞 | Doonsec | [https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ](https://mp.weixin.qq.com/s/l5do18gRhpna2YNscIaVhQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 暗网泄露:日本商家数据泄露60万家 | Doonsec | [https://mp.weixin.qq.com/s/bE14AbogrVhl6adPy6OOAQ](https://mp.weixin.qq.com/s/bE14AbogrVhl6adPy6OOAQ) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W27/2026-07-01/`
+文章已归档到: `doc/2026/2026-07/2026-W27/2026-07-02/`
 
 ## 🔗 数据源说明
 
@@ -79,7 +122,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -89,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-01 17:55:27*
+*生成时间: 2026-07-02 03:36:28*
 *报告工具: 微信文章安全归档系统*
