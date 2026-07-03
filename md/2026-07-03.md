@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **威胁情报**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,51 +60,16 @@
 
 ### Doonsec
 
-- [信息安全漏洞周报【第081期】](https://mp.weixin.qq.com/s/90Ybq6Lde4ptArS-X4FA1Q) (发布日期: 2026-07-03)
-- [当安全测试需要一张图：CyberStrikeAI 图编排全新上线](https://mp.weixin.qq.com/s/mCxc09AW5NhGRaYWvEuB0w) (发布日期: 2026-07-03)
-- [威胁情报 | 1.3 万刷量 Fork 投毒！装依赖就被攻击](https://mp.weixin.qq.com/s/RED0nW9C1aaaicKAes9Itg) (发布日期: 2026-07-03)
-- [CAINE —— 意大利打造的数字取证操作系统，全流程调查的专业利器](https://mp.weixin.qq.com/s/2x1bV60MGCGaXtPaPoaNqQ) (发布日期: 2026-07-03)
-- [防火墙到底有哪些类别？从工作原理看懂防火墙的发展](https://mp.weixin.qq.com/s/IC3zYz6m6LcTTqcQb9P4DQ) (发布日期: 2026-07-03)
-- [【安全圈】Cisco 确认 Unified CM 漏洞已在野外被利用](https://mp.weixin.qq.com/s/wmLqYbhU8pGvjRGTDeK9mg) (发布日期: 2026-07-03)
-- [【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用](https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA) (发布日期: 2026-07-03)
-- [开源CVE挖掘利器：AI自动审计并生成CVE报告，7天覆盖14个项目挖出30个漏洞](https://mp.weixin.qq.com/s/V1o2q8CDlZcqOJc8BxC4rA) (发布日期: 2026-07-03)
-- [7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用](https://mp.weixin.qq.com/s/oeahD6nzVswsVH83dFE3Sw) (发布日期: 2026-07-03)
-- [微软 Exchange SSRF 漏洞详情及公开 PoC 漏洞利用程序已发布](https://mp.weixin.qq.com/s/Lewk8FZcrFv4umdbw1W_kw) (发布日期: 2026-07-03)
-- [黑客利用伪造的API文档诱骗AI代理发送加密货币支付](https://mp.weixin.qq.com/s/R3raE1yn24ElsP44Xf7UtA) (发布日期: 2026-07-03)
-- [7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用](https://mp.weixin.qq.com/s/qGavRNRhfKZiqwhRGFvdJg) (发布日期: 2026-07-03)
-- [SOC 2 Type 2：服务型企业的安全合规「硬通货」](https://mp.weixin.qq.com/s/A39ylO3Vn9qxpuCTnmzPOg) (发布日期: 2026-07-03)
-- [企业数字化建设：安全合规为首要底线](https://mp.weixin.qq.com/s/_DhkbnqiZ46uTiXHnhQ5rQ) (发布日期: 2026-07-03)
-- [国家标准委丨《智能体应用安全基本要求》等29项强制性国家标准计划和相关标准外文版计划](https://mp.weixin.qq.com/s/I66YkvTnnvCA97IIQ_q2aw) (发布日期: 2026-07-03)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（06/29-07/03）](https://mp.weixin.qq.com/s/ib1kNgal88ur1NVVRXFvjQ) (发布日期: 2026-07-03)
-- [国安部提醒：“阅后即焚”的小众加密软件也会泄露信息！](https://mp.weixin.qq.com/s/6D55lovuvYY3b1JdGHeUwA) (发布日期: 2026-07-03)
+- [Fscan 魔改版 — 内网渗透扫描工具](https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ) (发布日期: 2026-07-03)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 信息安全漏洞周报【第081期】 | Doonsec | [https://mp.weixin.qq.com/s/90Ybq6Lde4ptArS-X4FA1Q](https://mp.weixin.qq.com/s/90Ybq6Lde4ptArS-X4FA1Q) |
-| 2 | 【安全圈】Cisco 确认 Unified CM 漏洞已在野外被利用 | Doonsec | [https://mp.weixin.qq.com/s/wmLqYbhU8pGvjRGTDeK9mg](https://mp.weixin.qq.com/s/wmLqYbhU8pGvjRGTDeK9mg) |
-| 3 | 【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA](https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA) |
-| 4 | 开源CVE挖掘利器：AI自动审计并生成CVE报告，7天覆盖14个项目挖出30个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/V1o2q8CDlZcqOJc8BxC4rA](https://mp.weixin.qq.com/s/V1o2q8CDlZcqOJc8BxC4rA) |
-| 5 | 7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用 | Doonsec | [https://mp.weixin.qq.com/s/oeahD6nzVswsVH83dFE3Sw](https://mp.weixin.qq.com/s/oeahD6nzVswsVH83dFE3Sw) |
-| 6 | 微软 Exchange SSRF 漏洞详情及公开 PoC 漏洞利用程序已发布 | Doonsec | [https://mp.weixin.qq.com/s/Lewk8FZcrFv4umdbw1W_kw](https://mp.weixin.qq.com/s/Lewk8FZcrFv4umdbw1W_kw) |
-| 7 | 7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用 | Doonsec | [https://mp.weixin.qq.com/s/qGavRNRhfKZiqwhRGFvdJg](https://mp.weixin.qq.com/s/qGavRNRhfKZiqwhRGFvdJg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用 | Doonsec | [https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA](https://mp.weixin.qq.com/s/KxyFooqCluGAjHXhaiAJsA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 威胁情报 | 1.3 万刷量 Fork 投毒！装依赖就被攻击 | Doonsec | [https://mp.weixin.qq.com/s/RED0nW9C1aaaicKAes9Itg](https://mp.weixin.qq.com/s/RED0nW9C1aaaicKAes9Itg) |
-| 2 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（06/29-07/03） | Doonsec | [https://mp.weixin.qq.com/s/ib1kNgal88ur1NVVRXFvjQ](https://mp.weixin.qq.com/s/ib1kNgal88ur1NVVRXFvjQ) |
+| 1 | Fscan 魔改版 — 内网渗透扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ](https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ) |
 
 
 ## 📁 归档路径
@@ -123,8 +85,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-03 14:04:05*
+*生成时间: 2026-07-03 17:27:55*
 *报告工具: 微信文章安全归档系统*
