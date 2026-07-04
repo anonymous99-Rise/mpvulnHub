@@ -1,17 +1,20 @@
-# 2026-07-03 安全威胁态势报告
+# 2026-07-04 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 1篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,23 +61,56 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [Fscan 魔改版 — 内网渗透扫描工具](https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ) (发布日期: 2026-07-03)
+- [ ] [Adobe 修复多个 CVSS 满分漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=1&sn=187a180a17fcdb0443b13c0175b0bcd6) (发布日期: 2026-07-04)
+- [ ] [JetBrains 修复 CVSS 满分漏洞，影响1500万开发](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=2&sn=99d4d6361012ecfa264bb5958914d11c) (发布日期: 2026-07-04)
+- [ ] [百万台电视盒子沦为“隐身代理”：NetNut/Popa僵尸网络的全球基础设施解剖](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519298&idx=1&sn=c78baca4f3dd83771a2ce11487c1b7f1) (发布日期: 2026-07-04)
+- [ ] [聚焦 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264209&idx=1&sn=6dc786f060d3a02efb092ca8612b82cc) (发布日期: 2026-07-04)
+- [ ] [数据桎梏难破！国内网安厂商 AI 转型四大核心困局与破局路径全解析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141836&idx=1&sn=c54c4c3698cd10139db27492f705a899) (发布日期: 2026-07-04)
+- [ ] [60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617300&idx=2&sn=00765840b24772a06db1fbc48fafa939) (发布日期: 2026-07-04)
+- [ ] [ChatGPT下载链路曝高危漏洞：一句“误导性对话”竟可触达系统文件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617300&idx=3&sn=a04d95311bbf28a2da1a37d0cac0b8c6) (发布日期: 2026-07-04)
+- [ ] [【27级导师团招生】东北大学计算机科学与工程学院工业网络安全团队](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503093&idx=1&sn=46a6bc00a13c50f72ad8ebf50d0062af) (发布日期: 2026-07-04)
+- [ ] [【安全圈】Cisco 确认 Unified CM 漏洞已在野外被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=2&sn=030e4557b02a843ad920a01a2670b8fe) (发布日期: 2026-07-04)
+- [ ] [【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=3&sn=114dac59899df5c95325aefab44a2833) (发布日期: 2026-07-04)
+- [ ] [Chrome V8 沙箱逃逸漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499641&idx=1&sn=7f30c697fbeccd68201903d9390d8277) (发布日期: 2026-07-04)
+- [ ] [7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586528&idx=1&sn=ecb93cc96fdfe475da8529bf34eb54f7) (发布日期: 2026-07-04)
+- [ ] [威胁情报 | 1.3 万刷量 Fork 投毒！装依赖就被攻击](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505340&idx=1&sn=b51c777d447aed243c62df7c008cfccd) (发布日期: 2026-07-04)
+- [ ] [IRify新功能上线：AI代码审计和 Skills 安全扫描](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529965&idx=1&sn=e5a48fc131aab324e326ec759ac71fdc) (发布日期: 2026-07-04)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [Adobe 修复多个 CVSS 满分漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=1&sn=187a180a17fcdb0443b13c0175b0bcd6](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=1&sn=187a180a17fcdb0443b13c0175b0bcd6) |
+| 2 |  ] [JetBrains 修复 CVSS 满分漏洞，影响1500万开发 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=2&sn=99d4d6361012ecfa264bb5958914d11c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526496&idx=2&sn=99d4d6361012ecfa264bb5958914d11c) |
+| 3 |  ] [聚焦 | 2026年度基础软硬件产品漏洞生态联盟大会成功召开 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264209&idx=1&sn=6dc786f060d3a02efb092ca8612b82cc](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264209&idx=1&sn=6dc786f060d3a02efb092ca8612b82cc) |
+| 4 |  ] [ChatGPT下载链路曝高危漏洞：一句“误导性对话”竟可触达系统文件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617300&idx=3&sn=a04d95311bbf28a2da1a37d0cac0b8c6](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617300&idx=3&sn=a04d95311bbf28a2da1a37d0cac0b8c6) |
+| 5 |  ] [【安全圈】Cisco 确认 Unified CM 漏洞已在野外被利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=2&sn=030e4557b02a843ad920a01a2670b8fe](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=2&sn=030e4557b02a843ad920a01a2670b8fe) |
+| 6 |  ] [【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=3&sn=114dac59899df5c95325aefab44a2833](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=3&sn=114dac59899df5c95325aefab44a2833) |
+| 7 |  ] [Chrome V8 沙箱逃逸漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499641&idx=1&sn=7f30c697fbeccd68201903d9390d8277](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499641&idx=1&sn=7f30c697fbeccd68201903d9390d8277) |
+| 8 |  ] [7月20日！360 AI漏洞挖掘智能体 “图龙锋” 开放试用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586528&idx=1&sn=ecb93cc96fdfe475da8529bf34eb54f7](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586528&idx=1&sn=ecb93cc96fdfe475da8529bf34eb54f7) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Fscan 魔改版 — 内网渗透扫描工具 | Doonsec | [https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ](https://mp.weixin.qq.com/s/L7LumEP46MUhrkv533c7OQ) |
+| 1 |  ] [数据桎梏难破！国内网安厂商 AI 转型四大核心困局与破局路径全解析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141836&idx=1&sn=c54c4c3698cd10139db27492f705a899](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141836&idx=1&sn=c54c4c3698cd10139db27492f705a899) |
+| 2 |  ] [【安全圈】CISA：Microsoft SharePoint RCE 漏洞现已被积极利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=3&sn=114dac59899df5c95325aefab44a2833](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077646&idx=3&sn=114dac59899df5c95325aefab44a2833) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [威胁情报 | 1.3 万刷量 Fork 投毒！装依赖就被攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505340&idx=1&sn=b51c777d447aed243c62df7c008cfccd](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505340&idx=1&sn=b51c777d447aed243c62df7c008cfccd) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W27/2026-07-03/`
+文章已归档到: `doc/2026/2026-07/2026-W27/2026-07-04/`
 
 ## 🔗 数据源说明
 
@@ -85,8 +121,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-03 17:27:55*
+*生成时间: 2026-07-04 06:46:35*
 *报告工具: 微信文章安全归档系统*
