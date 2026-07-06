@@ -1,20 +1,19 @@
-# 2026-07-05 安全威胁态势报告
+# 2026-07-06 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 5
 - **数据源分布**:
-  - BruceFeIix: 8篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,14 +62,11 @@
 
 ### BruceFeIix
 
-- [ ] [蜜罐抓到的几个 RCE 漏洞利用情报](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f) (发布日期: 2026-07-05)
-- [ ] [AI与云安全事件案例分析周报｜2026.06.22 - 2026.07.03](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500037&idx=1&sn=1d36d7551822cc52b4870486d4ca0f47) (发布日期: 2026-07-05)
-- [ ] [【安全圈】Linux惊现"Bad Epoll"零日漏洞，服务器和安卓均中招](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=1&sn=a686c79c41874b66d1f9e9ea4bf7abf7) (发布日期: 2026-07-05)
-- [ ] [【安全圈】今天是deadline！微软SharePoint高危漏洞正在被疯狂利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=2&sn=1ab239e93225350d7a4fd85eaf6f1aa2) (发布日期: 2026-07-05)
-- [ ] [【安全圈】FortiBleed 凭证窃取活动与 Lynx 勒索软件有关联](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=3&sn=1364c56512bff2a13e2fe37aa40b0f27) (发布日期: 2026-07-05)
-- [ ] [公告 | 三部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264284&idx=1&sn=79a7bef31be81c79f20cd854c57d2372) (发布日期: 2026-07-05)
-- [ ] [2026 后量子密码学（PQC）研讨会火热报名中](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501850&idx=1&sn=31bcc32b26eb45b5f338683a45f352d2) (发布日期: 2026-07-05)
-- [ ] [【风险提示】天融信关于Linux Kernel本地权限提升漏洞CVE-2026-46242(Bad Epoll)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496716&idx=1&sn=fc7a8879079acd68f4c7ba4266acadd7) (发布日期: 2026-07-05)
+- [ ] [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9) (发布日期: 2026-07-06)
+- [ ] [【资料】伊朗国家媒体与国内网络如何在美国本土驱动影响力行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa) (发布日期: 2026-07-06)
+- [ ] [【安全圈】2026年上半年网络安全事件盘点](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=1&sn=2f6049007afc7ed092fe6433dc292706) (发布日期: 2026-07-06)
+- [ ] [【安全圈】6 月高危漏洞数量暴涨](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=2&sn=0f773845ae723911c9ff2e5798a2c063) (发布日期: 2026-07-06)
+- [ ] [【安全圈】Linux本地权限提升漏洞「Bad Epoll」曝光：CVSS 7.8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec) (发布日期: 2026-07-06)
 
 
 ## 🎯 威胁详情分析
@@ -79,21 +75,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [蜜罐抓到的几个 RCE 漏洞利用情报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f) |
-| 2 |  ] [【安全圈】Linux惊现"Bad Epoll"零日漏洞，服务器和安卓均中招 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=1&sn=a686c79c41874b66d1f9e9ea4bf7abf7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=1&sn=a686c79c41874b66d1f9e9ea4bf7abf7) |
-| 3 |  ] [【安全圈】今天是deadline！微软SharePoint高危漏洞正在被疯狂利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=2&sn=1ab239e93225350d7a4fd85eaf6f1aa2](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=2&sn=1ab239e93225350d7a4fd85eaf6f1aa2) |
-| 4 |  ] [【风险提示】天融信关于Linux Kernel本地权限提升漏洞CVE-2026-46242(Bad Epoll)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496716&idx=1&sn=fc7a8879079acd68f4c7ba4266acadd7](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496716&idx=1&sn=fc7a8879079acd68f4c7ba4266acadd7) |
+| 1 |  ] [【安全圈】6 月高危漏洞数量暴涨 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=2&sn=0f773845ae723911c9ff2e5798a2c063](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=2&sn=0f773845ae723911c9ff2e5798a2c063) |
+| 2 |  ] [【安全圈】Linux本地权限提升漏洞「Bad Epoll」曝光：CVSS 7.8 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [蜜罐抓到的几个 RCE 漏洞利用情报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f) |
+| 1 |  ] [【资料】伊朗国家媒体与国内网络如何在美国本土驱动影响力行动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W27/2026-07-05/`
+文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-06/`
 
 ## 🔗 数据源说明
 
@@ -104,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-05 07:25:25*
+*生成时间: 2026-07-06 08:20:01*
 *报告工具: 微信文章安全归档系统*
