@@ -2,22 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 33
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 11篇
-  - BruceFeIix: 22篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **供应链**: 2篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -67,42 +63,13 @@
 
 ### Doonsec
 
-- [2026国际人工智能安全报告深度解读](https://mp.weixin.qq.com/s/YD0yNuIzcsIoZwrABmGZZg) (发布日期: 2026-07-07)
-- [快手SRC 2026第二季度白帽英雄榜来啦！](https://mp.weixin.qq.com/s/0ScEZgO1c8nu7z1nKd3-KQ) (发布日期: 2026-07-07)
-- [中标｜某证券交易所信创防火墙项目](https://mp.weixin.qq.com/s/5THJ8BJhj8FAPAQP622ANA) (发布日期: 2026-07-07)
-- [从角色扮演到思维链劫持：21关攻透OWASP LLM Top10](https://mp.weixin.qq.com/s/Pd4eQ3D4dKLHi33DfIb9ZQ) (发布日期: 2026-07-07)
-- [AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？](https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ) (发布日期: 2026-07-07)
-- [最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+](https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ) (发布日期: 2026-07-07)
-- [慢雾出品 | 2026 上半年区块链安全与反洗钱报告](https://mp.weixin.qq.com/s/BtoYCHTafgF9k9ojcOjXvQ) (发布日期: 2026-07-07)
-- [关于举办“鲁智杯”职工数智技术应用竞赛——“铸网-2026”山东省工业互联网网络安全职业技能竞赛暨攻防演练的通知](https://mp.weixin.qq.com/s/kGOzjGLmuBeJx1HxXfqMtg) (发布日期: 2026-07-07)
-- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/OTZ5c6OENGb635xSYLfZmA) (发布日期: 2026-07-07)
-- [2026年第23届信息安全与对抗技术竞赛“线上挑战赛”（破阵夺旗赛、无限擂台赛、数据安全赛）总决赛获奖名单](https://mp.weixin.qq.com/s/EGb1X86ZsQH-61Hx8kVXmA) (发布日期: 2026-07-07)
-- [《RCE 拾遗》 | 一篇不起眼的技术汇编](https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg) (发布日期: 2026-07-07)
-
-### BruceFeIix
-
-- [ ] [一名合格红队的成长之路](https://mp.weixin.qq.com/s/2jgerNQSwVNgwCGSo4dPTA) (发布日期: 2026-07-07)
-- [ ] [【现场实录】中国工业互联网研究院科研成果报告会之五——《面向人工智能系统的体系化安全检测与风险评估方法研究》](https://mp.weixin.qq.com/s/xu-LsoWRrvuJBkZqyn9teQ) (发布日期: 2026-07-07)
-- [ ] [一文讲透新人如何上手AI漏洞挖掘](https://mp.weixin.qq.com/s/-ZpFN3bAn0bh6JuGcPhGRw) (发布日期: 2026-07-07)
-- [ ] [雷神众测漏洞周报2026.6.29-2026.7.5](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503864&idx=1&sn=5a6a9cf7033ad7a586c59b69e009da52) (发布日期: 2026-07-07)
-- [ ] [Bad Epoll：Linux 内核新漏洞，导致低权限用户获得 root 权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=1&sn=5d8dd588bd5df97068ed04c486fd6458) (发布日期: 2026-07-07)
-- [ ] [FBI FLASH 报告：TeamPCP 攻陷开发工具，发动大规模供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=2&sn=50f4976701325e79599b23d3f3ac6513) (发布日期: 2026-07-07)
-- [ ] [首个AI勒索攻击曝光：从侦查入侵到数据加密，全程自主完成](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516211&idx=1&sn=815f9a7904f128eade4be775bd6d3f3f) (发布日期: 2026-07-07)
-- [ ] [中国人民银行等就《金融业网络安全管理办法》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516211&idx=2&sn=92c132f7f875575c08c42f47b3b2f371) (发布日期: 2026-07-07)
-- [ ] [【已复现】Citrix NetScaler 内存越界读取漏洞(CVE-2026-8451)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506533&idx=1&sn=8ae63928c0dadc6f23fbbaa4966afefd) (发布日期: 2026-07-07)
-- [ ] [中国人民银行 国家金融监督管理总局 中国证券监督管理委员会  关于《金融业网络安全管理办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504386&idx=1&sn=ee81dd42234ea631e3c8c311575caeaa) (发布日期: 2026-07-07)
-- [ ] [一文读懂 EAP：为什么暴露风险评估必须从资产开始？](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500045&idx=1&sn=bc1c552378b9584d7d260047597aec46) (发布日期: 2026-07-07)
-- [ ] [【原创】Operation Phnom Penh:银狐Ghost分发商针对特定目标投递MODBEACON特马](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519404&idx=1&sn=bc392b684e5ff71b85b2665540490421) (发布日期: 2026-07-07)
-- [ ] [中国信息安全测评中心主任彭涛：筑牢数智时代软件供应链安全根基](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264296&idx=1&sn=814a34251eb9f71c08b1906c6b6563ca) (发布日期: 2026-07-07)
-- [ ] [AI安全现状：AI 漏洞风险是传统软件 2.7 倍，修复差距高达 25 倍](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141847&idx=1&sn=192957ac8faff837b087c64ed0882d9f) (发布日期: 2026-07-07)
-- [ ] [AI安全案例分析 | JadePuffer勒索软件利用AI代理自动化攻击](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495279&idx=1&sn=4811225f72f82b58add9f75ac33dd645) (发布日期: 2026-07-07)
-- [ ] [OpenAI Daybreak平台推出自动化漏洞检测与修复功能](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486814&idx=1&sn=cde7be827720cb6d8b5c885358f84ef3) (发布日期: 2026-07-07)
-- [ ] [CNVD漏洞周报2026年第26期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=1&sn=1710ca9cc571ec4dfcc6e0025086e739) (发布日期: 2026-07-07)
-- [ ] [上周关注度较高的产品安全漏洞(20260629-20260705)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=2&sn=7af90f016bbe05799c5a175dfb16bc17) (发布日期: 2026-07-07)
-- [ ] [Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=2&sn=5fefff506b6f81b7815f92895ee5ca9b) (发布日期: 2026-07-07)
-- [ ] [系统0day安全——主流企业防火墙漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=3&sn=07f37875dfcfcb09667c640cc9554ea6) (发布日期: 2026-07-07)
-- [ ] [CNVD漏洞周报2026年第26期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501840&idx=1&sn=f9658306fa118df2760e04539184aa22) (发布日期: 2026-07-07)
-- [ ] [AI智能体的系统架构与安全治理：从输出风险到行动风险](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508643&idx=1&sn=c33c8a8ed4451345dd9d2609420cf79c) (发布日期: 2026-07-07)
+- [银狐Ghost分发商再出特种木马、针对特定目标投递，天擎EDR率先拦截](https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ) (发布日期: 2026-07-07)
+- [泽鹿安全受邀参加“铸盾车联”专题培训会，分享主机厂威胁情报与主动防御体系建设实践](https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw) (发布日期: 2026-07-07)
+- [未然解读 | 勒索软件依然是全球头号威胁，科技史上最狠泄密！代工厂被黑，众多机密泄露](https://mp.weixin.qq.com/s/D5rXPFZNdNNPj0K8or9eig) (发布日期: 2026-07-07)
+- [意大利国家民航局数据泄露：近9000条用户记录及后台数据库曝光](https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA) (发布日期: 2026-07-07)
+- [微软Edge漏洞可致攻击者远程执行任意代码](https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw) (发布日期: 2026-07-07)
+- [【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)](https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag) (发布日期: 2026-07-07)
+- [漏洞赏金猎人终极侦察清单](https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw) (发布日期: 2026-07-07)
 
 
 ## 🎯 威胁详情分析
@@ -111,44 +78,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？ | Doonsec | [https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ](https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ) |
-| 2 | 最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+ | Doonsec | [https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ](https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ) |
-| 3 |  ] [一文讲透新人如何上手AI漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s/-ZpFN3bAn0bh6JuGcPhGRw](https://mp.weixin.qq.com/s/-ZpFN3bAn0bh6JuGcPhGRw) |
-| 4 |  ] [雷神众测漏洞周报2026.6.29-2026.7.5 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503864&idx=1&sn=5a6a9cf7033ad7a586c59b69e009da52](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503864&idx=1&sn=5a6a9cf7033ad7a586c59b69e009da52) |
-| 5 |  ] [Bad Epoll：Linux 内核新漏洞，导致低权限用户获得 root 权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=1&sn=5d8dd588bd5df97068ed04c486fd6458](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=1&sn=5d8dd588bd5df97068ed04c486fd6458) |
-| 6 |  ] [【已复现】Citrix NetScaler 内存越界读取漏洞(CVE-2026-8451)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506533&idx=1&sn=8ae63928c0dadc6f23fbbaa4966afefd](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506533&idx=1&sn=8ae63928c0dadc6f23fbbaa4966afefd) |
-| 7 |  ] [AI安全现状：AI 漏洞风险是传统软件 2.7 倍，修复差距高达 25 倍 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141847&idx=1&sn=192957ac8faff837b087c64ed0882d9f](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141847&idx=1&sn=192957ac8faff837b087c64ed0882d9f) |
-| 8 |  ] [OpenAI Daybreak平台推出自动化漏洞检测与修复功能 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486814&idx=1&sn=cde7be827720cb6d8b5c885358f84ef3](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486814&idx=1&sn=cde7be827720cb6d8b5c885358f84ef3) |
-| 9 |  ] [CNVD漏洞周报2026年第26期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=1&sn=1710ca9cc571ec4dfcc6e0025086e739](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=1&sn=1710ca9cc571ec4dfcc6e0025086e739) |
-| 10 |  ] [上周关注度较高的产品安全漏洞(20260629-20260705) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=2&sn=7af90f016bbe05799c5a175dfb16bc17](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497081&idx=2&sn=7af90f016bbe05799c5a175dfb16bc17) |
-| 11 |  ] [Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=2&sn=5fefff506b6f81b7815f92895ee5ca9b](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=2&sn=5fefff506b6f81b7815f92895ee5ca9b) |
-| 12 |  ] [系统0day安全——主流企业防火墙漏洞挖掘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=3&sn=07f37875dfcfcb09667c640cc9554ea6](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617318&idx=3&sn=07f37875dfcfcb09667c640cc9554ea6) |
-| 13 |  ] [CNVD漏洞周报2026年第26期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501840&idx=1&sn=f9658306fa118df2760e04539184aa22](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501840&idx=1&sn=f9658306fa118df2760e04539184aa22) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 《RCE 拾遗》 | 一篇不起眼的技术汇编 | Doonsec | [https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg](https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg) |
+| 1 | 微软Edge漏洞可致攻击者远程执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw](https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw) |
+| 2 | 【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611) | Doonsec | [https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag](https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag) |
+| 3 | 漏洞赏金猎人终极侦察清单 | Doonsec | [https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw](https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【原创】Operation Phnom Penh:银狐Ghost分发商针对特定目标投递MODBEACON特马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519404&idx=1&sn=bc392b684e5ff71b85b2665540490421](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519404&idx=1&sn=bc392b684e5ff71b85b2665540490421) |
+| 1 | 银狐Ghost分发商再出特种木马、针对特定目标投递，天擎EDR率先拦截 | Doonsec | [https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ](https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ) |
+| 2 | 泽鹿安全受邀参加“铸盾车联”专题培训会，分享主机厂威胁情报与主动防御体系建设实践 | Doonsec | [https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw](https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 快手SRC 2026第二季度白帽英雄榜来啦！ | Doonsec | [https://mp.weixin.qq.com/s/0ScEZgO1c8nu7z1nKd3-KQ](https://mp.weixin.qq.com/s/0ScEZgO1c8nu7z1nKd3-KQ) |
-
-### 供应链
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [FBI FLASH 报告：TeamPCP 攻陷开发工具，发动大规模供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=2&sn=50f4976701325e79599b23d3f3ac6513](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526510&idx=2&sn=50f4976701325e79599b23d3f3ac6513) |
-| 2 |  ] [中国信息安全测评中心主任彭涛：筑牢数智时代软件供应链安全根基 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264296&idx=1&sn=814a34251eb9f71c08b1906c6b6563ca](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264296&idx=1&sn=814a34251eb9f71c08b1906c6b6563ca) |
+| 1 | 意大利国家民航局数据泄露：近9000条用户记录及后台数据库曝光 | Doonsec | [https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA](https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA) |
 
 
 ## 📁 归档路径
@@ -164,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -174,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-07 07:37:53*
+*生成时间: 2026-07-07 10:55:57*
 *报告工具: 微信文章安全归档系统*
