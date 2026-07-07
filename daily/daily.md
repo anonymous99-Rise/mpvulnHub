@@ -2,19 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **威胁情报**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +66,23 @@
 
 ### Doonsec
 
-- [银狐Ghost分发商再出特种木马、针对特定目标投递，天擎EDR率先拦截](https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ) (发布日期: 2026-07-07)
-- [泽鹿安全受邀参加“铸盾车联”专题培训会，分享主机厂威胁情报与主动防御体系建设实践](https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw) (发布日期: 2026-07-07)
-- [未然解读 | 勒索软件依然是全球头号威胁，科技史上最狠泄密！代工厂被黑，众多机密泄露](https://mp.weixin.qq.com/s/D5rXPFZNdNNPj0K8or9eig) (发布日期: 2026-07-07)
-- [意大利国家民航局数据泄露：近9000条用户记录及后台数据库曝光](https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA) (发布日期: 2026-07-07)
-- [微软Edge漏洞可致攻击者远程执行任意代码](https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw) (发布日期: 2026-07-07)
-- [【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611)](https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag) (发布日期: 2026-07-07)
-- [漏洞赏金猎人终极侦察清单](https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw) (发布日期: 2026-07-07)
+- [【已复现】Linux FUSE page cache 本地权限提升漏洞(CVE-2026-31694)安全风险通告](https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg) (发布日期: 2026-07-07)
+- [【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce](https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q) (发布日期: 2026-07-07)
+- [搞懂了 AI 渗透测试，你的网站拿什么防？盾甲 WAF Pro 来了！](https://mp.weixin.qq.com/s/98tQ8R2aUXRYQYAf7gjAuA) (发布日期: 2026-07-07)
+- [BeyondTrust 修复了远程支持和 PRA 中的关键身份验证绕过漏洞](https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q) (发布日期: 2026-07-07)
+- [守内安 x ASRC 2026第二季度电子邮件安全观察报告](https://mp.weixin.qq.com/s/cEd1Cf9xWGVTli99OpuzzQ) (发布日期: 2026-07-07)
+- [活动报道 | 2026“工赋砺网”工业领域企业出海数据安全与跨境合规专场培训成功举办](https://mp.weixin.qq.com/s/nefCoqQUd-ukWnH1k7fQfA) (发布日期: 2026-07-07)
+- [AI 在渗透测试中的能力排行：从夯到拉](https://mp.weixin.qq.com/s/ElMtHjf6HwXF13qL_0eL7g) (发布日期: 2026-07-07)
+- [吴倩琳：云安全责任系列标准解读——从公有云到专有云](https://mp.weixin.qq.com/s/gygx_bNY5Xs4K24xAt3PNQ) (发布日期: 2026-07-07)
+- [6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查](https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ) (发布日期: 2026-07-07)
+- [违反数据安全管理等规定，中行又一分行被罚436万元](https://mp.weixin.qq.com/s/6_NrR3nqR6lN86yUbqgbvQ) (发布日期: 2026-07-07)
+- [【已复现】Linux FUSE page cache 越界写本地提权漏洞](https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ) (发布日期: 2026-07-07)
+- [BugHunter-AI：智能自动化渗透测试助手](https://mp.weixin.qq.com/s/LQ_Cig0jY3kRu1FEwhJvUg) (发布日期: 2026-07-07)
+- [2026年广东省大学生计算机设计大赛“网络与数据安全挑战赛”决赛WP](https://mp.weixin.qq.com/s/GiYSgR-RYf2NYRIw9d_vmg) (发布日期: 2026-07-07)
+- [隐蔽网络攻击下智能网联汽车容错安全控制](https://mp.weixin.qq.com/s/MLH7eL047ZbdMyEkK1Frrw) (发布日期: 2026-07-07)
+- [TongWeb 反序列化的图形化检测与利用工具](https://mp.weixin.qq.com/s/n2BbeRCuYyhprgIesOeyug) (发布日期: 2026-07-07)
+- [工具 | ARL灯塔 二开重构版本 自动化资产发现和漏洞监控平台](https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA) (发布日期: 2026-07-07)
+- [借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s/IU1976aTQQVDsZgLuE8wRw) (发布日期: 2026-07-07)
 
 
 ## 🎯 威胁详情分析
@@ -78,22 +91,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 微软Edge漏洞可致攻击者远程执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw](https://mp.weixin.qq.com/s/H0VcYf0mY6mgf7-C0Fuorw) |
-| 2 | 【已复现】漏洞通告 | phpBB认证绕过漏洞(CVE-2026-48611) | Doonsec | [https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag](https://mp.weixin.qq.com/s/fyLZ3buRopnXxKLcxV1Aag) |
-| 3 | 漏洞赏金猎人终极侦察清单 | Doonsec | [https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw](https://mp.weixin.qq.com/s/0zZsfyeQPZNgCs1gHPtegw) |
+| 1 | 【已复现】Linux FUSE page cache 本地权限提升漏洞(CVE-2026-31694)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg](https://mp.weixin.qq.com/s/uPtv1Tz2__9fB9P4-xjzYg) |
+| 2 | 【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce | Doonsec | [https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q](https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q) |
+| 3 | BeyondTrust 修复了远程支持和 PRA 中的关键身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q](https://mp.weixin.qq.com/s/h__oS3_urFF3uKcCpj-W4Q) |
+| 4 | 6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查 | Doonsec | [https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ](https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ) |
+| 5 | 【已复现】Linux FUSE page cache 越界写本地提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ](https://mp.weixin.qq.com/s/8z3EhwgnTyTj6Hkq8dDNCQ) |
+| 6 | 工具 | ARL灯塔 二开重构版本 自动化资产发现和漏洞监控平台 | Doonsec | [https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA](https://mp.weixin.qq.com/s/i3fP0yOiJ4_VwLOuWLc_CA) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐Ghost分发商再出特种木马、针对特定目标投递，天擎EDR率先拦截 | Doonsec | [https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ](https://mp.weixin.qq.com/s/VAtFRKuXHjOGJfIUuHpDkQ) |
-| 2 | 泽鹿安全受邀参加“铸盾车联”专题培训会，分享主机厂威胁情报与主动防御体系建设实践 | Doonsec | [https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw](https://mp.weixin.qq.com/s/Gb4uQ6gnTKJryr4QYUJmmw) |
-
-### 信息泄露
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 意大利国家民航局数据泄露：近9000条用户记录及后台数据库曝光 | Doonsec | [https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA](https://mp.weixin.qq.com/s/tagUj9Noq-B72pxjhEkFRA) |
+| 1 | 【代码审计】客户端漏洞之未授权文件上传+dll劫持实现命令执行rce | Doonsec | [https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q](https://mp.weixin.qq.com/s/D2m2ZOz9MNtRLIB35DMb7Q) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 守内安 x ASRC 2026第二季度电子邮件安全观察报告 | Doonsec | [https://mp.weixin.qq.com/s/cEd1Cf9xWGVTli99OpuzzQ](https://mp.weixin.qq.com/s/cEd1Cf9xWGVTli99OpuzzQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查 | Doonsec | [https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ](https://mp.weixin.qq.com/s/XQhgWbZyhgpkKulRm6owzQ) |
 
 
 ## 📁 归档路径
@@ -109,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-07 10:55:57*
+*生成时间: 2026-07-07 14:33:28*
 *报告工具: 微信文章安全归档系统*
