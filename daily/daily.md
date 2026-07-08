@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 21篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
+- **漏洞利用**: 8篇
 - **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,29 +61,22 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [7月8日高危CVE漏洞速报](https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA) (发布日期: 2026-07-08)
-- [用友时空KSOA popedom SQL 注入漏洞](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) (发布日期: 2026-07-08)
-- [卡巴斯基披露Armored Likho组织利用AI生成恶意软件开展攻击活动](https://mp.weixin.qq.com/s/XRVJkoec6INk8llGpEUFiw) (发布日期: 2026-07-08)
-- [最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了](https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw) (发布日期: 2026-07-08)
-- [北京国测数科网络科技有限公司2026年校园招聘网络信息安全工程师（实习生）](https://mp.weixin.qq.com/s/zBuAEpFOJ_J4cY9rHj9mrA) (发布日期: 2026-07-08)
-- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/Ozj1kEyw9wl-p540xs2c5A) (发布日期: 2026-07-08)
-- [2天掌握AI安全运营实战技能 | 7月16日长沙开班，火热报名中~](https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA) (发布日期: 2026-07-08)
-- [正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥](https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ) (发布日期: 2026-07-08)
-- [腾达路由器疑似出行暗藏后门，可直接获取管理员权限，暂无官方修复补丁](https://mp.weixin.qq.com/s/mqRa7CDWv28vwao4FrbsAQ) (发布日期: 2026-07-08)
-- [得到$23000赏金的挖漏洞过程](https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ) (发布日期: 2026-07-08)
-- [热门密码破解软件John the Ripper(带界面)](https://mp.weixin.qq.com/s/z0fKzFeeeAnL5UlV4uBumw) (发布日期: 2026-07-08)
-- [漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982)](https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg) (发布日期: 2026-07-08)
-- [标准解读｜GA/T 2395-2026《网络安全等级保护数据安全测评过程指南》全文解读](https://mp.weixin.qq.com/s/MG2ZP5fBCelb5abLjyQYPw) (发布日期: 2026-07-08)
-- [为什么有了防火墙，还要发明网闸？](https://mp.weixin.qq.com/s/Mxdyoy0---B7Nt6g6FXNlQ) (发布日期: 2026-07-08)
-- [【热点安全风险】7月8日 |BeyondTrust RS/PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测](https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g) (发布日期: 2026-07-08)
-- [CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞](https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA) (发布日期: 2026-07-08)
-- [高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞)](https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ) (发布日期: 2026-07-08)
-- [中国背景嫌疑的拼图与缺角：质疑Proofpoint对UNK_MassTraction事件的溯源证据链](https://mp.weixin.qq.com/s/QXrXhNyc8Mo4RiRj9aDNuQ) (发布日期: 2026-07-08)
-- [新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限](https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ) (发布日期: 2026-07-08)
-- [慢雾出品 | 2026 上半年区块链安全与反洗钱报告](https://mp.weixin.qq.com/s/dQmO0h0sWOiFQE1DXmn-Bw) (发布日期: 2026-07-08)
-- [工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化](https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ) (发布日期: 2026-07-08)
+- [ ] [一款实用且免费的域名安全检测OSINT工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187576&idx=1&sn=505a7adc39b8364e51f353dcf6cb5265) (发布日期: 2026-07-08)
+- [ ] [违反数据安全管理等规定，中行又一分行被罚436万元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516222&idx=2&sn=7054c5c6924f19e837ee995384993feb) (发布日期: 2026-07-08)
+- [ ] [一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ）](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b) (发布日期: 2026-07-08)
+- [ ] [已存在16年的 Linux KVM 漏洞可导致从客户虚拟机逃逸至宿主机](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=1&sn=cadb21f6556d420bb88549f455cfa643) (发布日期: 2026-07-08)
+- [ ] [BeyondTrust 修复多个严重的认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=2&sn=4f737299033d13d7cabebbe6acee6b34) (发布日期: 2026-07-08)
+- [ ] [T3MP3ST 安全框架：集成 35 款工具，将 AI 代码智能体转化为零日漏洞挖掘器](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790196&idx=1&sn=3f00c235b885725bac7aae84b3f9860e) (发布日期: 2026-07-08)
+- [ ] [专家观点 | 筑牢金融信息服务数据安全屏障](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264359&idx=3&sn=6b52d2942d9262e31ac3f9a4b3aada74) (发布日期: 2026-07-08)
+- [ ] [评论 | 人工智能安全要从娃娃抓起](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264359&idx=5&sn=49aaec54e8dcd0254a476b7c1b75ec5e) (发布日期: 2026-07-08)
+- [ ] [微步AI智能体安全治理方案入选《2026 AI安全产业研究报告》](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187028&idx=1&sn=c7649834d6d264beb299aefcb3b41fbb) (发布日期: 2026-07-08)
+- [ ] [【安全圈】FatFs 中的漏洞使 IoT 和嵌入式设备面临风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077739&idx=3&sn=cf0cb509a64fb70946bc756edcf48216) (发布日期: 2026-07-08)
+- [ ] [AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141868&idx=2&sn=8dd0815ebc49a17b1feecb02dd6321cf) (发布日期: 2026-07-08)
+- [ ] [慢雾出品 | 2026 上半年区块链安全与反洗钱报告](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505351&idx=1&sn=2540746c2ff8a6f35ec26c11d7898736) (发布日期: 2026-07-08)
+- [ ] [6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77) (发布日期: 2026-07-08)
+- [ ] [潜伏16年！KVM 跨架构逃逸漏洞曝光，AWS、GCP 全线告急](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617378&idx=3&sn=79c21f6f53344bd046ddfeac65446951) (发布日期: 2026-07-08)
 
 
 ## 🎯 威胁详情分析
@@ -91,29 +85,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7月8日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA](https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA) |
-| 2 | 用友时空KSOA popedom SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) |
-| 3 | 最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了 | Doonsec | [https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw](https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw) |
-| 4 | 正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥 | Doonsec | [https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ](https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ) |
-| 5 | 得到$23000赏金的挖漏洞过程 | Doonsec | [https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ](https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ) |
-| 6 | 漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982) | Doonsec | [https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg](https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg) |
-| 7 | 【热点安全风险】7月8日 |BeyondTrust RS/PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测 | Doonsec | [https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g](https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g) |
-| 8 | CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA](https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA) |
-| 9 | 高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞) | Doonsec | [https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ](https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ) |
-| 10 | 新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限 | Doonsec | [https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ](https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ) |
-| 11 | 工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化 | Doonsec | [https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ](https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ) |
+| 1 |  ] [一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b) |
+| 2 |  ] [已存在16年的 Linux KVM 漏洞可导致从客户虚拟机逃逸至宿主机 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=1&sn=cadb21f6556d420bb88549f455cfa643](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=1&sn=cadb21f6556d420bb88549f455cfa643) |
+| 3 |  ] [BeyondTrust 修复多个严重的认证绕过漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=2&sn=4f737299033d13d7cabebbe6acee6b34](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526532&idx=2&sn=4f737299033d13d7cabebbe6acee6b34) |
+| 4 |  ] [T3MP3ST 安全框架：集成 35 款工具，将 AI 代码智能体转化为零日漏洞挖掘器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790196&idx=1&sn=3f00c235b885725bac7aae84b3f9860e](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790196&idx=1&sn=3f00c235b885725bac7aae84b3f9860e) |
+| 5 |  ] [【安全圈】FatFs 中的漏洞使 IoT 和嵌入式设备面临风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077739&idx=3&sn=cf0cb509a64fb70946bc756edcf48216](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077739&idx=3&sn=cf0cb509a64fb70946bc756edcf48216) |
+| 6 |  ] [AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141868&idx=2&sn=8dd0815ebc49a17b1feecb02dd6321cf](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141868&idx=2&sn=8dd0815ebc49a17b1feecb02dd6321cf) |
+| 7 |  ] [6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77) |
+| 8 |  ] [潜伏16年！KVM 跨架构逃逸漏洞曝光，AWS、GCP 全线告急 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617378&idx=3&sn=79c21f6f53344bd046ddfeac65446951](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617378&idx=3&sn=79c21f6f53344bd046ddfeac65446951) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友时空KSOA popedom SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) |
+| 1 |  ] [一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519409&idx=1&sn=dcc6363e9057f950e57e15f52e0efa1b) |
 
-### 安全运营
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2天掌握AI安全运营实战技能 | 7月16日长沙开班，火热报名中~ | Doonsec | [https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA](https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA) |
+| 1 |  ] [6月必修漏洞清单：涵盖Gogs、Vite等多组件高危漏洞，务必速查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497800&idx=1&sn=6157c390d7c8d692950917c03807bc77) |
 
 
 ## 📁 归档路径
@@ -129,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-08 02:41:39*
+*生成时间: 2026-07-08 06:27:37*
 *报告工具: 微信文章安全归档系统*
