@@ -1,17 +1,17 @@
-# 2026-07-07 安全威胁态势报告
+# 2026-07-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 11篇
 - **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -62,12 +62,27 @@
 
 ### Doonsec
 
-- [一款实用且免费的域名安全检测OSINT工具](https://mp.weixin.qq.com/s/veP-MuUxAKUVM8x5FjOD-A) (发布日期: 2026-07-07)
-- [数据泄露情报2026.7.7 - 炒冷饭美国T-mobile 3700万用户泄露](https://mp.weixin.qq.com/s/pTdU4AGvJgPWuDQfhqid5w) (发布日期: 2026-07-07)
-- [源码泄露——江苏省第四届数据安全技术应用职业技能竞赛初赛](https://mp.weixin.qq.com/s/ZJxc9u4hoR13JhlN8sRAAw) (发布日期: 2026-07-07)
-- [我的PDF分析助手成了内网跳板：WorkBuddy插件SSRF漏洞复盘，顺便送10套企业版给兄弟们](https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ) (发布日期: 2026-07-07)
-- [AI会扼杀漏洞赏金产业吗？](https://mp.weixin.qq.com/s/laspFRAYA4OmgojN86YGkQ) (发布日期: 2026-07-07)
-- [T3MP3ST——ai安全元工具（agent自动化找漏洞）](https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg) (发布日期: 2026-07-07)
+- [7月8日高危CVE漏洞速报](https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA) (发布日期: 2026-07-08)
+- [用友时空KSOA popedom SQL 注入漏洞](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) (发布日期: 2026-07-08)
+- [卡巴斯基披露Armored Likho组织利用AI生成恶意软件开展攻击活动](https://mp.weixin.qq.com/s/XRVJkoec6INk8llGpEUFiw) (发布日期: 2026-07-08)
+- [最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了](https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw) (发布日期: 2026-07-08)
+- [北京国测数科网络科技有限公司2026年校园招聘网络信息安全工程师（实习生）](https://mp.weixin.qq.com/s/zBuAEpFOJ_J4cY9rHj9mrA) (发布日期: 2026-07-08)
+- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/Ozj1kEyw9wl-p540xs2c5A) (发布日期: 2026-07-08)
+- [2天掌握AI安全运营实战技能 | 7月16日长沙开班，火热报名中~](https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA) (发布日期: 2026-07-08)
+- [正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥](https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ) (发布日期: 2026-07-08)
+- [腾达路由器疑似出行暗藏后门，可直接获取管理员权限，暂无官方修复补丁](https://mp.weixin.qq.com/s/mqRa7CDWv28vwao4FrbsAQ) (发布日期: 2026-07-08)
+- [得到$23000赏金的挖漏洞过程](https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ) (发布日期: 2026-07-08)
+- [热门密码破解软件John the Ripper(带界面)](https://mp.weixin.qq.com/s/z0fKzFeeeAnL5UlV4uBumw) (发布日期: 2026-07-08)
+- [漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982)](https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg) (发布日期: 2026-07-08)
+- [标准解读｜GA/T 2395-2026《网络安全等级保护数据安全测评过程指南》全文解读](https://mp.weixin.qq.com/s/MG2ZP5fBCelb5abLjyQYPw) (发布日期: 2026-07-08)
+- [为什么有了防火墙，还要发明网闸？](https://mp.weixin.qq.com/s/Mxdyoy0---B7Nt6g6FXNlQ) (发布日期: 2026-07-08)
+- [【热点安全风险】7月8日 |BeyondTrust RS/PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测](https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g) (发布日期: 2026-07-08)
+- [CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞](https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA) (发布日期: 2026-07-08)
+- [高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞)](https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ) (发布日期: 2026-07-08)
+- [中国背景嫌疑的拼图与缺角：质疑Proofpoint对UNK_MassTraction事件的溯源证据链](https://mp.weixin.qq.com/s/QXrXhNyc8Mo4RiRj9aDNuQ) (发布日期: 2026-07-08)
+- [新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限](https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ) (发布日期: 2026-07-08)
+- [慢雾出品 | 2026 上半年区块链安全与反洗钱报告](https://mp.weixin.qq.com/s/dQmO0h0sWOiFQE1DXmn-Bw) (发布日期: 2026-07-08)
+- [工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化](https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ) (发布日期: 2026-07-08)
 
 
 ## 🎯 威胁详情分析
@@ -76,26 +91,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 我的PDF分析助手成了内网跳板：WorkBuddy插件SSRF漏洞复盘，顺便送10套企业版给兄弟们 | Doonsec | [https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ](https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ) |
-| 2 | AI会扼杀漏洞赏金产业吗？ | Doonsec | [https://mp.weixin.qq.com/s/laspFRAYA4OmgojN86YGkQ](https://mp.weixin.qq.com/s/laspFRAYA4OmgojN86YGkQ) |
-| 3 | T3MP3ST——ai安全元工具（agent自动化找漏洞） | Doonsec | [https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg](https://mp.weixin.qq.com/s/schLREA8vWhc3deI7Pa2Fg) |
+| 1 | 7月8日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA](https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA) |
+| 2 | 用友时空KSOA popedom SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) |
+| 3 | 最高罚全球营收 2.5%！做欧盟 CRA 上报，漏洞线索去哪找？全渠道整理好了 | Doonsec | [https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw](https://mp.weixin.qq.com/s/3DZjdpJhCPZ_6Pt9NvhXnw) |
+| 4 | 正在被恶意利用的 Gitea 容器高危漏洞，可泄露代码仓库与密钥 | Doonsec | [https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ](https://mp.weixin.qq.com/s/RxBW807IwVO2BUviAPQsWQ) |
+| 5 | 得到$23000赏金的挖漏洞过程 | Doonsec | [https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ](https://mp.weixin.qq.com/s/bmxXGrXQYGO0Y6Z8Ff8GuQ) |
+| 6 | 漏洞通告|Huawei HarmonyOS IPC模块竞争条件漏洞(CVE-2026-41982) | Doonsec | [https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg](https://mp.weixin.qq.com/s/usom_x30ugOFM9LbiUwBAg) |
+| 7 | 【热点安全风险】7月8日 |BeyondTrust RS/PRA修复多项漏洞、Gitea Docker镜像CVE-2026-20896出现探测 | Doonsec | [https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g](https://mp.weixin.qq.com/s/hlDVe8sqZANVkhyBrV-g5g) |
+| 8 | CISA被曝部署Mythos扫描联邦代码库，已发现大量漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA](https://mp.weixin.qq.com/s/8MJTJS-aCetEZEfJIZ5KIA) |
+| 9 | 高危预警：Linux内核“Bad Epoll”漏洞（CVE-2026-46242）允许本地用户一键提权至Root(影响Linux 6.4+与Android的本地提权漏洞) | Doonsec | [https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ](https://mp.weixin.qq.com/s/R4fpQzyEgO7e_IU7RdtUcQ) |
+| 10 | 新型“Bad Epoll”零日漏洞允许攻击者获取Linux服务器和安卓设备的root权限 | Doonsec | [https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ](https://mp.weixin.qq.com/s/4w4jlmqlF-4f4JIdOR1yMQ) |
+| 11 | 工具推荐 | AutoCVE - 一键挖掘 CVE，筛项目、审源码、验漏洞、出报告，全流程自动化 | Doonsec | [https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ](https://mp.weixin.qq.com/s/hB1ujYgFqht99IutS_u3jQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 我的PDF分析助手成了内网跳板：WorkBuddy插件SSRF漏洞复盘，顺便送10套企业版给兄弟们 | Doonsec | [https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ](https://mp.weixin.qq.com/s/jPnioOdeII6xTJkpkXwImQ) |
+| 1 | 用友时空KSOA popedom SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q](https://mp.weixin.qq.com/s/w20ssr3O7Uvo9QOw4P1m3Q) |
 
-### 信息泄露
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.7.7 - 炒冷饭美国T-mobile 3700万用户泄露 | Doonsec | [https://mp.weixin.qq.com/s/pTdU4AGvJgPWuDQfhqid5w](https://mp.weixin.qq.com/s/pTdU4AGvJgPWuDQfhqid5w) |
+| 1 | 2天掌握AI安全运营实战技能 | 7月16日长沙开班，火热报名中~ | Doonsec | [https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA](https://mp.weixin.qq.com/s/1acJYy4LelwPEBighhapQA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-07/`
+文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-08/`
 
 ## 🔗 数据源说明
 
@@ -106,7 +129,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -116,5 +139,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-07 17:58:46*
+*生成时间: 2026-07-08 02:41:39*
 *报告工具: 微信文章安全归档系统*
