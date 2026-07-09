@@ -2,16 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
@@ -63,21 +61,9 @@
 
 ### Doonsec
 
-- [网络安全合规领域的“天眼查”，它来了！](https://mp.weixin.qq.com/s/as-1dmmgu44v4y02hR1OJQ) (发布日期: 2026-07-09)
-- [零日漏洞引爆电信运营商千万级数据泄露事件](https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g) (发布日期: 2026-07-09)
-- [【$7,000】HackerOne 平台最新高危漏洞披露](https://mp.weixin.qq.com/s/mT2eOMJYfkcpviZmNbK4sA) (发布日期: 2026-07-09)
-- [为什么厉害的红队er都有自己的“小圈子”？](https://mp.weixin.qq.com/s/K8GsDq5obcXGiu43EkW_VQ) (发布日期: 2026-07-09)
-- [一句话套走你的快递：某电商AI助手提示注入漏洞全复盘，我把别人的订单看了个遍](https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw) (发布日期: 2026-07-09)
-- [银狐病毒应急响应方案](https://mp.weixin.qq.com/s/NC0noq9THGT1Aje1ykdeuw) (发布日期: 2026-07-09)
-- [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s/c5GQePJVfgBZ8OVP9mPTeg) (发布日期: 2026-07-09)
-- [HalluSquatting攻击使黑客能够将AI编码助手变成僵尸网络安装程序](https://mp.weixin.qq.com/s/LGAw7X4HwnKtXz3JndVYkA) (发布日期: 2026-07-09)
-- [AI安全 | AI黑客都上桌了，你的防火墙准备好了吗？](https://mp.weixin.qq.com/s/MDUMceC6juXAivw7pmFnBA) (发布日期: 2026-07-09)
-- [npm 和 PyPI 恶意软件活动通过虚假支付 SDK 窃取 CI/CD 机密信息](https://mp.weixin.qq.com/s/Vf6wY5_kmdPXWUZVptUASg) (发布日期: 2026-07-09)
-- [AI 编程助手中发现了一个名为“GhostApproval”的新漏洞](https://mp.weixin.qq.com/s/kU75b2VwHaGfvSmizljhvw) (发布日期: 2026-07-09)
-- [【安全圈】Google Dialogflow CX 漏洞可让攻击者劫持 AI 对话](https://mp.weixin.qq.com/s/H7El9UmBDr_QPgalT95Ukg) (发布日期: 2026-07-09)
-- [【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险](https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg) (发布日期: 2026-07-09)
-- [安言咨询 |《网络数据安全风险评估报告》填写指南](https://mp.weixin.qq.com/s/gNYWYWXc5pcoNYfqjKvrWg) (发布日期: 2026-07-09)
-- [报名启动 | AI安全治理与智能体防护实践专场培训](https://mp.weixin.qq.com/s/n07KQEnDQw0ajtgQw9xkig) (发布日期: 2026-07-09)
+- [【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告](https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ) (发布日期: 2026-07-09)
+- [数据泄露情报2026.7.9 - 800万gravatar数据被爬取，FBI档案新旧掺杂](https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg) (发布日期: 2026-07-09)
+- [【资料】运营超过500 个独立的信号情报平台的美国国家安全局（NSA）的组织架构及分支机构](https://mp.weixin.qq.com/s/F9oW8u-06_IhEaCaf33Kjg) (发布日期: 2026-07-09)
 
 
 ## 🎯 威胁详情分析
@@ -86,31 +72,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 零日漏洞引爆电信运营商千万级数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g](https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g) |
-| 2 | 【$7,000】HackerOne 平台最新高危漏洞披露 | Doonsec | [https://mp.weixin.qq.com/s/mT2eOMJYfkcpviZmNbK4sA](https://mp.weixin.qq.com/s/mT2eOMJYfkcpviZmNbK4sA) |
-| 3 | 一句话套走你的快递：某电商AI助手提示注入漏洞全复盘，我把别人的订单看了个遍 | Doonsec | [https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw](https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw) |
-| 4 | AI 编程助手中发现了一个名为“GhostApproval”的新漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kU75b2VwHaGfvSmizljhvw](https://mp.weixin.qq.com/s/kU75b2VwHaGfvSmizljhvw) |
-| 5 | 【安全圈】Google Dialogflow CX 漏洞可让攻击者劫持 AI 对话 | Doonsec | [https://mp.weixin.qq.com/s/H7El9UmBDr_QPgalT95Ukg](https://mp.weixin.qq.com/s/H7El9UmBDr_QPgalT95Ukg) |
-| 6 | 【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险 | Doonsec | [https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg](https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 一句话套走你的快递：某电商AI助手提示注入漏洞全复盘，我把别人的订单看了个遍 | Doonsec | [https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw](https://mp.weixin.qq.com/s/ZW1T-3HlEcXjC-nU-ionNw) |
-| 2 | 【安全圈】严重漏洞暴露 GitHub Agentic Workflows 面临提示注入风险 | Doonsec | [https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg](https://mp.weixin.qq.com/s/Qfhjhk-0i_1382cI--Fqwg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐病毒应急响应方案 | Doonsec | [https://mp.weixin.qq.com/s/NC0noq9THGT1Aje1ykdeuw](https://mp.weixin.qq.com/s/NC0noq9THGT1Aje1ykdeuw) |
+| 1 | 【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告 | Doonsec | [https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ](https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 零日漏洞引爆电信运营商千万级数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g](https://mp.weixin.qq.com/s/7qFQN--jUsZzd8vQswXS0g) |
+| 1 | 数据泄露情报2026.7.9 - 800万gravatar数据被爬取，FBI档案新旧掺杂 | Doonsec | [https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg](https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg) |
 
 
 ## 📁 归档路径
@@ -126,7 +94,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -136,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-09 15:09:27*
+*生成时间: 2026-07-09 17:55:40*
 *报告工具: 微信文章安全归档系统*
