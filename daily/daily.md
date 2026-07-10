@@ -1,18 +1,22 @@
-# 2026-07-09 安全威胁态势报告
+# 2026-07-10 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +65,31 @@
 
 ### Doonsec
 
-- [【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告](https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ) (发布日期: 2026-07-09)
-- [数据泄露情报2026.7.9 - 800万gravatar数据被爬取，FBI档案新旧掺杂](https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg) (发布日期: 2026-07-09)
-- [【资料】运营超过500 个独立的信号情报平台的美国国家安全局（NSA）的组织架构及分支机构](https://mp.weixin.qq.com/s/F9oW8u-06_IhEaCaf33Kjg) (发布日期: 2026-07-09)
+- [武汉大学：智能网联汽车安全防护技术研究综述](https://mp.weixin.qq.com/s/j9p9QrKrKiSPEvd9LkknMQ) (发布日期: 2026-07-10)
+- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/jNgniuqxfC1Zu6Jj7vBWGw) (发布日期: 2026-07-10)
+- [锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞](https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ) (发布日期: 2026-07-10)
+- [西软云XMS download2 任意文件读取漏洞](https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw) (发布日期: 2026-07-10)
+- [【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限](https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA) (发布日期: 2026-07-10)
+- [当漏洞猎人成了猎物：ChocoPoC 木马借假 PoC 仓库精准攻陷安全研究员](https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g) (发布日期: 2026-07-10)
+- [05 AI 威胁狩猎：为什么大模型不能无人值守？](https://mp.weixin.qq.com/s/4lYQuGhkWf7bAJeinTdUYw) (发布日期: 2026-07-10)
+- [咨询巨头埃森哲确认数据安全事件，疑似35GB源代码及云凭据遭窃](https://mp.weixin.qq.com/s/be7d3c28i2WBFNXzlFFv9A) (发布日期: 2026-07-10)
+- [数据安全管理能力提升专项行动 · 培训：\"四两\"如何\"拨千斤\"](https://mp.weixin.qq.com/s/yapr4pw_hrTs1iLpMFZoUA) (发布日期: 2026-07-10)
+- [实战见真章 | 来自河海大学攻防演练感谢信](https://mp.weixin.qq.com/s/ZdvE61wl76bQzXQ8S_2fOA) (发布日期: 2026-07-10)
+- [漏洞复现 | OpenCode content 接口任意文件读取漏洞](https://mp.weixin.qq.com/s/nkL1RyUnL0bkiFucu216Pw) (发布日期: 2026-07-10)
+- [OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！](https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA) (发布日期: 2026-07-10)
+- [你的 Claude Code 可能在偷偷“汇报”——官方通报后门，附处置 checklist](https://mp.weixin.qq.com/s/4W-JKvR9sr394XtnI9imEA) (发布日期: 2026-07-10)
+- [微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656](https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ) (发布日期: 2026-07-10)
+- [教育行业SRC供应商漏洞变化 (2026-07-10)](https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA) (发布日期: 2026-07-10)
+- [复杂和简单矛盾的加密题——江苏省第四届数据安全技术应用职业技能竞赛初赛](https://mp.weixin.qq.com/s/011ac6VyvTqwViVJaJbprw) (发布日期: 2026-07-10)
+- [中国企业出海，数据合规服务商哪家强？扬帆安全报告发布·附下载](https://mp.weixin.qq.com/s/EEv0VeSdmKX7f73WDL7agA) (发布日期: 2026-07-10)
+- [【应急响应】 护网中，蓝队该如何撰写技法？](https://mp.weixin.qq.com/s/ThrGhXaGoS2Jmv4F8iGoTg) (发布日期: 2026-07-10)
+- [CVE复现 | CVE-2026-31816漏洞复现](https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw) (发布日期: 2026-07-10)
+- [【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞](https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg) (发布日期: 2026-07-10)
+- [AI算力合作中的数据安全方案设计](https://mp.weixin.qq.com/s/8IhxYP2KTeM-mC1gYnD9cw) (发布日期: 2026-07-10)
+- [CISP两个方向(CISE和CISO）别选错！](https://mp.weixin.qq.com/s/3tH-sowM6WW8sooGZjBuMA) (发布日期: 2026-07-10)
+- [免费学CISP！6 节核心课带你吃透网络安全硬核技能](https://mp.weixin.qq.com/s/pylS1amxVciLTNMdI2YyeQ) (发布日期: 2026-07-10)
+- [安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！](https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg) (发布日期: 2026-07-10)
+- [工具推荐 | 重构 ARL 经典版：打造全自动资产侦察与漏洞监控平台，AI 二开友好](https://mp.weixin.qq.com/s/6OlwhUOOPQQjJcWvv_sUuQ) (发布日期: 2026-07-10)
 
 
 ## 🎯 威胁详情分析
@@ -72,18 +98,47 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】GhostLock (CVE-2026-43499)：Linux内核15年栈UAF漏洞，本地提权与容器逃逸风险通告 | Doonsec | [https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ](https://mp.weixin.qq.com/s/G_RQRM_k_MfkyOzHQW0eTQ) |
+| 1 | 锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ](https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ) |
+| 2 | 西软云XMS download2 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw](https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw) |
+| 3 | 【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限 | Doonsec | [https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA](https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA) |
+| 4 | 当漏洞猎人成了猎物：ChocoPoC 木马借假 PoC 仓库精准攻陷安全研究员 | Doonsec | [https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g](https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g) |
+| 5 | 漏洞复现 | OpenCode content 接口任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/nkL1RyUnL0bkiFucu216Pw](https://mp.weixin.qq.com/s/nkL1RyUnL0bkiFucu216Pw) |
+| 6 | OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！ | Doonsec | [https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA](https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA) |
+| 7 | 微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656 | Doonsec | [https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ](https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ) |
+| 8 | 教育行业SRC供应商漏洞变化 (2026-07-10) | Doonsec | [https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA](https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA) |
+| 9 | CVE复现 | CVE-2026-31816漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw](https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw) |
+| 10 | 【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg](https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg) |
+| 11 | 安全工具丨多功能Web漏洞扫描器，支持80项漏洞自动检测！ | Doonsec | [https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg](https://mp.weixin.qq.com/s/a90b7amdDn_rnyA5cor9Qg) |
+| 12 | 工具推荐 | 重构 ARL 经典版：打造全自动资产侦察与漏洞监控平台，AI 二开友好 | Doonsec | [https://mp.weixin.qq.com/s/6OlwhUOOPQQjJcWvv_sUuQ](https://mp.weixin.qq.com/s/6OlwhUOOPQQjJcWvv_sUuQ) |
 
-### 信息泄露
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.7.9 - 800万gravatar数据被爬取，FBI档案新旧掺杂 | Doonsec | [https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg](https://mp.weixin.qq.com/s/HjS8jCp-Nf2sYD1GTbhVvg) |
+| 1 | OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！ | Doonsec | [https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA](https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【应急响应】 护网中，蓝队该如何撰写技法？ | Doonsec | [https://mp.weixin.qq.com/s/ThrGhXaGoS2Jmv4F8iGoTg](https://mp.weixin.qq.com/s/ThrGhXaGoS2Jmv4F8iGoTg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-10) | Doonsec | [https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA](https://mp.weixin.qq.com/s/FswjvqeJl3xL-uCWoHxRcA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg](https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-09/`
+文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-10/`
 
 ## 🔗 数据源说明
 
@@ -94,8 +149,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -104,5 +159,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-09 17:55:40*
+*生成时间: 2026-07-10 03:19:37*
 *报告工具: 微信文章安全归档系统*
