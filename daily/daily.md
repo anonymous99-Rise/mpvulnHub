@@ -1,23 +1,20 @@
-# 2026-07-10 安全威胁态势报告
+# 2026-07-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 4篇
-  - BruceFeIix: 15篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 2篇
-- **供应链**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **威胁情报**: 2篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,28 +63,20 @@
 
 ### Doonsec
 
-- [CRYPTO 2025：面向NP的自适应安全SNARG](https://mp.weixin.qq.com/s/4v1_u36s2ZrT-mnu6S48GA) (发布日期: 2026-07-10)
-- [运维的防火墙策略清理 3类脏数据 + 2条命令](https://mp.weixin.qq.com/s/qw0irtAU1aiI5Sa7z1twkg) (发布日期: 2026-07-10)
-- [GPT-5.6全量放送，Codex正式并入ChatGPT；埃森哲数据泄露事件：黑客声称大规模数据窃取，公司驳斥相关指控 | 牛览](https://mp.weixin.qq.com/s/9wTtnPEA6bY6cAM1oFGTXg) (发布日期: 2026-07-10)
-- [事件响应生命周期](https://mp.weixin.qq.com/s/jTpaliPbRfNFbBwJejgNkA) (发布日期: 2026-07-10)
-
-### BruceFeIix
-
-- [ ] [筑牢政务数据安全底座：威努特数据备份与恢复系统，守护数字政府生命线。](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142927&idx=1&sn=de433a5beec67bdd1c8d32b1d9ce5bb3) (发布日期: 2026-07-10)
-- [ ] [安卓17 IonStack全链路0day漏洞利用链](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187608&idx=1&sn=d0397197cbc8664d3cdba598ba15c196) (发布日期: 2026-07-10)
-- [ ] [GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=1&sn=19edacadf8bc184c678b7e5c5ce9ac6b) (发布日期: 2026-07-10)
-- [ ] [优倍快：注意这个CVSS满分的 UniFi OS 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=2&sn=3757390c1aa4853a8fbc99be4bb1c55b) (发布日期: 2026-07-10)
-- [ ] [本周漏洞速递｜13个高危漏洞预警+漏洞复现](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486213&idx=1&sn=5ebbcaa6debb1eb23b13260f2489eb62) (发布日期: 2026-07-10)
-- [ ] [【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5) (发布日期: 2026-07-10)
-- [ ] [安全审计反中招！Claude/GPT-5.5 AI代理遭供应链注入](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf) (发布日期: 2026-07-10)
-- [ ] [网商银行：AI Agent重构威胁运营，打造数字银行智能安全体系](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187038&idx=1&sn=0fcbb8fc7964063a08e58aa936d9d56d) (发布日期: 2026-07-10)
-- [ ] [专题·原创 | 国家工业信息安全发展研究中心总工程师张格：人工智能时代软件供应链安全风险分析与治理对策](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264470&idx=1&sn=2ee8bb85031c546b6a1b7b80fcc38378) (发布日期: 2026-07-10)
-- [ ] [【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=1&sn=b6c55cfbcccaf3a13fe0dddbfabab1cb) (发布日期: 2026-07-10)
-- [ ] [【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=2&sn=2a1b3160d6537cece6ed63bf95562c47) (发布日期: 2026-07-10)
-- [ ] [【风险提示】天融信关于防范AI编程工具Claude Code安全后门隐患的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496951&idx=1&sn=20eb03bc0168453f0541829356828612) (发布日期: 2026-07-10)
-- [ ] [Mythos 对企业安全架构影响的思考](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520712&idx=1&sn=9797b24f86ed53691b75dd9968918496) (发布日期: 2026-07-10)
-- [ ] [暴露面不等于防御：安全团队为何必须从风险识别转向攻击阻断](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486831&idx=1&sn=329aaa0bd191595fbcd13fd562fa9ae0) (发布日期: 2026-07-10)
-- [ ] [追了一年 AI 安全动态， 我们决定把它们做成一套情报系统](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499141&idx=1&sn=6d98c706934d800ca6636b5fa65f10c5) (发布日期: 2026-07-10)
+- [工信部通报 Claude Code 后门，阿里全员禁用](https://mp.weixin.qq.com/s/E2mv9h1RnDu6PCMiXO2Fsg) (发布日期: 2026-07-11)
+- [数据安全管理能力提升专项行动 · 培训：\"四两\"如何\"拨千斤\"](https://mp.weixin.qq.com/s/aXHpGOJfO3Ilf9VqJCjXBw) (发布日期: 2026-07-11)
+- [关于举办“鲁智杯”职工数智技术应用竞赛——“铸网-2026”山东省工业互联网网络安全职业技能竞赛暨攻防演练的通知](https://mp.weixin.qq.com/s/K1xD5t-7sExZWwD1FtMrXA) (发布日期: 2026-07-11)
+- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/anGxetowtLjJRWdzawBPIw) (发布日期: 2026-07-11)
+- [教育行业SRC供应商漏洞变化 (2026-07-11)](https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g) (发布日期: 2026-07-11)
+- [AI与云安全事件案例分析周报｜2026.07.06 - 2026.07.10](https://mp.weixin.qq.com/s/iZ6TjBxIOQbnJoEF374MvA) (发布日期: 2026-07-11)
+- [【病毒分析】某银狐伪装Steam客户端启动器”Steam.exe“、”Telegram简体中文语言包“隐蔽投毒](https://mp.weixin.qq.com/s/HleWYqTko9ge-o-RFw6hxg) (发布日期: 2026-07-11)
+- [全文+总结PPT《银行业保险业网络安全管理办法（征求意见稿）》发布](https://mp.weixin.qq.com/s/2ABHO_oPhq9EFesORtLJhg) (发布日期: 2026-07-11)
+- [微软SharePoint Server再次被曝出存在可被远程利用的高危漏洞](https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw) (发布日期: 2026-07-11)
+- [ThinkCMF漏洞全解析：从版本识别到Getshell的实战指南](https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ) (发布日期: 2026-07-11)
+- [潜伏逾十年的U-Boot启动漏洞曝光：数十亿设备面临隐蔽固件攻击](https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg) (发布日期: 2026-07-11)
+- [威胁情报 | Injective SDK 投毒，加密钱包私钥失窃](https://mp.weixin.qq.com/s/8vs_g26AOPWExkUuAzInCg) (发布日期: 2026-07-11)
+- [fast-mcp-telegram 存在严重漏洞，攻击者无需令牌即可访问 Telegram 会话](https://mp.weixin.qq.com/s/4zi8UhOhBHv4BVXTOsCvQQ) (发布日期: 2026-07-11)
+- [老牌 Shiro550 漏洞为何常年高危？ShiroAttack2 新版工具一键爆破密钥、注入内存马，CLI 批量脚本化渗透](https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA) (发布日期: 2026-07-11)
 
 
 ## 🎯 威胁详情分析
@@ -96,38 +85,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [安卓17 IonStack全链路0day漏洞利用链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187608&idx=1&sn=d0397197cbc8664d3cdba598ba15c196](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187608&idx=1&sn=d0397197cbc8664d3cdba598ba15c196) |
-| 2 |  ] [GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=1&sn=19edacadf8bc184c678b7e5c5ce9ac6b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=1&sn=19edacadf8bc184c678b7e5c5ce9ac6b) |
-| 3 |  ] [优倍快：注意这个CVSS满分的 UniFi OS 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=2&sn=3757390c1aa4853a8fbc99be4bb1c55b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526586&idx=2&sn=3757390c1aa4853a8fbc99be4bb1c55b) |
-| 4 |  ] [本周漏洞速递｜13个高危漏洞预警+漏洞复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486213&idx=1&sn=5ebbcaa6debb1eb23b13260f2489eb62](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486213&idx=1&sn=5ebbcaa6debb1eb23b13260f2489eb62) |
-| 5 |  ] [【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5) |
-| 6 |  ] [【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=1&sn=b6c55cfbcccaf3a13fe0dddbfabab1cb](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=1&sn=b6c55cfbcccaf3a13fe0dddbfabab1cb) |
-| 7 |  ] [【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=2&sn=2a1b3160d6537cece6ed63bf95562c47](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526036&idx=2&sn=2a1b3160d6537cece6ed63bf95562c47) |
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-11) | Doonsec | [https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g](https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g) |
+| 2 | 微软SharePoint Server再次被曝出存在可被远程利用的高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw](https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw) |
+| 3 | ThinkCMF漏洞全解析：从版本识别到Getshell的实战指南 | Doonsec | [https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ](https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ) |
+| 4 | 潜伏逾十年的U-Boot启动漏洞曝光：数十亿设备面临隐蔽固件攻击 | Doonsec | [https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg](https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg) |
+| 5 | fast-mcp-telegram 存在严重漏洞，攻击者无需令牌即可访问 Telegram 会话 | Doonsec | [https://mp.weixin.qq.com/s/4zi8UhOhBHv4BVXTOsCvQQ](https://mp.weixin.qq.com/s/4zi8UhOhBHv4BVXTOsCvQQ) |
+| 6 | 老牌 Shiro550 漏洞为何常年高危？ShiroAttack2 新版工具一键爆破密钥、注入内存马，CLI 批量脚本化渗透 | Doonsec | [https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA](https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506571&idx=1&sn=c291af83bbb50b32b4cefb969edf12c5) |
-| 2 |  ] [安全审计反中招！Claude/GPT-5.5 AI代理遭供应链注入 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf) |
+| 1 | 老牌 Shiro550 漏洞为何常年高危？ShiroAttack2 新版工具一键爆破密钥、注入内存马，CLI 批量脚本化渗透 | Doonsec | [https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA](https://mp.weixin.qq.com/s/UcysNxT_5d0S-npTJa24aA) |
 
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | GPT-5.6全量放送，Codex正式并入ChatGPT；埃森哲数据泄露事件：黑客声称大规模数据窃取，公司驳斥相关指控 | 牛览 | Doonsec | [https://mp.weixin.qq.com/s/9wTtnPEA6bY6cAM1oFGTXg](https://mp.weixin.qq.com/s/9wTtnPEA6bY6cAM1oFGTXg) |
-
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [安全审计反中招！Claude/GPT-5.5 AI代理遭供应链注入 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617429&idx=2&sn=3e3854e481dc46bdeee63e1bad144fbf) |
-| 2 |  ] [专题·原创 | 国家工业信息安全发展研究中心总工程师张格：人工智能时代软件供应链安全风险分析与治理对策 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264470&idx=1&sn=2ee8bb85031c546b6a1b7b80fcc38378](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264470&idx=1&sn=2ee8bb85031c546b6a1b7b80fcc38378) |
+| 1 | 【病毒分析】某银狐伪装Steam客户端启动器”Steam.exe“、”Telegram简体中文语言包“隐蔽投毒 | Doonsec | [https://mp.weixin.qq.com/s/HleWYqTko9ge-o-RFw6hxg](https://mp.weixin.qq.com/s/HleWYqTko9ge-o-RFw6hxg) |
+| 2 | 威胁情报 | Injective SDK 投毒，加密钱包私钥失窃 | Doonsec | [https://mp.weixin.qq.com/s/8vs_g26AOPWExkUuAzInCg](https://mp.weixin.qq.com/s/8vs_g26AOPWExkUuAzInCg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-11) | Doonsec | [https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g](https://mp.weixin.qq.com/s/oyyF6qKDdY-WN6gL9b7D-g) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-10/`
+文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-11/`
 
 ## 🔗 数据源说明
 
@@ -138,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -148,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-10 07:34:51*
+*生成时间: 2026-07-11 02:38:23*
 *报告工具: 微信文章安全归档系统*
