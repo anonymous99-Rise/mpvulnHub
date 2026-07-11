@@ -2,19 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 3篇
-- **信息泄露**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,48 +59,10 @@
 
 ### Doonsec
 
-- [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了](https://mp.weixin.qq.com/s/Ny7pkJEFjJMK2r-GIkOyHw) (发布日期: 2026-07-11)
-- [隐私攻击与数据泄露](https://mp.weixin.qq.com/s/2MnvK7jWLPXdrkkrPL3N5Q) (发布日期: 2026-07-11)
-- [CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年）](https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw) (发布日期: 2026-07-11)
-- [从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行](https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ) (发布日期: 2026-07-11)
-- [CTFHub：第八十二章——JSON Web Token——敏感信息泄露](https://mp.weixin.qq.com/s/A83OltF-p_six1ErfhQV1g) (发布日期: 2026-07-11)
-- [Linux内核FUSE漏洞](https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng) (发布日期: 2026-07-11)
-- [WordPress插件漏洞遭大规模武器化](https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA) (发布日期: 2026-07-11)
-- [【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)](https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA) (发布日期: 2026-07-11)
-- [大模型从提示词注入到 XSS弹cookie](https://mp.weixin.qq.com/s/DucTfxMtBmSqF0n_gnGxZA) (发布日期: 2026-07-11)
-- [Windows新型进程注入技术曝光，四大主流EDR均被绕过](https://mp.weixin.qq.com/s/WrmbRdjCKimcwwhpkaQjGA) (发布日期: 2026-07-11)
-- [Linux内核FUSE漏洞可致攻击者获取Root权限](https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ) (发布日期: 2026-07-11)
-- [ChatGPT漏洞可被利用访问系统文件；新型攻击可远程劫持AI编程Agent执行恶意代码 | FreeBuf周报](https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA) (发布日期: 2026-07-11)
+- [2026下半年，渗透测试已经彻底变了——再抱着老套路，洞都让别人捡完了](https://mp.weixin.qq.com/s/Ijc_gm1YIR7no9NkUSEOag) (发布日期: 2026-07-11)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年） | Doonsec | [https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw](https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw) |
-| 2 | 从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ](https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ) |
-| 3 | Linux内核FUSE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng](https://mp.weixin.qq.com/s/EOMTqw6QBRkPBPILLjZEng) |
-| 4 | WordPress插件漏洞遭大规模武器化 | Doonsec | [https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA](https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA) |
-| 5 | 【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151) | Doonsec | [https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA](https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA) |
-| 6 | Linux内核FUSE漏洞可致攻击者获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ](https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ) |
-| 7 | ChatGPT漏洞可被利用访问系统文件；新型攻击可远程劫持AI编程Agent执行恶意代码 | FreeBuf周报 | Doonsec | [https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA](https://mp.weixin.qq.com/s/H-BZW4cvdDmvbtED7bk_CA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 从ISP路由器入侵到MediaTek内核0day：一位独立研究者的Linux内核远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ](https://mp.weixin.qq.com/s/YwnRBHD5Gg8ioXwElwE3SQ) |
-| 2 | 大模型从提示词注入到 XSS弹cookie | Doonsec | [https://mp.weixin.qq.com/s/DucTfxMtBmSqF0n_gnGxZA](https://mp.weixin.qq.com/s/DucTfxMtBmSqF0n_gnGxZA) |
-| 3 | Windows新型进程注入技术曝光，四大主流EDR均被绕过 | Doonsec | [https://mp.weixin.qq.com/s/WrmbRdjCKimcwwhpkaQjGA](https://mp.weixin.qq.com/s/WrmbRdjCKimcwwhpkaQjGA) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了 | Doonsec | [https://mp.weixin.qq.com/s/Ny7pkJEFjJMK2r-GIkOyHw](https://mp.weixin.qq.com/s/Ny7pkJEFjJMK2r-GIkOyHw) |
-| 2 | 隐私攻击与数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/2MnvK7jWLPXdrkkrPL3N5Q](https://mp.weixin.qq.com/s/2MnvK7jWLPXdrkkrPL3N5Q) |
 
 
 ## 📁 归档路径
@@ -120,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-11 13:18:39*
+*生成时间: 2026-07-11 16:57:55*
 *报告工具: 微信文章安全归档系统*
