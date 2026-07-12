@@ -1,14 +1,17 @@
-# 2026-07-11 安全威胁态势报告
+# 2026-07-12 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -59,15 +62,45 @@
 
 ### Doonsec
 
-- [2026下半年，渗透测试已经彻底变了——再抱着老套路，洞都让别人捡完了](https://mp.weixin.qq.com/s/Ijc_gm1YIR7no9NkUSEOag) (发布日期: 2026-07-11)
+- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/c60FsIfnc7hxuUqvQFlcHg) (发布日期: 2026-07-12)
+- [教育行业SRC供应商漏洞变化 (2026-07-12)](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) (发布日期: 2026-07-12)
+- [紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) (发布日期: 2026-07-12)
+- [护网2026|蓝队备战全攻略](https://mp.weixin.qq.com/s/bs8A1f-bO3pgbhawUgWQPw) (发布日期: 2026-07-12)
+- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/LsxIy0YUbSEXn9eihdu-MQ) (发布日期: 2026-07-12)
+- [毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639)](https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA) (发布日期: 2026-07-12)
+- [银行业保险业网络安全管理办法（征求意见稿）](https://mp.weixin.qq.com/s/Np0dEQ4ef20tXyg9zEP0Zg) (发布日期: 2026-07-12)
+- [SilverFox 活动将 ValleyRAT 转变为具有 Rootkit 功能的多阶段恶意软件](https://mp.weixin.qq.com/s/b6pZ9B7ugDuhk7q0-uYlpw) (发布日期: 2026-07-12)
+- [DevSecOps：安全如何丝滑融入DevOps（Gartner 2016 经典报告全解读）](https://mp.weixin.qq.com/s/F8xI---pJGq5Rgu23UdO2Q) (发布日期: 2026-07-12)
+- [紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞](https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg) (发布日期: 2026-07-12)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-12) | Doonsec | [https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) |
+| 2 | 紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷 | Doonsec | [https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) |
+| 3 | 毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639) | Doonsec | [https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA](https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA) |
+| 4 | 紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg](https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷 | Doonsec | [https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-12) | Doonsec | [https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-11/`
+文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-12/`
 
 ## 🔗 数据源说明
 
@@ -78,7 +111,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -88,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-11 16:57:55*
+*生成时间: 2026-07-12 02:46:02*
 *报告工具: 微信文章安全归档系统*
