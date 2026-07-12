@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,38 +61,17 @@
 
 ### Doonsec
 
-- [Windows 应急响应工具手册](https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w) (发布日期: 2026-07-12)
-- [禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号](https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ) (发布日期: 2026-07-12)
-- [提示注入与Agent安全](https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg) (发布日期: 2026-07-12)
-- [首个  一键式 Android 17 漏洞利用链。网络安全一周新闻速看（20260712期）](https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A) (发布日期: 2026-07-12)
-- [孚盟云 ExportExData.aspx SQL注入漏洞](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) (发布日期: 2026-07-12)
-- [每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) (发布日期: 2026-07-12)
+- [Mysql-JDBC反序列化利用与简单分析](https://mp.weixin.qq.com/s/KLOacUxCdWdms_RmA-I9IQ) (发布日期: 2026-07-12)
+- [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA) (发布日期: 2026-07-12)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 首个  一键式 Android 17 漏洞利用链。网络安全一周新闻速看（20260712期） | Doonsec | [https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A](https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A) |
-| 2 | 孚盟云 ExportExData.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) |
-| 3 | 每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警 | Doonsec | [https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号 | Doonsec | [https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ](https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ) |
-| 2 | 提示注入与Agent安全 | Doonsec | [https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg](https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg) |
-| 3 | 孚盟云 ExportExData.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Windows 应急响应工具手册 | Doonsec | [https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w](https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w) |
-| 2 | 每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警 | Doonsec | [https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) |
+| 1 | 数据泄露情报2026.7.12 - 建筑，物流，航天航空 | Doonsec | [https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA](https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA) |
 
 
 ## 📁 归档路径
@@ -112,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-12 13:18:49*
+*生成时间: 2026-07-12 16:58:08*
 *报告工具: 微信文章安全归档系统*
