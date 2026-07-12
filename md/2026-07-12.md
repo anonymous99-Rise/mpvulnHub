@@ -2,16 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 3篇
-  - BruceFeIix: 5篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
 - **威胁情报**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -62,32 +62,33 @@
 
 ### Doonsec
 
-- [可穿戴人工智能赋能应急响应的机遇与挑战](https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA) (发布日期: 2026-07-12)
-- [蚂蚁集团陈亮：AI智能体安全治理——风险、框架与实现路径](https://mp.weixin.qq.com/s/xtAj-RmpHbKgOHsjc_Otqg) (发布日期: 2026-07-12)
-- [无线空间透视引擎：一款将隐秘无线电信号尽收眼底的信号情报平台](https://mp.weixin.qq.com/s/3oZ3AO8Fa833Cq1s3iNX4Q) (发布日期: 2026-07-12)
-
-### BruceFeIix
-
-- [ ] [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6) (发布日期: 2026-07-12)
-- [ ] [AI与云安全事件案例分析周报｜2026.07.06 - 2026.07.10](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500061&idx=1&sn=f629a8bf1846d958dc4fb6e9ba7a533b) (发布日期: 2026-07-12)
-- [ ] [工信部通报 Claude Code 后门，阿里全员禁用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486217&idx=1&sn=7440a3fb9a7b516e2489e18b505f5cd4) (发布日期: 2026-07-12)
-- [ ] [【安全圈】npm 上的 Injective SDK 被植入加密货币钱包窃取器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077792&idx=2&sn=9b78889d6ba5653e90f745bb6288ff69) (发布日期: 2026-07-12)
-- [ ] [【情报分析】特朗普2026年7月10日在Truth Social的震惊发帖内容](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568587&idx=1&sn=1125f164daa30ea6d827e88b9d9f4f21) (发布日期: 2026-07-12)
+- [基于 MobileNet 的车载安全网关研究与设计](https://mp.weixin.qq.com/s/i8L4wyxSXxvWKo6yvsjEfA) (发布日期: 2026-07-12)
+- [基于CAN总线数据的车载网络入侵检测系统](https://mp.weixin.qq.com/s/W9HzRuEHq2uYagvNbjyBTg) (发布日期: 2026-07-12)
+- [Windows新型进程注入技术曝光，四大主流EDR均被绕过](https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow) (发布日期: 2026-07-12)
+- [深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) (发布日期: 2026-07-12)
+- [07 AI 威胁情报工厂：从 IOC 到 TTP 的自动化分析链](https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA) (发布日期: 2026-07-12)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Windows新型进程注入技术曝光，四大主流EDR均被绕过 | Doonsec | [https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow](https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow) |
+| 2 | 深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 可穿戴人工智能赋能应急响应的机遇与挑战 | Doonsec | [https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA](https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6) |
+| 1 | 07 AI 威胁情报工厂：从 IOC 到 TTP 的自动化分析链 | Doonsec | [https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA](https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA) |
 
 
 ## 📁 归档路径
@@ -103,7 +104,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -113,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-12 06:32:18*
+*生成时间: 2026-07-12 09:50:14*
 *报告工具: 微信文章安全归档系统*
