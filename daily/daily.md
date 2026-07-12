@@ -2,16 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 3篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -62,40 +62,32 @@
 
 ### Doonsec
 
-- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/c60FsIfnc7hxuUqvQFlcHg) (发布日期: 2026-07-12)
-- [教育行业SRC供应商漏洞变化 (2026-07-12)](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) (发布日期: 2026-07-12)
-- [紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) (发布日期: 2026-07-12)
-- [护网2026|蓝队备战全攻略](https://mp.weixin.qq.com/s/bs8A1f-bO3pgbhawUgWQPw) (发布日期: 2026-07-12)
-- [2026西湖论剑大会第九届数据要素与数据安全创新实践征集活动](https://mp.weixin.qq.com/s/LsxIy0YUbSEXn9eihdu-MQ) (发布日期: 2026-07-12)
-- [毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639)](https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA) (发布日期: 2026-07-12)
-- [银行业保险业网络安全管理办法（征求意见稿）](https://mp.weixin.qq.com/s/Np0dEQ4ef20tXyg9zEP0Zg) (发布日期: 2026-07-12)
-- [SilverFox 活动将 ValleyRAT 转变为具有 Rootkit 功能的多阶段恶意软件](https://mp.weixin.qq.com/s/b6pZ9B7ugDuhk7q0-uYlpw) (发布日期: 2026-07-12)
-- [DevSecOps：安全如何丝滑融入DevOps（Gartner 2016 经典报告全解读）](https://mp.weixin.qq.com/s/F8xI---pJGq5Rgu23UdO2Q) (发布日期: 2026-07-12)
-- [紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞](https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg) (发布日期: 2026-07-12)
+- [可穿戴人工智能赋能应急响应的机遇与挑战](https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA) (发布日期: 2026-07-12)
+- [蚂蚁集团陈亮：AI智能体安全治理——风险、框架与实现路径](https://mp.weixin.qq.com/s/xtAj-RmpHbKgOHsjc_Otqg) (发布日期: 2026-07-12)
+- [无线空间透视引擎：一款将隐秘无线电信号尽收眼底的信号情报平台](https://mp.weixin.qq.com/s/3oZ3AO8Fa833Cq1s3iNX4Q) (发布日期: 2026-07-12)
+
+### BruceFeIix
+
+- [ ] [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6) (发布日期: 2026-07-12)
+- [ ] [AI与云安全事件案例分析周报｜2026.07.06 - 2026.07.10](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500061&idx=1&sn=f629a8bf1846d958dc4fb6e9ba7a533b) (发布日期: 2026-07-12)
+- [ ] [工信部通报 Claude Code 后门，阿里全员禁用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486217&idx=1&sn=7440a3fb9a7b516e2489e18b505f5cd4) (发布日期: 2026-07-12)
+- [ ] [【安全圈】npm 上的 Injective SDK 被植入加密货币钱包窃取器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077792&idx=2&sn=9b78889d6ba5653e90f745bb6288ff69) (发布日期: 2026-07-12)
+- [ ] [【情报分析】特朗普2026年7月10日在Truth Social的震惊发帖内容](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568587&idx=1&sn=1125f164daa30ea6d827e88b9d9f4f21) (发布日期: 2026-07-12)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-12) | Doonsec | [https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) |
-| 2 | 紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷 | Doonsec | [https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) |
-| 3 | 毫秒级破解：戴尔BIOS口令为何在XOR加密下不堪一击 (CVE-2026-40639) | Doonsec | [https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA](https://mp.weixin.qq.com/s/JenudlBNUkkHRcydzk-tbA) |
-| 4 | 紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg](https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg) |
+| 1 | 可穿戴人工智能赋能应急响应的机遇与挑战 | Doonsec | [https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA](https://mp.weixin.qq.com/s/4EOLCwsUvM1LbOPnwteQJA) |
 
-### 攻击技术
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急安全预警｜MCP Server Kubernetes 爆出高危参数注入漏洞(CVE-2026-61459)，可导致 Kubernetes 集群完全沦陷 | Doonsec | [https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ](https://mp.weixin.qq.com/s/NujKp6tHTIkutAVBVpnWjQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-12) | Doonsec | [https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ](https://mp.weixin.qq.com/s/NmcYehhagAlagbfAifzTJQ) |
+| 1 |  ] [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6) |
 
 
 ## 📁 归档路径
@@ -111,7 +103,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -121,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-12 02:46:02*
+*生成时间: 2026-07-12 06:32:18*
 *报告工具: 微信文章安全归档系统*
