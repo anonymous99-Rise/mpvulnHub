@@ -2,18 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 3篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,11 +65,12 @@
 
 ### Doonsec
 
-- [基于 MobileNet 的车载安全网关研究与设计](https://mp.weixin.qq.com/s/i8L4wyxSXxvWKo6yvsjEfA) (发布日期: 2026-07-12)
-- [基于CAN总线数据的车载网络入侵检测系统](https://mp.weixin.qq.com/s/W9HzRuEHq2uYagvNbjyBTg) (发布日期: 2026-07-12)
-- [Windows新型进程注入技术曝光，四大主流EDR均被绕过](https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow) (发布日期: 2026-07-12)
-- [深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) (发布日期: 2026-07-12)
-- [07 AI 威胁情报工厂：从 IOC 到 TTP 的自动化分析链](https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA) (发布日期: 2026-07-12)
+- [Windows 应急响应工具手册](https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w) (发布日期: 2026-07-12)
+- [禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号](https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ) (发布日期: 2026-07-12)
+- [提示注入与Agent安全](https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg) (发布日期: 2026-07-12)
+- [首个  一键式 Android 17 漏洞利用链。网络安全一周新闻速看（20260712期）](https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A) (发布日期: 2026-07-12)
+- [孚盟云 ExportExData.aspx SQL注入漏洞](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) (发布日期: 2026-07-12)
+- [每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) (发布日期: 2026-07-12)
 
 
 ## 🎯 威胁详情分析
@@ -75,20 +79,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) |
+| 1 | 首个  一键式 Android 17 漏洞利用链。网络安全一周新闻速看（20260712期） | Doonsec | [https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A](https://mp.weixin.qq.com/s/MIdF6e91bLrMyfjSVLhS-A) |
+| 2 | 孚盟云 ExportExData.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) |
+| 3 | 每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警 | Doonsec | [https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows新型进程注入技术曝光，四大主流EDR均被绕过 | Doonsec | [https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow](https://mp.weixin.qq.com/s/Tc9QY115rhAUaL_GnOm3Ow) |
-| 2 | 深入剖析 CVE-2026-1207：Django RasterField(PostGIS) 栅格查询 SQL 注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ](https://mp.weixin.qq.com/s/9XBaIsT6w9sRhgUCLgr7YQ) |
+| 1 | 禁了 system 就安全？六边形靶场 RCE 上篇：从 exec 打到反引号 | Doonsec | [https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ](https://mp.weixin.qq.com/s/gisfie_rV-qfUXdstr76JQ) |
+| 2 | 提示注入与Agent安全 | Doonsec | [https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg](https://mp.weixin.qq.com/s/xUczxhdDLE1yNIx33z4Wmg) |
+| 3 | 孚盟云 ExportExData.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg](https://mp.weixin.qq.com/s/yomDc2224FxsEeU0GcEKmg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 07 AI 威胁情报工厂：从 IOC 到 TTP 的自动化分析链 | Doonsec | [https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA](https://mp.weixin.qq.com/s/YQaGlk4Z_-iE4geTB1lwhA) |
+| 1 | Windows 应急响应工具手册 | Doonsec | [https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w](https://mp.weixin.qq.com/s/FrLWdb5UjJ27mX05Noqa4w) |
+| 2 | 每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警 | Doonsec | [https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ](https://mp.weixin.qq.com/s/xGJgm7kOmD4N7RMDKkfHSQ) |
 
 
 ## 📁 归档路径
@@ -104,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-12 09:50:14*
+*生成时间: 2026-07-12 13:18:49*
 *报告工具: 微信文章安全归档系统*
