@@ -1,18 +1,22 @@
-# 2026-07-12 安全威胁态势报告
+# 2026-07-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 3篇
+- **安全运营**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 2篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,22 +65,68 @@
 
 ### Doonsec
 
-- [Mysql-JDBC反序列化利用与简单分析](https://mp.weixin.qq.com/s/KLOacUxCdWdms_RmA-I9IQ) (发布日期: 2026-07-12)
-- [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA) (发布日期: 2026-07-12)
+- [7月13日高危CVE漏洞速报](https://mp.weixin.qq.com/s/SDcNnWXe4BZU7ExTv0tlSg) (发布日期: 2026-07-13)
+- [【SRC案例分析-18】客户端参数可控？看我如何给自己充会员](https://mp.weixin.qq.com/s/sMovrtbl0d4bdiE9TRp6Mg) (发布日期: 2026-07-13)
+- [红海云eHR StWasAssessDept.mob SQL注入漏洞](https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw) (发布日期: 2026-07-13)
+- [2026中国数智医学大会（CHINC）|安恒信息分享AI驱动医疗数据安全防护升维实践](https://mp.weixin.qq.com/s/e0exavw-uygxinmQ6KvIYQ) (发布日期: 2026-07-13)
+- [CSA大中华区出席日内瓦AI治理超级周，推动全球AI安全治理标准落地](https://mp.weixin.qq.com/s/KR1UD9ml6ItSvmhOLprI3Q) (发布日期: 2026-07-13)
+- [GigaWiper：融合三类恶意软件家族，形成新型破坏性后门程序](https://mp.weixin.qq.com/s/RzA3GI9ElVhkt5ojCtAsLA) (发布日期: 2026-07-13)
+- [研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程](https://mp.weixin.qq.com/s/s94HNhD-ZNRzRnXEtdJLDA) (发布日期: 2026-07-13)
+- [新型 GigaWiper Windows 后门程序：集成磁盘擦除、仿勒索软件与间谍软件功能](https://mp.weixin.qq.com/s/rbxiRmKl2kgWmBkly-ZH-Q) (发布日期: 2026-07-13)
+- [CTF入门|第5期 Web入门：XSS与CSRF——Cookie窃取、CSP绕过与CSRF Token伪造实战](https://mp.weixin.qq.com/s/LsdLAj9zT387Gcmo6Zo86w) (发布日期: 2026-07-13)
+- [【密码学】门限 FALCON 签名代码实现](https://mp.weixin.qq.com/s/deXKT79DqUe4KJoqv8EKuQ) (发布日期: 2026-07-13)
+- [《网络数据安全风险评估办法》8月20日施行，单位该关注什么？](https://mp.weixin.qq.com/s/Xqqq_aUjtjJZQDtjOOqn6A) (发布日期: 2026-07-13)
+- [数据安全风险评估，90%的单位第一步就错了](https://mp.weixin.qq.com/s/t7u0ES-Op3W8N2BQYt8v7Q) (发布日期: 2026-07-13)
+- [[随波逐流]WEB安全工具  这款安全神器藏不住了！](https://mp.weixin.qq.com/s/53IvdnUQUzW0r9kDhC9ppQ) (发布日期: 2026-07-13)
+- [四部门联合发文，《金融业网络安全管理办法》合规要点分析与解读](https://mp.weixin.qq.com/s/ZzNKi1jpWqQWkUG28_ISrg) (发布日期: 2026-07-13)
+- [别让单点故障毁了你的网！手把手教你在华为NE40E部署EVPN ESI双活](https://mp.weixin.qq.com/s/3MmSW2Ur9KNEDFNmtDYZcA) (发布日期: 2026-07-13)
+- [Godzilla 深度二次开发的xa0WebShell 管理与红队后渗透平台 | MCP 服务、团队协作、RASP 绕过 + 字节码多态混淆、内存马注入](https://mp.weixin.qq.com/s/kv-Rm6ONXuDLWrfWgZPqDQ) (发布日期: 2026-07-13)
+- [安全工具丨开源的企业级安全管理平台，可视化Web界面，从资产清点到漏洞扫描，从CIS基线到威胁狩猎，一个平台搞定安全运营](https://mp.weixin.qq.com/s/oYAHM8zq9DLLu9MBQdERYA) (发布日期: 2026-07-13)
+- [蓝星安全数据安全专栏正式上线了](https://mp.weixin.qq.com/s/gi5-cW6He4fmA9sLSPs-Gg) (发布日期: 2026-07-13)
+- [暗网泄露:前美国运通（American Express）金融理财部门](https://mp.weixin.qq.com/s/EDdSf6XEbuekbWdsjAOC6Q) (发布日期: 2026-07-13)
+- [从0到1搭建SRC漏洞挖掘自动化工作流：8个脚本直接可跑实战教程](https://mp.weixin.qq.com/s/sEk-xaBTBp2ySo_iwUag4w) (发布日期: 2026-07-13)
+- [安全评估必备插件-CaptchaDos](https://mp.weixin.qq.com/s/jxOVbGwQxmgv87IjOy2sJw) (发布日期: 2026-07-13)
 
 
 ## 🎯 威胁详情分析
 
-### 信息泄露
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.7.12 - 建筑，物流，航天航空 | Doonsec | [https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA](https://mp.weixin.qq.com/s/MreE_Ehh2yPVG606bKJ1GA) |
+| 1 | 7月13日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/SDcNnWXe4BZU7ExTv0tlSg](https://mp.weixin.qq.com/s/SDcNnWXe4BZU7ExTv0tlSg) |
+| 2 | 红海云eHR StWasAssessDept.mob SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw](https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw) |
+| 3 | 研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程 | Doonsec | [https://mp.weixin.qq.com/s/s94HNhD-ZNRzRnXEtdJLDA](https://mp.weixin.qq.com/s/s94HNhD-ZNRzRnXEtdJLDA) |
+| 4 | 安全工具丨开源的企业级安全管理平台，可视化Web界面，从资产清点到漏洞扫描，从CIS基线到威胁狩猎，一个平台搞定安全运营 | Doonsec | [https://mp.weixin.qq.com/s/oYAHM8zq9DLLu9MBQdERYA](https://mp.weixin.qq.com/s/oYAHM8zq9DLLu9MBQdERYA) |
+| 5 | 暗网泄露:前美国运通（American Express）金融理财部门 | Doonsec | [https://mp.weixin.qq.com/s/EDdSf6XEbuekbWdsjAOC6Q](https://mp.weixin.qq.com/s/EDdSf6XEbuekbWdsjAOC6Q) |
+| 6 | 从0到1搭建SRC漏洞挖掘自动化工作流：8个脚本直接可跑实战教程 | Doonsec | [https://mp.weixin.qq.com/s/sEk-xaBTBp2ySo_iwUag4w](https://mp.weixin.qq.com/s/sEk-xaBTBp2ySo_iwUag4w) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 红海云eHR StWasAssessDept.mob SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw](https://mp.weixin.qq.com/s/xHATuNLfFaj5fh3KL4aYdw) |
+| 2 | CTF入门|第5期 Web入门：XSS与CSRF——Cookie窃取、CSP绕过与CSRF Token伪造实战 | Doonsec | [https://mp.weixin.qq.com/s/LsdLAj9zT387Gcmo6Zo86w](https://mp.weixin.qq.com/s/LsdLAj9zT387Gcmo6Zo86w) |
+| 3 | Godzilla 深度二次开发的xa0WebShell 管理与红队后渗透平台 | MCP 服务、团队协作、RASP 绕过 + 字节码多态混淆、内存马注入 | Doonsec | [https://mp.weixin.qq.com/s/kv-Rm6ONXuDLWrfWgZPqDQ](https://mp.weixin.qq.com/s/kv-Rm6ONXuDLWrfWgZPqDQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全评估必备插件-CaptchaDos | Doonsec | [https://mp.weixin.qq.com/s/jxOVbGwQxmgv87IjOy2sJw](https://mp.weixin.qq.com/s/jxOVbGwQxmgv87IjOy2sJw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【SRC案例分析-18】客户端参数可控？看我如何给自己充会员 | Doonsec | [https://mp.weixin.qq.com/s/sMovrtbl0d4bdiE9TRp6Mg](https://mp.weixin.qq.com/s/sMovrtbl0d4bdiE9TRp6Mg) |
+| 2 | 安全工具丨开源的企业级安全管理平台，可视化Web界面，从资产清点到漏洞扫描，从CIS基线到威胁狩猎，一个平台搞定安全运营 | Doonsec | [https://mp.weixin.qq.com/s/oYAHM8zq9DLLu9MBQdERYA](https://mp.weixin.qq.com/s/oYAHM8zq9DLLu9MBQdERYA) |
+| 3 | 从0到1搭建SRC漏洞挖掘自动化工作流：8个脚本直接可跑实战教程 | Doonsec | [https://mp.weixin.qq.com/s/sEk-xaBTBp2ySo_iwUag4w](https://mp.weixin.qq.com/s/sEk-xaBTBp2ySo_iwUag4w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W28/2026-07-12/`
+文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-13/`
 
 ## 🔗 数据源说明
 
@@ -87,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-12 16:58:08*
+*生成时间: 2026-07-13 02:47:25*
 *报告工具: 微信文章安全归档系统*
