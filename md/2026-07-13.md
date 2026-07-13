@@ -2,15 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **信息泄露**: 1篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,29 +62,30 @@
 
 ### Doonsec
 
-- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/ZyFnn68uPUcWfYYEPFA12A) (发布日期: 2026-07-13)
-- [从500个真正跑通的项目里看见数据要素、动态数据安全项目样本｜第九届西湖论剑创新实践火热征集中！](https://mp.weixin.qq.com/s/6bxlQiJ1_ttpRX3P1laKYQ) (发布日期: 2026-07-13)
-- [数据泄露——江苏省第四届数据安全技术应用职业技能竞赛初赛](https://mp.weixin.qq.com/s/HALhDzzBmtegBNsT4AS1gQ) (发布日期: 2026-07-13)
-- [【船舶网络安全系列】CBS 网络风险评估方法](https://mp.weixin.qq.com/s/2RwdPoEQuwc3Nktuhmrc2A) (发布日期: 2026-07-13)
-- [通过IMA知识库一键检索海量安全测试报告，助力安全测试提质增效](https://mp.weixin.qq.com/s/OBFRL9DdbIXddb8kprGu8Q) (发布日期: 2026-07-13)
-- [亚马逊Bedrock关联AI网关遭攻击，暴露新型云安全风险](https://mp.weixin.qq.com/s/9QwcK0uZJDaTKyqIlXsq5Q) (发布日期: 2026-07-13)
-- [AI快讯：中国31家企业签署智能体个人信息保护公约，Robinhood推加密AI Agent交易功能](https://mp.weixin.qq.com/s/639BRJ_hytI4AQ5f9En1zQ) (发布日期: 2026-07-13)
-- [【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注](https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw) (发布日期: 2026-07-13)
+- [Ghostcommit：Agent正在成为供应链攻击的新入口](https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q) (发布日期: 2026-07-13)
+- [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击](https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw) (发布日期: 2026-07-13)
+- [银狐也想来世界杯分一杯羹？新家族开始为“菠菜”平台增设广告位！](https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA) (发布日期: 2026-07-13)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【6月29日-7月5日】安全漏洞周报 | 523个高危漏洞急需关注 | Doonsec | [https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw](https://mp.weixin.qq.com/s/nDiZgxmuTvQncJH95tlOEw) |
+| 1 | AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击 | Doonsec | [https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw](https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露——江苏省第四届数据安全技术应用职业技能竞赛初赛 | Doonsec | [https://mp.weixin.qq.com/s/HALhDzzBmtegBNsT4AS1gQ](https://mp.weixin.qq.com/s/HALhDzzBmtegBNsT4AS1gQ) |
+| 1 | 银狐也想来世界杯分一杯羹？新家族开始为“菠菜”平台增设广告位！ | Doonsec | [https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA](https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Ghostcommit：Agent正在成为供应链攻击的新入口 | Doonsec | [https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q](https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q) |
 
 
 ## 📁 归档路径
@@ -99,7 +101,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -109,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-13 14:33:31*
+*生成时间: 2026-07-13 17:54:16*
 *报告工具: 微信文章安全归档系统*
