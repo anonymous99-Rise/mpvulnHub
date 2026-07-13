@@ -2,24 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 26
 - **数据源分布**:
-  - Doonsec: 22篇
-  - BruceFeIix: 5篇
+  - Doonsec: 26篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 3篇
-- **信息泄露**: 3篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 4篇
+- **安全运营**: 3篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,36 +65,32 @@
 
 ### Doonsec
 
-- [数据泄露情报2026.7.13-新宝藏站，7.6亿领英+5.6亿脸书+2.3亿推特+ins/tiktok/github/web3?](https://mp.weixin.qq.com/s/HfEcrZVOPg2OvcEB-xMYhA) (发布日期: 2026-07-13)
-- [评论发表丨完善风险评估制度 护航数字经济发展](https://mp.weixin.qq.com/s/77bR5CboalT_0u-Ip_m3Xw) (发布日期: 2026-07-13)
-- [喜报 |2026年5月CISP考试南京地区通过名单](https://mp.weixin.qq.com/s/y8T0eOhVi9wYwf1LLY3MFA) (发布日期: 2026-07-13)
-- [《国家网络身份认证公共服务管理办法》实施一周年 筑牢数字屏障守护公民个人身份信息安全](https://mp.weixin.qq.com/s/44AQSr5Eget_X9xxj8YdDQ) (发布日期: 2026-07-13)
-- [企业安全AI员工操作系统Cowboy OS新增Hermes运行环境](https://mp.weixin.qq.com/s/5Xpmx7uq8LmedaBXEI9bzQ) (发布日期: 2026-07-13)
-- [眼见不为实，耳听不为凭——一部美国法案正在重写AI时代的企业安全规则](https://mp.weixin.qq.com/s/Xsf_A3VNK4oiFx31hu9Lvw) (发布日期: 2026-07-13)
-- [CNNVD 发布 2026 第十期 AI 漏洞通报：208 个人工智能漏洞含 32 个超危风险；美国国家安全局恢复核心网络攻击部门编制| 牛览](https://mp.weixin.qq.com/s/8p8y7vuchvjJL7jysVWT3A) (发布日期: 2026-07-13)
-- [dddd 1.8.3 - 优化检测流程，更智能化的指纹、漏洞检测工具](https://mp.weixin.qq.com/s/znedPi3oPn2hNCCJ8tBf6Q) (发布日期: 2026-07-13)
-- [人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/fL9jrvLaXAwAPUS-kQberw) (发布日期: 2026-07-13)
-- [隐私保护图匹配查询：如何实现快速子图提取](https://mp.weixin.qq.com/s/qESG2DzorT4mbZ4iTKfusQ) (发布日期: 2026-07-13)
-- [edu实战 - 某学生就业信息网接口泄露敏感信息泄露](https://mp.weixin.qq.com/s/LYWpsKf9-xeLz0nrqVhZwQ) (发布日期: 2026-07-13)
-- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/K8TPRpg-KAEfjQPvxzYMQw) (发布日期: 2026-07-13)
-- [华中科技大学游龙教授团队基于自旋轨道力矩的硬件安全系统的研究进展在《Science Advances》刊发](https://mp.weixin.qq.com/s/0bVtVuBvxoYLpTt1nOxGqw) (发布日期: 2026-07-13)
-- [2026年渗透测试新范式：AI Agent 如何重构网络安全](https://mp.weixin.qq.com/s/Sfw_ZEM32AtYFNQi83oceQ) (发布日期: 2026-07-13)
-- [银行保险机构数据安全体系建设—数据治理与分类分级](https://mp.weixin.qq.com/s/w6fBYQRELIS4kureFHkE5A) (发布日期: 2026-07-13)
-- [原创—某AI xss漏洞](https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q) (发布日期: 2026-07-13)
-- [UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种](https://mp.weixin.qq.com/s/JTeSznJiEVeCtb8b1bJT3Q) (发布日期: 2026-07-13)
-- [沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索](https://mp.weixin.qq.com/s/EBo6GiaUeHaVetDSMan8vQ) (发布日期: 2026-07-13)
-- [SharePoint又一个绕过：CVE-2026-33112从XmlValidator限制到低权限RCE](https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ) (发布日期: 2026-07-13)
-- [U-Boot 存在高危漏洞，数百万设备的安全启动机制遭到破坏](https://mp.weixin.qq.com/s/m-UycOqcRINdxTPkyC58FA) (发布日期: 2026-07-13)
-- [立即更新：Zimbra 经典版网页客户端存在高危漏洞，可能导致邮箱数据泄露](https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ) (发布日期: 2026-07-13)
-- [222 个 GitHub 仓库牵涉虚假 Go 包恶意软件攻击](https://mp.weixin.qq.com/s/bIjYbymLc7iM-VPf2ON0ng) (发布日期: 2026-07-13)
-
-### BruceFeIix
-
-- [ ] [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd) (发布日期: 2026-07-13)
-- [ ] [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51) (发布日期: 2026-07-13)
-- [ ] [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd) (发布日期: 2026-07-13)
-- [ ] [【安全圈】勒索软件谈判顾问勾结黑客反向收割客户，被判近六年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=1&sn=6b6595acfb0550598252fee7c782f905) (发布日期: 2026-07-13)
-- [ ] [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131) (发布日期: 2026-07-13)
+- [直播预告 | 绿盟智能渗透测试系统2.0即将首发——绿盟科技AI安全创新成果发布会](https://mp.weixin.qq.com/s/VlLGWXUIxSkmJuJQDpWwLw) (发布日期: 2026-07-13)
+- [http.sys — UlpParseNextRequest 中连接数组容量整数溢出（CWE-190）导致内核池溢出](https://mp.weixin.qq.com/s/wZoarN6LLHU_s8U9vGZk-w) (发布日期: 2026-07-13)
+- [Apache su EXEC 日志目录可写导致的 SUID 提权漏洞](https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA) (发布日期: 2026-07-13)
+- [观点 | 谨防境外AI“后门”风险](https://mp.weixin.qq.com/s/0tshxEvimBwaWUS1gx4dCg) (发布日期: 2026-07-13)
+- [美国议员提出《AI事件报告法案》  ，强制AI安全事件上报](https://mp.weixin.qq.com/s/bKEAM7_XsSUDpVSSzRQV_g) (发布日期: 2026-07-13)
+- [印度陆军、海军、空军人员数据泄露](https://mp.weixin.qq.com/s/L-UOxEu9KZMjTlMEgtWXtQ) (发布日期: 2026-07-13)
+- [国家金融监督管理总局发布《银行业保险业网络安全管理办法（征求意见稿）》](https://mp.weixin.qq.com/s/Zqc4n4s7tbrXStpVSHTOKg) (发布日期: 2026-07-13)
+- [FlowiseAI 任意文件写入漏洞 CVE-2025–26319](https://mp.weixin.qq.com/s/n4rsvHShD2e7a8n_zD78vQ) (发布日期: 2026-07-13)
+- [【免费领】CISSP认证考试真题全解析（中文版）](https://mp.weixin.qq.com/s/A1en_2l9pOEzid-JEG3T3A) (发布日期: 2026-07-13)
+- [2026年\"数安之江\"专项行动来了！五大行业数据安全大考，这份详细解读材料请收好](https://mp.weixin.qq.com/s/eAbxDDrIKv0Jk88p528L4w) (发布日期: 2026-07-13)
+- [研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程](https://mp.weixin.qq.com/s/Zk0WrX1Kaucq8a_PSlrnFQ) (发布日期: 2026-07-13)
+- [80万用户中招：ModHeader插件供应链攻击案例（附自查修复方案）](https://mp.weixin.qq.com/s/fHC71Gh4J0hvhnzwt4NTQQ) (发布日期: 2026-07-13)
+- [5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！](https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q) (发布日期: 2026-07-13)
+- [新版网安法 + 等保 2380 新规落地｜任子行数据安全分类分级，三件套搭建全生命周期合规防火墙](https://mp.weixin.qq.com/s/VN8L5Mds6ux6q6yyTIUOSQ) (发布日期: 2026-07-13)
+- [【高危AI漏洞预警】CVE-2026-56271 Flowise硬编码JWT密钥认证绕过漏洞](https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og) (发布日期: 2026-07-13)
+- [从参数到路径段：kennysql SQL 注入插件](https://mp.weixin.qq.com/s/TJCV37En1eoZ7xAqU9sidA) (发布日期: 2026-07-13)
+- [白昼信安内部漏洞知识库注册邀请码](https://mp.weixin.qq.com/s/h_ek2fHAQ_nkmmWvNsdRkQ) (发布日期: 2026-07-13)
+- [00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！](https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ) (发布日期: 2026-07-13)
+- [00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！](https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ) (发布日期: 2026-07-13)
+- [安全通告丨网络安全漏洞通告（2026年7月）](https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw) (发布日期: 2026-07-13)
+- [大模型安全攻防：提示注入、越狱与防御体系构建](https://mp.weixin.qq.com/s/-sLIPrF6H_xgTCoRUyFbbA) (发布日期: 2026-07-13)
+- [CNNVD | 最新OpenClaw多个安全漏洞通报](https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w) (发布日期: 2026-07-13)
+- [Zimbra：速修复这个严重的 Web Client XSS 漏洞](https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g) (发布日期: 2026-07-13)
+- [《国家网络身份认证公共服务管理办法》实施一周年 筑牢数字屏障守护公民个人身份信息安全](https://mp.weixin.qq.com/s/moRVzibizKIKoD94v2Uqng) (发布日期: 2026-07-13)
+- [08 AI + SOAR：自动响应不是自动封机器](https://mp.weixin.qq.com/s/T_kLwcF3iIT29cGkEc0g5Q) (发布日期: 2026-07-13)
+- [告别静态封堵：新一代轻量化通信零信任，重塑内网治理](https://mp.weixin.qq.com/s/NoaAnQ-DMbS1qnYw45K74w) (发布日期: 2026-07-13)
 
 
 ## 🎯 威胁详情分析
@@ -106,43 +99,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNNVD 发布 2026 第十期 AI 漏洞通报：208 个人工智能漏洞含 32 个超危风险；美国国家安全局恢复核心网络攻击部门编制| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/8p8y7vuchvjJL7jysVWT3A](https://mp.weixin.qq.com/s/8p8y7vuchvjJL7jysVWT3A) |
-| 2 | dddd 1.8.3 - 优化检测流程，更智能化的指纹、漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s/znedPi3oPn2hNCCJ8tBf6Q](https://mp.weixin.qq.com/s/znedPi3oPn2hNCCJ8tBf6Q) |
-| 3 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fL9jrvLaXAwAPUS-kQberw](https://mp.weixin.qq.com/s/fL9jrvLaXAwAPUS-kQberw) |
-| 4 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/K8TPRpg-KAEfjQPvxzYMQw](https://mp.weixin.qq.com/s/K8TPRpg-KAEfjQPvxzYMQw) |
-| 5 | 原创—某AI xss漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q](https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q) |
-| 6 | SharePoint又一个绕过：CVE-2026-33112从XmlValidator限制到低权限RCE | Doonsec | [https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ](https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ) |
-| 7 | U-Boot 存在高危漏洞，数百万设备的安全启动机制遭到破坏 | Doonsec | [https://mp.weixin.qq.com/s/m-UycOqcRINdxTPkyC58FA](https://mp.weixin.qq.com/s/m-UycOqcRINdxTPkyC58FA) |
-| 8 | 立即更新：Zimbra 经典版网页客户端存在高危漏洞，可能导致邮箱数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ](https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ) |
-| 9 |  ] [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131) |
+| 1 | Apache su EXEC 日志目录可写导致的 SUID 提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA](https://mp.weixin.qq.com/s/YnJ08eUTx1_v2_RxDu7VuA) |
+| 2 | FlowiseAI 任意文件写入漏洞 CVE-2025–26319 | Doonsec | [https://mp.weixin.qq.com/s/n4rsvHShD2e7a8n_zD78vQ](https://mp.weixin.qq.com/s/n4rsvHShD2e7a8n_zD78vQ) |
+| 3 | 研究人员详细介绍了利用 OpenClaw 三个漏洞实现 WhatsApp 到主机攻击链的过程 | Doonsec | [https://mp.weixin.qq.com/s/Zk0WrX1Kaucq8a_PSlrnFQ](https://mp.weixin.qq.com/s/Zk0WrX1Kaucq8a_PSlrnFQ) |
+| 4 | 5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！ | Doonsec | [https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q](https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q) |
+| 5 | 【高危AI漏洞预警】CVE-2026-56271 Flowise硬编码JWT密钥认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og](https://mp.weixin.qq.com/s/yEj8oZe_sDhJBMkRRxK0og) |
+| 6 | 白昼信安内部漏洞知识库注册邀请码 | Doonsec | [https://mp.weixin.qq.com/s/h_ek2fHAQ_nkmmWvNsdRkQ](https://mp.weixin.qq.com/s/h_ek2fHAQ_nkmmWvNsdRkQ) |
+| 7 | 00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！ | Doonsec | [https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ](https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ) |
+| 8 | 00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！ | Doonsec | [https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ](https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ) |
+| 9 | 安全通告丨网络安全漏洞通告（2026年7月） | Doonsec | [https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw](https://mp.weixin.qq.com/s/7zNF8V4ZIAvNpGFi_-sCtw) |
+| 10 | CNNVD | 最新OpenClaw多个安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w](https://mp.weixin.qq.com/s/JaLsyFK2V7jzV8_bI0UM9w) |
+| 11 | Zimbra：速修复这个严重的 Web Client XSS 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g](https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 原创—某AI xss漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q](https://mp.weixin.qq.com/s/jWN3eHJLb5tE9h-m61QG4Q) |
-| 2 | SharePoint又一个绕过：CVE-2026-33112从XmlValidator限制到低权限RCE | Doonsec | [https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ](https://mp.weixin.qq.com/s/9f_PN8IZuJ9PK3veKHsZKQ) |
-| 3 |  ] [提示注入与Agent安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种 | Doonsec | [https://mp.weixin.qq.com/s/JTeSznJiEVeCtb8b1bJT3Q](https://mp.weixin.qq.com/s/JTeSznJiEVeCtb8b1bJT3Q) |
+| 1 | 从参数到路径段：kennysql SQL 注入插件 | Doonsec | [https://mp.weixin.qq.com/s/TJCV37En1eoZ7xAqU9sidA](https://mp.weixin.qq.com/s/TJCV37En1eoZ7xAqU9sidA) |
+| 2 | 大模型安全攻防：提示注入、越狱与防御体系构建 | Doonsec | [https://mp.weixin.qq.com/s/-sLIPrF6H_xgTCoRUyFbbA](https://mp.weixin.qq.com/s/-sLIPrF6H_xgTCoRUyFbbA) |
+| 3 | Zimbra：速修复这个严重的 Web Client XSS 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g](https://mp.weixin.qq.com/s/9q8vP2WF8c-0epOy56LE_g) |
+| 4 | 告别静态封堵：新一代轻量化通信零信任，重塑内网治理 | Doonsec | [https://mp.weixin.qq.com/s/NoaAnQ-DMbS1qnYw45K74w](https://mp.weixin.qq.com/s/NoaAnQ-DMbS1qnYw45K74w) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索 | Doonsec | [https://mp.weixin.qq.com/s/EBo6GiaUeHaVetDSMan8vQ](https://mp.weixin.qq.com/s/EBo6GiaUeHaVetDSMan8vQ) |
+| 1 | 5步带你从0开局拿下漏洞赏金！1700讲透白帽src的所有核心基础和赏金思路！ | Doonsec | [https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q](https://mp.weixin.qq.com/s/aNwu1NP1vkLYk7YTkwVs-Q) |
+| 2 | 00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！ | Doonsec | [https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ](https://mp.weixin.qq.com/s/MZwCjvNEVPtGyLUKWpesOQ) |
+| 3 | 00Query 发布！基于00信安API的微信公众号/小程序隐藏资产发现工具，快速扩展SRC漏洞挖掘攻击面！ | Doonsec | [https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ](https://mp.weixin.qq.com/s/NVzlUUJKzVC1K_jS_YfeGQ) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.7.13-新宝藏站，7.6亿领英+5.6亿脸书+2.3亿推特+ins/tiktok/github/web3? | Doonsec | [https://mp.weixin.qq.com/s/HfEcrZVOPg2OvcEB-xMYhA](https://mp.weixin.qq.com/s/HfEcrZVOPg2OvcEB-xMYhA) |
-| 2 | 立即更新：Zimbra 经典版网页客户端存在高危漏洞，可能导致邮箱数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ](https://mp.weixin.qq.com/s/9IvhhudhTZGDZVR7jxTlcQ) |
-| 3 |  ] [数据泄露情报2026.7.12 - 建筑，物流，航天航空 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51) |
+| 1 | 印度陆军、海军、空军人员数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/L-UOxEu9KZMjTlMEgtWXtQ](https://mp.weixin.qq.com/s/L-UOxEu9KZMjTlMEgtWXtQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 80万用户中招：ModHeader插件供应链攻击案例（附自查修复方案） | Doonsec | [https://mp.weixin.qq.com/s/fHC71Gh4J0hvhnzwt4NTQQ](https://mp.weixin.qq.com/s/fHC71Gh4J0hvhnzwt4NTQQ) |
 
 
 ## 📁 归档路径
@@ -158,7 +154,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -168,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-13 06:53:12*
+*生成时间: 2026-07-13 11:10:28*
 *报告工具: 微信文章安全归档系统*
