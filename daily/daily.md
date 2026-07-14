@@ -1,19 +1,20 @@
-# 2026-07-13 安全威胁态势报告
+# 2026-07-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 9篇
+- **安全运营**: 2篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,35 +63,56 @@
 
 ### Doonsec
 
-- [Ghostcommit：Agent正在成为供应链攻击的新入口](https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q) (发布日期: 2026-07-13)
-- [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击](https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw) (发布日期: 2026-07-13)
-- [银狐也想来世界杯分一杯羹？新家族开始为“菠菜”平台增设广告位！](https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA) (发布日期: 2026-07-13)
+- [Turla 黑客利用 SharePoint 漏洞访问了数千个法国用户账户](https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg) (发布日期: 2026-07-14)
+- [[AI]Claude + Skills 自动漏洞挖掘](https://mp.weixin.qq.com/s/Suse7SDHzmHToDp59O8RvA) (发布日期: 2026-07-14)
+- [【SRC实战】AI帮我挖到的第一个高危](https://mp.weixin.qq.com/s/QZDzPgKJVSJTbtIC5cX9_g) (发布日期: 2026-07-14)
+- [《国家网络身份认证公共服务管理办法》实施一周年——筑牢数字屏障  守护公民个人身份信息安全](https://mp.weixin.qq.com/s/07SWe_v_2SzKTgP4UrpCuA) (发布日期: 2026-07-14)
+- [0day | 企业信息发送平台 getLicenceDetail 存在任意文件读取漏洞](https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA) (发布日期: 2026-07-14)
+- [CrashStealer macOS 恶意软件：利用经过公证的加载器绕过 macOS 网关验证（Gatekeeper）](https://mp.weixin.qq.com/s/hscQPfn5yqtfeT-dGS443g) (发布日期: 2026-07-14)
+- [今日你的校招体验身份：一名被争抢的红队大佬(附实习校招交流群)](https://mp.weixin.qq.com/s/TWNeJTETiuoQxtl8gKpAIA) (发布日期: 2026-07-14)
+- [教育行业SRC供应商漏洞变化 (2026-07-14)](https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA) (发布日期: 2026-07-14)
+- [派拓CEO：当前安全攻防的关键是抢先发现并修复漏洞](https://mp.weixin.qq.com/s/nCVgM6J_aCcc3pHpTAD8aQ) (发布日期: 2026-07-14)
+- [赏金猎人的SameSite扫盲贴：别再因为看不懂Cookie错失漏洞](https://mp.weixin.qq.com/s/VuGIzzxWTwwGBPHOdLzSbw) (发布日期: 2026-07-14)
+- [安全工具丨AI赋能的等保测评神器，将项目管理、自动化核查、AI辅助分析等功能集于一身。](https://mp.weixin.qq.com/s/nPkKCV6XK_2-Ix8UNjLVvQ) (发布日期: 2026-07-14)
+- [2026移动安全实习招聘，地点欧洲小镇](https://mp.weixin.qq.com/s/32piTrqJ2sMk_4wge5obPw) (发布日期: 2026-07-14)
+- [紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限](https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ) (发布日期: 2026-07-14)
+- [AntiDebug Mcp、AI逆向绕过前端，Hook 加密接口，抓取 Vue 路由漏洞，接入 MCP 让 AI 自动化挖掘前端漏洞](https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g) (发布日期: 2026-07-14)
+- [Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃](https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ) (发布日期: 2026-07-14)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Turla 黑客利用 SharePoint 漏洞访问了数千个法国用户账户 | Doonsec | [https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg](https://mp.weixin.qq.com/s/tWNzl3mCUkvB03qmzejPBg) |
+| 2 | [AI]Claude + Skills 自动漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/Suse7SDHzmHToDp59O8RvA](https://mp.weixin.qq.com/s/Suse7SDHzmHToDp59O8RvA) |
+| 3 | 0day | 企业信息发送平台 getLicenceDetail 存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA](https://mp.weixin.qq.com/s/JRfwNdzBd-gbW9tO-EkUFA) |
+| 4 | 教育行业SRC供应商漏洞变化 (2026-07-14) | Doonsec | [https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA](https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA) |
+| 5 | 派拓CEO：当前安全攻防的关键是抢先发现并修复漏洞 | Doonsec | [https://mp.weixin.qq.com/s/nCVgM6J_aCcc3pHpTAD8aQ](https://mp.weixin.qq.com/s/nCVgM6J_aCcc3pHpTAD8aQ) |
+| 6 | 赏金猎人的SameSite扫盲贴：别再因为看不懂Cookie错失漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VuGIzzxWTwwGBPHOdLzSbw](https://mp.weixin.qq.com/s/VuGIzzxWTwwGBPHOdLzSbw) |
+| 7 | 紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ](https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ) |
+| 8 | AntiDebug Mcp、AI逆向绕过前端，Hook 加密接口，抓取 Vue 路由漏洞，接入 MCP 让 AI 自动化挖掘前端漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g](https://mp.weixin.qq.com/s/zkHmkKy9VLn_XXe3FgGN0g) |
+| 9 | Wireshark紧急修复12项漏洞，恶意数据包可致程序崩溃 | Doonsec | [https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ](https://mp.weixin.qq.com/s/nHc4nDwcxHSokkyxTrhhkQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击 | Doonsec | [https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw](https://mp.weixin.qq.com/s/m8VeRpH_QMgbfv06l6Psfw) |
+| 1 | 紧急安全预警｜OpenWrt Samba被曝高危命令注入漏洞(CVE-2026-59260)，攻击者可远程获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ](https://mp.weixin.qq.com/s/O9P_7xlC1zw9U4btItgCoQ) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐也想来世界杯分一杯羹？新家族开始为“菠菜”平台增设广告位！ | Doonsec | [https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA](https://mp.weixin.qq.com/s/NNJm9glOfDbTemuGJnGEzA) |
-
-### 供应链
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Ghostcommit：Agent正在成为供应链攻击的新入口 | Doonsec | [https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q](https://mp.weixin.qq.com/s/19P8zmfi54v6lZoF3cop_Q) |
+| 1 | 【SRC实战】AI帮我挖到的第一个高危 | Doonsec | [https://mp.weixin.qq.com/s/QZDzPgKJVSJTbtIC5cX9_g](https://mp.weixin.qq.com/s/QZDzPgKJVSJTbtIC5cX9_g) |
+| 2 | 教育行业SRC供应商漏洞变化 (2026-07-14) | Doonsec | [https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA](https://mp.weixin.qq.com/s/8ORo9qsEufkmeqZ4ddxceA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-13/`
+文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-14/`
 
 ## 🔗 数据源说明
 
@@ -101,8 +123,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -111,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-13 17:54:16*
+*生成时间: 2026-07-14 02:29:38*
 *报告工具: 微信文章安全归档系统*
