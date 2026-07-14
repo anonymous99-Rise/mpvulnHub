@@ -2,25 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 36
+- **总文章数**: 26
 - **数据源分布**:
-  - Doonsec: 20篇
-  - BruceFeIix: 16篇
+  - Doonsec: 26篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
+- **漏洞利用**: 10篇
 - **攻击技术**: 3篇
-- **安全运营**: 3篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **安全运营**: 2篇
+- **信息泄露**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 3篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -69,45 +66,32 @@
 
 ### Doonsec
 
-- [仅核查网址远远不够：利用微软官网实施的设备代码钓鱼攻击](https://mp.weixin.qq.com/s/weTIK84gE49scv77GgfYOQ) (发布日期: 2026-07-14)
-- [聊一聊CORS跨域漏洞的危害](https://mp.weixin.qq.com/s/s6hhOyoq3xKgy22nJLMAsQ) (发布日期: 2026-07-14)
-- [Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览](https://mp.weixin.qq.com/s/9qd6fLdPA22kSEAiyltVIA) (发布日期: 2026-07-14)
-- [卫星图上，情报分析师看到的不是图片，是故事](https://mp.weixin.qq.com/s/DVxlJRkwW0YlPrKy2mCL0Q) (发布日期: 2026-07-14)
-- [CVE-2026-42989：Windows 10 1607 权限提升漏洞 + POC](https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A) (发布日期: 2026-07-14)
-- [Src捡钱12，AI一键自动挖掘小程序漏洞](https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw) (发布日期: 2026-07-14)
-- [中国信通院通过CCRC首批软件供应链安全管理能力评估](https://mp.weixin.qq.com/s/IYtEb18EvuaR07NKh2wq9g) (发布日期: 2026-07-14)
-- [第33篇 全栈AI · 从Skill注入到系统级失控](https://mp.weixin.qq.com/s/OSF_qJRZefzTNgXZ87m_9w) (发布日期: 2026-07-14)
-- [丁津泰教授受邀于国际密码学顶会PKC 2026分享最新多变量密码分析成果](https://mp.weixin.qq.com/s/4RAtjJWy-ovSocF-Aem5kw) (发布日期: 2026-07-14)
-- [重磅预警！去中心化黑客集群Scattered Spider来袭：不靠0day，一通电话就能拿下企业全网](https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg) (发布日期: 2026-07-14)
-- [沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索](https://mp.weixin.qq.com/s/W60BzwfprajDHdpaKzXQgA) (发布日期: 2026-07-14)
-- [连自己的GitHub都管不好：CISA的844MB凭据泄露，给全行业上了一堂公开课](https://mp.weixin.qq.com/s/nqg1NXriBJakmyMu6nfuZA) (发布日期: 2026-07-14)
-- [中国科学院武汉植物园ARP及网络安全管理岗招聘启事](https://mp.weixin.qq.com/s/pdwnQsQ9qF6cvwBlhpsZTw) (发布日期: 2026-07-14)
-- [GB/T 31509征求意见稿来了！信息安全风险评估实施指南八大核心变化](https://mp.weixin.qq.com/s/dlrVOMLoNN6aseOTi2xRJg) (发布日期: 2026-07-14)
-- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/O2-uxyiIWKrLurqXTPYW5Q) (发布日期: 2026-07-14)
-- [从500个真正跑通的项目里看见数据要素、动态数据安全项目样本｜第九届西湖论剑创新实践火热征集中！](https://mp.weixin.qq.com/s/K0WFDS4QWJqiTrrdtjj2BQ) (发布日期: 2026-07-14)
-- [数字攻防砺精兵｜2026嘉兴市网络与信息安全管理员技能竞赛圆满举办](https://mp.weixin.qq.com/s/cMkKhGMkm7bzuBd8WUJO3w) (发布日期: 2026-07-14)
-- [倒计时3天！网易智企携手WAIC，共探可信AI应用与安全治理新方向](https://mp.weixin.qq.com/s/CedP2yaukav4MzzSP6F_Dw) (发布日期: 2026-07-14)
-- [关于首期注册人工智能安全专业人员（CISP-AISS）培训班成功举办的通告](https://mp.weixin.qq.com/s/Hoj-5Oo5VTGASIFcfwsf5A) (发布日期: 2026-07-14)
-- [教育行业SRC供应商漏洞变化 (2026-07-14)](https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA) (发布日期: 2026-07-14)
-
-### BruceFeIix
-
-- [ ] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187670&idx=1&sn=e4cbd372c8518ba70dcb92c1e0d31e56) (发布日期: 2026-07-14)
-- [ ] [Zimbra：速修复这个严重的 Web Client XSS 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3) (发布日期: 2026-07-14)
-- [ ] [数据泄露情报2026.7.13-新宝藏站，7.6亿领英+5.6亿脸书+2.3亿推特+ins/tiktok/github/web3?](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489760&idx=1&sn=3e15ddd2bf981108976e2635af469426) (发布日期: 2026-07-14)
-- [ ] [最新高危漏洞与零日威胁（底层与AI层面）](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486221&idx=1&sn=a21d8e52aca4ed0fe45e5f3eb149e821) (发布日期: 2026-07-14)
-- [ ] [【安全圈】CVSS 满分！Joomla 两大插件被零日攻击，6月起已沦陷数千网站](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077817&idx=2&sn=d3699093e9aeb7929d0ab0216a911a04) (发布日期: 2026-07-14)
-- [ ] [UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519487&idx=1&sn=8ee1ee2f8c5a0473d25fa469490e27ab) (发布日期: 2026-07-14)
-- [ ] [观点 | 谨防境外AI“后门”风险](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264610&idx=5&sn=e60e0136e7dd1d293d2f1c85b2f5983b) (发布日期: 2026-07-14)
-- [ ] [三起真实案例：Token成本失控严重冲击企业安全预算与应急处置能力](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543481&idx=1&sn=f59b90bb981f186374715bdc7fc4e3a7) (发布日期: 2026-07-14)
-- [ ] [《国家网络身份认证公共服务管理办法》实施一周年 筑牢数字屏障守护公民个人身份信息安全](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851006&idx=1&sn=698013ac8ed2770ef0e7b0ac64927696) (发布日期: 2026-07-14)
-- [ ] [企业安全AI员工操作系统Cowboy OS新增Hermes运行环境](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495544&idx=1&sn=255da8be31a304cb2359aee048a327ab) (发布日期: 2026-07-14)
-- [ ] [悬赏令：寻找数字世界的守夜人 | DayDayPOC 0day漏洞悬赏计划正式启动](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488305&idx=1&sn=67ce6e9247931c0962ac6703689663fe) (发布日期: 2026-07-14)
-- [ ] [火热招生！网络安全运维工程师（45天·线下·就业班）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617507&idx=1&sn=9ff58656e561d23869fac466deedfb43) (发布日期: 2026-07-14)
-- [ ] [一道简单但不简约的堆题——CISCN2026初赛堆题robo分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617507&idx=2&sn=be31462aef573f12084964126ad5b3af) (发布日期: 2026-07-14)
-- [ ] [CNVD漏洞周报2026年第27期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=1&sn=2d293d88cb0b49d8ea0a7615081e96d2) (发布日期: 2026-07-14)
-- [ ] [上周关注度较高的产品安全漏洞(20260706-20260712)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=2&sn=ac9146bfb4881155b3fb28465f9109c4) (发布日期: 2026-07-14)
-- [ ] [[AI安全论文] (51)ESWA25 基于启发式优化器的入侵检测系统](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503025&idx=1&sn=ab56d76c1e64d5c36d076eaa9a16e29b) (发布日期: 2026-07-14)
+- [黑名单不是防火墙 六边形靶场 RCE 中篇：disable_functions、分隔符、空格绕过](https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ) (发布日期: 2026-07-14)
+- [WinFsp 竞争条件漏洞允许攻击者获得 Windows 系统级访问权限](https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A) (发布日期: 2026-07-14)
+- [微软将三条 Salesforce 攻击路径与 ShinyHunters 一年的活动联系起来](https://mp.weixin.qq.com/s/CfNbH_ZV7nOgeUhW6C1PBg) (发布日期: 2026-07-14)
+- [数据安全预警 | 暗网出现国内某警校数据泄露](https://mp.weixin.qq.com/s/aly-EWgU3J0LtY4xJWNaeg) (发布日期: 2026-07-14)
+- [干货丨沈自所赵剑明：工业安全与工业人工智能赋能油气管网无人站场建设（演讲视频+PPT）](https://mp.weixin.qq.com/s/Y-BHTAIIFRDmVj32IUfgZQ) (发布日期: 2026-07-14)
+- [关注丨上海市通信管理局关于开展“铸盾模都” 2026年人工智能安全赋能专项行动](https://mp.weixin.qq.com/s/Yoo5mgJCx6fquT1hnEja9Q) (发布日期: 2026-07-14)
+- [阿里云 Agentic SOC 位居 IDC MarketScape安全运营智能体2026领导者类别](https://mp.weixin.qq.com/s/gaMv8nX8JRS__uYFNZqzwg) (发布日期: 2026-07-14)
+- [AI Agent 与原生速度融合的高保真漏洞扫描器 —— Vigolium](https://mp.weixin.qq.com/s/zc59bWR3OiatN7uIuWyjDw) (发布日期: 2026-07-14)
+- [专题·原创 | 人工智能时代软件供应链安全风险与标准化建设](https://mp.weixin.qq.com/s/8otu2PvVMvaJrrSHI2OlQQ) (发布日期: 2026-07-14)
+- [专家解读 | 完善风险评估制度护航数字经济发展](https://mp.weixin.qq.com/s/qdb3p_r-u--jSq9B0bG-uQ) (发布日期: 2026-07-14)
+- [评论 | 堵住“仅退款”规则漏洞](https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA) (发布日期: 2026-07-14)
+- [攻击者全网扫描MCP服务器与Claude凭据，AI系统面临数据泄露风险](https://mp.weixin.qq.com/s/ai-cKrpYywXSrME1uv1CXQ) (发布日期: 2026-07-14)
+- [ServiceNow 严重漏洞导致远程攻击者执行恶意代码](https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA) (发布日期: 2026-07-14)
+- [【免费领】求职宝典：渗透测试工程师面试题大全（含答案）](https://mp.weixin.qq.com/s/OWpvXR6qefZi72hMZovQpA) (发布日期: 2026-07-14)
+- [《国家网络身份认证公共服务管理办法》实施一周年 筑牢数字屏障守护公民个人身份信息安全](https://mp.weixin.qq.com/s/VC_JKKHAPlXwIEDFfVSCiw) (发布日期: 2026-07-14)
+- [Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)](https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q) (发布日期: 2026-07-14)
+- [美海军最新研究：将二进制文件变成AI逆向的提示注入武器](https://mp.weixin.qq.com/s/TADcdfp9qUeaNHQEpU-0qQ) (发布日期: 2026-07-14)
+- [构建一体化AI安全防护体系！天融信中标某环保大模型安全建设项目](https://mp.weixin.qq.com/s/aJa7Z6xyRfztH9Xx4wUosQ) (发布日期: 2026-07-14)
+- [安全透视 | 数据安全合规：从“做完”到“做好”](https://mp.weixin.qq.com/s/UHUqoFRISflNL1SDsnLdsQ) (发布日期: 2026-07-14)
+- [【漏洞通告】Apache Airflow Git provider SSH 主机密钥校验绕过漏洞(CVE-2026-58065)](https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw) (发布日期: 2026-07-14)
+- [【活动预告】ISC2西南分会云讲坛：AI 安全运营专场](https://mp.weixin.qq.com/s/FTayKOt9G0FA0eh50y6UvA) (发布日期: 2026-07-14)
+- [【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)](https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ) (发布日期: 2026-07-14)
+- [美总统特朗普签署公告豁免关键化学品制造商两年期EPA排放标准，保障国防与半导体供应链安全](https://mp.weixin.qq.com/s/1LDt_qBw-PmuTjePhn_pMw) (发布日期: 2026-07-14)
+- [本周漏洞速递｜9个高危漏洞预警+漏洞复现](https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w) (发布日期: 2026-07-14)
+- [OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM](https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg) (发布日期: 2026-07-14)
+- [雷神众测漏洞周报2026.7.6-2026.7.12](https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g) (发布日期: 2026-07-14)
 
 
 ## 🎯 威胁详情分析
@@ -116,51 +100,45 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 聊一聊CORS跨域漏洞的危害 | Doonsec | [https://mp.weixin.qq.com/s/s6hhOyoq3xKgy22nJLMAsQ](https://mp.weixin.qq.com/s/s6hhOyoq3xKgy22nJLMAsQ) |
-| 2 | Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览 | Doonsec | [https://mp.weixin.qq.com/s/9qd6fLdPA22kSEAiyltVIA](https://mp.weixin.qq.com/s/9qd6fLdPA22kSEAiyltVIA) |
-| 3 | CVE-2026-42989：Windows 10 1607 权限提升漏洞 + POC | Doonsec | [https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A](https://mp.weixin.qq.com/s/BBFHM1gaxGrL6LtM51oe4A) |
-| 4 | Src捡钱12，AI一键自动挖掘小程序漏洞 | Doonsec | [https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw](https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw) |
-| 5 | 重磅预警！去中心化黑客集群Scattered Spider来袭：不靠0day，一通电话就能拿下企业全网 | Doonsec | [https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg](https://mp.weixin.qq.com/s/7tjMZKbnQ-3IKMCTHjo2rg) |
-| 6 | 教育行业SRC供应商漏洞变化 (2026-07-14) | Doonsec | [https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA](https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA) |
-| 7 |  ] [Zimbra：速修复这个严重的 Web Client XSS 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3) |
-| 8 |  ] [最新高危漏洞与零日威胁（底层与AI层面） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486221&idx=1&sn=a21d8e52aca4ed0fe45e5f3eb149e821](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486221&idx=1&sn=a21d8e52aca4ed0fe45e5f3eb149e821) |
-| 9 |  ] [悬赏令：寻找数字世界的守夜人 | DayDayPOC 0day漏洞悬赏计划正式启动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488305&idx=1&sn=67ce6e9247931c0962ac6703689663fe](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488305&idx=1&sn=67ce6e9247931c0962ac6703689663fe) |
-| 10 |  ] [CNVD漏洞周报2026年第27期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=1&sn=2d293d88cb0b49d8ea0a7615081e96d2](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=1&sn=2d293d88cb0b49d8ea0a7615081e96d2) |
-| 11 |  ] [上周关注度较高的产品安全漏洞(20260706-20260712) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=2&sn=ac9146bfb4881155b3fb28465f9109c4](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497100&idx=2&sn=ac9146bfb4881155b3fb28465f9109c4) |
+| 1 | WinFsp 竞争条件漏洞允许攻击者获得 Windows 系统级访问权限 | Doonsec | [https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A](https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A) |
+| 2 | AI Agent 与原生速度融合的高保真漏洞扫描器 —— Vigolium | Doonsec | [https://mp.weixin.qq.com/s/zc59bWR3OiatN7uIuWyjDw](https://mp.weixin.qq.com/s/zc59bWR3OiatN7uIuWyjDw) |
+| 3 | 评论 | 堵住“仅退款”规则漏洞 | Doonsec | [https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA](https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA) |
+| 4 | ServiceNow 严重漏洞导致远程攻击者执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA](https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA) |
+| 5 | Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291) | Doonsec | [https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q](https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q) |
+| 6 | 【漏洞通告】Apache Airflow Git provider SSH 主机密钥校验绕过漏洞(CVE-2026-58065) | Doonsec | [https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw](https://mp.weixin.qq.com/s/bHrmKYB38GkIO73jP9sGhw) |
+| 7 | 【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208) | Doonsec | [https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ](https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ) |
+| 8 | 本周漏洞速递｜9个高危漏洞预警+漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w](https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w) |
+| 9 | OSCP百日备考18｜Windows提权（上）：信息收集+内核漏洞+服务配置错误，从低权用户摸到SYSTEM | Doonsec | [https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg](https://mp.weixin.qq.com/s/Uf7ZeAqNwgLQH5N9QSumBg) |
+| 10 | 雷神众测漏洞周报2026.7.6-2026.7.12 | Doonsec | [https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g](https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第33篇 全栈AI · 从Skill注入到系统级失控 | Doonsec | [https://mp.weixin.qq.com/s/OSF_qJRZefzTNgXZ87m_9w](https://mp.weixin.qq.com/s/OSF_qJRZefzTNgXZ87m_9w) |
-| 2 |  ] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187670&idx=1&sn=e4cbd372c8518ba70dcb92c1e0d31e56](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187670&idx=1&sn=e4cbd372c8518ba70dcb92c1e0d31e56) |
-| 3 |  ] [Zimbra：速修复这个严重的 Web Client XSS 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526606&idx=1&sn=98ad31e009af96d9536be560cb9f7fa3) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519487&idx=1&sn=8ee1ee2f8c5a0473d25fa469490e27ab](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519487&idx=1&sn=8ee1ee2f8c5a0473d25fa469490e27ab) |
+| 1 | 黑名单不是防火墙 六边形靶场 RCE 中篇：disable_functions、分隔符、空格绕过 | Doonsec | [https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ](https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ) |
+| 2 | 微软将三条 Salesforce 攻击路径与 ShinyHunters 一年的活动联系起来 | Doonsec | [https://mp.weixin.qq.com/s/CfNbH_ZV7nOgeUhW6C1PBg](https://mp.weixin.qq.com/s/CfNbH_ZV7nOgeUhW6C1PBg) |
+| 3 | 美海军最新研究：将二进制文件变成AI逆向的提示注入武器 | Doonsec | [https://mp.weixin.qq.com/s/TADcdfp9qUeaNHQEpU-0qQ](https://mp.weixin.qq.com/s/TADcdfp9qUeaNHQEpU-0qQ) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Src捡钱12，AI一键自动挖掘小程序漏洞 | Doonsec | [https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw](https://mp.weixin.qq.com/s/g88J0mJZXAp59Xj5beZKgw) |
-| 2 | 沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索 | Doonsec | [https://mp.weixin.qq.com/s/W60BzwfprajDHdpaKzXQgA](https://mp.weixin.qq.com/s/W60BzwfprajDHdpaKzXQgA) |
-| 3 | 教育行业SRC供应商漏洞变化 (2026-07-14) | Doonsec | [https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA](https://mp.weixin.qq.com/s/-BhEYxGfOvBApDTZ9dZmrA) |
+| 1 | 阿里云 Agentic SOC 位居 IDC MarketScape安全运营智能体2026领导者类别 | Doonsec | [https://mp.weixin.qq.com/s/gaMv8nX8JRS__uYFNZqzwg](https://mp.weixin.qq.com/s/gaMv8nX8JRS__uYFNZqzwg) |
+| 2 | 【活动预告】ISC2西南分会云讲坛：AI 安全运营专场 | Doonsec | [https://mp.weixin.qq.com/s/FTayKOt9G0FA0eh50y6UvA](https://mp.weixin.qq.com/s/FTayKOt9G0FA0eh50y6UvA) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.7.13-新宝藏站，7.6亿领英+5.6亿脸书+2.3亿推特+ins/tiktok/github/web3? | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489760&idx=1&sn=3e15ddd2bf981108976e2635af469426](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489760&idx=1&sn=3e15ddd2bf981108976e2635af469426) |
+| 1 | 数据安全预警 | 暗网出现国内某警校数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/aly-EWgU3J0LtY4xJWNaeg](https://mp.weixin.qq.com/s/aly-EWgU3J0LtY4xJWNaeg) |
+| 2 | 攻击者全网扫描MCP服务器与Claude凭据，AI系统面临数据泄露风险 | Doonsec | [https://mp.weixin.qq.com/s/ai-cKrpYywXSrME1uv1CXQ](https://mp.weixin.qq.com/s/ai-cKrpYywXSrME1uv1CXQ) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 中国信通院通过CCRC首批软件供应链安全管理能力评估 | Doonsec | [https://mp.weixin.qq.com/s/IYtEb18EvuaR07NKh2wq9g](https://mp.weixin.qq.com/s/IYtEb18EvuaR07NKh2wq9g) |
+| 1 | 专题·原创 | 人工智能时代软件供应链安全风险与标准化建设 | Doonsec | [https://mp.weixin.qq.com/s/8otu2PvVMvaJrrSHI2OlQQ](https://mp.weixin.qq.com/s/8otu2PvVMvaJrrSHI2OlQQ) |
+| 2 | 美总统特朗普签署公告豁免关键化学品制造商两年期EPA排放标准，保障国防与半导体供应链安全 | Doonsec | [https://mp.weixin.qq.com/s/1LDt_qBw-PmuTjePhn_pMw](https://mp.weixin.qq.com/s/1LDt_qBw-PmuTjePhn_pMw) |
 
 
 ## 📁 归档路径
@@ -176,8 +154,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -186,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-14 06:10:16*
+*生成时间: 2026-07-14 13:43:04*
 *报告工具: 微信文章安全归档系统*
