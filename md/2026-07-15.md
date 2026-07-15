@@ -2,15 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **网络攻击**: 1篇
@@ -62,12 +63,8 @@
 
 ### Doonsec
 
-- [【漏洞通告】微软7月多个安全漏洞](https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA) (发布日期: 2026-07-15)
-- [TOPSRC 2026年第二季度奖励公告](https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A) (发布日期: 2026-07-15)
-- [伊朗利用电信漏洞实时监视美军位置，疑似用于作战打击行动](https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA) (发布日期: 2026-07-15)
-- [“金鹰计划”启动：美国政府依托前沿AI构建漏洞发现与修复协同体系](https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A) (发布日期: 2026-07-15)
-- [天融信：构建“自制-自知-自治”数据安全闭环，让AI搭子更靠谱](https://mp.weixin.qq.com/s/oGPJwLymSerumsp9lIRJ1Q) (发布日期: 2026-07-15)
-- [本周回顾：ShareFile 威胁、Citrix Bleed 2 勒索软件、AI 编码攻击及更多](https://mp.weixin.qq.com/s/KMwKIf6-BVNz8_NmkthZ0w) (发布日期: 2026-07-15)
+- [警惕！图片藏毒，AI代码审查被绕过：CSA揭秘GhostCommit新型供应链攻击](https://mp.weixin.qq.com/s/5kcQecKD_3hzuZ6QsdUEUQ) (发布日期: 2026-07-15)
+- [72小时全球黑客狂欢，APT+勒索+0Day齐炸](https://mp.weixin.qq.com/s/4OFzggw7m5k8bBG9yzcsRg) (发布日期: 2026-07-15)
 
 
 ## 🎯 威胁详情分析
@@ -76,15 +73,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】微软7月多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA](https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA) |
-| 2 | 伊朗利用电信漏洞实时监视美军位置，疑似用于作战打击行动 | Doonsec | [https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA](https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA) |
-| 3 | “金鹰计划”启动：美国政府依托前沿AI构建漏洞发现与修复协同体系 | Doonsec | [https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A](https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A) |
+| 1 | 72小时全球黑客狂欢，APT+勒索+0Day齐炸 | Doonsec | [https://mp.weixin.qq.com/s/4OFzggw7m5k8bBG9yzcsRg](https://mp.weixin.qq.com/s/4OFzggw7m5k8bBG9yzcsRg) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | TOPSRC 2026年第二季度奖励公告 | Doonsec | [https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A](https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A) |
+| 1 | 72小时全球黑客狂欢，APT+勒索+0Day齐炸 | Doonsec | [https://mp.weixin.qq.com/s/4OFzggw7m5k8bBG9yzcsRg](https://mp.weixin.qq.com/s/4OFzggw7m5k8bBG9yzcsRg) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 警惕！图片藏毒，AI代码审查被绕过：CSA揭秘GhostCommit新型供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/5kcQecKD_3hzuZ6QsdUEUQ](https://mp.weixin.qq.com/s/5kcQecKD_3hzuZ6QsdUEUQ) |
 
 
 ## 📁 归档路径
@@ -100,7 +101,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -110,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-15 10:02:08*
+*生成时间: 2026-07-15 13:42:55*
 *报告工具: 微信文章安全归档系统*
