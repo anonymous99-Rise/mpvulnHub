@@ -1,15 +1,15 @@
-# 2026-07-14 安全威胁态势报告
+# 2026-07-15 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
 
@@ -60,8 +60,9 @@
 
 ### Doonsec
 
-- [AI漏洞挖掘：我的一些感想](https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA) (发布日期: 2026-07-14)
-- [直播预告：红队眼中的“Mythos攻破NSA”...](https://mp.weixin.qq.com/s/2RR7mWI_V0CebfyRVpxRLw) (发布日期: 2026-07-14)
+- [hvv 2026 - 今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s/IGYpjaeqhJZvuYHb-HcYmw) (发布日期: 2026-07-15)
+- [Web3智能合约安全漏洞检测工具](https://mp.weixin.qq.com/s/ylUhqNEMjPDfS4lul9peig) (发布日期: 2026-07-15)
+- [CNNVD通报OpenClaw多个安全漏洞](https://mp.weixin.qq.com/s/6ORZfXD31yoXd1F89Wljgg) (发布日期: 2026-07-15)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +71,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI漏洞挖掘：我的一些感想 | Doonsec | [https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA](https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA) |
+| 1 | Web3智能合约安全漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s/ylUhqNEMjPDfS4lul9peig](https://mp.weixin.qq.com/s/ylUhqNEMjPDfS4lul9peig) |
+| 2 | CNNVD通报OpenClaw多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/6ORZfXD31yoXd1F89Wljgg](https://mp.weixin.qq.com/s/6ORZfXD31yoXd1F89Wljgg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-14/`
+文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-15/`
 
 ## 🔗 数据源说明
 
@@ -86,7 +88,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -96,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-14 17:14:05*
+*生成时间: 2026-07-15 02:27:24*
 *报告工具: 微信文章安全归档系统*
