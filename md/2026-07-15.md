@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 9篇
-  - BruceFeIix: 13篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 3篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,31 +62,12 @@
 
 ### Doonsec
 
-- [协会动态 | 2026嘉兴市网络与信息安全管理员技能竞赛在平湖举办](https://mp.weixin.qq.com/s/7wGiaSfawnqMiVm65orqSg) (发布日期: 2026-07-15)
-- [合规先行、安全可控：大模型与 AI 智能体安全检测全流程解析](https://mp.weixin.qq.com/s/J4h_4TBfMx0L-MjTtwOWIQ) (发布日期: 2026-07-15)
-- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/OX6LBRFhJwuAeTW17sd_7w) (发布日期: 2026-07-15)
-- [威胁预警：不法站点借 2026 世界杯开展非法转播与恶意软件分发攻击](https://mp.weixin.qq.com/s/Jk4mxd1paP6H79dqrQswbQ) (发布日期: 2026-07-15)
-- [7月15日高危CVE漏洞速报](https://mp.weixin.qq.com/s/Glwk6X_Akq3BtXaUeSslkQ) (发布日期: 2026-07-15)
-- [持证刚需｜CISP-AISS第二期8.26开班，席位抢先锁定](https://mp.weixin.qq.com/s/387FbG-43SIGfGJFEWkcmw) (发布日期: 2026-07-15)
-- [《国家网络身份认证公共服务管理办法》实施一周年 筑牢数字屏障守护公民个人身份信息安全](https://mp.weixin.qq.com/s/rci2XoTokL0YL6D_E-EIXg) (发布日期: 2026-07-15)
-- [史诗级安全扫描工具降临！4900+漏洞覆盖重新定义安全边界](https://mp.weixin.qq.com/s/UTmUPTETr9bT-395dX8vEw) (发布日期: 2026-07-15)
-- [370 万个假 OAuth ID 扫描 200 万企业用户：微软身份系统的信息泄露攻击](https://mp.weixin.qq.com/s/Ecx-8QcOfyaJO-MDYJmhIw) (发布日期: 2026-07-15)
-
-### BruceFeIix
-
-- [ ] [雷神众测漏洞周报2026.7.6-2026.7.12](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503871&idx=1&sn=7f1d3e71b700a3ce4e00c973c2ff2c95) (发布日期: 2026-07-15)
-- [ ] [ServiceNow 严重漏洞导致远程攻击者执行恶意代码](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=1&sn=52998f2ed993d525f8db65adf3507e3a) (发布日期: 2026-07-15)
-- [ ] [数据泄露情报2026.7.14 - 8.27亿facebook用户数据](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489774&idx=1&sn=34a9cd4dc1090cb0615d9b5a390e05b7) (发布日期: 2026-07-15)
-- [ ] [【已复现、利用难度高】Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f) (发布日期: 2026-07-15)
-- [ ] [沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187106&idx=1&sn=934bc603ded7ba4afedf8ac72c87a806) (发布日期: 2026-07-15)
-- [ ] [连自己的GitHub都管不好：CISA的844MB凭据泄露，给全行业上了一堂公开课](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519492&idx=1&sn=070fa63609f878e463faeaaac6827bdf) (发布日期: 2026-07-15)
-- [ ] [专题·原创 | 人工智能时代软件供应链安全风险与标准化建设](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=1&sn=bbc7b5cf9822e24d39e58929fb5b3585) (发布日期: 2026-07-15)
-- [ ] [专家解读 | 完善风险评估制度护航数字经济发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=2&sn=afd04e193766e0b9cd169f14dcf1b42b) (发布日期: 2026-07-15)
-- [ ] [评论 | 堵住“仅退款”规则漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=5&sn=729fd6ff91322e692c8fe4a80e8db5f8) (发布日期: 2026-07-15)
-- [ ] [自研LangGraph漏洞挖掘工作流 · 高阶实训 · CVE全链路复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba) (发布日期: 2026-07-15)
-- [ ] [6项能力评估AI SOC平台就够了](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543492&idx=1&sn=2bd7e09a0a31dbd2f8c34baf654a3245) (发布日期: 2026-07-15)
-- [ ] [卫星图上，情报分析师看到的不是图片，是故事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568675&idx=1&sn=172b0ae8827c5a8964d917a5ef0fba71) (发布日期: 2026-07-15)
-- [ ] [CNVD漏洞周报2026年第27期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0) (发布日期: 2026-07-15)
+- [【漏洞通告】微软7月多个安全漏洞](https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA) (发布日期: 2026-07-15)
+- [TOPSRC 2026年第二季度奖励公告](https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A) (发布日期: 2026-07-15)
+- [伊朗利用电信漏洞实时监视美军位置，疑似用于作战打击行动](https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA) (发布日期: 2026-07-15)
+- [“金鹰计划”启动：美国政府依托前沿AI构建漏洞发现与修复协同体系](https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A) (发布日期: 2026-07-15)
+- [天融信：构建“自制-自知-自治”数据安全闭环，让AI搭子更靠谱](https://mp.weixin.qq.com/s/oGPJwLymSerumsp9lIRJ1Q) (发布日期: 2026-07-15)
+- [本周回顾：ShareFile 威胁、Citrix Bleed 2 勒索软件、AI 编码攻击及更多](https://mp.weixin.qq.com/s/KMwKIf6-BVNz8_NmkthZ0w) (发布日期: 2026-07-15)
 
 
 ## 🎯 威胁详情分析
@@ -97,33 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/OX6LBRFhJwuAeTW17sd_7w](https://mp.weixin.qq.com/s/OX6LBRFhJwuAeTW17sd_7w) |
-| 2 | 7月15日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/Glwk6X_Akq3BtXaUeSslkQ](https://mp.weixin.qq.com/s/Glwk6X_Akq3BtXaUeSslkQ) |
-| 3 | 史诗级安全扫描工具降临！4900+漏洞覆盖重新定义安全边界 | Doonsec | [https://mp.weixin.qq.com/s/UTmUPTETr9bT-395dX8vEw](https://mp.weixin.qq.com/s/UTmUPTETr9bT-395dX8vEw) |
-| 4 |  ] [雷神众测漏洞周报2026.7.6-2026.7.12 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503871&idx=1&sn=7f1d3e71b700a3ce4e00c973c2ff2c95](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503871&idx=1&sn=7f1d3e71b700a3ce4e00c973c2ff2c95) |
-| 5 |  ] [ServiceNow 严重漏洞导致远程攻击者执行恶意代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=1&sn=52998f2ed993d525f8db65adf3507e3a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=1&sn=52998f2ed993d525f8db65adf3507e3a) |
-| 6 |  ] [【已复现、利用难度高】Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f) |
-| 7 |  ] [评论 | 堵住“仅退款”规则漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=5&sn=729fd6ff91322e692c8fe4a80e8db5f8](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=5&sn=729fd6ff91322e692c8fe4a80e8db5f8) |
-| 8 |  ] [自研LangGraph漏洞挖掘工作流 · 高阶实训 · CVE全链路复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba) |
-| 9 |  ] [CNVD漏洞周报2026年第27期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0) |
+| 1 | 【漏洞通告】微软7月多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA](https://mp.weixin.qq.com/s/UQzh3uPTGijQy9-lwA2TIA) |
+| 2 | 伊朗利用电信漏洞实时监视美军位置，疑似用于作战打击行动 | Doonsec | [https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA](https://mp.weixin.qq.com/s/5ZEAx6XMW-5zS4C7u6ZwmA) |
+| 3 | “金鹰计划”启动：美国政府依托前沿AI构建漏洞发现与修复协同体系 | Doonsec | [https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A](https://mp.weixin.qq.com/s/DVNwLvLl4uFB-nhPshsU8A) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187106&idx=1&sn=934bc603ded7ba4afedf8ac72c87a806](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187106&idx=1&sn=934bc603ded7ba4afedf8ac72c87a806) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.7.14 - 8.27亿facebook用户数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489774&idx=1&sn=34a9cd4dc1090cb0615d9b5a390e05b7](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489774&idx=1&sn=34a9cd4dc1090cb0615d9b5a390e05b7) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [专题·原创 | 人工智能时代软件供应链安全风险与标准化建设 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=1&sn=bbc7b5cf9822e24d39e58929fb5b3585](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=1&sn=bbc7b5cf9822e24d39e58929fb5b3585) |
+| 1 | TOPSRC 2026年第二季度奖励公告 | Doonsec | [https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A](https://mp.weixin.qq.com/s/I05iSfv77wVUOjIWerDc8A) |
 
 
 ## 📁 归档路径
@@ -139,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-15 06:13:37*
+*生成时间: 2026-07-15 10:02:08*
 *报告工具: 微信文章安全归档系统*
