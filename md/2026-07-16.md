@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 2篇
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,11 +63,13 @@
 
 ### Doonsec
 
-- [教育行业SRC供应商漏洞变化 (2026-07-16)](https://mp.weixin.qq.com/s/-2A5Sscw0Y0eAj-4f6eUaw) (发布日期: 2026-07-16)
-- [【更新】BSRC业务系数调整！产品线范围更清晰！](https://mp.weixin.qq.com/s/MnOmDMLgIE6iC9f03p8uOg) (发布日期: 2026-07-16)
-- [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击](https://mp.weixin.qq.com/s/2J_Jl-zz3exZmZ4vko1izQ) (发布日期: 2026-07-16)
-- [CISP培训讲师申请表、维持申请表及管理办法](https://mp.weixin.qq.com/s/Uoa899_zDUP7BT71BS017A) (发布日期: 2026-07-16)
-- [交通运输部印发《交通运输数据安全管理办法》（附全文）](https://mp.weixin.qq.com/s/hTi2FVYnaMnIDNKa713sBA) (发布日期: 2026-07-16)
+- [安全报告 | 恒安嘉新6月网络信息安全综合态势报告](https://mp.weixin.qq.com/s/ialvC30_UdSVXQYqLWp8sA) (发布日期: 2026-07-16)
+- [专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) (发布日期: 2026-07-16)
+- [AntSRC 年度 TOP8 白帽榜单正式公布，致谢每一位安全同行者](https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg) (发布日期: 2026-07-16)
+- [蔚来招聘AI云基础设施安全工程师](https://mp.weixin.qq.com/s/JZCyqT-oqmQpaY3KOZVaxg) (发布日期: 2026-07-16)
+- [精品产品 | 捷普工控安全运维管理系统](https://mp.weixin.qq.com/s/XPBMGqncNtWjyowLcpioLw) (发布日期: 2026-07-16)
+- [精品产品 | 捷普工控安全评估系统](https://mp.weixin.qq.com/s/hDLHUhJ7-aqtigaX9BN_Fw) (发布日期: 2026-07-16)
+- [一篇文章告诉你：国家网络身份认证公共服务是什么](https://mp.weixin.qq.com/s/QZ2CAcyVGH5UrTkZVgKp1Q) (发布日期: 2026-07-16)
 
 
 ## 🎯 威胁详情分析
@@ -75,20 +78,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-16) | Doonsec | [https://mp.weixin.qq.com/s/-2A5Sscw0Y0eAj-4f6eUaw](https://mp.weixin.qq.com/s/-2A5Sscw0Y0eAj-4f6eUaw) |
+| 1 | 专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告 | Doonsec | [https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) |
 
-### 攻击技术
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击 | Doonsec | [https://mp.weixin.qq.com/s/2J_Jl-zz3exZmZ4vko1izQ](https://mp.weixin.qq.com/s/2J_Jl-zz3exZmZ4vko1izQ) |
+| 1 | 专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告 | Doonsec | [https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-16) | Doonsec | [https://mp.weixin.qq.com/s/-2A5Sscw0Y0eAj-4f6eUaw](https://mp.weixin.qq.com/s/-2A5Sscw0Y0eAj-4f6eUaw) |
-| 2 | 【更新】BSRC业务系数调整！产品线范围更清晰！ | Doonsec | [https://mp.weixin.qq.com/s/MnOmDMLgIE6iC9f03p8uOg](https://mp.weixin.qq.com/s/MnOmDMLgIE6iC9f03p8uOg) |
+| 1 | AntSRC 年度 TOP8 白帽榜单正式公布，致谢每一位安全同行者 | Doonsec | [https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg](https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg) |
 
 
 ## 📁 归档路径
@@ -104,8 +106,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +116,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-16 10:07:58*
+*生成时间: 2026-07-16 13:49:47*
 *报告工具: 微信文章安全归档系统*
