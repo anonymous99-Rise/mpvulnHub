@@ -1,20 +1,20 @@
-# 2026-07-16 安全威胁态势报告
+# 2026-07-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **安全运营**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +63,17 @@
 
 ### Doonsec
 
-- [安全报告 | 恒安嘉新6月网络信息安全综合态势报告](https://mp.weixin.qq.com/s/ialvC30_UdSVXQYqLWp8sA) (发布日期: 2026-07-16)
-- [专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) (发布日期: 2026-07-16)
-- [AntSRC 年度 TOP8 白帽榜单正式公布，致谢每一位安全同行者](https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg) (发布日期: 2026-07-16)
-- [蔚来招聘AI云基础设施安全工程师](https://mp.weixin.qq.com/s/JZCyqT-oqmQpaY3KOZVaxg) (发布日期: 2026-07-16)
-- [精品产品 | 捷普工控安全运维管理系统](https://mp.weixin.qq.com/s/XPBMGqncNtWjyowLcpioLw) (发布日期: 2026-07-16)
-- [精品产品 | 捷普工控安全评估系统](https://mp.weixin.qq.com/s/hDLHUhJ7-aqtigaX9BN_Fw) (发布日期: 2026-07-16)
-- [一篇文章告诉你：国家网络身份认证公共服务是什么](https://mp.weixin.qq.com/s/QZ2CAcyVGH5UrTkZVgKp1Q) (发布日期: 2026-07-16)
+- [安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建](https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg) (发布日期: 2026-07-17)
+- [7月17日高危CVE漏洞速报](https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ) (发布日期: 2026-07-17)
+- [安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建](https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA) (发布日期: 2026-07-17)
+- [能信安：漏洞通告](https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg) (发布日期: 2026-07-17)
+- [50万+漏洞数据背后，墨菲安全想解决国产大模型的一个关键问题](https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g) (发布日期: 2026-07-17)
+- [政策解读｜四部门联合发布《金融业网络安全管理办法（征求意见稿）》，金融行业合规迎来统一监管新规范](https://mp.weixin.qq.com/s/asteFcI-7cHcr0PjElhsNA) (发布日期: 2026-07-17)
+- [西安招聘网络安全工程师，薪资：8-12K](https://mp.weixin.qq.com/s/NzWi0V1up0DqB_J8TbT_5A) (发布日期: 2026-07-17)
+- [中国科学院武汉植物园ARP及网络安全管理岗招聘启事](https://mp.weixin.qq.com/s/Sca6v82eDKapEGKs1sEYZw) (发布日期: 2026-07-17)
+- [漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897)](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) (发布日期: 2026-07-17)
+- [Mythos 对企业安全架构影响的思考](https://mp.weixin.qq.com/s/-QG58sO3eTrqJvNpblBq-Q) (发布日期: 2026-07-17)
+- [《国家网络身份认证公共服务管理办法》施行一周年之际，已有4000万人申领认证——“网络身份认证凭证”有多好用？](https://mp.weixin.qq.com/s/zzUwxpfmiWbawjYhfIHjsw) (发布日期: 2026-07-17)
 
 
 ## 🎯 威胁详情分析
@@ -78,24 +82,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告 | Doonsec | [https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) |
+| 1 | 7月17日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ](https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ) |
+| 2 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg](https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg) |
+| 3 | 50万+漏洞数据背后，墨菲安全想解决国产大模型的一个关键问题 | Doonsec | [https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g](https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g) |
+| 4 | 漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897) | Doonsec | [https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 专题报告 | 恒安嘉新网络安全-APT攻击、勒索病毒及互联网漏洞专题分析报告 | Doonsec | [https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw](https://mp.weixin.qq.com/s/ZHBhcOoiwyZkUCHWuI2ydw) |
+| 1 | 漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897) | Doonsec | [https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AntSRC 年度 TOP8 白帽榜单正式公布，致谢每一位安全同行者 | Doonsec | [https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg](https://mp.weixin.qq.com/s/Uwk13Yps3Y05V0DRJB6Kdg) |
+| 1 | 安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建 | Doonsec | [https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg](https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg) |
+| 2 | 安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建 | Doonsec | [https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA](https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-16/`
+文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-17/`
 
 ## 🔗 数据源说明
 
@@ -106,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-16 13:49:47*
+*生成时间: 2026-07-17 02:38:15*
 *报告工具: 微信文章安全归档系统*
