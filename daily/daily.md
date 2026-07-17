@@ -2,15 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 3篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,10 +61,13 @@
 
 ### Doonsec
 
-- [【漏洞通告】SonicWall SMA1000 SSRF漏洞(CVE-2026-15409)](https://mp.weixin.qq.com/s/wLoMxYbYUaEwTgNsZSbAKA) (发布日期: 2026-07-17)
-- [安全威胁情报周报（2026/07/11-2026/07/17）](https://mp.weixin.qq.com/s/ojPZQPM2yFe_Hq3t8N_vEg) (发布日期: 2026-07-17)
-- [用AI跑赢漏洞攻防战：漏洞自动化挖掘、验证、防御实战框架](https://mp.weixin.qq.com/s/SF0zqSBiMeQuOjfxAnLjjw) (发布日期: 2026-07-17)
-- [《网络安全技术 人工智能应用安全分类分级方法》等4项国家标准公开征求意见](https://mp.weixin.qq.com/s/q7bsYEhCirS3hdM0drp-1Q) (发布日期: 2026-07-17)
+- [奇安信亮相2026世界人工智能大会：全方位赋能AI安全治理，与哈萨克斯坦签署合作备忘录](https://mp.weixin.qq.com/s/t4joikslsTgVvSu_e6VVbA) (发布日期: 2026-07-17)
+- [网络安全领域的11种通用思维模型：CISO和创始人实用指南](https://mp.weixin.qq.com/s/NxiWDUgRzKeE2ric6wP7Vw) (发布日期: 2026-07-17)
+- [报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) (发布日期: 2026-07-17)
+- [一个俄语黑客、一个越狱的 Gemini，和一个6分钟建好的僵尸网络](https://mp.weixin.qq.com/s/3Mt2Rif9wcOHugMbNAK7fQ) (发布日期: 2026-07-17)
+- [AI能发现漏洞，但验证仍需人类知识](https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw) (发布日期: 2026-07-17)
+- [安全热点周报：微软补丁日修复漏洞数量创新高，披露3个零日漏洞](https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA) (发布日期: 2026-07-17)
+- [不出网环境下的渗透测试](https://mp.weixin.qq.com/s/3r2abliHAvSM7sboD_8rQw) (发布日期: 2026-07-17)
 
 
 ## 🎯 威胁详情分析
@@ -73,14 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】SonicWall SMA1000 SSRF漏洞(CVE-2026-15409) | Doonsec | [https://mp.weixin.qq.com/s/wLoMxYbYUaEwTgNsZSbAKA](https://mp.weixin.qq.com/s/wLoMxYbYUaEwTgNsZSbAKA) |
-| 2 | 用AI跑赢漏洞攻防战：漏洞自动化挖掘、验证、防御实战框架 | Doonsec | [https://mp.weixin.qq.com/s/SF0zqSBiMeQuOjfxAnLjjw](https://mp.weixin.qq.com/s/SF0zqSBiMeQuOjfxAnLjjw) |
+| 1 | 报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训 | Doonsec | [https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) |
+| 2 | AI能发现漏洞，但验证仍需人类知识 | Doonsec | [https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw](https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw) |
+| 3 | 安全热点周报：微软补丁日修复漏洞数量创新高，披露3个零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA](https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA) |
 
-### 威胁情报
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全威胁情报周报（2026/07/11-2026/07/17） | Doonsec | [https://mp.weixin.qq.com/s/ojPZQPM2yFe_Hq3t8N_vEg](https://mp.weixin.qq.com/s/ojPZQPM2yFe_Hq3t8N_vEg) |
+| 1 | 报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训 | Doonsec | [https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) |
 
 
 ## 📁 归档路径
@@ -96,7 +100,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -106,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-17 09:56:30*
+*生成时间: 2026-07-17 13:27:54*
 *报告工具: 微信文章安全归档系统*
