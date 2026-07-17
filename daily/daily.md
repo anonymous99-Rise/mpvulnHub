@@ -2,16 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 7篇
+  - BruceFeIix: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
@@ -63,17 +66,30 @@
 
 ### Doonsec
 
-- [安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建](https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg) (发布日期: 2026-07-17)
-- [7月17日高危CVE漏洞速报](https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ) (发布日期: 2026-07-17)
-- [安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建](https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA) (发布日期: 2026-07-17)
-- [能信安：漏洞通告](https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg) (发布日期: 2026-07-17)
-- [50万+漏洞数据背后，墨菲安全想解决国产大模型的一个关键问题](https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g) (发布日期: 2026-07-17)
-- [政策解读｜四部门联合发布《金融业网络安全管理办法（征求意见稿）》，金融行业合规迎来统一监管新规范](https://mp.weixin.qq.com/s/asteFcI-7cHcr0PjElhsNA) (发布日期: 2026-07-17)
-- [西安招聘网络安全工程师，薪资：8-12K](https://mp.weixin.qq.com/s/NzWi0V1up0DqB_J8TbT_5A) (发布日期: 2026-07-17)
-- [中国科学院武汉植物园ARP及网络安全管理岗招聘启事](https://mp.weixin.qq.com/s/Sca6v82eDKapEGKs1sEYZw) (发布日期: 2026-07-17)
-- [漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897)](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) (发布日期: 2026-07-17)
-- [Mythos 对企业安全架构影响的思考](https://mp.weixin.qq.com/s/-QG58sO3eTrqJvNpblBq-Q) (发布日期: 2026-07-17)
-- [《国家网络身份认证公共服务管理办法》施行一周年之际，已有4000万人申领认证——“网络身份认证凭证”有多好用？](https://mp.weixin.qq.com/s/zzUwxpfmiWbawjYhfIHjsw) (发布日期: 2026-07-17)
+- [护网国护 蓝队中级 没啥要求 价格高于市场价 毕业](https://mp.weixin.qq.com/s/IG-SKHFgk0MNuIQjdLS9fA) (发布日期: 2026-07-17)
+- [微软创纪录的漏洞补丁月意味了什么](https://mp.weixin.qq.com/s/i_ETBHfxzhk7h4Fh0ZQ4Pw) (发布日期: 2026-07-17)
+- [AI Agent 又出现数据注入](https://mp.weixin.qq.com/s/LwGihQ3jAz8JOFCR6gxSig) (发布日期: 2026-07-17)
+- [OpenAI 推出 GPT-Red 自动化红队模型；苹果xa0AI 中国市场落地方案出炉，联动阿里、百度大模型满足本地化合规审核要求| 牛览](https://mp.weixin.qq.com/s/p7zylpbi5o_i71TkeG3pyA) (发布日期: 2026-07-17)
+- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/ZtxZguqeThItFOYdsCYOIg) (发布日期: 2026-07-17)
+- [“十五五”医疗安全：四大支柱筑牢公立医院数智化底座](https://mp.weixin.qq.com/s/hLckcRxDJcxCAm3QXcTxzQ) (发布日期: 2026-07-17)
+- [谷歌 Mantis：关于AI 代码审计如何做约束的思考](https://mp.weixin.qq.com/s/xAxGhAjz7drvHJmjgXLDuA) (发布日期: 2026-07-17)
+
+### BruceFeIix
+
+- [ ] [用缓冲区溢出漏洞把矿卡变成 A100](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257342&idx=1&sn=dfb0ede540af1cb3a4b311414e6537a0) (发布日期: 2026-07-17)
+- [ ] [Zoom：注意这个严重的账户接管漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=1&sn=7a16b14bc318e77d8eaa96cd6c7f7025) (发布日期: 2026-07-17)
+- [ ] [CISA：立即修复这些已遭利用的 SharePoint 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=2&sn=fe817375b8e1b3316d7d8bc37bfe109f) (发布日期: 2026-07-17)
+- [ ] [微步情报局发现并协助修复Eclipse Jetty 12 路径穿越漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508760&idx=1&sn=dc6529b7677375b6b25b63a962ed7fed) (发布日期: 2026-07-17)
+- [ ] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516274&idx=2&sn=985eaf02edb693d50f852d4633c29f2c) (发布日期: 2026-07-17)
+- [ ] [数据泄露情报2026.7.16 - 刚找到一个包罗万象的新TG频道](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489826&idx=1&sn=716c8d547d29ba596349df2e10612a6b) (发布日期: 2026-07-17)
+- [ ] [捕捉恶意代码的顶级智能体反而被恶意代码欺骗](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543511&idx=1&sn=d06a97086854322f81ae37abed9aeb6f) (发布日期: 2026-07-17)
+- [ ] [观点 | 谨防境外AI“后门”风险](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504448&idx=1&sn=8731755d180d00ac5b44b071d68db117) (发布日期: 2026-07-17)
+- [ ] [【安全圈】SonicWall爆出两个零日漏洞，黑客已在利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=2&sn=afe6269498d72500b766add22dac0d26) (发布日期: 2026-07-17)
+- [ ] [【安全圈】82%的恶意攻击，还是从你的邮箱进来](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=3&sn=68e6083d960d99e9f1ce86b730e987ee) (发布日期: 2026-07-17)
+- [ ] [又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617641&idx=2&sn=c9db90ecf64e7fc1a85189aaaeff52d4) (发布日期: 2026-07-17)
+- [ ] [【开源报告】美国全球供应链数据掌控与供应链安全控制分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156607&idx=1&sn=3f4a7d8d36ee97dbcb592294fe5763b9) (发布日期: 2026-07-17)
+- [ ] [【更新】BSRC业务系数调整！产品线范围更清晰！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544100&idx=1&sn=b5a8c779b8c68cb432812ca22a42d731) (发布日期: 2026-07-17)
+- [ ] [【情报分析】伊朗前总统艾哈迈迪内贾德为何被指认被摩萨德招募？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568720&idx=2&sn=1dc950f3204616ff62a368c611b7c9ac) (发布日期: 2026-07-17)
 
 
 ## 🎯 威胁详情分析
@@ -82,23 +98,38 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7月17日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ](https://mp.weixin.qq.com/s/6OWnpcSne6uRX6UJ6ouloQ) |
-| 2 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg](https://mp.weixin.qq.com/s/u3fQutex_-GhLy7GGwk9Fg) |
-| 3 | 50万+漏洞数据背后，墨菲安全想解决国产大模型的一个关键问题 | Doonsec | [https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g](https://mp.weixin.qq.com/s/58zx-0gFT4onX-ll565u-g) |
-| 4 | 漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897) | Doonsec | [https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) |
+| 1 | 微软创纪录的漏洞补丁月意味了什么 | Doonsec | [https://mp.weixin.qq.com/s/i_ETBHfxzhk7h4Fh0ZQ4Pw](https://mp.weixin.qq.com/s/i_ETBHfxzhk7h4Fh0ZQ4Pw) |
+| 2 |  ] [用缓冲区溢出漏洞把矿卡变成 A100 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257342&idx=1&sn=dfb0ede540af1cb3a4b311414e6537a0](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257342&idx=1&sn=dfb0ede540af1cb3a4b311414e6537a0) |
+| 3 |  ] [Zoom：注意这个严重的账户接管漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=1&sn=7a16b14bc318e77d8eaa96cd6c7f7025](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=1&sn=7a16b14bc318e77d8eaa96cd6c7f7025) |
+| 4 |  ] [CISA：立即修复这些已遭利用的 SharePoint 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=2&sn=fe817375b8e1b3316d7d8bc37bfe109f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526636&idx=2&sn=fe817375b8e1b3316d7d8bc37bfe109f) |
+| 5 |  ] [微步情报局发现并协助修复Eclipse Jetty 12 路径穿越漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508760&idx=1&sn=dc6529b7677375b6b25b63a962ed7fed](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508760&idx=1&sn=dc6529b7677375b6b25b63a962ed7fed) |
+| 6 |  ] [【安全圈】SonicWall爆出两个零日漏洞，黑客已在利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=2&sn=afe6269498d72500b766add22dac0d26](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077869&idx=2&sn=afe6269498d72500b766add22dac0d26) |
+| 7 |  ] [又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617641&idx=2&sn=c9db90ecf64e7fc1a85189aaaeff52d4](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617641&idx=2&sn=c9db90ecf64e7fc1a85189aaaeff52d4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | WordPress WooCommerce Designer Pro存在任意文件读取(CVE-2025-10897) | Doonsec | [https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw](https://mp.weixin.qq.com/s/Rf3w_amp_ZxkZ-mCvwKEuw) |
+| 1 | AI Agent 又出现数据注入 | Doonsec | [https://mp.weixin.qq.com/s/LwGihQ3jAz8JOFCR6gxSig](https://mp.weixin.qq.com/s/LwGihQ3jAz8JOFCR6gxSig) |
+| 2 |  ] [AI私人助手会被偷偷篡改记忆：揭秘隐形内存注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516274&idx=2&sn=985eaf02edb693d50f852d4633c29f2c](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516274&idx=2&sn=985eaf02edb693d50f852d4633c29f2c) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建 | Doonsec | [https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg](https://mp.weixin.qq.com/s/br1DMGxBtk8jvtTAb7Yvjg) |
-| 2 | 安全运营智能体获 IDC 认可！长亭开源双引擎推动生态共建 | Doonsec | [https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA](https://mp.weixin.qq.com/s/9b-nGXBfxTv_Pt4BoRXMpA) |
+| 1 |  ] [【更新】BSRC业务系数调整！产品线范围更清晰！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544100&idx=1&sn=b5a8c779b8c68cb432812ca22a42d731](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544100&idx=1&sn=b5a8c779b8c68cb432812ca22a42d731) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [数据泄露情报2026.7.16 - 刚找到一个包罗万象的新TG频道 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489826&idx=1&sn=716c8d547d29ba596349df2e10612a6b](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489826&idx=1&sn=716c8d547d29ba596349df2e10612a6b) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【开源报告】美国全球供应链数据掌控与供应链安全控制分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156607&idx=1&sn=3f4a7d8d36ee97dbcb592294fe5763b9](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156607&idx=1&sn=3f4a7d8d36ee97dbcb592294fe5763b9) |
 
 
 ## 📁 归档路径
@@ -114,7 +145,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -124,5 +155,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-17 02:38:15*
+*生成时间: 2026-07-17 06:15:10*
 *报告工具: 微信文章安全归档系统*
