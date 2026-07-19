@@ -1,18 +1,23 @@
-# 2026-07-17 安全威胁态势报告
+# 2026-07-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 33
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 8篇
+  - BruceFeIix: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **供应链**: 1篇
+- **漏洞利用**: 14篇
+- **攻击技术**: 5篇
+- **威胁情报**: 3篇
+- **安全运营**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,13 +66,42 @@
 
 ### Doonsec
 
-- [奇安信亮相2026世界人工智能大会：全方位赋能AI安全治理，与哈萨克斯坦签署合作备忘录](https://mp.weixin.qq.com/s/t4joikslsTgVvSu_e6VVbA) (发布日期: 2026-07-17)
-- [网络安全领域的11种通用思维模型：CISO和创始人实用指南](https://mp.weixin.qq.com/s/NxiWDUgRzKeE2ric6wP7Vw) (发布日期: 2026-07-17)
-- [报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) (发布日期: 2026-07-17)
-- [一个俄语黑客、一个越狱的 Gemini，和一个6分钟建好的僵尸网络](https://mp.weixin.qq.com/s/3Mt2Rif9wcOHugMbNAK7fQ) (发布日期: 2026-07-17)
-- [AI能发现漏洞，但验证仍需人类知识](https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw) (发布日期: 2026-07-17)
-- [安全热点周报：微软补丁日修复漏洞数量创新高，披露3个零日漏洞](https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA) (发布日期: 2026-07-17)
-- [不出网环境下的渗透测试](https://mp.weixin.qq.com/s/3r2abliHAvSM7sboD_8rQw) (发布日期: 2026-07-17)
+- [WAIC 2026 | 锦岳智慧获评 “人工智能安全漏洞治理联盟” 首批成员单位](https://mp.weixin.qq.com/s/1cQX63lsgpFCDm2s2qSJ3w) (发布日期: 2026-07-19)
+- [JavaScript 逆向 &amp;&amp;渗透测试辅助工具&amp;&amp;AntiDebug_Breaker_mcp](https://mp.weixin.qq.com/s/itztvjkR88LosymeRo4bRA) (发布日期: 2026-07-19)
+- [菜狗安全《代码审计培训》课程全面升级(文末抽奖)](https://mp.weixin.qq.com/s/900HAnJXVCYVQ8JqNCDR4Q) (发布日期: 2026-07-19)
+- [数据 -> 信息 -> 情报：威胁情报实践的现实思考](https://mp.weixin.qq.com/s/vVf7IlGcfeuDAqwyvq6Sew) (发布日期: 2026-07-19)
+- [非插件漏洞，WordPress 未授权 SQL 注入漏洞链可导致RCE](https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA) (发布日期: 2026-07-19)
+- [筑牢身份信息“防火墙” 跑出网络安全“加速度”——有关方面负责人谈国家网络身份认证公共服务建设应用成效](https://mp.weixin.qq.com/s/y3dMRR7vrAwj5aeG6-IWsw) (发布日期: 2026-07-19)
+- [【Web实战】Oracle注入专题——注入注意点+排序注入绕过实战之踩坑篇](https://mp.weixin.qq.com/s/8jxEYQk-7nP_C7uBfbLioA) (发布日期: 2026-07-19)
+- [Pentest-Lyan：AI 渗透测试增强包](https://mp.weixin.qq.com/s/XZdm5WnTGbttwe_pUIasSQ) (发布日期: 2026-07-19)
+
+### BruceFeIix
+
+- [ ] [世界人工智能大会|人工智能安全漏洞治理联盟正式成立](https://mp.weixin.qq.com/s/YMzECQW84tmHltimRvfZPA) (发布日期: 2026-07-19)
+- [ ] [2026年攻防比赛中漏洞类型总结（AI改变漏洞挖掘方式）](https://mp.weixin.qq.com/s/NMJr4ODJRhelRJ5jWd07Gw) (发布日期: 2026-07-19)
+- [ ] [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/sw9qTsLTzli7iKKb4R4X7g) (发布日期: 2026-07-19)
+- [ ] [【已复现】WordPress REST API 批处理路由混淆与 SQL 注入远程代码执行漏洞（CVE-2026-63030）](https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg) (发布日期: 2026-07-19)
+- [ ] [WordPress 出现关键 RCE 漏洞 wp2shell](https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg) (发布日期: 2026-07-19)
+- [ ] [上海创时汽车：面向车辆域控制器的渗透测试方法研究](https://mp.weixin.qq.com/s/BTDvic6GH-KPcliTzDJ90g) (发布日期: 2026-07-19)
+- [ ] [世界人工智能大会 | 人工智能安全漏洞治理联盟正式成立](https://mp.weixin.qq.com/s/UKxjfVTBysClubWx5qdMgg) (发布日期: 2026-07-19)
+- [ ] [7-Zip高危漏洞CVE-2026-14266](https://mp.weixin.qq.com/s/zvBoxczYivm6LbiIiiR_MA) (发布日期: 2026-07-19)
+- [ ] [OpenSSL“HollowByte”漏洞：11字节触发DoS攻击](https://mp.weixin.qq.com/s/DGxLH0pUpEIidOdEh5jqLQ) (发布日期: 2026-07-19)
+- [ ] [白宫启动“金鹰”计划；黑客借助Gemini CLI构建实时C&amp;C僵尸网络 | FreeBuf周报](https://mp.weixin.qq.com/s/Z_aOQPO0_qlGGNHk2LtFIg) (发布日期: 2026-07-19)
+- [ ] [CNNVD通报微软多个安全漏洞](https://mp.weixin.qq.com/s/sxTXiq6GWi5SZxR-eNDfDA) (发布日期: 2026-07-19)
+- [ ] [天融信亮相2026世界人工智能大会，获评人工智能安全漏洞治理联盟首批成员单位](https://mp.weixin.qq.com/s/vUNGR_OBQxLZnWjCSPKGjg) (发布日期: 2026-07-19)
+- [ ] [【一周安全资讯0718】《网络安全技术 人工智能应用安全 应急管理》参编单位征集；微软史诗级补丁日：622个漏洞、两个在野0Day](https://mp.weixin.qq.com/s/insho80kGInoa1BTeJsxIA) (发布日期: 2026-07-19)
+- [ ] [安天AVL SDK反病毒引擎升级通告（20260718）](https://mp.weixin.qq.com/s/kXG5RyHU4V4WGGj71bo74Q) (发布日期: 2026-07-19)
+- [ ] [深情版edu+src培训（暑假跟着深情哥愉快用ai挖洞吧）](https://mp.weixin.qq.com/s/9vtbdD5qUKMgLPGVjO-kfA) (发布日期: 2026-07-19)
+- [ ] [一张矿卡撬动A100：从矿卡破解看GPU安全设计的系统性缺陷](https://mp.weixin.qq.com/s/fZH5pCqiyPiT1Mr4T2G8fA) (发布日期: 2026-07-19)
+- [ ] [XCSSET 恶意软件](https://mp.weixin.qq.com/s/Up965Kf6YT_dHtPdFYu65g) (发布日期: 2026-07-19)
+- [ ] [中国科学院武汉植物园ARP及网络安全管理岗招聘启事](https://mp.weixin.qq.com/s/Cs9joJoHkCqPwI5uu2ccYg) (发布日期: 2026-07-19)
+- [ ] [基于国密安全运维的医疗信息系统密码应用建设方案](https://mp.weixin.qq.com/s/083y624ZAhvKLm2z7en15A) (发布日期: 2026-07-19)
+- [ ] [当AI学会了“动手”，安全防线还扛得住吗？—— 从基础设施到智能体的全链路安全检测实践](https://mp.weixin.qq.com/s/b1ukY6zu6dLu8jVcGhlhUA) (发布日期: 2026-07-19)
+- [ ] [【安全圈】WordPress致命漏洞：无需密码即可远程控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c) (发布日期: 2026-07-19)
+- [ ] [【安全圈】新型僵尸网络专偷AI服务API密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=3&sn=7f9209051bcf1871609e66259b7abaee) (发布日期: 2026-07-19)
+- [ ] [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df) (发布日期: 2026-07-19)
+- [ ] [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4) (发布日期: 2026-07-19)
+- [ ] [威胁情报｜伪装招聘的 GitHub 投毒分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=2&sn=e9e7201e6e8a59ff254f5e95a688f601) (发布日期: 2026-07-19)
 
 
 ## 🎯 威胁详情分析
@@ -76,20 +110,50 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训 | Doonsec | [https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) |
-| 2 | AI能发现漏洞，但验证仍需人类知识 | Doonsec | [https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw](https://mp.weixin.qq.com/s/yJ62cKY6jvjWhy6jihtFOw) |
-| 3 | 安全热点周报：微软补丁日修复漏洞数量创新高，披露3个零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA](https://mp.weixin.qq.com/s/oFe4Iv_iKPiI51itrWEowA) |
+| 1 | WAIC 2026 | 锦岳智慧获评 “人工智能安全漏洞治理联盟” 首批成员单位 | Doonsec | [https://mp.weixin.qq.com/s/1cQX63lsgpFCDm2s2qSJ3w](https://mp.weixin.qq.com/s/1cQX63lsgpFCDm2s2qSJ3w) |
+| 2 | 非插件漏洞，WordPress 未授权 SQL 注入漏洞链可导致RCE | Doonsec | [https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA](https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA) |
+| 3 |  ] [世界人工智能大会|人工智能安全漏洞治理联盟正式成立 | BruceFeIix | [https://mp.weixin.qq.com/s/YMzECQW84tmHltimRvfZPA](https://mp.weixin.qq.com/s/YMzECQW84tmHltimRvfZPA) |
+| 4 |  ] [2026年攻防比赛中漏洞类型总结（AI改变漏洞挖掘方式） | BruceFeIix | [https://mp.weixin.qq.com/s/NMJr4ODJRhelRJ5jWd07Gw](https://mp.weixin.qq.com/s/NMJr4ODJRhelRJ5jWd07Gw) |
+| 5 |  ] [【已复现】WordPress REST API 批处理路由混淆与 SQL 注入远程代码执行漏洞（CVE-2026-63030） | BruceFeIix | [https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg](https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg) |
+| 6 |  ] [WordPress 出现关键 RCE 漏洞 wp2shell | BruceFeIix | [https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg](https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg) |
+| 7 |  ] [世界人工智能大会 | 人工智能安全漏洞治理联盟正式成立 | BruceFeIix | [https://mp.weixin.qq.com/s/UKxjfVTBysClubWx5qdMgg](https://mp.weixin.qq.com/s/UKxjfVTBysClubWx5qdMgg) |
+| 8 |  ] [7-Zip高危漏洞CVE-2026-14266 | BruceFeIix | [https://mp.weixin.qq.com/s/zvBoxczYivm6LbiIiiR_MA](https://mp.weixin.qq.com/s/zvBoxczYivm6LbiIiiR_MA) |
+| 9 |  ] [OpenSSL“HollowByte”漏洞：11字节触发DoS攻击 | BruceFeIix | [https://mp.weixin.qq.com/s/DGxLH0pUpEIidOdEh5jqLQ](https://mp.weixin.qq.com/s/DGxLH0pUpEIidOdEh5jqLQ) |
+| 10 |  ] [CNNVD通报微软多个安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/sxTXiq6GWi5SZxR-eNDfDA](https://mp.weixin.qq.com/s/sxTXiq6GWi5SZxR-eNDfDA) |
+| 11 |  ] [天融信亮相2026世界人工智能大会，获评人工智能安全漏洞治理联盟首批成员单位 | BruceFeIix | [https://mp.weixin.qq.com/s/vUNGR_OBQxLZnWjCSPKGjg](https://mp.weixin.qq.com/s/vUNGR_OBQxLZnWjCSPKGjg) |
+| 12 |  ] [【一周安全资讯0718】《网络安全技术 人工智能应用安全 应急管理》参编单位征集；微软史诗级补丁日：622个漏洞、两个在野0Day | BruceFeIix | [https://mp.weixin.qq.com/s/insho80kGInoa1BTeJsxIA](https://mp.weixin.qq.com/s/insho80kGInoa1BTeJsxIA) |
+| 13 |  ] [【安全圈】WordPress致命漏洞：无需密码即可远程控制 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c) |
+| 14 |  ] [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4) |
 
-### 供应链
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 报名启动 |xa0“2026工赋砺网”软件供应链安全与漏洞管理实践专场培训 | Doonsec | [https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA](https://mp.weixin.qq.com/s/mIeG9X2DwPIdGgXdi848JA) |
+| 1 | 非插件漏洞，WordPress 未授权 SQL 注入漏洞链可导致RCE | Doonsec | [https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA](https://mp.weixin.qq.com/s/c8LpSEejoer04N1LiVFeqA) |
+| 2 | 【Web实战】Oracle注入专题——注入注意点+排序注入绕过实战之踩坑篇 | Doonsec | [https://mp.weixin.qq.com/s/8jxEYQk-7nP_C7uBfbLioA](https://mp.weixin.qq.com/s/8jxEYQk-7nP_C7uBfbLioA) |
+| 3 |  ] [【已复现】WordPress REST API 批处理路由混淆与 SQL 注入远程代码执行漏洞（CVE-2026-63030） | BruceFeIix | [https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg](https://mp.weixin.qq.com/s/eYQLrvMFAPWGJ-eDhtDLlg) |
+| 4 |  ] [WordPress 出现关键 RCE 漏洞 wp2shell | BruceFeIix | [https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg](https://mp.weixin.qq.com/s/_Z-md8yCx-UZMysFgzbSlg) |
+| 5 |  ] [上海创时汽车：面向车辆域控制器的渗透测试方法研究 | BruceFeIix | [https://mp.weixin.qq.com/s/BTDvic6GH-KPcliTzDJ90g](https://mp.weixin.qq.com/s/BTDvic6GH-KPcliTzDJ90g) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 数据 -> 信息 -> 情报：威胁情报实践的现实思考 | Doonsec | [https://mp.weixin.qq.com/s/vVf7IlGcfeuDAqwyvq6Sew](https://mp.weixin.qq.com/s/vVf7IlGcfeuDAqwyvq6Sew) |
+| 2 |  ] [Bitter（APT-C-08）APT组织深度分析报告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df) |
+| 3 |  ] [威胁情报｜伪装招聘的 GitHub 投毒分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=2&sn=e9e7201e6e8a59ff254f5e95a688f601](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=2&sn=e9e7201e6e8a59ff254f5e95a688f601) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [挖了半年SRC颗粒无收 | BruceFeIix | [https://mp.weixin.qq.com/s/sw9qTsLTzli7iKKb4R4X7g](https://mp.weixin.qq.com/s/sw9qTsLTzli7iKKb4R4X7g) |
+| 2 |  ] [深情版edu+src培训（暑假跟着深情哥愉快用ai挖洞吧） | BruceFeIix | [https://mp.weixin.qq.com/s/9vtbdD5qUKMgLPGVjO-kfA](https://mp.weixin.qq.com/s/9vtbdD5qUKMgLPGVjO-kfA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-17/`
+文章已归档到: `doc/2026/2026-07/2026-W29/2026-07-19/`
 
 ## 🔗 数据源说明
 
@@ -100,8 +164,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +174,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-17 13:27:54*
+*生成时间: 2026-07-19 14:31:55*
 *报告工具: 微信文章安全归档系统*
