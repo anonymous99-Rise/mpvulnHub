@@ -4,19 +4,15 @@
 
 - **总文章数**: 6
 - **数据源分布**:
-  - BruceFeIix: 6篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **信息泄露**: 2篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -63,51 +59,30 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [【AI复盘】日产汽车员工数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487832&idx=1&sn=f64d91959445ffba8dc5b44f9125a806) (发布日期: 2026-07-20)
-- [ ] [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e) (发布日期: 2026-07-20)
-- [ ] [数据 -> 信息 -> 情报：威胁情报实践的现实思考](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487042&idx=1&sn=8e440b3d1d5c9233a6805ebbca535efb) (发布日期: 2026-07-20)
-- [ ] [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496) (发布日期: 2026-07-20)
-- [ ] [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71) (发布日期: 2026-07-20)
-- [ ] [模型供应链安全与水印](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b) (发布日期: 2026-07-20)
+- [经纬信安李春强博士受邀出席2026年镇江市网络和数据安全工作实务培训班](https://mp.weixin.qq.com/s/0OIztEj0wK64SFPwEoDMXg) (发布日期: 2026-07-20)
+- [安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) (发布日期: 2026-07-20)
+- [网站安全专家·API安全3.0正式发布！](https://mp.weixin.qq.com/s/JkbRrRxQLfWDo78buN2d7g) (发布日期: 2026-07-20)
+- [2026年第一期信息安全服务资质业务咨询会会议通知](https://mp.weixin.qq.com/s/nzsJPKOFDKCzVKiDO8PvHQ) (发布日期: 2026-07-20)
+- [CCRC-AISO人工智能安全官第二期8月班招生启动](https://mp.weixin.qq.com/s/r986O-SoiWWiE4XcL749wg) (发布日期: 2026-07-20)
+- [【AI复盘】日产汽车员工数据泄露事件](https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g) (发布日期: 2026-07-20)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e) |
-| 2 |  ] [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496) |
-| 3 |  ] [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e) |
-| 2 |  ] [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496) |
-| 3 |  ] [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据 -> 信息 -> 情报：威胁情报实践的现实思考 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487042&idx=1&sn=8e440b3d1d5c9233a6805ebbca535efb](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487042&idx=1&sn=8e440b3d1d5c9233a6805ebbca535efb) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【AI复盘】日产汽车员工数据泄露事件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487832&idx=1&sn=f64d91959445ffba8dc5b44f9125a806](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487832&idx=1&sn=f64d91959445ffba8dc5b44f9125a806) |
+| 1 | 安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) |
+| 2 | 【AI复盘】日产汽车员工数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g](https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [模型供应链安全与水印 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b) |
+| 1 | 安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) |
 
 
 ## 📁 归档路径
@@ -123,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-20 06:43:50*
+*生成时间: 2026-07-20 10:49:58*
 *报告工具: 微信文章安全归档系统*
