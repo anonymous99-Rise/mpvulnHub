@@ -2,17 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **信息泄露**: 2篇
-- **供应链**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,28 +61,16 @@
 
 ### Doonsec
 
-- [经纬信安李春强博士受邀出席2026年镇江市网络和数据安全工作实务培训班](https://mp.weixin.qq.com/s/0OIztEj0wK64SFPwEoDMXg) (发布日期: 2026-07-20)
-- [安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) (发布日期: 2026-07-20)
-- [网站安全专家·API安全3.0正式发布！](https://mp.weixin.qq.com/s/JkbRrRxQLfWDo78buN2d7g) (发布日期: 2026-07-20)
-- [2026年第一期信息安全服务资质业务咨询会会议通知](https://mp.weixin.qq.com/s/nzsJPKOFDKCzVKiDO8PvHQ) (发布日期: 2026-07-20)
-- [CCRC-AISO人工智能安全官第二期8月班招生启动](https://mp.weixin.qq.com/s/r986O-SoiWWiE4XcL749wg) (发布日期: 2026-07-20)
-- [【AI复盘】日产汽车员工数据泄露事件](https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g) (发布日期: 2026-07-20)
+- [Fastjson 1.2.83 远程代码执行？rce？](https://mp.weixin.qq.com/s/fztSui3bqoQ9x4rxQCmbFQ) (发布日期: 2026-07-20)
 
 
 ## 🎯 威胁详情分析
 
-### 信息泄露
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) |
-| 2 | 【AI复盘】日产汽车员工数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g](https://mp.weixin.qq.com/s/iVjSt1OIjcexe7JlT6RU6g) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg](https://mp.weixin.qq.com/s/j4UnyYseQlHZRWrtByQHLg) |
+| 1 | Fastjson 1.2.83 远程代码执行？rce？ | Doonsec | [https://mp.weixin.qq.com/s/fztSui3bqoQ9x4rxQCmbFQ](https://mp.weixin.qq.com/s/fztSui3bqoQ9x4rxQCmbFQ) |
 
 
 ## 📁 归档路径
@@ -98,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **信息泄露** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-20 10:49:58*
+*生成时间: 2026-07-20 18:00:01*
 *报告工具: 微信文章安全归档系统*
