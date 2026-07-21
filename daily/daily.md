@@ -2,24 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 6篇
-  - BruceFeIix: 20篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 14篇
-- **攻击技术**: 7篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,35 +60,9 @@
 
 ### Doonsec
 
-- [中央网信办部署开展“清朗·未成年人网络保护”专项行动；CNVD发布上周漏洞周报：漏洞总量走高，多款海外软件曝高危漏洞 | 牛览](https://mp.weixin.qq.com/s/AW9HGRnQQTRRF_hH4P2_xA) (发布日期: 2026-07-21)
-- [世界人工智能大会启幕|华云安跻身人工智能安全漏洞治理联盟首批成员单位](https://mp.weixin.qq.com/s/ebRk1Vrk7r0cUHNyGM-fiw) (发布日期: 2026-07-21)
-- [渗透测试从业者：把AI智能体接进Burp 数据包分析交给它](https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA) (发布日期: 2026-07-21)
-- [记一次护网通过外网弱口令一路到内网（但是一路磕磕绊绊）](https://mp.weixin.qq.com/s/VxJfWQbyLJZi9Osv_M25Zg) (发布日期: 2026-07-21)
-- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/o8TeuIpBOcNohYhdQqgzEg) (发布日期: 2026-07-21)
-- [解锁src新成就了](https://mp.weixin.qq.com/s/-lkPi-OBS-8W-t8PokYM0Q) (发布日期: 2026-07-21)
-
-### BruceFeIix
-
-- [ ] [用 Microsoft365 日历搭建隐蔽 C2 通道的新型恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187748&idx=1&sn=b877f887ce3a482422d53996ecad214e) (发布日期: 2026-07-21)
-- [ ] [雷神众测漏洞周报2026.7.13-2026.7.19](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503878&idx=1&sn=0f08b2a64878c9e4b82b193c9a481d60) (发布日期: 2026-07-21)
-- [ ] [【已复现】无需 gadget、黑名单失效--Fastjson 1.2.83 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5) (发布日期: 2026-07-21)
-- [ ] [wp2shell RCE 严重漏洞获紧急补丁，影响数亿WordPress 站点](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1) (发布日期: 2026-07-21)
-- [ ] [Android Native 网络协议中请求加密、签名生成与响应解密机制逆向分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=1&sn=1b7ae39f01539779f0183831fa2c2c6a) (发布日期: 2026-07-21)
-- [ ] [潜伏15年！Nginx核心漏洞曝光，无需密码即可远程拿下服务器](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=2&sn=f646ceb2019b4a6ace17085153503c60) (发布日期: 2026-07-21)
-- [ ] [招生！网络安全运维工程师（就业班）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=3&sn=cf5b636ad684476c740dac11e773f106) (发布日期: 2026-07-21)
-- [ ] [数据泄露情报2026.7.20 - 风控资产规模超2612亿美元106G数据泄露](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489855&idx=1&sn=1eb77290408629b0ec17f7b5dfc8435a) (发布日期: 2026-07-21)
-- [ ] [【安全圈】WordPress Core "wp2shell" RCE 漏洞利用代码已公开，请立即修补](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd) (发布日期: 2026-07-21)
-- [ ] [专题·原创 | 人工智能时代电信运营商软件供应链安全治理实践思考](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264829&idx=1&sn=65fe9aff87ed5819ac4c876ff0525017) (发布日期: 2026-07-21)
-- [ ] [【漏洞预警】Fastjson 远程代码执行漏洞预警：1.2.68–1.2.83 受影响](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10) (发布日期: 2026-07-21)
-- [ ] [默安科技与微软中国达成合作，助力客户构建多云安全能力](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501893&idx=1&sn=86063f1a3381e857e73c1b30fca08c30) (发布日期: 2026-07-21)
-- [ ] [2026年网安/软工/AI顶会基于Agent 的漏洞挖掘、验证、利用与修复的论文汇编](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486128&idx=1&sn=791ba32939688d0a2e21fdf74b02af4b) (发布日期: 2026-07-21)
-- [ ] [【漏洞通告】WordPress远程代码执行漏洞（CVE-2026-63030&CVE-2026-60137）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778) (发布日期: 2026-07-21)
-- [ ] [【风险提示】天融信关于WordPress Core预认证远程代码执行漏洞链wp2shell（CVE-2026-63030）的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92) (发布日期: 2026-07-21)
-- [ ] [CNVD漏洞周报2026年第28期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=1&sn=e308a231b1a56233979f0e7104fbd577) (发布日期: 2026-07-21)
-- [ ] [上周关注度较高的产品安全漏洞(20260713-20260719)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=2&sn=feaf4461e7f4799caa2985157ccb194d) (发布日期: 2026-07-21)
-- [ ] [威胁情报｜TRAE 恶意扩展中的链上后门](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505467&idx=1&sn=792d923aa937a61a0bc1d3c09c2193c5) (发布日期: 2026-07-21)
-- [ ] [美国World View平流层气球系统被整合入ISR架构支持对伊朗与我方情报收集，我空域与高空侦察防御面临技术与战略风险](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568733&idx=2&sn=1c7d8ef7689db175f3baf9e85295e7b6) (发布日期: 2026-07-21)
-- [ ] [MiSRC 违规事件处置公告](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520803&idx=1&sn=ed74a8f555a714a1d4992c8a17ef5b4e) (发布日期: 2026-07-21)
+- [CNVD漏洞周报2026年第28期](https://mp.weixin.qq.com/s/fI_wV_n2QRnZ09ygxpI5nA) (发布日期: 2026-07-21)
+- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/JbKysLJZLJpPXMRxN6C4xA) (发布日期: 2026-07-21)
+- [从500个真正跑通的项目里看见数据要素、动态数据安全项目样本｜第九届西湖论剑创新实践火热征集中！](https://mp.weixin.qq.com/s/B771NIQUk6yZJaJI68rCBQ) (发布日期: 2026-07-21)
 
 
 ## 🎯 威胁详情分析
@@ -105,57 +71,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 中央网信办部署开展“清朗·未成年人网络保护”专项行动；CNVD发布上周漏洞周报：漏洞总量走高，多款海外软件曝高危漏洞 | 牛览 | Doonsec | [https://mp.weixin.qq.com/s/AW9HGRnQQTRRF_hH4P2_xA](https://mp.weixin.qq.com/s/AW9HGRnQQTRRF_hH4P2_xA) |
-| 2 | 世界人工智能大会启幕|华云安跻身人工智能安全漏洞治理联盟首批成员单位 | Doonsec | [https://mp.weixin.qq.com/s/ebRk1Vrk7r0cUHNyGM-fiw](https://mp.weixin.qq.com/s/ebRk1Vrk7r0cUHNyGM-fiw) |
-| 3 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/o8TeuIpBOcNohYhdQqgzEg](https://mp.weixin.qq.com/s/o8TeuIpBOcNohYhdQqgzEg) |
-| 4 |  ] [雷神众测漏洞周报2026.7.13-2026.7.19 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503878&idx=1&sn=0f08b2a64878c9e4b82b193c9a481d60](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503878&idx=1&sn=0f08b2a64878c9e4b82b193c9a481d60) |
-| 5 |  ] [【已复现】无需 gadget、黑名单失效--Fastjson 1.2.83 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5) |
-| 6 |  ] [wp2shell RCE 严重漏洞获紧急补丁，影响数亿WordPress 站点 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1) |
-| 7 |  ] [潜伏15年！Nginx核心漏洞曝光，无需密码即可远程拿下服务器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=2&sn=f646ceb2019b4a6ace17085153503c60](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617674&idx=2&sn=f646ceb2019b4a6ace17085153503c60) |
-| 8 |  ] [【安全圈】WordPress Core "wp2shell" RCE 漏洞利用代码已公开，请立即修补 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd) |
-| 9 |  ] [【漏洞预警】Fastjson 远程代码执行漏洞预警：1.2.68–1.2.83 受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10) |
-| 10 |  ] [2026年网安/软工/AI顶会基于Agent 的漏洞挖掘、验证、利用与修复的论文汇编 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486128&idx=1&sn=791ba32939688d0a2e21fdf74b02af4b](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486128&idx=1&sn=791ba32939688d0a2e21fdf74b02af4b) |
-| 11 |  ] [【漏洞通告】WordPress远程代码执行漏洞（CVE-2026-63030&CVE-2026-60137） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778) |
-| 12 |  ] [【风险提示】天融信关于WordPress Core预认证远程代码执行漏洞链wp2shell（CVE-2026-63030）的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92) |
-| 13 |  ] [CNVD漏洞周报2026年第28期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=1&sn=e308a231b1a56233979f0e7104fbd577](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=1&sn=e308a231b1a56233979f0e7104fbd577) |
-| 14 |  ] [上周关注度较高的产品安全漏洞(20260713-20260719) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=2&sn=feaf4461e7f4799caa2985157ccb194d](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497119&idx=2&sn=feaf4461e7f4799caa2985157ccb194d) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记一次护网通过外网弱口令一路到内网（但是一路磕磕绊绊） | Doonsec | [https://mp.weixin.qq.com/s/VxJfWQbyLJZi9Osv_M25Zg](https://mp.weixin.qq.com/s/VxJfWQbyLJZi9Osv_M25Zg) |
-| 2 |  ] [【已复现】无需 gadget、黑名单失效--Fastjson 1.2.83 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493249&idx=1&sn=117bdf1acec5e7493910c2335141d0c5) |
-| 3 |  ] [wp2shell RCE 严重漏洞获紧急补丁，影响数亿WordPress 站点 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526666&idx=2&sn=e3e7dab6e1c8b4dd6255180cf5b117a1) |
-| 4 |  ] [【安全圈】WordPress Core "wp2shell" RCE 漏洞利用代码已公开，请立即修补 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077928&idx=1&sn=0ef9805dd0a523c60d38ae8873a9d0bd) |
-| 5 |  ] [【漏洞预警】Fastjson 远程代码执行漏洞预警：1.2.68–1.2.83 受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486768&idx=1&sn=9c698e79b089f7118865d81d0ac09e10) |
-| 6 |  ] [【漏洞通告】WordPress远程代码执行漏洞（CVE-2026-63030&CVE-2026-60137） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492651&idx=1&sn=e497a59c9aa813cd958277f2a0849778) |
-| 7 |  ] [【风险提示】天融信关于WordPress Core预认证远程代码执行漏洞链wp2shell（CVE-2026-63030）的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497065&idx=1&sn=96b10823e37a18659b50ab9166138d92) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [威胁情报｜TRAE 恶意扩展中的链上后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505467&idx=1&sn=792d923aa937a61a0bc1d3c09c2193c5](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505467&idx=1&sn=792d923aa937a61a0bc1d3c09c2193c5) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 解锁src新成就了 | Doonsec | [https://mp.weixin.qq.com/s/-lkPi-OBS-8W-t8PokYM0Q](https://mp.weixin.qq.com/s/-lkPi-OBS-8W-t8PokYM0Q) |
-| 2 |  ] [MiSRC 违规事件处置公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520803&idx=1&sn=ed74a8f555a714a1d4992c8a17ef5b4e](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520803&idx=1&sn=ed74a8f555a714a1d4992c8a17ef5b4e) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.7.20 - 风控资产规模超2612亿美元106G数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489855&idx=1&sn=1eb77290408629b0ec17f7b5dfc8435a](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489855&idx=1&sn=1eb77290408629b0ec17f7b5dfc8435a) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [专题·原创 | 人工智能时代电信运营商软件供应链安全治理实践思考 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264829&idx=1&sn=65fe9aff87ed5819ac4c876ff0525017](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264829&idx=1&sn=65fe9aff87ed5819ac4c876ff0525017) |
+| 1 | CNVD漏洞周报2026年第28期 | Doonsec | [https://mp.weixin.qq.com/s/fI_wV_n2QRnZ09ygxpI5nA](https://mp.weixin.qq.com/s/fI_wV_n2QRnZ09ygxpI5nA) |
 
 
 ## 📁 归档路径
@@ -171,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -181,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-21 06:26:48*
+*生成时间: 2026-07-21 10:23:35*
 *报告工具: 微信文章安全归档系统*
