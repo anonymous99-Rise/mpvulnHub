@@ -9,11 +9,11 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +62,13 @@
 
 ### Doonsec
 
-- [实战砺兵｜助力昌平区开展xa02026xa0年度网络安全事件应急演练](https://mp.weixin.qq.com/s/kRDrdVtCuPkcKUFwnr0kVA) (发布日期: 2026-07-22)
-- [【漏洞通告】NGINX map 指令正则匹配漏洞(CVE-2026-42533)](https://mp.weixin.qq.com/s/XJVHhJtU27GCPFLTIQCeWA) (发布日期: 2026-07-22)
-- [OpenAI 自曝：AI 在测试中“黑”了 Hugging Face，还用了零日漏洞](https://mp.weixin.qq.com/s/FGICc-myx0z_p1nLUpQN9g) (发布日期: 2026-07-22)
-- [危险速查！！！Fastjson 远程代码执行漏洞，这些版本全部受影响！](https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg) (发布日期: 2026-07-22)
-- [Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞](https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA) (发布日期: 2026-07-22)
-- [SQL注入漏洞详解，不信你还听不懂](https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ) (发布日期: 2026-07-22)
-- [某企业履行数据安全保护义务不到位 被行政处罚！](https://mp.weixin.qq.com/s/R4W2qej00iNPeIPGNm-FxQ) (发布日期: 2026-07-22)
+- [一图读懂 | 国家标准GB/T 41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》](https://mp.weixin.qq.com/s/2Mi09TaM-FGgNjuZklqVPg) (发布日期: 2026-07-22)
+- [Gemini 3.5 Flash Cyber，可自动化快速完成漏洞挖掘与补丁生成](https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ) (发布日期: 2026-07-22)
+- [新型 Bit2Watt 攻击，云租户无漏洞亦可扰乱电网](https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ) (发布日期: 2026-07-22)
+- [Android AI Agent现漏洞，隐形文本可执行主机代码](https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ) (发布日期: 2026-07-22)
+- [漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞](https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ) (发布日期: 2026-07-22)
+- [OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境](https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw) (发布日期: 2026-07-22)
+- [【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) (发布日期: 2026-07-22)
 
 
 ## 🎯 威胁详情分析
@@ -77,19 +77,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】NGINX map 指令正则匹配漏洞(CVE-2026-42533) | Doonsec | [https://mp.weixin.qq.com/s/XJVHhJtU27GCPFLTIQCeWA](https://mp.weixin.qq.com/s/XJVHhJtU27GCPFLTIQCeWA) |
-| 2 | OpenAI 自曝：AI 在测试中“黑”了 Hugging Face，还用了零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/FGICc-myx0z_p1nLUpQN9g](https://mp.weixin.qq.com/s/FGICc-myx0z_p1nLUpQN9g) |
-| 3 | 危险速查！！！Fastjson 远程代码执行漏洞，这些版本全部受影响！ | Doonsec | [https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg](https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg) |
-| 4 | Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA](https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA) |
-| 5 | SQL注入漏洞详解，不信你还听不懂 | Doonsec | [https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ](https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ) |
+| 1 | Gemini 3.5 Flash Cyber，可自动化快速完成漏洞挖掘与补丁生成 | Doonsec | [https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ](https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ) |
+| 2 | 新型 Bit2Watt 攻击，云租户无漏洞亦可扰乱电网 | Doonsec | [https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ](https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ) |
+| 3 | Android AI Agent现漏洞，隐形文本可执行主机代码 | Doonsec | [https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ](https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ) |
+| 4 | 漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ](https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ) |
+| 5 | OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境 | Doonsec | [https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw](https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw) |
+| 6 | 【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 危险速查！！！Fastjson 远程代码执行漏洞，这些版本全部受影响！ | Doonsec | [https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg](https://mp.weixin.qq.com/s/v4JCIJNzFb25Nk3JOE8Psg) |
-| 2 | Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA](https://mp.weixin.qq.com/s/LMbgRdFqa4CxKR3xveDXtA) |
-| 3 | SQL注入漏洞详解，不信你还听不懂 | Doonsec | [https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ](https://mp.weixin.qq.com/s/-6XB3qf6GO94PPooKw1tpQ) |
+| 1 | 【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) |
 
 
 ## 📁 归档路径
@@ -105,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-22 10:23:20*
+*生成时间: 2026-07-22 13:47:21*
 *报告工具: 微信文章安全归档系统*
