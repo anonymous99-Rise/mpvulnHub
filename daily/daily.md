@@ -1,19 +1,20 @@
-# 2026-07-22 安全威胁态势报告
+# 2026-07-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +63,12 @@
 
 ### Doonsec
 
-- [一图读懂 | 国家标准GB/T 41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》](https://mp.weixin.qq.com/s/2Mi09TaM-FGgNjuZklqVPg) (发布日期: 2026-07-22)
-- [Gemini 3.5 Flash Cyber，可自动化快速完成漏洞挖掘与补丁生成](https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ) (发布日期: 2026-07-22)
-- [新型 Bit2Watt 攻击，云租户无漏洞亦可扰乱电网](https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ) (发布日期: 2026-07-22)
-- [Android AI Agent现漏洞，隐形文本可执行主机代码](https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ) (发布日期: 2026-07-22)
-- [漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞](https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ) (发布日期: 2026-07-22)
-- [OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境](https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw) (发布日期: 2026-07-22)
-- [【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) (发布日期: 2026-07-22)
+- [直击海量策略防火墙替换痛点，智能运维套件赋能国产化平滑更替](https://mp.weixin.qq.com/s/jKCHm02hIQszTU1PAh1Wog) (发布日期: 2026-07-23)
+- [600,000个网站面临风险:Ninja Forms存储型XSS漏洞CVE-2026-65048,CVSS评分高达9.3](https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw) (发布日期: 2026-07-23)
+- [权威报告 | 安恒信息获中国GenAI赋能的托管安全服务市场份额第一](https://mp.weixin.qq.com/s/nBpHsKhDc7r4m__WqGZ8Gg) (发布日期: 2026-07-23)
+- [漏洞复现 | KodExplorer 存在弱口令漏洞](https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w) (发布日期: 2026-07-23)
+- [漏洞挖掘信息收集技巧](https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q) (发布日期: 2026-07-23)
+- [面向 AI 代码审计的本地客观源码读取覆盖率工具，同时支持 Codex、Claude Code 和 OpenCode](https://mp.weixin.qq.com/s/kvSvM8r9TuuVGdiYNi1W8Q) (发布日期: 2026-07-23)
 
 
 ## 🎯 威胁详情分析
@@ -77,23 +77,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Gemini 3.5 Flash Cyber，可自动化快速完成漏洞挖掘与补丁生成 | Doonsec | [https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ](https://mp.weixin.qq.com/s/fvWnDvAx0aKRKlgW_RR9VQ) |
-| 2 | 新型 Bit2Watt 攻击，云租户无漏洞亦可扰乱电网 | Doonsec | [https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ](https://mp.weixin.qq.com/s/uQJ7jCtP9miiosSXjyUaKQ) |
-| 3 | Android AI Agent现漏洞，隐形文本可执行主机代码 | Doonsec | [https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ](https://mp.weixin.qq.com/s/i69VBFscdZDVKoIshijNpQ) |
-| 4 | 漏洞复现 | 雨诺调度客户端 UserList 存在未授权访问敏感信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ](https://mp.weixin.qq.com/s/jFglwXUuGUwIxu-Olt7gRQ) |
-| 5 | OpenAI安全测试中失控：批量0day入侵Hugging Face生产环境 | Doonsec | [https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw](https://mp.weixin.qq.com/s/tDTxjxNGrtLpIxAdWpLmEw) |
-| 6 | 【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) |
+| 1 | 600,000个网站面临风险:Ninja Forms存储型XSS漏洞CVE-2026-65048,CVSS评分高达9.3 | Doonsec | [https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw](https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw) |
+| 2 | 漏洞复现 | KodExplorer 存在弱口令漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w](https://mp.weixin.qq.com/s/jRr9Ydz-9SOsYeyEXV-Z2w) |
+| 3 | 漏洞挖掘信息收集技巧 | Doonsec | [https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q](https://mp.weixin.qq.com/s/Td5558oH8-x7yMXesBTl-Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞复现】用友A++V8系列产品selectMaUser接口SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw](https://mp.weixin.qq.com/s/bPDCLx_y_ecRahm1p5XKSw) |
+| 1 | 600,000个网站面临风险:Ninja Forms存储型XSS漏洞CVE-2026-65048,CVSS评分高达9.3 | Doonsec | [https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw](https://mp.weixin.qq.com/s/psdy-kk9b-Wx-OxdH_QNuw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-22/`
+文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-23/`
 
 ## 🔗 数据源说明
 
@@ -104,7 +101,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -114,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-22 13:47:21*
+*生成时间: 2026-07-23 02:32:15*
 *报告工具: 微信文章安全归档系统*
