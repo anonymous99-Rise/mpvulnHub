@@ -60,8 +60,8 @@
 
 ### Doonsec
 
-- [AI告警疯狂刷屏！SOC最大危机为何不是技术，而可能是人扛不住了？](https://mp.weixin.qq.com/s/UzvDCmiPs3qoGtJHAUCyeQ) (发布日期: 2026-07-24)
-- [零基础如何靠挖漏洞拿下5位数赏金？这份网络安全进阶路线图请收好！](https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg) (发布日期: 2026-07-24)
+- [Certighost（CVE-2026-54121）](https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w) (发布日期: 2026-07-24)
+- [第171篇：蓝队分析取证工具箱 V4.36 AI智能研判增强版，大幅度更新](https://mp.weixin.qq.com/s/doozZsk3md7HNRnhHvwPWQ) (发布日期: 2026-07-24)
 
 
 ## 🎯 威胁详情分析
@@ -70,7 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 零基础如何靠挖漏洞拿下5位数赏金？这份网络安全进阶路线图请收好！ | Doonsec | [https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg](https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg) |
+| 1 | Certighost（CVE-2026-54121） | Doonsec | [https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w](https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w) |
 
 
 ## 📁 归档路径
@@ -96,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-24 13:40:10*
+*生成时间: 2026-07-24 17:28:18*
 *报告工具: 微信文章安全归档系统*
