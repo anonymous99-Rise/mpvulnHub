@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 1
 - **数据源分布**:
-  - BruceFeIix: 13篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,21 +59,9 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [黑客拼装出的全能毁灭型后门，先偷窥再一键清空硬盘](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187782&idx=1&sn=79aaec6abd965a97b8c648bd155d6c17) (发布日期: 2026-07-24)
-- [ ] [比Dirty COW更致命？Linux内核9年漏洞曝光：普通用户10秒夺取root权限](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951) (发布日期: 2026-07-24)
-- [ ] [WAIC 2026｜中国电信天翼安全Token安全路由器发布，护航企业AI应用安全落地](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543599&idx=3&sn=d309de311ed17b1a7e926bce5317441a) (发布日期: 2026-07-24)
-- [ ] [【安全圈】稳定币归零只需一步：预言机漏洞让350万美元蒸发](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20) (发布日期: 2026-07-24)
-- [ ] [【安全圈】Ubuntu提权漏洞曝光，普通用户可直取root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750) (发布日期: 2026-07-24)
-- [ ] [CNNVD | 关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f) (发布日期: 2026-07-24)
-- [ ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) (发布日期: 2026-07-24)
-- [ ] [年中报告 | AI 重构攻防：2026 漏洞态势深度解读](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b) (发布日期: 2026-07-24)
-- [ ] [Redis 再曝远程代码执行漏洞，多版本受影响](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) (发布日期: 2026-07-24)
-- [ ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过）](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) (发布日期: 2026-07-24)
-- [ ] [让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309) (发布日期: 2026-07-24)
-- [ ] [AI如何重构企业安全？深圳沙龙议题分享剧透](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488586&idx=1&sn=675b01d5829a736484c6b8ff6628782d) (发布日期: 2026-07-24)
-- [ ] [突发!某src关闭???](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97) (发布日期: 2026-07-24)
+- [Redis身份认证后远程代码执行漏洞通告【已复现】](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) (发布日期: 2026-07-24)
 
 
 ## 🎯 威胁详情分析
@@ -85,34 +70,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [比Dirty COW更致命？Linux内核9年漏洞曝光：普通用户10秒夺取root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951) |
-| 2 |  ] [【安全圈】稳定币归零只需一步：预言机漏洞让350万美元蒸发 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20) |
-| 3 |  ] [【安全圈】Ubuntu提权漏洞曝光，普通用户可直取root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750) |
-| 4 |  ] [CNNVD | 关于Oracle多个安全漏洞的通报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f) |
-| 5 |  ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) |
-| 6 |  ] [年中报告 | AI 重构攻防：2026 漏洞态势深度解读 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b) |
-| 7 |  ] [Redis 再曝远程代码执行漏洞，多版本受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) |
-| 8 |  ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) |
-| 9 |  ] [让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309) |
+| 1 | Redis身份认证后远程代码执行漏洞通告【已复现】 | Doonsec | [https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Redis 再曝远程代码执行漏洞，多版本受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) |
-| 2 |  ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [突发!某src关闭??? | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97) |
+| 1 | Redis身份认证后远程代码执行漏洞通告【已复现】 | Doonsec | [https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) |
 
 
 ## 📁 归档路径
@@ -128,8 +92,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -138,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-24 06:23:48*
+*生成时间: 2026-07-24 10:14:26*
 *报告工具: 微信文章安全归档系统*
