@@ -2,15 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,7 +60,8 @@
 
 ### Doonsec
 
-- [Redis身份认证后远程代码执行漏洞通告【已复现】](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) (发布日期: 2026-07-24)
+- [AI告警疯狂刷屏！SOC最大危机为何不是技术，而可能是人扛不住了？](https://mp.weixin.qq.com/s/UzvDCmiPs3qoGtJHAUCyeQ) (发布日期: 2026-07-24)
+- [零基础如何靠挖漏洞拿下5位数赏金？这份网络安全进阶路线图请收好！](https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg) (发布日期: 2026-07-24)
 
 
 ## 🎯 威胁详情分析
@@ -70,13 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Redis身份认证后远程代码执行漏洞通告【已复现】 | Doonsec | [https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Redis身份认证后远程代码执行漏洞通告【已复现】 | Doonsec | [https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w](https://mp.weixin.qq.com/s/B68WNHqi5RiBNiohd04b3w) |
+| 1 | 零基础如何靠挖漏洞拿下5位数赏金？这份网络安全进阶路线图请收好！ | Doonsec | [https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg](https://mp.weixin.qq.com/s/uzZ89X-BG-wExcRo7bdOqg) |
 
 
 ## 📁 归档路径
@@ -102,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-24 10:14:26*
+*生成时间: 2026-07-24 13:40:10*
 *报告工具: 微信文章安全归档系统*
