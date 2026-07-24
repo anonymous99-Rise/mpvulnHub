@@ -1,23 +1,21 @@
-# 2026-07-23 安全威胁态势报告
+# 2026-07-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 5篇
-  - BruceFeIix: 9篇
+  - BruceFeIix: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,25 +62,21 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
-
-- [安全快报 | 俄罗斯情报部门利用北约国家和乌克兰联防摄像头漏洞监视军事行动](https://mp.weixin.qq.com/s/9V01iepOzB3hGFiqHbEKJw) (发布日期: 2026-07-23)
-- [关于 PSRC 平台关闭的公告](https://mp.weixin.qq.com/s/bs80WMkQrwxZlkHYz0UqLw) (发布日期: 2026-07-23)
-- [2026年6月份CISP考试成绩](https://mp.weixin.qq.com/s/NPSevpUlakGPZodgi1990Q) (发布日期: 2026-07-23)
-- [AI如何重构企业安全？深圳沙龙议题分享剧透](https://mp.weixin.qq.com/s/4MBmKvAVT3l3dPKedFRgRA) (发布日期: 2026-07-23)
-- [启明星辰加入国家数据发展研究院数据安全协同工作组](https://mp.weixin.qq.com/s/5UVBNmExrzgTovpnLtxZQw) (发布日期: 2026-07-23)
-
 ### BruceFeIix
 
-- [ ] [Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187) (发布日期: 2026-07-23)
-- [ ] [NGINX 新漏洞，特定配置下可实现远程代码执行（CVE-2026-42533）](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b) (发布日期: 2026-07-23)
-- [ ] [专题·原创 | 大模型时代密码学基础设施代码库安全挑战与重构](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264943&idx=1&sn=cbacb31edb0342dda9225dc6bab874be) (发布日期: 2026-07-23)
-- [ ] [Oracle 2026年7月补丁日多产品高危漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506847&idx=1&sn=23a4dd4b28b5470da2ae125c347f5a5c) (发布日期: 2026-07-23)
-- [ ] [Goby POC 接入 LLM：让漏洞验证从硬匹配走向智能辅助判断](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545924&idx=1&sn=d396e79ad63b5182bf60d63a3e8c70ff) (发布日期: 2026-07-23)
-- [ ] [【安全圈】Chick-fil-A 在凭证填充攻击后披露数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077950&idx=2&sn=45f647a75047c89d6cab258abb79e93c) (发布日期: 2026-07-23)
-- [ ] [【安全圈】新型 HollowGraph 恶意软件滥用 Microsoft 365 日历进行 C&C 通信](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077950&idx=3&sn=6d1393eb0b1e6b3706c8d08c1d55d2db) (发布日期: 2026-07-23)
-- [ ] [2026年了，核弹还是fastjson，fastjson1.2.83 RCE是怎么回事？](https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484341&idx=1&sn=522af3f09633a3a50db2604e6a6c1435) (发布日期: 2026-07-23)
-- [ ] [漏洞预警丨fastjson @JSONType 远程类加载远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272) (发布日期: 2026-07-23)
+- [ ] [黑客拼装出的全能毁灭型后门，先偷窥再一键清空硬盘](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187782&idx=1&sn=79aaec6abd965a97b8c648bd155d6c17) (发布日期: 2026-07-24)
+- [ ] [比Dirty COW更致命？Linux内核9年漏洞曝光：普通用户10秒夺取root权限](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951) (发布日期: 2026-07-24)
+- [ ] [WAIC 2026｜中国电信天翼安全Token安全路由器发布，护航企业AI应用安全落地](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543599&idx=3&sn=d309de311ed17b1a7e926bce5317441a) (发布日期: 2026-07-24)
+- [ ] [【安全圈】稳定币归零只需一步：预言机漏洞让350万美元蒸发](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20) (发布日期: 2026-07-24)
+- [ ] [【安全圈】Ubuntu提权漏洞曝光，普通用户可直取root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750) (发布日期: 2026-07-24)
+- [ ] [CNNVD | 关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f) (发布日期: 2026-07-24)
+- [ ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) (发布日期: 2026-07-24)
+- [ ] [年中报告 | AI 重构攻防：2026 漏洞态势深度解读](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b) (发布日期: 2026-07-24)
+- [ ] [Redis 再曝远程代码执行漏洞，多版本受影响](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) (发布日期: 2026-07-24)
+- [ ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过）](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) (发布日期: 2026-07-24)
+- [ ] [让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309) (发布日期: 2026-07-24)
+- [ ] [AI如何重构企业安全？深圳沙龙议题分享剧透](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488586&idx=1&sn=675b01d5829a736484c6b8ff6628782d) (发布日期: 2026-07-24)
+- [ ] [突发!某src关闭???](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97) (发布日期: 2026-07-24)
 
 
 ## 🎯 威胁详情分析
@@ -91,38 +85,39 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全快报 | 俄罗斯情报部门利用北约国家和乌克兰联防摄像头漏洞监视军事行动 | Doonsec | [https://mp.weixin.qq.com/s/9V01iepOzB3hGFiqHbEKJw](https://mp.weixin.qq.com/s/9V01iepOzB3hGFiqHbEKJw) |
-| 2 |  ] [Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187) |
-| 3 |  ] [NGINX 新漏洞，特定配置下可实现远程代码执行（CVE-2026-42533） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b) |
-| 4 |  ] [Oracle 2026年7月补丁日多产品高危漏洞安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506847&idx=1&sn=23a4dd4b28b5470da2ae125c347f5a5c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506847&idx=1&sn=23a4dd4b28b5470da2ae125c347f5a5c) |
-| 5 |  ] [Goby POC 接入 LLM：让漏洞验证从硬匹配走向智能辅助判断 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545924&idx=1&sn=d396e79ad63b5182bf60d63a3e8c70ff](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545924&idx=1&sn=d396e79ad63b5182bf60d63a3e8c70ff) |
-| 6 |  ] [漏洞预警丨fastjson @JSONType 远程类加载远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272) |
+| 1 |  ] [比Dirty COW更致命？Linux内核9年漏洞曝光：普通用户10秒夺取root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617771&idx=2&sn=0ce04995a5a97075abbd65f5e052b951) |
+| 2 |  ] [【安全圈】稳定币归零只需一步：预言机漏洞让350万美元蒸发 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=1&sn=fbc6bc660881348ada2f776fd0cc1e20) |
+| 3 |  ] [【安全圈】Ubuntu提权漏洞曝光，普通用户可直取root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077963&idx=2&sn=6d462247bfe833f7f1fd8cd4e68fb750) |
+| 4 |  ] [CNNVD | 关于Oracle多个安全漏洞的通报 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264985&idx=3&sn=542068544a5ddf99e42f05c63179de5f) |
+| 5 |  ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) |
+| 6 |  ] [年中报告 | AI 重构攻防：2026 漏洞态势深度解读 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506858&idx=1&sn=488974dbbfedaf4327deea3d4451900b) |
+| 7 |  ] [Redis 再曝远程代码执行漏洞，多版本受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) |
+| 8 |  ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) |
+| 9 |  ] [让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783046&idx=1&sn=a18ff849165bb78a263bdc32c4f55309) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Zimbra 修复严重的 SNMP 命令注入和 XSS漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526704&idx=1&sn=f282bc7a3fa4fff9fe57440a56757187) |
-| 2 |  ] [NGINX 新漏洞，特定配置下可实现远程代码执行（CVE-2026-42533） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508772&idx=1&sn=c2ce0975b5118b7fbc726a6ea125417b) |
-| 3 |  ] [2026年了，核弹还是fastjson，fastjson1.2.83 RCE是怎么回事？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484341&idx=1&sn=522af3f09633a3a50db2604e6a6c1435](https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484341&idx=1&sn=522af3f09633a3a50db2604e6a6c1435) |
-| 4 |  ] [漏洞预警丨fastjson @JSONType 远程类加载远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488327&idx=1&sn=ae854a7a8a2f88e193f36763fc58c272) |
+| 1 |  ] [Redis 再曝远程代码执行漏洞，多版本受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497835&idx=1&sn=0fa58497b63e1139bbe65b6d38f852bc) |
+| 2 |  ] [漏洞预警丨Redis stream 消费组 NACK 双重释放远程代码执行漏洞（CVE-2026-25243 补丁绕过） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488337&idx=1&sn=621a9719182247265a2067568c761593) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [比赛规则 | 第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516592&idx=1&sn=fcc48ad5c78269e3739fd1626330d429) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 关于 PSRC 平台关闭的公告 | Doonsec | [https://mp.weixin.qq.com/s/bs80WMkQrwxZlkHYz0UqLw](https://mp.weixin.qq.com/s/bs80WMkQrwxZlkHYz0UqLw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【安全圈】Chick-fil-A 在凭证填充攻击后披露数据泄露事件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077950&idx=2&sn=45f647a75047c89d6cab258abb79e93c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077950&idx=2&sn=45f647a75047c89d6cab258abb79e93c) |
+| 1 |  ] [突发!某src关闭??? | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499654&idx=1&sn=47f06fc5ea2131c9c0b085ca8a458d97) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-23/`
+文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-24/`
 
 ## 🔗 数据源说明
 
@@ -133,8 +128,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-23 06:28:55*
+*生成时间: 2026-07-24 06:23:48*
 *报告工具: 微信文章安全归档系统*
